@@ -25,3 +25,10 @@ $$ q=\int \rho dv $$
 Above two equations gives
 
 $$\int \vec{E} \cdot \vec{ds} = \dfrac{1}{\epsilon_0}\int \rho dv $$
+
+\begin{align}
+    g &= \int_a^b f(x)dx \label{eq1} \\
+    a &= b + c \label{eq2}
+\end{align}
+
+See (\ref{eq1})
