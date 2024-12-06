@@ -17,3 +17,5 @@ The first equation is based on the Gauss's law of electricity.
  $$ \int \vec{E} \cdot \vec{ds} = \dfrac{1}{\epsilon_0}q $$
  
 It is the integral form of Maxwell's first equation.
+The total charge in terms of volume charge density is given by
+&& q=\int \rho dv $$
