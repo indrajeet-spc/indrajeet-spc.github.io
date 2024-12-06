@@ -21,3 +21,7 @@ It is the integral form of Maxwell's first equation.
 The total charge in terms of volume charge density is given by
 
 $$ q=\int \rho dv $$
+
+Above two equations gives
+
+$$\int \vec{E} \cdot \vec{ds} = \dfrac{1}{\epsilon_0}\int \rho dv $$
