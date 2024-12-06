@@ -31,5 +31,9 @@ E = mc^2
 \label{eq:einstein}
 \end{equation}
 
-$$ E = mc^2 \tag{2} $$
+$$
+E = mc^2
+\tag{1}
+$$
+
 
