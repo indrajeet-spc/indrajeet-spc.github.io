@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    
+    <!-- MathJax script for rendering LaTeX equations -->
+    <script type="text/javascript" async
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+
+      <!-- Include Mermaid.js from a CDN -->
+  <script type="module">
+    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+    mermaid.initialize({ startOnLoad: true });
+  </script>
+    
+  </head>
+  <body>
+    <!-- <header>
+      <h1>{{ site.title }}</h1>
+    </header> -->
+    <style>
+      .white-link {
+        text-decoration: none;
+        color: white;
+      }
+    </style>
+    
+    <header style="display: flex; justify-content: space-between; align-items: center;">
+      <a href="https://github.com/indrajeet-spc/indrajeet-spc.github.io/tree/master/assets/img" class="white-link" style="margin-right: auto;">Post</a>
+      <h1 style="margin: 0;">{{ site.title }}</h1>
+      <a href="https://github.com/indrajeet-spc/indrajeet-spc.github.io/tree/master/_posts" class="white-link" style="margin-left: auto;">File</a>
+    </header>
+    <main>
+      {{ content }}
+    </main>
+    
+    <footer>
+      <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}. All rights reserved.</p>
+    </footer>
+  </body>
+</html>
