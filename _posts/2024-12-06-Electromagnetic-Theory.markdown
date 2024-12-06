@@ -20,4 +20,4 @@ It is the integral form of Maxwell's first equation.
 
 The total charge in terms of volume charge density is given by
 
-&& q=\int \rho dv $$
+$$ q=\int \rho dv $$
