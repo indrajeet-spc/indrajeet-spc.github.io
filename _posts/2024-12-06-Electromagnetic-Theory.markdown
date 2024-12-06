@@ -26,6 +26,10 @@ Above two equations gives
 
 $$\int \vec{E} \cdot \vec{ds} = \dfrac{1}{\epsilon_0}\int \rho dv $$
 
-\\[E=m^2]\\
+\begin{align*}
+a & = b \\
+X &\sim {\sf Norm}(10, 3) \\
+5 & \le 10
+\end{align*}
 
 
