@@ -14,7 +14,7 @@ The first equation is based on the Gauss's law of electricity.
 
 "The flux passing through any closed surface is equal to $$ \dfrac{1}{\epsilon_0} $$ times the total charge enclosed by that surface."
 
- $$ \int \vec{E} \cdot \vec{ds} = \dfrac{1}{\epsilon_0}q $$
+ $$ \int \vec{E} \cdot \vec{ds} = \dfrac{1}{\epsilon_0}q $$ 
  
 It is the integral form of Maxwell's first equation.
 
@@ -26,7 +26,7 @@ Above two equations gives
 
 $$\int \vec{E} \cdot \vec{ds} = \dfrac{1}{\epsilon_0}\int \rho dv $$
 
-\begin{equation} 
-  f\left(k\right) = \binom{n}{k} p^k\left(1-p\right)^{n-k}
-  \label{eq:binom}
-\end{equation} 
+\begin{equation}
+E = mc^2
+\label{eq:einstein}
+\end{equation}
