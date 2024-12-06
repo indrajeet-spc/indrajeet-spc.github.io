@@ -17,6 +17,6 @@ where $$v$$ is the speed of the wave and $$\psi$$ is the wave function. $$\nabla
 
   $$ \nabla^2 = \frac{\partial^2}{\partial x^2} + \frac{\partial^2}{\partial y^2} + \frac{\partial^2}{\partial z^2} $$
 
-  where $$x, y, z$$ are the spatial coordinates as shown in figure below:
+  where $$x, y, z$$ are the spatial coordinates as shown in the figure below:
 
   <img src="/assets/css/FILE/DC.png" alt="Interaction Process" class="my-custom-class" style="max-width:100%; height:auto;">
