@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "UG-III: Wave Basics"
-date:   2024-07-13 10:47:26 +0530
+title:  "PG-III: Digital Electronics"
+date:   2024-12-06 10:47:26 +0530
 categories: lecture
 ---
 
