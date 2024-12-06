@@ -14,7 +14,7 @@ The first equation is based on the Gauss's law of electricity.
 
 "The flux passing through any closed surface is equal to $$ \dfrac{1}{\epsilon_0} $$ times the total charge enclosed by that surface."
 
- $$ \int \vec{E} \cdot \vec{ds} = \dfrac{1}{\epsilon_0}q $$
+ $$ \int \vec{E} \cdot \vec{ds} = \dfrac{1}{\epsilon_0}q $$\label{me-1}
  
 It is the integral form of Maxwell's first equation.
 
