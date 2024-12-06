@@ -30,3 +30,6 @@ $$\int \vec{E} \cdot \vec{ds} = \dfrac{1}{\epsilon_0}\int \rho dv $$
 E = mc^2
 \label{eq:einstein}
 \end{equation}
+
+$$ E = mc^2 \tag{1} $$
+
