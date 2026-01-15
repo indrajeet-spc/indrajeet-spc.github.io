@@ -19,4 +19,4 @@ where $$v$$ is the speed of the wave and $$\psi$$ is the wave function. $$\nabla
 
   where $$x, y, z$$ are the spatial coordinates as shown in the figure below:
 
-<--  <img src="/assets/css/FILE/" alt="Interaction Process" class="my-custom-class" style="max-width:100%; height:auto;"> -->
+<!--  <img src="/assets/css/FILE/" alt="Interaction Process" class="my-custom-class" style="max-width:100%; height:auto;"> -->
