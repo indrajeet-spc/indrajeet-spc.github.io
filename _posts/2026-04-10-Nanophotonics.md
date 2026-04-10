@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PG: Nanophotonics"
-date:   2024-12-06 14:30:00 +0530
+date:   2026-04-06 14:30:00 +0530
 categories: lecture
 ---
 
