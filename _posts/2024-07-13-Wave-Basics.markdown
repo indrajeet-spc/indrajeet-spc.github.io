@@ -1,102 +1,120 @@
 ---
 layout: post
-title:  "PG-III: Digital Electronics"
-date:   2024-12-06 10:47:26 +0530
+title:  "UG-VI: Electromagnetic Theory"
+date:   2024-12-06 12:47:26 +0530
 categories: lecture
 ---
 
-# Wave Equation
+<div style="background-color:#f4f8ff; padding:20px; border-radius:10px; border:2px solid #4a90e2;">
 
-The wave equation is a second-order linear partial differential equation used to describe the propagation of waves such as sound, light, and water waves.
+<h1 style="color:#0b5394; text-align:center;">Maxwell’s Equations: Mathematical Description</h1>
 
----
+<div style="background-color:#ffffff; padding:15px; border-left:6px solid #0b5394; margin-top:15px;">
 
-## 1. General Form of the Wave Equation
+Maxwell’s equations form the foundation of <b>electromagnetic theory</b>. They mathematically describe how electric and magnetic fields are generated and interact with charges and currents.
 
-The three-dimensional wave equation is given by:
+</div>
 
-$$
-\nabla^2 \psi = \frac{1}{v^2} \frac{\partial^2 \psi}{\partial t^2}
-$$
+<br>
 
-where:
+<div style="background-color:#eef5ff; padding:15px; border:1px solid #4a90e2; border-radius:8px;">
 
-- $$\psi(x, y, z, t)$$ = wave function  
-- $$v$$ = velocity of the wave  
-- $$\nabla^2$$ = Laplacian operator  
+<h2 style="color:#1a73e8;">Gauss’s Law for Electricity (Maxwell’s First Equation)</h2>
 
----
+<p>
+Gauss’s law states that the total electric flux through a closed surface is proportional to the total charge enclosed within that surface.
+</p>
 
-## 2. Expansion of the Laplacian Operator
+<blockquote style="background:#f9fbff; padding:10px; border-left:4px solid #1a73e8;">
+"The electric flux through any closed surface is equal to $ \dfrac{1}{\epsilon_0} $ times the total enclosed charge."
+</blockquote>
 
-In rectangular (Cartesian) coordinates, the Laplacian operator is defined as:
+<p><b>Step 1: Integral Form of Gauss’s Law</b></p>
 
-$$
-\nabla^2 = \frac{\partial^2}{\partial x^2} + \frac{\partial^2}{\partial y^2} + \frac{\partial^2}{\partial z^2}
-$$
-
----
-
-## 3. Substituting Laplacian into Wave Equation
-
-Substitute the expression of $$\nabla^2$$ into the wave equation:
+<br>
 
 $$
-\left( \frac{\partial^2}{\partial x^2} + \frac{\partial^2}{\partial y^2} + \frac{\partial^2}{\partial z^2} \right)\psi
-= \frac{1}{v^2} \frac{\partial^2 \psi}{\partial t^2}
+\int \vec{E} \cdot \vec{ds} = \dfrac{1}{\epsilon_0} q
 $$
 
----
+<br>
 
-## 4. Expanded Form
+<p>
+Where:
+<br>
+$ \vec{E} $ = Electric field vector  
+<br>
+$ d\vec{s} $ = Surface element vector  
+<br>
+$ q $ = Total enclosed charge  
+<br>
+$ \epsilon_0 $ = Permittivity of free space  
+</p>
 
-Applying the operator to $$\psi$$:
+<p><b>Step 2: Expression for Charge in Terms of Charge Density</b></p>
 
-$$
-\frac{\partial^2 \psi}{\partial x^2}
-+ \frac{\partial^2 \psi}{\partial y^2}
-+ \frac{\partial^2 \psi}{\partial z^2}
-= \frac{1}{v^2} \frac{\partial^2 \psi}{\partial t^2}
-$$
-
----
-
-## 5. One-Dimensional Wave Equation (Special Case)
-
-If the wave propagates only along the x-direction, then:
-
-$$
-\frac{\partial^2 \psi}{\partial x^2}
-= \frac{1}{v^2} \frac{\partial^2 \psi}{\partial t^2}
-$$
-
----
-
-## 6. Standard Solution (D’Alembert Form)
-
-A general solution of the 1D wave equation is:
+<br>
 
 $$
-\psi(x,t) = f(x - vt) + g(x + vt)
+q = \int \rho \, dv
 $$
 
-where:
+<br>
 
-- $$f(x - vt)$$ represents a wave traveling in the +x direction  
-- $$g(x + vt)$$ represents a wave traveling in the −x direction  
+<p>
+Where $ \rho $ is the volume charge density.
+</p>
 
----
+<p><b>Step 3: Substituting Charge into Gauss’s Law</b></p>
 
-## 7. Physical Interpretation
+<br>
 
-- The equation shows how the spatial variation of the wave relates to its time evolution.
-- The speed $$v$$ determines how fast the disturbance propagates.
-- The equation applies to many physical systems such as:
-  - Vibrating strings
-  - Sound waves
-  - Electromagnetic waves
+$$
+\int \vec{E} \cdot \vec{ds} = \dfrac{1}{\epsilon_0} \int \rho \, dv
+$$
 
----
+<br>
 
-<!-- Optional figure placeholder -->
-<!-- <img src="/assets/css/FILE/" alt="Wave propagation diagram" style="max-width:100%; height:auto;"> -->
+<p><b>Step 4: Differential Form (Using Divergence Theorem)</b></p>
+
+<p>
+Applying the divergence theorem:
+</p>
+
+<br>
+
+$$
+\int \vec{E} \cdot \vec{ds} = \int (\nabla \cdot \vec{E}) \, dv
+$$
+
+<br>
+
+<p>
+Equating both volume integrals:
+</p>
+
+<br>
+
+$$
+\nabla \cdot \vec{E} = \dfrac{\rho}{\epsilon_0}
+$$
+
+<br>
+
+<p><b>Step 5: Mathematical Consistency (Example Relations)</b></p>
+
+<br>
+
+$$
+\begin{aligned}
+a &= b \\
+X &\sim {\sf Norm}(10, 3) \\
+5 &\le 10
+\end{aligned}
+$$
+
+<br>
+
+</div>
+
+</div>
