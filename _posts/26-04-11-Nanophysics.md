@@ -359,47 +359,7 @@ Nanomaterials have extremely high surface area compared to bulk materials.
 Demonstration of how <b>Surface Area to Volume (SA/V) ratio increases</b> as cube size decreases.
 </div>
 
-## 📊 3D Visualization: Surface Area to Volume Ratio
 
-```mermaid
-flowchart LR
-
-A["<svg width='120' height='100'>
-<polygon points='20,40 60,20 100,40 60,60' fill='#ffcccc'/>
-<polygon points='20,40 60,60 60,90 20,70' fill='#ff9999'/>
-<polygon points='60,60 100,40 100,70 60,90' fill='#ff6666'/>
-</svg><br><b>10 mm</b><br>SA=600<br>V=1000<br>SA/V=0.6"] 
-
---> 
-
-B["<svg width='110' height='90'>
-<polygon points='20,35 55,20 90,35 55,50' fill='#cce5ff'/>
-<polygon points='20,35 55,50 55,75 20,60' fill='#99ccff'/>
-<polygon points='55,50 90,35 90,60 55,75' fill='#66b3ff'/>
-</svg><br><b>5 mm</b><br>SA=150<br>V=125<br>SA/V=1.2"]
-
---> 
-
-C["<svg width='100' height='80'>
-<polygon points='20,30 50,20 80,30 50,40' fill='#ccffcc'/>
-<polygon points='20,30 50,40 50,65 20,55' fill='#99ff99'/>
-<polygon points='50,40 80,30 80,55 50,65' fill='#66ff66'/>
-</svg><br><b>2 mm</b><br>SA=24<br>V=8<br>SA/V=3"]
-
---> 
-
-D["<svg width='90' height='70'>
-<polygon points='20,25 45,18 70,25 45,32' fill='#e6ccff'/>
-<polygon points='20,25 45,32 45,55 20,48' fill='#cc99ff'/>
-<polygon points='45,32 70,25 70,48 45,55' fill='#b366ff'/>
-</svg><br><b>1 mm</b><br>SA=6<br>V=1<br>SA/V=6"]
-
-style A stroke:#e53e3e,stroke-width:2px
-style B stroke:#3182ce,stroke-width:2px
-style C stroke:#38a169,stroke-width:2px
-style D stroke:#6b46c1,stroke-width:2px
-
----
 
 ## 📐 Formulae for Cube
 
