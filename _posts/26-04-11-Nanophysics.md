@@ -386,7 +386,7 @@ $$
 <div style="background:#fffaf0; padding:12px; border-left:5px solid #d69e2e;">
 
 $$
-SA = 6 \times (10)^2 = 600 \, \text{mm}^2
+\text{Surface Area} = 6 \times (10)^2 = 600 \, \text{mm}^2
 $$
 
 $$
@@ -406,7 +406,7 @@ $$
 <div style="background:#ebf8ff; padding:12px; border-left:5px solid #3182ce;">
 
 $$
-SA = 6 \times (5)^2 = 150 \, \text{mm}^2
+\text{Surface Area} = 6 \times (5)^2 = 150 \, \text{mm}^2
 $$
 
 $$
@@ -426,7 +426,7 @@ $$
 <div style="background:#f0fff4; padding:12px; border-left:5px solid #38a169;">
 
 $$
-SA = 6 \times (2)^2 = 24 \, \text{mm}^2
+\text{Surface Area} = 6 \times (2)^2 = 24 \, \text{mm}^2
 $$
 
 $$
