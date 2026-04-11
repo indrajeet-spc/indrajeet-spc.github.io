@@ -486,7 +486,7 @@ $$
 \frac{SA}{V} = \frac{6}{a}
 $$
 
-👉 As $a \downarrow$,  
+👉 As $$a \downarrow$$,  
 $$
 \frac{SA}{V} \uparrow
 $$
