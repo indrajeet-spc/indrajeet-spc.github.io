@@ -353,8 +353,151 @@ Nanomaterials have extremely high surface area compared to bulk materials.
 - Increased chemical reactivity  
 - Faster reactions  
 
-📌 Example:
-- Salt grains dissolve faster than a rock of salt  
+# 📊 Surface Area to Volume Ratio (Cube Example)
+
+<div style="border-left:6px solid #6f42c1; padding:12px; background:#f8f5ff;">
+Demonstration of how <b>Surface Area to Volume (SA/V) ratio increases</b> as cube size decreases.
+</div>
+
+---
+
+## 📐 Formulae for Cube
+
+$$
+\text{Surface Area} = 6a^2
+$$
+
+$$
+\text{Volume} = a^3
+$$
+
+$$
+\frac{SA}{V} = \frac{6a^2}{a^3} = \frac{6}{a}
+$$
+
+---
+
+# 📦 Stepwise Reduction of Cube Size
+
+---
+
+## 🔶 Case 1: Side = 10 mm
+
+<div style="background:#fffaf0; padding:12px; border-left:5px solid #d69e2e;">
+
+$$
+SA = 6 \times (10)^2 = 600 \, \text{mm}^2
+$$
+
+$$
+V = (10)^3 = 1000 \, \text{mm}^3
+$$
+
+$$
+SA/V = \frac{600}{1000} = 0.6 \, \text{mm}^{-1}
+$$
+
+</div>
+
+---
+
+## 🔷 Case 2: Side = 5 mm
+
+<div style="background:#ebf8ff; padding:12px; border-left:5px solid #3182ce;">
+
+$$
+SA = 6 \times (5)^2 = 150 \, \text{mm}^2
+$$
+
+$$
+V = (5)^3 = 125 \, \text{mm}^3
+$$
+
+$$
+SA/V = \frac{150}{125} = 1.2 \, \text{mm}^{-1}
+$$
+
+</div>
+
+---
+
+## 🟢 Case 3: Side = 2 mm
+
+<div style="background:#f0fff4; padding:12px; border-left:5px solid #38a169;">
+
+$$
+SA = 6 \times (2)^2 = 24 \, \text{mm}^2
+$$
+
+$$
+V = (2)^3 = 8 \, \text{mm}^3
+$$
+
+$$
+SA/V = \frac{24}{8} = 3 \, \text{mm}^{-1}
+$$
+
+</div>
+
+---
+
+## 🟣 Case 4: Side = 1 mm
+
+<div style="background:#faf5ff; padding:12px; border-left:5px solid #6b46c1;">
+
+$$
+SA = 6 \times (1)^2 = 6 \, \text{mm}^2
+$$
+
+$$
+V = (1)^3 = 1 \, \text{mm}^3
+$$
+
+$$
+SA/V = \frac{6}{1} = 6 \, \text{mm}^{-1}
+$$
+
+</div>
+
+---
+
+# 📊 Summary Table
+
+| Side (mm) | Surface Area (mm²) | Volume (mm³) | SA/V (mm⁻¹) |
+|----------|------------------|-------------|------------|
+| 10 | 600 | 1000 | 0.6 |
+| 5  | 150 | 125  | 1.2 |
+| 2  | 24  | 8    | 3   |
+| 1  | 6   | 1    | 6   |
+
+---
+
+# 📈 Key Observation
+
+<div style="border-left:6px solid #28a745; padding:12px; background:#f0fff4;">
+As the size of the cube decreases, the <b>Surface Area to Volume ratio increases dramatically</b>.
+</div>
+
+---
+
+## 🔁 Mathematical Insight
+
+$$
+\frac{SA}{V} = \frac{6}{a}
+$$
+
+👉 As $a \downarrow$,  
+$$
+\frac{SA}{V} \uparrow
+$$
+
+---
+
+# 🚀 Conclusion
+
+- Smaller particles → **higher surface area**
+- Higher SA/V → **greater reactivity**
+- This is the key reason behind **unique properties of nanomaterials**
 
 ---
 
