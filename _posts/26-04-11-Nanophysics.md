@@ -215,3 +215,191 @@ Nanoscience and Nanotechnology have immense potential to revolutionize modern sc
 </div>
 
 ---
+# ⚖️ Comparison of Properties: Nanomaterials vs Bulk Materials
+
+<div style="border-left:6px solid #d63384; padding:12px; background:#fff0f6;">
+Nanomaterials exhibit <b>unique optical, electrical, magnetic, and mechanical properties</b> that are significantly different from their bulk counterparts due to their nanoscale dimensions.
+</div>
+
+---
+
+# 🎨 Key Property Differences
+
+---
+
+## 🌈 1. Colour
+
+<div style="background:#f0fff4; padding:10px; border-left:5px solid #38a169;">
+Nanomaterials show different colours compared to bulk materials.
+</div>
+
+- Bulk gold → **Yellow**  
+- Nano gold → **Red**
+
+📌 Reason:
+- Gold nanoparticles absorb **blue-green light (~450 nm)**  
+- Reflect **red light (~700 nm)** → appear red  
+
+---
+
+## 🔥 2. Melting Point
+
+<div style="background:#fff5f5; padding:10px; border-left:5px solid #e53e3e;">
+Melting point decreases significantly at nanoscale.
+</div>
+
+- Nanoparticles melt at **lower temperatures** than bulk  
+- Observed in:
+  - Nanowires  
+  - Nanotubes  
+  - Nanoparticles  
+
+📌 Reason:
+- Large **surface-to-volume ratio**
+- Altered thermodynamic properties  
+
+---
+
+## 💪 3. Mechanical Strength
+
+<div style="background:#ebf8ff; padding:10px; border-left:5px solid #3182ce;">
+Nanomaterials exhibit higher mechanical strength.
+</div>
+
+- Strength can be **1–2 times higher** than bulk materials  
+- Due to:
+  - Fewer defects  
+  - Improved crystal structure  
+
+📌 Applications:
+- Cutting tools (high hardness & durability):
+  - Tungsten carbide  
+  - Tantalum carbide  
+  - Titanium carbide  
+
+---
+
+## ⚡ 4. Electrical Properties
+
+<div style="background:#faf5ff; padding:10px; border-left:5px solid #6b46c1;">
+Electrical resistivity increases at nanoscale.
+</div>
+
+- Increased **surface scattering**
+- Reduced particle size → modified electronic structure  
+
+📌 Key Concept:
+- When size ≈ **electron de Broglie wavelength**
+  - Band structure becomes discrete  
+  - Band gap increases  
+  - Resistivity increases  
+
+---
+
+## 👁️ 5. Optical Properties
+
+<div style="background:#fffaf0; padding:10px; border-left:5px solid #d69e2e;">
+Optical properties like colour and transparency change significantly.
+</div>
+
+### Examples:
+
+| Material | Bulk Property | Nano Property |
+|---------|-------------|--------------|
+| Gold | Yellow | Red |
+| Silicon | Grey | Red |
+| Zinc Oxide | White (scatters light) | Transparent |
+
+📌 Reason:
+- Particle size < wavelength of visible light  
+- Reduced light scattering  
+
+---
+
+## 🧲 6. Magnetic Properties
+
+<div style="background:#f0fff4; padding:10px; border-left:5px solid #38a169;">
+Nanoparticles exhibit <b>superparamagnetism</b>.
+</div>
+
+### 🔹 Features:
+- Not magnetic without external field  
+- Quickly magnetized when field applied  
+- Lose magnetism when field removed  
+
+### 🔹 Materials:
+- Magnetite (Fe₃O₄)  
+- Maghemite (Fe₂O₃)  
+
+### 🔹 Applications:
+- Drug delivery  
+- MRI contrast agents  
+- Bioseparation  
+- Medical diagnostics  
+
+---
+
+# 🔍 Why Properties Differ?
+
+---
+
+## 📌 1. Large Surface Area to Volume Ratio
+
+<div style="border-left:6px solid #0366d6; padding:12px; background:#f1f8ff;">
+Nanomaterials have extremely high surface area compared to bulk materials.
+</div>
+
+### ✔ Effects:
+- Increased chemical reactivity  
+- Faster reactions  
+
+📌 Example:
+- Salt grains dissolve faster than a rock of salt  
+
+---
+
+## ⚛️ 2. Quantum Confinement Effect
+
+<div style="background:#fff5f5; padding:12px; border-left:5px solid #c53030;">
+Electrons are confined in very small space → changes energy levels.
+</div>
+
+### 🔹 Explanation:
+
+- Bulk material → continuous energy bands  
+- Nanomaterial → discrete energy levels  
+
+### 🔹 Result:
+
+$$
+\text{Band gap increases}
+$$
+
+- Higher energy gap → restricted electron motion  
+- Alters:
+  - Optical properties  
+  - Electrical properties  
+  - Magnetic properties  
+
+---
+
+# 📊 Summary Table
+
+| Property | Bulk Material | Nanomaterial |
+|---------|--------------|--------------|
+| Colour | Fixed | Size-dependent |
+| Melting Point | High | Lower |
+| Strength | Moderate | Higher |
+| Electrical | Lower resistivity | Higher resistivity |
+| Optical | Less variation | Strong variation |
+| Magnetic | Ferro/Ferri | Superparamagnetic |
+
+---
+
+# 🚀 Conclusion
+
+<div style="border-left:6px solid #28a745; padding:12px; background:#f0fff4;">
+The unique properties of nanomaterials arise due to <b>high surface area</b> and <b>quantum confinement effects</b>, making them highly useful in advanced technological and biomedical applications.
+</div>
+
+---
