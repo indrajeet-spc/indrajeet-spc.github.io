@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PHY-OE-09: Nanophysics"
-date: 2026-04-10
+date: 2026-04-11
 author: "Dr. Indrajeet Kumar"
 description: "Comprehensive lecture-wise notes covering idea of nano-technology and nanoscience for M.Sc. Physics Semester III."
 tags: [Physics, Nanophysics, MSc Notes]
