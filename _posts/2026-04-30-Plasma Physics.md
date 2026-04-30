@@ -117,6 +117,25 @@ $$
 Expanding using Taylor series:
 
 $$
+\begin{aligned}
+f_\alpha(\mathbf{r} + \mathbf{v}dt,\; \mathbf{v} + \mathbf{a}dt,\; t + dt)
+&= f_\alpha(\mathbf{r}, \mathbf{v}, t) \\
+&\quad + \left( \frac{\partial f_\alpha}{\partial t} \right) dt \\
+&\quad + (\nabla_{\mathbf{r}} f_\alpha)\cdot (\mathbf{v}dt) \\
+&\quad + (\nabla_{\mathbf{v}} f_\alpha)\cdot (\mathbf{a}dt) \\
+&\quad + O(dt^2) \\
+\\
+&= f_\alpha(\mathbf{r}, \mathbf{v}, t)
++ \left[
+\frac{\partial f_\alpha}{\partial t}
++ \mathbf{v} \cdot \nabla_{\mathbf{r}} f_\alpha
++ \mathbf{a} \cdot \nabla_{\mathbf{v}} f_\alpha
+\right] dt
++ O(dt^2)
+\end{aligned}
+$$
+
+$$
 f_\alpha(\mathbf{r} + \mathbf{v}dt,\; \mathbf{v} + \mathbf{a}dt,\; t + dt)
 \approx
 f_\alpha + \left[
