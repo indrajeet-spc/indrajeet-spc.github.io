@@ -9,34 +9,21 @@ tags: [Physics, Plasma Physics, MSc Notes]
 
 # 📘 Derivation of Plasma Frequency
 
-## 🔷 Introduction
 Plasma frequency is the natural frequency of oscillation of free electrons in a conducting medium (such as metals or plasma) when displaced from their equilibrium positions.
-
----
-
-## 🔷 Physical Model
 
 - Consider a system of free electrons of number density $$n$$
 - Each electron has charge $$-e$$ and mass $$m$$
 - A small displacement $$x$$ of electrons relative to the positive ion background is assumed
 
----
-
-## 🔷 Charge Separation and Electric Field
-
 When electrons are displaced by a distance $$x$$, a charge imbalance is created.
 
-- Charge density:
+The Charge density is given by
   
   $$ \rho = -n e $$
 
-- This displacement produces an electric field $E$ given by Gauss's Law:
+- This displacement produces an electric field $$E$$ given by Gauss's Law:
 
   $$ E = \frac{n e x}{\varepsilon_0} $$
-
----
-
-## 🔷 Equation of Motion
 
 The force acting on an electron due to the electric field is:
 
