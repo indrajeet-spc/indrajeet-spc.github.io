@@ -62,9 +62,7 @@ $$ \omega_p = \sqrt{\frac{n e^2}{m \varepsilon_0}} $$
 
 <div style="background-color:#0f172a; padding:20px; border-radius:10px; border:2px solid #38bdf8;">
 
-<h1 style="color:#38bdf8; text-align:center;">📘 Boltzmann Equation in Plasma (Mathematical Description)</h1>
-
-<div style="background-color:#111827; padding:15px; border-left:5px solid #22c55e; border-radius:8px;">
+<h1 style="color:#38bdf8; text-align:center;">
 
 The Boltzmann equation describes the time evolution of the distribution function  
 
