@@ -66,7 +66,7 @@ $$
 f(\mathbf{r}, \mathbf{v}, t)
 $$  
 
-of particles in phase space, where $ \mathbf{r} $ is position, $ \mathbf{v} $ is velocity, and $ t $ is time.  
+of particles in phase space, where $$ \mathbf{r} $$ is position, $$ \mathbf{v} $$ is velocity, and $$ t $$ is time.  
 These variables define a six-dimensional phase space ($\mu$-space).
 
 The distribution function $ f_\alpha(\mathbf{r}, \mathbf{v}, t) $ gives the density of particles of species $\alpha$.  
