@@ -16,7 +16,7 @@ Plasma frequency is the natural frequency of oscillation of free electrons in a 
 
 ## 🔷 Physical Model
 
-- Consider a system of free electrons of number density $n$
+- Consider a system of free electrons of number density $$n$$
 - Each electron has charge $-e$ and mass $m$
 - A small displacement $x$ of electrons relative to the positive ion background is assumed
 
