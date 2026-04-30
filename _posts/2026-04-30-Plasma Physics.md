@@ -15,15 +15,13 @@ Plasma frequency is the natural frequency of oscillation of free electrons in a 
 - Each electron has charge $$-e$$ and mass $$m$$
 - A small displacement $$x$$ of electrons relative to the positive ion background is assumed
 
----
-
-## 🔷 Visualization (Electron Displacement)
-
+```markdown
 ```mermaid
 flowchart LR
-    A[Positive Ion Background (+)] ---|Restoring Force| B[Displaced Electron Cloud (-)]
-    B -->|Displacement x| C[Shifted Position]
-    A -->|Electric Field E| B
+    A[Ion Background] -->|Creates| E[Electric Field]
+    E -->|Acts on| B[Electron Cloud]
+    B -->|Displaced by x| C[New Position]
+    C -->|Restoring Force| B
 
 When electrons are displaced by a distance $$x$$, a charge imbalance is created.
 
