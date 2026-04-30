@@ -15,7 +15,6 @@ Plasma frequency is the natural frequency of oscillation of free electrons in a 
 - Each electron has charge $$-e$$ and mass $$m$$
 - A small displacement $$x$$ of electrons relative to the positive ion background is assumed
 
-```markdown
 ```mermaid
 flowchart LR
     A[Ion Background] -->|Creates| E[Electric Field]
