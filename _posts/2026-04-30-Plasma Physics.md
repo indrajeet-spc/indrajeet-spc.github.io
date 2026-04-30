@@ -86,10 +86,6 @@ $$
 \mathbf{v}' = \mathbf{v} + \mathbf{a}\, dt
 $$
 
-$$
-\mathbf{a} = \frac{\mathbf{F}}{m_\alpha}
-$$
-
 In the absence of collisions, the number of particles is conserved:
 
 $$
@@ -149,28 +145,4 @@ $$
 + \mathbf{a} \cdot \nabla_{\mathbf{v}} f_\alpha
 =
 \left( \frac{\partial f_\alpha}{\partial t} \right)_{\text{coll}}
-$$
-
-For binary elastic collisions, the collision term is:
-
-$$
-\left( \frac{\partial f_\alpha}{\partial t} \right)_{\text{coll}}
-=
-\sum_\beta \iint
-\left( f_\alpha' f_{\beta1}' - f_\alpha f_{\beta1} \right)
-\, g\, \sigma(\Omega)\, d\Omega\, d^3 v_1
-$$
-
-where $ g = |\mathbf{v} - \mathbf{v}_1| $ is the relative velocity and $ \sigma(\Omega) $ is the differential cross-section.
-
-Finally, the complete Boltzmann equation is:
-
-$$
-\frac{\partial f_\alpha}{\partial t}
-+ \mathbf{v} \cdot \nabla_{\mathbf{r}} f_\alpha
-+ \mathbf{a} \cdot \nabla_{\mathbf{v}} f_\alpha
-=
-\sum_\beta \iint
-\left( f_\alpha' f_{\beta1}' - f_\alpha f_{\beta1} \right)
-\, g\, \sigma(\Omega)\, d\Omega\, d^3 v_1
 $$
