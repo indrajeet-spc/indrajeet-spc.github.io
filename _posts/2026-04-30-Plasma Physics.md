@@ -60,124 +60,168 @@ $$ \omega_p = \sqrt{\frac{n e^2}{m \varepsilon_0}} $$
 ---
 # 📘 Derivation of the Boltzmann Equation in Plasma
 
-The Boltzmann equation is the fundamental equation of **kinetic theory of plasma**, describing how particle distributions evolve under:
-- motion  
-- electromagnetic forces  
-- collisions  
+## 🔷 1. Phase Space and Distribution Function
 
-The Boltzmann equation describes the time evolution of the **distribution function**  
-$f(\mathbf{r}, \mathbf{v}, t)$ of particles in phase space.
+The state of a particle is defined by:
+- Position vector: $\mathbf{r}$
+- Velocity vector: $\mathbf{v}$
 
-- $\mathbf{r}$ → position  
-- $\mathbf{v}$ → velocity  
-- $t$ → time  
+These define a 6D phase space ($\mu$-space).
 
----
+The distribution function $f_\alpha(\mathbf{r}, \mathbf{v}, t)$ gives the density of particles of species $\alpha$ in phase space.
 
-## 🔷 2. Distribution Function
-
-Let:
-- $f(\mathbf{r}, \mathbf{v}, t)\, d^3r\, d^3v$  
-  = number of particles in phase space element
-
----
-
-## 🔷 3. Total Time Rate of Change
-
-The total derivative of $f$ is:
+The number of particles in a small phase space volume is:
 
 $$
-\frac{df}{dt}
-= \frac{\partial f}{\partial t}
-+ \frac{d\mathbf{r}}{dt} \cdot \nabla_{\mathbf{r}} f
-+ \frac{d\mathbf{v}}{dt} \cdot \nabla_{\mathbf{v}} f
+d^6 N_\alpha = f_\alpha(\mathbf{r}, \mathbf{v}, t)\, d^3r\, d^3v
 $$
 
 ---
 
-## 🔷 4. Equations of Motion
+## 🔷 2. Particle Motion in Phase Space
 
-From classical mechanics:
-
-- Velocity:
-  
-  $$
-  \frac{d\mathbf{r}}{dt} = \mathbf{v}
-  $$
-
-- Acceleration (Lorentz force):
-
-  $$
-  m \frac{d\mathbf{v}}{dt} = q(\mathbf{E} + \mathbf{v} \times \mathbf{B})
-  $$
-
-So:
+Under an external force $\mathbf{F}$:
 
 $$
-\frac{d\mathbf{v}}{dt} = \frac{q}{m}(\mathbf{E} + \mathbf{v} \times \mathbf{B})
+\mathbf{r}' = \mathbf{r} + \mathbf{v}\, dt
+$$
+
+$$
+\mathbf{v}' = \mathbf{v} + \mathbf{a}\, dt
+\quad \text{where} \quad \mathbf{a} = \frac{\mathbf{F}}{m_\alpha}
 $$
 
 ---
 
-## 🔷 5. Substituting into Total Derivative
+## 🔷 3. Conservation of Particles (Collisionless Case)
+
+In absence of collisions, number of particles is conserved:
 
 $$
-\frac{df}{dt}
+f_\alpha(\mathbf{r}', \mathbf{v}', t + dt)\, d^3r'\, d^3v'
 =
-\frac{\partial f}{\partial t}
-+ \mathbf{v} \cdot \nabla_{\mathbf{r}} f
-+ \frac{q}{m}(\mathbf{E} + \mathbf{v} \times \mathbf{B}) \cdot \nabla_{\mathbf{v}} f
+f_\alpha(\mathbf{r}, \mathbf{v}, t)\, d^3r\, d^3v
 $$
 
 ---
 
-## 🔷 6. Effect of Collisions
+## 🔷 4. Jacobian and Phase Volume Conservation
 
-In plasma, collisions change the distribution function.
-
-So we write:
+The transformation from $(\mathbf{r}, \mathbf{v})$ to $(\mathbf{r}', \mathbf{v}')$ has Jacobian:
 
 $$
-\left( \frac{df}{dt} \right)_{\text{collisions}}
+|J| = 1
 $$
 
----
+(neglecting higher-order terms in $dt$)
 
-## 🔷 7. Boltzmann Equation
-
-Equating total change to collision effects:
+Thus:
 
 $$
-\frac{\partial f}{\partial t}
-+ \mathbf{v} \cdot \nabla_{\mathbf{r}} f
-+ \frac{q}{m}(\mathbf{E} + \mathbf{v} \times \mathbf{B}) \cdot \nabla_{\mathbf{v}} f
+d^3r'\, d^3v' = d^3r\, d^3v
+$$
+
+So we get:
+
+$$
+f_\alpha(\mathbf{r} + \mathbf{v}dt,\; \mathbf{v} + \mathbf{a}dt,\; t + dt)
 =
-\left( \frac{\partial f}{\partial t} \right)_{\text{coll}}
+f_\alpha(\mathbf{r}, \mathbf{v}, t)
 $$
 
 ---
 
-## 🔷 8. Special Case: Collisionless Plasma
+## 🔷 5. Taylor Expansion
 
-If collisions are negligible:
+Expanding the LHS using Taylor series:
 
 $$
-\frac{\partial f}{\partial t}
-+ \mathbf{v} \cdot \nabla_{\mathbf{r}} f
-+ \frac{q}{m}(\mathbf{E} + \mathbf{v} \times \mathbf{B}) \cdot \nabla_{\mathbf{v}} f
+f_\alpha(\mathbf{r} + \mathbf{v}dt,\; \mathbf{v} + \mathbf{a}dt,\; t + dt)
+\approx
+f_\alpha + \left[
+\frac{\partial f_\alpha}{\partial t}
++ \mathbf{v} \cdot \nabla_{\mathbf{r}} f_\alpha
++ \mathbf{a} \cdot \nabla_{\mathbf{v}} f_\alpha
+\right] dt
+$$
+
+Substituting and cancelling terms:
+
+$$
+\frac{\partial f_\alpha}{\partial t}
++ \mathbf{v} \cdot \nabla_{\mathbf{r}} f_\alpha
++ \mathbf{a} \cdot \nabla_{\mathbf{v}} f_\alpha
 = 0
 $$
 
-This is called the **Vlasov Equation**.
+This is the **collisionless Boltzmann equation**  
+(or **Liouville’s theorem**).
 
 ---
 
-## 🔷 9. Physical Interpretation
+## 🔷 6. Inclusion of Collisions
 
-- First term → time evolution  
-- Second term → spatial transport  
-- Third term → acceleration due to EM fields  
-- RHS → collisions  
+Collisions introduce a change in particle number inside phase space:
+
+$$
+\left( \frac{\partial f_\alpha}{\partial t} \right)_{\text{coll}}
+$$
+
+Thus, the full equation becomes:
+
+$$
+\frac{\partial f_\alpha}{\partial t}
++ \mathbf{v} \cdot \nabla_{\mathbf{r}} f_\alpha
++ \mathbf{a} \cdot \nabla_{\mathbf{v}} f_\alpha
+=
+\left( \frac{\partial f_\alpha}{\partial t} \right)_{\text{coll}}
+$$
 
 ---
+
+## 🔷 7. Boltzmann Collision Integral
+
+For binary elastic collisions:
+
+$$
+\left( \frac{\partial f_\alpha}{\partial t} \right)_{\text{coll}}
+=
+\sum_\beta \iint
+\left( f_\alpha' f_{\beta1}' - f_\alpha f_{\beta1} \right)
+\, g\, \sigma(\Omega)\, d\Omega\, d^3 v_1
+$$
+
+### Where:
+
+- $f_\alpha, f_{\beta1}$ → before collision  
+- $f_\alpha', f_{\beta1}'$ → after collision  
+- $g = |\mathbf{v} - \mathbf{v}_1|$ → relative velocity  
+- $\sigma(\Omega)$ → differential cross-section  
+- $d\Omega$ → solid angle element  
+
+---
+
+## 🔷 8. Final Form of Boltzmann Equation
+
+$$
+\frac{\partial f_\alpha}{\partial t}
++ \mathbf{v} \cdot \nabla_{\mathbf{r}} f_\alpha
++ \mathbf{a} \cdot \nabla_{\mathbf{v}} f_\alpha
+=
+\sum_\beta \iint
+\left( f_\alpha' f_{\beta1}' - f_\alpha f_{\beta1} \right)
+\, g\, \sigma(\Omega)\, d\Omega\, d^3 v_1
+$$
+
+---
+
+## 🔷 9. Conclusion
+
+- The Boltzmann equation governs the evolution of particle distributions in plasma  
+- LHS → deterministic motion (transport + force)  
+- RHS → stochastic effects (collisions)  
+- Fundamental to kinetic theory and plasma physics  
+
+---
+
 
