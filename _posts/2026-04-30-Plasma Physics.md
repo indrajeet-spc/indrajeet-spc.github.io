@@ -63,10 +63,12 @@ $$ \omega_p = \sqrt{\frac{n e^2}{m \varepsilon_0}} $$
 The Boltzmann equation describes the time evolution of the **distribution function**  
 $$f(\mathbf{r}, \mathbf{v}, t)$$ of particles in phase space.
 
-- $\mathbf{r}$ → position  
-- $\mathbf{v}$ → velocity  
-- $t$ → time 
+- $$\mathbf{r}$$ → position  
+- $$\mathbf{v}$$ → velocity  
+- $$t$$ → time
+   
 ---
+
 The state of a particle is defined by:
 - Position vector: $$\mathbf{r}$$
 - Velocity vector: $$\mathbf{v}$$
