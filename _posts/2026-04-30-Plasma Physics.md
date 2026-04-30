@@ -60,53 +60,23 @@ $$ \omega_p = \sqrt{\frac{n e^2}{m \varepsilon_0}} $$
 ---
 # 📘 Boltzmann Equation in Plasma
 
-# 📘 Boltzmann Equation in Plasma
-
 The Boltzmann equation describes the time evolution of the distribution function  
 
 $$
 f(\mathbf{r}, \mathbf{v}, t)
 $$  
 
-of particles in phase space, where  
-
-$$
-\mathbf{r}
-$$  
-is position,  
-
-$$
-\mathbf{v}
-$$  
-is velocity, and  
-
-$$
-t
-$$  
-is time.  
-
+of particles in phase space, where $$ \mathbf{r} $$ is position, $$ \mathbf{v} $$ is velocity, and $$ t $$ is time.  
 These variables define a six-dimensional phase space ($$\mu$$-space).
 
-The distribution function  
-
-$$
-f_\alpha(\mathbf{r}, \mathbf{v}, t)
-$$  
-
-gives the density of particles of species alpha.  
+The distribution function $$ f_\alpha(\mathbf{r}, \mathbf{v}, t) $$ gives the density of particles of species $$\alpha$$.  
 The number of particles in a phase space element is:
 
 $$
 d^6 N_\alpha = f_\alpha(\mathbf{r}, \mathbf{v}, t)\, d^3r\, d^3v
 $$
 
-Under an external force  
-
-$$
-\mathbf{F}
-$$  
-
-the motion of particles in phase space is given by:
+Under an external force $ \mathbf{F} $, the motion of particles in phase space is given by:
 
 $$
 \mathbf{r}' = \mathbf{r} + \mathbf{v}\, dt
@@ -128,7 +98,7 @@ f_\alpha(\mathbf{r}', \mathbf{v}', t + dt)\, d^3r'\, d^3v'
 f_\alpha(\mathbf{r}, \mathbf{v}, t)\, d^3r\, d^3v
 $$
 
-The Jacobian satisfies:
+The Jacobian of transformation satisfies:
 
 $$
 |J| = 1
@@ -169,7 +139,9 @@ $$
 = 0
 $$
 
-When collisions are included:
+This is the **collisionless Boltzmann equation**.
+
+When collisions are included, the equation becomes:
 
 $$
 \frac{\partial f_\alpha}{\partial t}
@@ -179,7 +151,7 @@ $$
 \left( \frac{\partial f_\alpha}{\partial t} \right)_{\text{coll}}
 $$
 
-Collision term:
+For binary elastic collisions, the collision term is:
 
 $$
 \left( \frac{\partial f_\alpha}{\partial t} \right)_{\text{coll}}
@@ -188,6 +160,8 @@ $$
 \left( f_\alpha' f_{\beta1}' - f_\alpha f_{\beta1} \right)
 \, g\, \sigma(\Omega)\, d\Omega\, d^3 v_1
 $$
+
+where $ g = |\mathbf{v} - \mathbf{v}_1| $ is the relative velocity and $ \sigma(\Omega) $ is the differential cross-section.
 
 Finally, the complete Boltzmann equation is:
 
@@ -199,5 +173,4 @@ $$
 \sum_\beta \iint
 \left( f_\alpha' f_{\beta1}' - f_\alpha f_{\beta1} \right)
 \, g\, \sigma(\Omega)\, d\Omega\, d^3 v_1
-$$
 $$
