@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MJ-12: Modern Physics"
+title: "Plasma Physics"
 date: 2026-04-30
 author: "Dr. Indrajeet Kumar."
 description: "Basic of Plasma Physics for M.Sc. Physics Semester V."
