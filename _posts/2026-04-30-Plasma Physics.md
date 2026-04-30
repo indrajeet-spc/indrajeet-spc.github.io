@@ -60,9 +60,9 @@ $$ \omega_p = \sqrt{\frac{n e^2}{m \varepsilon_0}} $$
 ---
 # 📘 Boltzmann Equation in Plasma
 
-<div style="background-color:#0f172a; padding:20px; border-radius:10px; border:2px solid #38bdf8;">
+<div style="padding:15px; border-radius:10px; border:2px solid #2563eb;">
 
-<h1 style="color:#38bdf8; text-align:center;">
+<h2 style="color:#2563eb; text-align:center;">📘 Boltzmann Equation in Plasma</h2>
 
 The Boltzmann equation describes the time evolution of the distribution function  
 
@@ -77,7 +77,7 @@ The six variables define a 6D phase space ($\mu$-space).
 
 <br>
 
-<div style="background-color:#111827; padding:15px; border-left:5px solid #eab308; border-radius:8px;">
+<div style="padding:12px; border-left:4px solid #eab308; border-radius:6px;">
 
 The distribution function $ f_\alpha(\mathbf{r}, \mathbf{v}, t) $ gives the density of particles of species $\alpha$.  
 The number of particles in a phase space element is:
@@ -90,7 +90,7 @@ $$
 
 <br>
 
-<div style="background-color:#111827; padding:15px; border-left:5px solid #f97316; border-radius:8px;">
+<div style="padding:12px; border-left:4px solid #f97316; border-radius:6px;">
 
 Particle motion under force $ \mathbf{F} $:
 
@@ -110,7 +110,7 @@ $$
 
 <br>
 
-<div style="background-color:#111827; padding:15px; border-left:5px solid #a855f7; border-radius:8px;">
+<div style="padding:12px; border-left:4px solid #a855f7; border-radius:6px;">
 
 Conservation of particles (collisionless case):
 
@@ -142,7 +142,7 @@ $$
 
 <br>
 
-<div style="background-color:#111827; padding:15px; border-left:5px solid #ef4444; border-radius:8px;">
+<div style="padding:12px; border-left:4px solid #ef4444; border-radius:6px;">
 
 Taylor expansion:
 
@@ -169,7 +169,7 @@ $$
 
 <br>
 
-<div style="background-color:#111827; padding:15px; border-left:5px solid #06b6d4; border-radius:8px;">
+<div style="padding:12px; border-left:4px solid #06b6d4; border-radius:6px;">
 
 Including collisions:
 
@@ -191,7 +191,7 @@ $$
 
 <br>
 
-<div style="background-color:#111827; padding:15px; border-left:5px solid #84cc16; border-radius:8px;">
+<div style="padding:12px; border-left:4px solid #84cc16; border-radius:6px;">
 
 Collision integral:
 
@@ -211,9 +211,9 @@ $ \sigma(\Omega) $ is differential cross-section.
 
 <br>
 
-<div style="background-color:#020617; padding:15px; border:2px dashed #38bdf8; border-radius:8px; text-align:center;">
+<div style="padding:12px; border:2px dashed #2563eb; border-radius:6px; text-align:center;">
 
-<strong style="color:#38bdf8;">Final Boltzmann Equation</strong>
+<strong style="color:#2563eb;">Final Boltzmann Equation</strong>
 
 $$
 \frac{\partial f_\alpha}{\partial t}
@@ -224,7 +224,5 @@ $$
 \left( f_\alpha' f_{\beta1}' - f_\alpha f_{\beta1} \right)
 \, g\, \sigma(\Omega)\, d\Omega\, d^3 v_1
 $$
-
-</div>
 
 </div>
