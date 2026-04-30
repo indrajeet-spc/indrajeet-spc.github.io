@@ -2,12 +2,12 @@
 layout: post
 title: "Plasma Physics"
 date: 2026-04-30
-author: "Dr. Indrajeet Kumar."
+author: "Dr. Indrajeet Kumar"
 description: "Basic of Plasma Physics for M.Sc. Physics Semester V."
 tags: [Physics, Plasma Physics, MSc Notes]
 ---
 
-# 📘 Derivation of Plasma Frequency
+# 📘 Plasma Frequency
 
 Plasma frequency is the natural frequency of oscillation of free electrons in a conducting medium (such as metals or plasma) when displaced from their equilibrium positions.
 
@@ -58,13 +58,18 @@ $$ \omega_p = \sqrt{\frac{n e^2}{m \varepsilon_0}} $$
 - Electromagnetic waves with frequency below $\omega_p$ are reflected
 
 ---
-# 📘 Derivation of the Boltzmann Equation in Plasma
+# 📘 Boltzmann Equation in Plasma
 
-## 🔷 1. Phase Space and Distribution Function
+The Boltzmann equation describes the time evolution of the **distribution function**  
+$$f(\mathbf{r}, \mathbf{v}, t)$$ of particles in phase space.
 
+- $\mathbf{r}$ → position  
+- $\mathbf{v}$ → velocity  
+- $t$ → time 
+---
 The state of a particle is defined by:
-- Position vector: $\mathbf{r}$
-- Velocity vector: $\mathbf{v}$
+- Position vector: $$\mathbf{r}$$
+- Velocity vector: $$\mathbf{v}$$
 
 These define a 6D phase space ($\mu$-space).
 
