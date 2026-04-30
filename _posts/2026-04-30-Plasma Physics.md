@@ -60,10 +60,6 @@ $$ \omega_p = \sqrt{\frac{n e^2}{m \varepsilon_0}} $$
 ---
 # 📘 Boltzmann Equation in Plasma
 
-<div style="padding:15px; border-radius:10px; border:2px solid #2563eb;">
-
-<h2 style="color:#2563eb; text-align:center;">📘 Boltzmann Equation in Plasma</h2>
-
 The Boltzmann equation describes the time evolution of the distribution function  
 
 $$
@@ -71,13 +67,7 @@ f(\mathbf{r}, \mathbf{v}, t)
 $$  
 
 of particles in phase space, where $ \mathbf{r} $ is position, $ \mathbf{v} $ is velocity, and $ t $ is time.  
-The six variables define a 6D phase space ($\mu$-space).
-
-</div>
-
-<br>
-
-<div style="padding:12px; border-left:4px solid #eab308; border-radius:6px;">
+These variables define a six-dimensional phase space ($\mu$-space).
 
 The distribution function $ f_\alpha(\mathbf{r}, \mathbf{v}, t) $ gives the density of particles of species $\alpha$.  
 The number of particles in a phase space element is:
@@ -86,13 +76,7 @@ $$
 d^6 N_\alpha = f_\alpha(\mathbf{r}, \mathbf{v}, t)\, d^3r\, d^3v
 $$
 
-</div>
-
-<br>
-
-<div style="padding:12px; border-left:4px solid #f97316; border-radius:6px;">
-
-Particle motion under force $ \mathbf{F} $:
+Under an external force $ \mathbf{F} $, the motion of particles in phase space is given by:
 
 $$
 \mathbf{r}' = \mathbf{r} + \mathbf{v}\, dt
@@ -106,13 +90,7 @@ $$
 \mathbf{a} = \frac{\mathbf{F}}{m_\alpha}
 $$
 
-</div>
-
-<br>
-
-<div style="padding:12px; border-left:4px solid #a855f7; border-radius:6px;">
-
-Conservation of particles (collisionless case):
+In the absence of collisions, the number of particles is conserved:
 
 $$
 f_\alpha(\mathbf{r}', \mathbf{v}', t + dt)\, d^3r'\, d^3v'
@@ -120,17 +98,19 @@ f_\alpha(\mathbf{r}', \mathbf{v}', t + dt)\, d^3r'\, d^3v'
 f_\alpha(\mathbf{r}, \mathbf{v}, t)\, d^3r\, d^3v
 $$
 
-Using Jacobian:
+The Jacobian of transformation satisfies:
 
 $$
 |J| = 1
 $$
 
+so that:
+
 $$
 d^3r'\, d^3v' = d^3r\, d^3v
 $$
 
-Thus:
+Thus,
 
 $$
 f_\alpha(\mathbf{r} + \mathbf{v}dt,\; \mathbf{v} + \mathbf{a}dt,\; t + dt)
@@ -138,13 +118,7 @@ f_\alpha(\mathbf{r} + \mathbf{v}dt,\; \mathbf{v} + \mathbf{a}dt,\; t + dt)
 f_\alpha(\mathbf{r}, \mathbf{v}, t)
 $$
 
-</div>
-
-<br>
-
-<div style="padding:12px; border-left:4px solid #ef4444; border-radius:6px;">
-
-Taylor expansion:
+Expanding using Taylor series:
 
 $$
 f_\alpha(\mathbf{r} + \mathbf{v}dt,\; \mathbf{v} + \mathbf{a}dt,\; t + dt)
@@ -156,7 +130,7 @@ f_\alpha + \left[
 \right] dt
 $$
 
-Cancelling terms:
+Cancelling terms, we obtain:
 
 $$
 \frac{\partial f_\alpha}{\partial t}
@@ -165,19 +139,9 @@ $$
 = 0
 $$
 
-</div>
+This is the **collisionless Boltzmann equation**.
 
-<br>
-
-<div style="padding:12px; border-left:4px solid #06b6d4; border-radius:6px;">
-
-Including collisions:
-
-$$
-\left( \frac{\partial f_\alpha}{\partial t} \right)_{\text{coll}}
-$$
-
-Full Boltzmann equation:
+When collisions are included, the equation becomes:
 
 $$
 \frac{\partial f_\alpha}{\partial t}
@@ -187,13 +151,7 @@ $$
 \left( \frac{\partial f_\alpha}{\partial t} \right)_{\text{coll}}
 $$
 
-</div>
-
-<br>
-
-<div style="padding:12px; border-left:4px solid #84cc16; border-radius:6px;">
-
-Collision integral:
+For binary elastic collisions, the collision term is:
 
 $$
 \left( \frac{\partial f_\alpha}{\partial t} \right)_{\text{coll}}
@@ -203,17 +161,9 @@ $$
 \, g\, \sigma(\Omega)\, d\Omega\, d^3 v_1
 $$
 
-where  
-$ g = |\mathbf{v} - \mathbf{v}_1| $ is relative velocity,  
-$ \sigma(\Omega) $ is differential cross-section.
+where $ g = |\mathbf{v} - \mathbf{v}_1| $ is the relative velocity and $ \sigma(\Omega) $ is the differential cross-section.
 
-</div>
-
-<br>
-
-<div style="padding:12px; border:2px dashed #2563eb; border-radius:6px; text-align:center;">
-
-<strong style="color:#2563eb;">Final Boltzmann Equation</strong>
+Finally, the complete Boltzmann equation is:
 
 $$
 \frac{\partial f_\alpha}{\partial t}
@@ -224,5 +174,3 @@ $$
 \left( f_\alpha' f_{\beta1}' - f_\alpha f_{\beta1} \right)
 \, g\, \sigma(\Omega)\, d\Omega\, d^3 v_1
 $$
-
-</div>
