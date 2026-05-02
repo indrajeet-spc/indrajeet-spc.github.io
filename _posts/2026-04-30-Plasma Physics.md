@@ -120,9 +120,11 @@ $$
 f_\alpha(\mathbf{r} + \mathbf{v}dt,\; \mathbf{v} + \mathbf{a}dt,\; t + dt) 
 = 
 f_\alpha(\mathbf{r},\; \mathbf{v}.\; t) 
-+ \left[\frac{\partial f_\alpha}{\partial t}
++ \left[
+  \frac{\partial f_\alpha}{\partial t}
 + (v_x \frac{\partial f_alpha}{\partial x}) + (v_y \frac{\partial f_alpha}{\partial y}) + (v_z \frac{\partial f_alpha}{\partial z})
 + (a_x \frac{\partial f_alpha}{\partial v_x}) + (a_y \frac{\partial f_alpha}{\partial v_y}) + (a_z \frac{\partial f_alpha}{\partial v_z})
+\right] dt
 $$
 
 $$
