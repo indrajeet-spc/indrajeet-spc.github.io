@@ -146,13 +146,15 @@ $$
 \nabla_v = \hat{x} \frac{\partial}{\partial v_x} + \hat{y} \frac{\partial}{\partial v_y} + \hat{z} \frac{\partial}{\partial v_z}
 $$
 
+We may write,
+
 $$
 f_\alpha(\mathbf{r} + \mathbf{v}dt,\; \mathbf{v} + \mathbf{a}dt,\; t + dt)
 \approx
-f_\alpha + \left[
-\frac{\partial f_\alpha}{\partial t}
-+ \mathbf{v} \cdot \nabla_{\mathbf{r}} f_\alpha
-+ \mathbf{a} \cdot \nabla_{\mathbf{v}} f_\alpha
+f_\alpha (\mathbf{r},\; \mathbf{v},\;t) + \left[
+\frac{\partial f_\alpha (\mathbf{r},\; \mathbf{v},\;t)}{\partial t}
++ \mathbf{v} \cdot \nabla_{\mathbf{r}} f_\ (\mathbf{r},\; \mathbf{v},\;t)
++ \mathbf{a} \cdot \nabla_{\mathbf{v}} f_\alpha (\mathbf{r},\; \mathbf{v},\;t)
 \right] dt
 $$
 
