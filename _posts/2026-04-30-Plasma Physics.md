@@ -263,3 +263,135 @@ where,
 
 - This is the **collisionless Boltzmann equation with Lorentz force**
 - Fundamental equation of **kinetic plasma theory**
+
+  ## 📘 Kinetic Theory of Plasma
+
+The kinetic theory of plasma describes the behavior of a large number of charged particles using a statistical approach. Instead of tracking individual particle motion, it uses a **distribution function** in phase space to represent the system.
+
+---
+
+## Distribution Function
+
+The state of plasma is described by the distribution function:
+
+$$
+f_\alpha(\mathbf{r}, \mathbf{v}, t)
+$$
+
+The number of particles in a phase space element is:
+
+$$
+d^6 N_\alpha = f_\alpha(\mathbf{r}, \mathbf{v}, t)\, d^3r\, d^3v
+$$
+
+---
+
+## Evolution Equation (Boltzmann Equation)
+
+The general kinetic equation is:
+
+$$
+\frac{\partial f_\alpha}{\partial t}
++ \mathbf{v} \cdot \nabla_{\mathbf{r}} f_\alpha
++ \mathbf{a} \cdot \nabla_{\mathbf{v}} f_\alpha
+=
+\left( \frac{\partial f_\alpha}{\partial t} \right)_{\text{coll}}
+$$
+
+---
+
+## Collisionless Case (Vlasov Equation)
+
+For collisionless plasma:
+
+$$
+\frac{\partial f_\alpha}{\partial t}
++ \mathbf{v} \cdot \nabla_{\mathbf{r}} f_\alpha
++ \frac{q_\alpha}{m_\alpha}
+\left(
+\mathbf{E} + \mathbf{v} \times \mathbf{B}
+\right)
+\cdot \nabla_{\mathbf{v}} f_\alpha
+= 0
+$$
+
+---
+
+## Macroscopic Quantities
+
+### Number Density
+
+$$
+n_\alpha(\mathbf{r}, t) = \int f_\alpha \, d^3v
+$$
+
+---
+
+### Fluid Velocity
+
+$$
+\mathbf{u}_\alpha(\mathbf{r}, t) = \frac{1}{n_\alpha} \int \mathbf{v} f_\alpha \, d^3v
+$$
+
+---
+
+### Pressure
+
+$$
+P_\alpha = m_\alpha \int (\mathbf{v} - \mathbf{u}_\alpha)^2 f_\alpha \, d^3v
+$$
+
+---
+
+## Self-Consistent Fields (Maxwell’s Equations)
+
+The fields satisfy:
+
+$$
+\nabla \cdot \mathbf{E} = \frac{\rho}{\varepsilon_0}
+$$
+
+$$
+\nabla \cdot \mathbf{B} = 0
+$$
+
+$$
+\nabla \times \mathbf{E} = -\frac{\partial \mathbf{B}}{\partial t}
+$$
+
+$$
+\nabla \times \mathbf{B} = \mu_0 \mathbf{J} + \mu_0 \varepsilon_0 \frac{\partial \mathbf{E}}{\partial t}
+$$
+
+---
+
+## Charge and Current Density
+
+$$
+\rho = \sum_\alpha q_\alpha \int f_\alpha \, d^3v
+$$
+
+$$
+\mathbf{J} = \sum_\alpha q_\alpha \int \mathbf{v} f_\alpha \, d^3v
+$$
+
+---
+
+## Key Features of Kinetic Theory
+
+- Describes plasma at **microscopic level**
+- Accounts for **velocity distribution of particles**
+- Captures **wave-particle interactions**
+- Essential for **collisionless plasmas**
+- More accurate than fluid models
+
+---
+
+## Summary
+
+The kinetic theory combines:
+
+- **Vlasov equation** (particle dynamics)
+- **Maxwell’s equations** (fields)
+
+→ Together form the **Vlasov–Maxwell system**, the fundamental framework of plasma physics.
