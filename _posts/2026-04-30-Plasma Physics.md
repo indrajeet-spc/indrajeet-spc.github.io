@@ -121,7 +121,7 @@ $$
 f_\alpha(\mathbf{r} + \mathbf{v}dt,\; \mathbf{v} + \mathbf{a}dt,\; t + dt)
 &= f_\alpha(\mathbf{r},\; \mathbf{v},\; t) \\
 &\quad + \Bigg[
-\frac{\partial f_\{alpha}}{\partial t}
+\frac{\partial f_\alpha}{\partial t}
 + v_x \frac{\partial f_\alpha}{\partial x}
 + v_y \frac{\partial f_\alpha}{\partial y}
 + v_z \frac{\partial f_\alpha}{\partial z} \\
