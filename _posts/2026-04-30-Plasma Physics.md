@@ -251,19 +251,15 @@ $$
 \end{aligned}
 $$
 
----
+where,
 
-## Meaning of Terms
-
-- \( f_\alpha(\mathbf{r}, \mathbf{v}, t) \): distribution function  
-- \( q_\alpha, m_\alpha \): charge and mass  
-- \( \mathbf{E}, \mathbf{B} \): electromagnetic fields  
-- \( \nabla_{\mathbf{r}} \): spatial gradient  
-- \( \nabla_{\mathbf{v}} \): velocity-space gradient  
+- $$ \( f_\alpha(\mathbf{r}, \mathbf{v}, t) \) $$: distribution function  
+- $$ \( q_\alpha, m_\alpha \) $$: charge and mass  
+- $$ \( \mathbf{E}, \mathbf{B} \) $$: electromagnetic fields  
+- $$ \( \nabla_{\mathbf{r}} \) $$: spatial gradient  
+- $$ \( \nabla_{\mathbf{v}} \) $$: velocity-space gradient  
 
 ---
-
-## Key Insight
 
 - This is the **collisionless Boltzmann equation with Lorentz force**
 - Fundamental equation of **kinetic plasma theory**
