@@ -196,6 +196,7 @@ $$
 $$
 
 This is the **collisionless Boltzmann equation**.
+
 we can also write this as:
 
 $$
