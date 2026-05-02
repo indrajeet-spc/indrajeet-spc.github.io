@@ -3,7 +3,7 @@ layout: post
 title: "Plasma Physics"
 date: 2026-04-30
 author: "Dr. Indrajeet Kumar"
-description: "Basic of Plasma Physics for M.Sc. Physics Semester V."
+description: "Basic of Plasma Physics for M.Sc. Physics Semester I."
 tags: [Physics, Plasma Physics, MSc Notes]
 ---
 
@@ -115,6 +115,15 @@ f_\alpha(\mathbf{r}, \mathbf{v}, t)
 $$
 
 Expanding using Taylor series:
+
+$$
+f_\alpha(\mathbf{r} + \mathbf{v}dt,\; \mathbf{v} + \mathbf{a}dt,\; t + dt) 
+= 
+f_\alpha(\mathbf{r},\; \mathbf{v}.\; t) 
++ \left[\frac{\partial f_\alpha}{\partial t}
++ (v_x \frac{\partial f_alpha}{\partial x}) + (v_y \frac{\partial f_alpha}{\partial y}) + (v_z \frac{\partial f_alpha}{\partial z})
++ (a_x \frac{\partial f_alpha}{\partial v_x}) + (a_y \frac{\partial f_alpha}{\partial v_y}) + (a_z \frac{\partial f_alpha}{\partial v_z})
+$$
 
 $$
 f_\alpha(\mathbf{r} + \mathbf{v}dt,\; \mathbf{v} + \mathbf{a}dt,\; t + dt)
