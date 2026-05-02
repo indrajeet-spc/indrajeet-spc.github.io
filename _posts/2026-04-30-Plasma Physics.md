@@ -137,7 +137,7 @@ neglecting the terms of $$ (dt)^2 $$ and higher terms.
 Using del operator notation 
 
 $$
-\nabla = \cap{x} \frac{\partial}{\partial x
+\nabla = \hat{x} \frac{\partial}{\partial x
 $$
 
 $$
