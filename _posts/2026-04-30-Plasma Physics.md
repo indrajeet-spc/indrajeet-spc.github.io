@@ -137,7 +137,13 @@ neglecting the terms of $$ (dt)^2 $$ and higher terms.
 Using del operator notation 
 
 $$
-\nabla = \hat{x} \frac{\partial}{\partial x}
+\nabla = \hat{x} \frac{\partial}{\partial x} + \hat{y} \frac{\partial}{\partial y} + \hat{z} \frac{\partial}{\partial z}
+$$
+
+del operator in velocity space
+
+$$
+\nabla_v = \hat{x} \frac{\partial}{\partial v_x} + \hat{y} \frac{\partial}{\partial v_y} + \hat{z} \frac{\partial}{\partial v_z}
 $$
 
 $$
