@@ -134,6 +134,12 @@ $$
 
 neglecting the terms of $$ (dt)^2 $$ and higher terms.
 
+Using del operator notation 
+
+$$
+\nabla = \cap{x} \frac{\partial}{\partial x
+$$
+
 $$
 f_\alpha(\mathbf{r} + \mathbf{v}dt,\; \mathbf{v} + \mathbf{a}dt,\; t + dt)
 \approx
