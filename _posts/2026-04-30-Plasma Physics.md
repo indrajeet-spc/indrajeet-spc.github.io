@@ -117,8 +117,7 @@ $$
 Expanding using Taylor series:
 
 $$
-f_\alpha(\mathbf{r} + \mathbf{v}dt,\; \mathbf{v} + \mathbf{a}dt,\; t + dt) 
-= 
+f_\alpha(\mathbf{r} + \mathbf{v}dt,\; \mathbf{v} + \mathbf{a}dt,\; t + dt) = 
 f_\alpha(\mathbf{r},\; \mathbf{v}.\; t) 
 + \left[
   \frac{\partial f_\alpha}{\partial t}
