@@ -197,7 +197,7 @@ $$
 
 This is the **collisionless Boltzmann equation**.
 
-we can also write this as:
+We can also write this as:
 
 $$
 \frac{\partial f_\alpha}{\partial t}
@@ -215,3 +215,55 @@ $$
 =
 \left( \frac{\partial f_\alpha}{\partial t} \right)_{\text{coll}}
 $$
+
+# 📘 The Vlasov Equation
+
+The motion of plasma is governed by externally applied fields as well as by the macroscopic, self-consistent internal fields that arise due to the collective behavior of charged particles. These internal fields are averaged over space and time, thereby smoothing out microscopic fluctuations. The dynamics of such a system are described by the **Vlasov equation**, which is a partial differential equation governing the time evolution of the distribution function in phase space. This equation explicitly incorporates the influence of the self-consistent macroscopic electromagnetic fields.
+
+$$
+\frac{\partial f_\alpha}{\partial t}
++ \mathbf{v} \cdot \nabla_{\mathbf{r}} f_\alpha
++ \frac{q_\alpha}{m_\alpha}
+\left(
+\mathbf{E} + \mathbf{v} \times \mathbf{B}
+\right)
+\cdot \nabla_{\mathbf{v}} f_\alpha
+= 0
+$$
+
+---
+
+## Component Form
+
+$$
+\begin{aligned}
+\frac{\partial f_\alpha}{\partial t}
+&+ v_x \frac{\partial f_\alpha}{\partial x}
++ v_y \frac{\partial f_\alpha}{\partial y}
++ v_z \frac{\partial f_\alpha}{\partial z} \\
+&+ \frac{q_\alpha}{m_\alpha}
+\Big[
+(E_x + (\mathbf{v} \times \mathbf{B})_x)\frac{\partial f_\alpha}{\partial v_x} \\
+&\quad + (E_y + (\mathbf{v} \times \mathbf{B})_y)\frac{\partial f_\alpha}{\partial v_y} \\
+&\quad + (E_z + (\mathbf{v} \times \mathbf{B})_z)\frac{\partial f_\alpha}{\partial v_z}
+\Big]
+= 0
+\end{aligned}
+$$
+
+---
+
+## Meaning of Terms
+
+- \( f_\alpha(\mathbf{r}, \mathbf{v}, t) \): distribution function  
+- \( q_\alpha, m_\alpha \): charge and mass  
+- \( \mathbf{E}, \mathbf{B} \): electromagnetic fields  
+- \( \nabla_{\mathbf{r}} \): spatial gradient  
+- \( \nabla_{\mathbf{v}} \): velocity-space gradient  
+
+---
+
+## Key Insight
+
+- This is the **collisionless Boltzmann equation with Lorentz force**
+- Fundamental equation of **kinetic plasma theory**
