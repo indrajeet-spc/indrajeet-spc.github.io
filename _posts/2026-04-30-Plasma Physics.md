@@ -196,6 +196,14 @@ $$
 $$
 
 This is the **collisionless Boltzmann equation**.
+we can also write this as:
+
+$$
+\frac{\partial f_\alpha}{\partial t}
++ \mathbf{v} \cdot \nabla_{\mathbf{r}} f_\alpha
++ \mathbf{a} \cdot \nabla_{\mathbf{v}} f_\alpha
+=0
+$$
 
 When collisions are included, the equation becomes:
 
