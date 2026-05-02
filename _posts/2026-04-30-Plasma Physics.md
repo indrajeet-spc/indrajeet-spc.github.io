@@ -215,7 +215,7 @@ $$
 =
 \left( \frac{\partial f_\alpha}{\partial t} \right)_{\text{coll}}
 $$
-
+---
 # 📘 The Vlasov Equation
 
 The motion of plasma is governed by externally applied fields as well as by the macroscopic, self-consistent internal fields that arise due to the collective behavior of charged particles. These internal fields are averaged over space and time, thereby smoothing out microscopic fluctuations. The dynamics of such a system are described by the **Vlasov equation**, which is a partial differential equation governing the time evolution of the distribution function in phase space. This equation explicitly incorporates the influence of the self-consistent macroscopic electromagnetic fields.
@@ -264,7 +264,9 @@ where,
 - This is the **collisionless Boltzmann equation with Lorentz force**
 - Fundamental equation of **kinetic plasma theory**
 
-  ## 📘 Kinetic Theory of Plasma
+---
+
+## 📘 Kinetic Theory of Plasma
 
 The kinetic theory of plasma describes the behavior of a large number of charged particles using a statistical approach. Instead of tracking individual particle motion, it uses a **distribution function** in phase space to represent the system.
 
