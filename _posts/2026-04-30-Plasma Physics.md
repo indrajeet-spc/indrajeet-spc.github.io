@@ -132,8 +132,6 @@ f_\alpha(\mathbf{r} + \mathbf{v}dt,\; \mathbf{v} + \mathbf{a}dt,\; t + dt)
 \end{aligned}
 $$
 
-neglecting terms of order $ (dt)^2 $ and higher.
-
 $$
 f_\alpha(\mathbf{r} + \mathbf{v}dt,\; \mathbf{v} + \mathbf{a}dt,\; t + dt)
 \approx
