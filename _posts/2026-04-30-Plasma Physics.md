@@ -114,6 +114,13 @@ f_\alpha(\mathbf{r} + \mathbf{v}dt,\; \mathbf{v} + \mathbf{a}dt,\; t + dt)
 f_\alpha(\mathbf{r}, \mathbf{v}, t)
 $$
 
+$$
+f_\alpha(\mathbf{r} + \mathbf{v}dt,\; \mathbf{v} + \mathbf{a}dt,\; t + dt)
+-
+f_\alpha(\mathbf{r}, \mathbf{v}, t)
+= 0
+$$
+
 Expanding using Taylor series:
 
 $$
