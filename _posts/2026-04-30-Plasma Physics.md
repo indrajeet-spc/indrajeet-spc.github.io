@@ -132,7 +132,7 @@ f_\alpha(\mathbf{r} + \mathbf{v}dt,\; \mathbf{v} + \mathbf{a}dt,\; t + dt)
 \end{aligned}
 $$
 
-neglecting higher terms.
+neglecting the terms of $$ (dt)^2 $$ and higher terms.
 
 $$
 f_\alpha(\mathbf{r} + \mathbf{v}dt,\; \mathbf{v} + \mathbf{a}dt,\; t + dt)
