@@ -130,11 +130,11 @@ f_\alpha(\mathbf{r} + \mathbf{v}dt,\; \mathbf{v} + \mathbf{a}dt,\; t + dt)
 + a_z \frac{\partial f_\alpha}{\partial v_z}
 \Bigg] dt
 \end{aligned}
-
 $$
+
 neglecting terms of order $ (dt)^2 $ and higher.
-$$
 
+$$
 f_\alpha(\mathbf{r} + \mathbf{v}dt,\; \mathbf{v} + \mathbf{a}dt,\; t + dt)
 \approx
 f_\alpha + \left[
