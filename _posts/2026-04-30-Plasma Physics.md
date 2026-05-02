@@ -168,28 +168,31 @@ $$
 Now,
 
 $$
-\begin{align}
 f_\alpha(\mathbf{r} + \mathbf{v}dt,\; \mathbf{v} + \mathbf{a}dt,\; t + dt)
-- f_\alpha(\mathbf{r}, \mathbf{v}, t) =0 \\
-  f_\alpha (\mathbf{r},\; \mathbf{v},\;t) + \left[
+- f_\alpha(\mathbf{r}, \mathbf{v}, t) =0
+$$
+
+$$
+f_\alpha (\mathbf{r},\; \mathbf{v},\;t) + \left[
 \frac{\partial f_\alpha (\mathbf{r},\; \mathbf{v},\;t)}{\partial t}
 + \mathbf{v} \cdot \nabla_{\mathbf{r}} f_\ (\mathbf{r},\; \mathbf{v},\;t)
 + \mathbf{a} \cdot \nabla_{\mathbf{v}} f_\alpha (\mathbf{r},\; \mathbf{v},\;t)
 \right] dt
-- f_\alpha(\mathbf{r}, \mathbf{v}, t) = 0 \\
-   f_\alpha (\mathbf{r},\; \mathbf{v},\;t) + \left[
+- f_\alpha(\mathbf{r}, \mathbf{v}, t) = 0
+$$
+
+$$
+\left[
 \frac{\partial f_\alpha (\mathbf{r},\; \mathbf{v},\;t)}{\partial t}
 + \mathbf{v} \cdot \nabla_{\mathbf{r}} f_\ (\mathbf{r},\; \mathbf{v},\;t)
 + \mathbf{a} \cdot \nabla_{\mathbf{v}} f_\alpha (\mathbf{r},\; \mathbf{v},\;t)
 \right] dt = 0
-\end{align}
 $$
 
 $$
-\frac{\partial f_\alpha}{\partial t}
-+ \mathbf{v} \cdot \nabla_{\mathbf{r}} f_\alpha
-+ \mathbf{a} \cdot \nabla_{\mathbf{v}} f_\alpha
-= 0
+\frac{\partial f_\alpha (\mathbf{r},\; \mathbf{v},\;t)}{\partial t}
++ \mathbf{v} \cdot \nabla_{\mathbf{r}} f_\ (\mathbf{r},\; \mathbf{v},\;t)
++ \mathbf{a} \cdot \nabla_{\mathbf{v}} f_\alpha (\mathbf{r},\; \mathbf{v},\;t) = 0
 $$
 
 This is the **collisionless Boltzmann equation**.
