@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dr. [Your Name] - Academic Portal</title>
+    <title>Dr. [INDRAJEET KUMAR] - Academic Portal</title>
     <style>
         /* Modern, clean academic styling */
         :root {
@@ -60,6 +60,31 @@
             padding-bottom: 5px;
             margin-top: 2rem;
         }
+
+        /* NEW PROFILE PHOTO STYLING */
+        .profile-container {
+            display: flex;
+            align-items: flex-start;
+            gap: 2rem;
+            margin-top: 1rem;
+            margin-bottom: 2rem;
+        }
+
+        .profile-photo {
+            flex: 0 0 180px; /* Non-flexible base width */
+            width: 180px;
+            height: 180px;
+            border-radius: 50%; /* Makes it circular */
+            border: 5px solid white; /* A slight white border for separation */
+            box-shadow: 0 4px 10px rgba(0,0,0,0.15); /* Adds soft depth */
+            object-fit: cover; /* Ensures your photo fills the circle without stretching */
+        }
+
+        .welcome-text {
+            flex: 1; /* Text takes up remaining space */
+        }
+
+        /* CARD STYLING */
         .card {
             background-color: var(--secondary-color);
             border-left: 4px solid var(--primary-color);
@@ -109,7 +134,14 @@
     <div class="container">
         
         <h2 id="about" class="section-title">Welcome</h2>
-        <p>Welcome to my academic portal. I am a college-level physics educator dedicated to advancing our understanding of the physical world and guiding the next generation of scientists. This site serves as a central hub for my lecture notes, course syllabi, and research updates.</p>
+        
+        <div class="profile-container">
+            <img src="profile-photo.jpg" alt="Dr. [Your Name] Profile Photo" class="profile-photo">
+            
+            <div class="welcome-text">
+                <p>Welcome to my academic portal. I am a college-level physics educator dedicated to advancing our understanding of the physical world and guiding the next generation of scientists. This site serves as a central hub for my lecture notes, course syllabi, and research updates.</p>
+            </div>
+        </div>
 
         <h2 id="teaching" class="section-title">Teaching & Course Materials</h2>
         <p>All lecture notes and current term materials are maintained in my GitHub repository.</p>
