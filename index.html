@@ -3,26 +3,139 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My GitHub Website</title>
+    <title>Dr. [Your Name] - Academic Portal</title>
     <style>
+        /* Modern, clean academic styling */
+        :root {
+            --primary-color: #003366; /* Deep academic blue */
+            --secondary-color: #f4f4f9;
+            --text-color: #333;
+        }
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            color: var(--text-color);
+            background-color: #ffffff;
+        }
+        header {
+            background-color: var(--primary-color);
+            color: white;
+            padding: 2rem 0;
             text-align: center;
-            margin-top: 50px;
-            background-color: #f4f4f9;
         }
-        h1 {
-            color: #333;
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
         }
-        p {
-            color: #666;
+        header p {
+            margin: 5px 0 0 0;
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+        nav {
+            background-color: #333;
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        .container {
+            max-width: 900px;
+            margin: 2rem auto;
+            padding: 0 20px;
+        }
+        .section-title {
+            color: var(--primary-color);
+            border-bottom: 2px solid var(--primary-color);
+            padding-bottom: 5px;
+            margin-top: 2rem;
+        }
+        .card {
+            background-color: var(--secondary-color);
+            border-left: 4px solid var(--primary-color);
+            padding: 15px;
+            margin-bottom: 15px;
+            border-radius: 4px;
+        }
+        .card h3 {
+            margin-top: 0;
+            color: var(--primary-color);
+        }
+        .button {
+            display: inline-block;
+            background-color: var(--primary-color);
+            color: white;
+            padding: 8px 15px;
+            text-decoration: none;
+            border-radius: 4px;
+            margin-top: 10px;
+        }
+        .button:hover {
+            background-color: #002244;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: var(--secondary-color);
+            margin-top: 40px;
+            font-size: 0.9rem;
         }
     </style>
 </head>
 <body>
 
-    <h1>Welcome to My Website! 🚀</h1>
-    <p>This is my very first site hosted on GitHub Pages.</p>
+    <header>
+        <h1>Dr. [Your Name]</h1>
+        <p>Professor of Physics | Department of Physics</p>
+    </header>
+
+    <nav>
+        <a href="#about">About</a>
+        <a href="#teaching">Teaching</a>
+        <a href="#research">Research</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <div class="container">
+        
+        <h2 id="about" class="section-title">Welcome</h2>
+        <p>Welcome to my academic portal. I am a college-level physics educator dedicated to advancing our understanding of the physical world and guiding the next generation of scientists. This site serves as a central hub for my lecture notes, course syllabi, and research updates.</p>
+
+        <h2 id="teaching" class="section-title">Teaching & Course Materials</h2>
+        <p>All lecture notes and current term materials are maintained in my GitHub repository.</p>
+        
+        <div class="card">
+            <h3>Current Physics Courses</h3>
+            <p>Access the complete syllabus, weekly lecture notes, and assignment guidelines.</p>
+            <a href="https://yourusername.github.io/physics-notes" class="button" target="_blank">Access Lecture Notes</a>
+        </div>
+
+        <h2 id="research" class="section-title">Research Interests</h2>
+        <p>My current academic focus explores the fundamental principles governing the natural world, with specific emphasis on:</p>
+        <ul>
+            <li><strong>Atmospheric Physics:</strong> Studying the dynamics, thermodynamics, and physical phenomena of the Earth's atmosphere.</li>
+            <li><strong>Optics:</strong> Investigating the behavior and properties of light, including its interactions with matter.</li>
+        </ul>
+
+        <h2 id="contact" class="section-title">Contact Information</h2>
+        <p><strong>Office:</strong> Science Building, Room 402<br>
+        <strong>Email:</strong> professor@university.edu<br>
+        <strong>Office Hours:</strong> Tuesdays and Thursdays, 2:00 PM - 4:00 PM</p>
+    </div>
+
+    <footer>
+        <p>&copy; 2026 Dr. [Your Name]. Hosted on GitHub Pages.</p>
+    </footer>
 
 </body>
 </html>
