@@ -4,13 +4,13 @@ Personal academic website for GitHub Pages.
 
 ## Files
 
-- `index.html` — home page
-- `about.html` — academic profile
-- `teaching.html` — teaching and lecture notes
-- `research.html` — research interests
-- `publications.html` — publications
-- `files.html` — academic resources
-- `cv.html` — curriculum vitae
+- `index.md` — home page
+- `about.md` — academic profile
+- `teaching.md` — teaching and lecture notes
+- `research.md` — research interests
+- `publications.md` — publications
+- `files.md` — academic resources
+- `cv.md` — curriculum vitae
 - `style.css` — common website styling
 - `profile-photo.jpg` — replace with your photograph
 - `documents/` — add CV, syllabus and other PDFs
