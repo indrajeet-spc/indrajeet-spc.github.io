@@ -3,37 +3,15 @@ layout: default
 title: Resources | Dr. Indrajeet Kumar
 ---
 
-# Academic Documents
+## Academic Resources
 
-*Downloads and useful academic resources*
-
----
-
-## Curriculum Vitae
-
-**Latest academic CV in PDF format.**
-
-[**Download CV →**](documents/cv.pdf)
-
----
-
-## Course Syllabus
-
-**Current course syllabus and academic documents.**
-
-[**Download Course Syllabus →**](documents/syllabus.pdf)
-
----
-
-> **Note:** Create a `documents` folder in your repository and upload your PDF files there.
->
-> The recommended file structure is:
->
-> ```text
-> documents/
-> ├── cv.pdf
-> └── syllabus.pdf
-> ```
+| Document | Description | Download |
+|---|---|---|
+| **Curriculum Vitae** | Latest academic CV | [Download](documents/cv.pdf) |
+| **Course Syllabus** | Current course syllabus | [Download](documents/syllabus.pdf) |
+| **Research Profile** | Research information | [Download](documents/research-profile.pdf) |
+| **Teaching Portfolio** | Teaching activities and resources | [Download](documents/teaching-portfolio.pdf) |
+| **Academic Certificates** | Selected academic documents | [Download](documents/certificates.pdf) |
 
 ---
 
