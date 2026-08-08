@@ -11,7 +11,7 @@ description: Academic website of Dr. Indrajeet Kumar, Assistant Professor of Phy
 Department of Physics, S.P. College, Dumka  
 Sido Kanhu Murmu University, Dumka, Jharkhand, India
 
-![Dr. Indrajeet Kumar](profile-photo.jpg)
+![Dr. Indrajeet Kumar](profile-photo.jpg.JPG)
 
 [Teaching](teaching.md) | [Research](research.md)
 
