@@ -1,170 +1,144 @@
-    /* UPDATED HEADER STYLING (SIDE-BY-SIDE) */
-    header {
-        background-color: var(--primary-color);
-        color: white;
-        padding: 3rem 20px;
-    }
-
-    .header-content {
-        max-width: 900px;
-        margin: 0 auto;
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-        justify-content: space-between; /* Pushes text to the left, photo to the right */
-        gap: 20px;
-    }
-
-    .header-text {
-        text-align: left; /* Aligns the text itself to the left */
-    }
-
-    .header-text h1 {
-        margin: 0;
-        font-size: 2.8rem;
-    }
-
-    .header-text p {
-        margin: 5px 0 0 0;
-        font-size: 1.2rem;
-        opacity: 0.9;
-    }
-    
-    .header-photo {
-        width: 170px;
-        height: 170px;
-        border-radius: 50%; /* Makes it a perfect circle */
-        border: 4px solid white;
-        object-fit: cover;
-        box-shadow: 0 4px 15px rgba(0,0,0,0.3);
-        flex-shrink: 0; /* Prevents the photo from shrinking on smaller screens */
-    }
-
-    /* Responsive design: Stacks neatly on mobile phones */
-    @media (max-width: 600px) {
-        .header-content {
-            flex-direction: column-reverse; /* Puts photo above text on mobile */
-            text-align: center;
-        }
-        .header-text {
-            text-align: center;
-        }
-    }
-
-    /* NAVIGATION & CONTENT STYLING */
-    nav {
-        background-color: #333;
-        color: white;
-        padding: 10px;
-        text-align: center;
-        position: sticky; /* Keeps menu at the top when scrolling */
-        top: 0;
-    }
-    nav a {
-        color: white;
-        text-decoration: none;
-        margin: 0 15px;
-        font-weight: bold;
-    }
-    nav a:hover {
-        text-decoration: underline;
-    }
-    .container {
-        max-width: 900px;
-        margin: 2rem auto;
-        padding: 0 20px;
-    }
-    .section-title {
-        color: var(--primary-color);
-        border-bottom: 2px solid var(--primary-color);
-        padding-bottom: 5px;
-        margin-top: 2rem;
-    }
-    .card {
-        background-color: var(--secondary-color);
-        border-left: 4px solid var(--primary-color);
-        padding: 15px;
-        margin-bottom: 15px;
-        border-radius: 4px;
-    }
-    .card h3 {
-        margin-top: 0;
-        color: var(--primary-color);
-    }
-    .button {
-        display: inline-block;
-        background-color: var(--primary-color);
-        color: white;
-        padding: 8px 15px;
-        text-decoration: none;
-        border-radius: 4px;
-        margin-top: 10px;
-    }
-    .button:hover {
-        background-color: #002244;
-    }
-    footer {
-        text-align: center;
-        padding: 20px;
-        background-color: var(--secondary-color);
-        margin-top: 40px;
-        font-size: 0.9rem;
-    }
-</style>
-
-<header>
-    <div class="header-content">
-        <div class="header-text">
-            <h1>Dr. Indrajeet Kumar</h1>
-            <p>Assistant Professor</p>
-            </p>Department of Physics, S.P. College, Dumka (SKM University, Dumka), Jharkhand, India</p>
-        </div>
-        
-        <img src="profile-photo.jpg.JPG" alt="Dr. [Your Name]" class="header-photo">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Academic website of Dr. Indrajeet Kumar, Assistant Professor of Physics at S.P. College, Dumka, SKM University.">
+<title>Dr. Indrajeet Kumar | Physics</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="header-inner">
+    <div class="header-text">
+      <p class="eyebrow">FACULTY • PHYSICS</p>
+      <h1>Dr. Indrajeet Kumar</h1>
+      <p class="designation">Assistant Professor of Physics</p>
+      <p class="institution">Department of Physics, S.P. College, Dumka<br>Sido Kanhu Murmu University, Dumka, Jharkhand, India</p>
+      <div class="header-actions">
+        <a class="button light" href="teaching.html">Teaching</a>
+        <a class="button outline-light" href="research.html">Research</a>
+      </div>
     </div>
+    <img src="profile-photo.jpg" alt="Dr. Indrajeet Kumar" class="profile-photo">
+  </div>
 </header>
 
-<nav>
-    <a href="index.html">Home</a>
-    <a href="teaching.html">Teaching</a>
-    <a href="research.html">Research</a>
-    <a href="files.html">Research</a>
-    <a href="#contact">Contact</a>
+<nav class="navbar">
+  <div class="nav-inner">
+    <a class="brand" href="index.html">IK</a>
+    <div class="nav-links">
+      <a class="active" href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="teaching.html">Teaching</a>
+      <a href="research.html">Research</a>
+      <a href="publications.html">Publications</a>
+      <a href="files.html">Resources</a>
+      <a href="cv.html">CV</a>
+      <a href="index.html#contact">Contact</a>
+    </div>
+  </div>
 </nav>
 
-<div class="container">
-    
-    <h2 id="about" class="section-title">Welcome</h2>
-    <p>Welcome to my academic portal. I am a college-level physics educator dedicated to advancing our understanding of the physical world. This site serves as a central hub for my lecture notes, course syllabi, and research updates.</p>
+<main>
+<section class="hero-strip">
+  <div class="container">
+    <p class="kicker">WELCOME</p>
+    <h2>Teaching physics. Exploring nature. Sharing knowledge.</h2>
+    <p>Academic resources, research interests, lecture notes and professional information.</p>
+  </div>
+</section>
 
-    <h2 id="teaching" class="section-title">Teaching & Course Materials</h2>
-    <p>All lecture notes and current term materials are maintained in my GitHub repository.</p>
-    
-    <div class="card">
-        <h3>Current Physics Courses</h3>
-        <p>Access the complete syllabus, lecture notes, and assignments.</p>
-        <a href="https://indrajeet-spc.github.io/lecture-notes" class="button" target="_blank">UG Lecture Notes</a>
-        <a href="https://indrajeet-spc.github.io/PG-lecture-notes" class="button" target="_blank">PG Lecture Notes</a>
+<section class="container section">
+  <div class="section-heading">
+    <p class="kicker">ABOUT</p>
+    <h2>Academic Profile</h2>
+  </div>
+  <div class="two-column">
+    <div>
+      <p>I am a college-level physics educator committed to clear, concept-driven teaching and the development of accessible learning resources for undergraduate and postgraduate students.</p>
+      <p>This website brings together my teaching materials, research interests, academic documents and professional information.</p>
     </div>
+    <div class="info-card">
+      <h3>At a glance</h3>
+      <p><strong>Position:</strong> Assistant Professor</p>
+      <p><strong>Department:</strong> Physics</p>
+      <p><strong>Institution:</strong> S.P. College, Dumka</p>
+      <p><strong>University:</strong> SKM University, Dumka</p>
+    </div>
+  </div>
+</section>
 
-    <h2 id="research" class="section-title">Research Interests</h2>
-    <p>My current academic focus explores the fundamental principles governing the natural world, with specific emphasis on:</p>
-    <ul>
-        <li><strong>Atmospheric Physics:</strong> Studying the dynamics, thermodynamics, and physical phenomena of the Earth's atmosphere.</li>
-        <li><strong>Optics:</strong> Investigating the behavior and properties of light, including its interactions with matter.</li>
-    </ul>
+<section class="container section">
+  <div class="section-heading">
+    <p class="kicker">TEACHING</p>
+    <h2>Lecture Notes & Course Materials</h2>
+  </div>
+  <div class="card-grid">
+    <article class="card">
+      <span class="card-number">01</span>
+      <h3>Undergraduate Physics</h3>
+      <p>Lecture notes, syllabi, assignments and practical resources for undergraduate students.</p>
+      <a class="text-link" href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Open UG Lecture Notes →</a>
+    </article>
+    <article class="card">
+      <span class="card-number">02</span>
+      <h3>Postgraduate Physics</h3>
+      <p>Advanced lecture notes and learning resources for postgraduate physics students.</p>
+      <a class="text-link" href="https://indrajeet-spc.github.io/PG-lecture-notes" target="_blank" rel="noopener">Open PG Lecture Notes →</a>
+    </article>
+    <article class="card">
+      <span class="card-number">03</span>
+      <h3>Academic Resources</h3>
+      <p>Downloadable academic documents, course resources and other teaching materials.</p>
+      <a class="text-link" href="files.html">View Resources →</a>
+    </article>
+  </div>
+</section>
 
-    <h2 id="files" class="section-title">Documents</h2>
-    <p>All necessary documents are available here.</p>
+<section class="research-band">
+  <div class="container section">
+    <div class="section-heading">
+      <p class="kicker">RESEARCH</p>
+      <h2>Research Interests</h2>
+    </div>
+    <div class="card-grid">
+      <article class="research-card">
+        <h3>Atmospheric Physics</h3>
+        <p>Atmospheric dynamics, thermodynamics and physical phenomena of the Earth's atmosphere.</p>
+      </article>
+      <article class="research-card">
+        <h3>Optics</h3>
+        <p>Behavior and properties of light and its interaction with matter.</p>
+      </article>
+    </div>
+    <a class="button dark" href="research.html">Explore Research →</a>
+  </div>
+</section>
 
-    <h2 id="contact" class="section-title">Contact Information</h2>
-    <p><strong>Office:</strong> Department of Physics, S.P. College, Dumka<br>
-    Dumka - Pakur Road<br>
-    Dumka - 814101, Jharkhand<br>
-    <strong>Email:</strong> indrajeet.spcollege@gmail.com<br>
-    <strong>Mobile:</strong> 8638874019</p>
-</div>
+<section class="container section" id="contact">
+  <div class="section-heading">
+    <p class="kicker">CONTACT</p>
+    <h2>Get in Touch</h2>
+  </div>
+  <div class="contact-grid">
+    <div class="info-card">
+      <h3>Department of Physics</h3>
+      <p>S.P. College, Dumka<br>Dumka–Pakur Road<br>Dumka – 814101<br>Jharkhand, India</p>
+    </div>
+    <div class="info-card">
+      <p><strong>Email</strong><br><a href="mailto:indrajeet.spcollege@gmail.com">indrajeet.spcollege@gmail.com</a></p>
+      <p><strong>Mobile</strong><br>8638874019</p>
+    </div>
+  </div>
+</section>
+</main>
 
 <footer>
-    <p>&copy; 2026 Dr. Indrajeet Kumar. Hosted on GitHub Pages.</p>
-</footer>------------
+  <div class="container footer-inner">
+    <p>© 2026 Dr. Indrajeet Kumar</p>
+    <p>Hosted on GitHub Pages</p>
+  </div>
+</footer>
+</body>
+</html>
