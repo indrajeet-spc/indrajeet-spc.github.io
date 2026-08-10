@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="{{ page.description | default: site.description }}">
+<title>{{ page.title | default: site.title }}</title>
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head><body>
+<header class="{% if page.url == '/' %}site-header{% else %}page-header{% endif %}">
+<div class="{% if page.url == '/' %}header-inner{% else %}container{% endif %}">
+{% if page.url == '/' %}
+<div class="header-text"><p class="eyebrow">{{ page.kicker | default: "FACULTY • PHYSICS" }}</p><h1>{{ page.heading | default: "Dr. Indrajeet Kumar" }}</h1><p class="designation">Assistant Professor of Physics</p><p class="institution">Department of Physics, S.P. College, Dumka<br>Sido Kanhu Murmu University, Dumka, Jharkhand, India</p><div class="header-actions"><a class="button light" href="{{ '/teaching/' | relative_url }}">Teaching</a><a class="button outline-light" href="{{ '/research/' | relative_url }}">Research</a></div></div>
+<img src="{{ '/images/profile-photo.jpg' | relative_url }}" alt="Dr. Indrajeet Kumar" class="profile-photo">
+{% else %}<p class="kicker">{{ page.kicker }}</p><h1>{{ page.heading | default: page.title }}</h1>{% if page.subtitle %}<p>{{ page.subtitle }}</p>{% endif %}{% endif %}
+</div></header>
+<nav class="navbar"><div class="nav-inner"><a class="brand" href="{{ '/' | relative_url }}">IK</a><div class="nav-links">
+<a href="{{ '/' | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">Home</a>
+<a href="{{ '/about/' | relative_url }}" class="{% if page.url contains 'about' %}active{% endif %}">About</a>
+<a href="{{ '/teaching/' | relative_url }}" class="{% if page.url contains 'teaching' %}active{% endif %}">Teaching</a>
+<a href="{{ '/research/' | relative_url }}" class="{% if page.url contains 'research' %}active{% endif %}">Research</a>
+<a href="{{ '/publications/' | relative_url }}" class="{% if page.url contains 'publications' %}active{% endif %}">Publications</a>
+<a href="{{ '/resources/' | relative_url }}" class="{% if page.url contains 'resources' %}active{% endif %}">Resources</a>
+<a href="{{ '/cv/' | relative_url }}" class="{% if page.url contains 'cv' %}active{% endif %}">CV</a>
+<a href="{{ '/' | relative_url }}#contact">Contact</a>
+</div></div></nav>
+<main><div class="container section prose">{{ content }}</div></main>
+<footer><div class="container footer-inner"><p>© 2026 Dr. Indrajeet Kumar</p><p>Hosted on GitHub Pages</p></div></footer>
+</body></html>
