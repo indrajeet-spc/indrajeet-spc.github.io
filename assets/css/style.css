@@ -760,6 +760,28 @@ footer {
         padding: 10px 0;
     }
 
+   @media (max-width: 700px) {
+
+    .nav-inner {
+        display: block;
+        padding: 10px 14px;
+    }
+
+    .brand {
+        margin: 0 auto 8px;
+    }
+
+    .nav-links {
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .nav-links a {
+        padding: 7px 8px;
+        font-size: 0.8rem;
+    }
+}
+
     .brand {
         margin: 0 auto 8px;
     }
