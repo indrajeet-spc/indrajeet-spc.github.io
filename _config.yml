@@ -1,0 +1,6 @@
+title: "Dr. Indrajeet Kumar | Physics"
+description: "Academic website of Dr. Indrajeet Kumar, Assistant Professor of Physics."
+markdown: kramdown
+theme: null
+plugins:
+  - jekyll-feed
