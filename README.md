@@ -2,6 +2,8 @@
 
 Jekyll/Markdown website prepared for GitHub Pages.
 
+Scientific news on the homepage is sourced from NASA's RSS feed. A GitHub Actions workflow refreshes the local news data once per day.
+
 ## Before publishing
 
 1. Replace `images/README.txt` with your photograph named `profile-photo.jpg`.

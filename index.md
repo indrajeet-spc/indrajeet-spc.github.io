@@ -42,6 +42,52 @@ Behavior and properties of light and its interaction with matter.
 
 [**Explore Research →**]({{ '/research/' | relative_url }})
 
+## Scientific News
+
+Latest science stories from NASA, refreshed automatically every day.
+
+<div id="scientific-news" class="news-grid" aria-live="polite">
+<p class="news-status">Loading the latest scientific news…</p>
+</div>
+
+<p class="news-source">Source: <a href="https://www.nasa.gov/news/" target="_blank" rel="noopener">NASA News</a></p>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+	const newsContainer = document.getElementById("scientific-news");
+	const newsUrl = "{{ '/data/scientific-news.json' | relative_url }}?v=" + Date.now();
+	const escapeHtml = function (value) {
+		return String(value).replace(/[&<>'"]/g, function (character) {
+			return { "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#39;", "\"": "&quot;" }[character];
+		});
+	};
+
+	fetch(newsUrl)
+		.then(function (response) {
+			if (!response.ok) {
+				throw new Error("News feed unavailable");
+			}
+			return response.json();
+		})
+		.then(function (data) {
+			if (!Array.isArray(data.items) || data.items.length === 0) {
+				throw new Error("No news available");
+			}
+
+			newsContainer.innerHTML = data.items.map(function (item) {
+				return '<article class="news-card">' +
+					'<p class="news-date">' + escapeHtml(item.date) + '</p>' +
+					'<h3><a href="' + escapeHtml(item.url) + '" target="_blank" rel="noopener">' + escapeHtml(item.title) + '</a></h3>' +
+					'<p>' + escapeHtml(item.summary) + '</p>' +
+					'</article>';
+			}).join("");
+		})
+		.catch(function () {
+			newsContainer.innerHTML = '<p class="news-status">Scientific news is temporarily unavailable. <a href="https://www.nasa.gov/news/" target="_blank" rel="noopener">Visit NASA News</a>.</p>';
+		});
+});
+</script>
+
 ## Contact
 
 <div id="contact"></div>
