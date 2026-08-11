@@ -13,16 +13,33 @@ permalink: /semester-i/
 - **Practical:** 30 teaching hours
 - **Credits:** 3 theory + 1 practical
 
-Select a theory topic below to open the Semester I lecture-notes page.
-
 > For Semester I practical experiments, visit [Semester I Practical Physics]({{ '/semester-i-practical/' | relative_url }}).
 
-### Theory Topics
+### UNIT-I: General Properties of Matter (15 Lectures)
 
-<div class="semester-topics">
-<div class="semester-topic-box"><strong>Unit I</strong><span>General Properties of Matter</span><ul><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Hooke's law</a></li><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Stress-strain diagram</a></li><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Elastic moduli</a></li><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Poisson's ratio</a></li></ul></div>
-<div class="semester-topic-box"><strong>Unit II</strong><span>Central Force Motion and Oscillation</span><ul><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Central force motion</a></li><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Conservation of angular momentum</a></li><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Kepler's laws</a></li><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Satellite motion and oscillations</a></li></ul></div>
-<div class="semester-topic-box"><strong>Unit III</strong><span>Special Theory of Relativity</span><ul><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Inertial and non-inertial frames</a></li><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Michelson-Morley experiment</a></li><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Postulates of special relativity</a></li><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Lorentz transformations</a></li></ul></div>
-</div>
+- Hooke's law
+- Stress-strain diagram
+- Elastic moduli
+- Poisson's ratio, including its expression in terms of elastic constants and relations between them
+- Kinematics of moving fluids: viscous fluids, Poiseuille's equation for liquid flow through a capillary tube (with correction), flow of compressible fluid through a capillary tube, and Rankine's methods for measuring gas viscosity
+- Surface tension, surface energy, angle of contact, expression for excess pressure, principle of virtual work, ripples, and gravity waves
+
+### UNIT-II: Central Force Motion and Oscillation (15 Lectures)
+
+- Motion of a particle under a central force field and conservation of angular momentum
+- Kepler's laws of planetary motion and their derivations
+- Satellites in circular orbits and their applications, including centrifugal force
+- Simple harmonic oscillations (SHM): differential equation of SHM and its solution; kinetic, potential, and total energy along with their time-average values
+- Physical systems executing SHM: simple pendulum, compound pendulum, torsional pendulum, and LC circuit
+- Damped and forced oscillations: resonance, sharpness of resonance, power dissipation, and quality factor
+
+### UNIT-III: Special Theory of Relativity (15 Lectures)
+
+- Inertial and non-inertial frames
+- Michelson-Morley experiment and its outcome
+- Postulates of the special theory of relativity and Lorentz transformations
+- Lorentz contraction, time dilation, simultaneity, and order of events
+- Relativistic addition of velocities, variation of mass with velocity, massless particles, and mass-energy equivalence
+- Relativistic Doppler effect
 
 
