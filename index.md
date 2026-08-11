@@ -12,19 +12,6 @@ permalink: /
 <p>Academic resources, research interests, lecture notes and professional information.</p>
 </div>
 
-## Academic Profile
-
-I am a college-level physics educator committed to clear, concept-driven teaching and the development of accessible learning resources for undergraduate and postgraduate students.
-
-### At a Glance
-
-| Category | Details |
-|---|---|
-| **Position** | Assistant Professor |
-| **Department** | Physics |
-| **Institution** | S.P. College, Dumka |
-| **University** | Sido Kanhu Murmu University, Dumka |
-
 ## Teaching & Course Materials
 
 ### Undergraduate Physics
