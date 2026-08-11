@@ -519,7 +519,15 @@ img {
 
     border-top: 4px solid var(--blue);
 
+    border-radius: 8px;
+
     background: var(--soft);
+
+    box-shadow: 0 12px 30px rgba(11, 39, 66, 0.07);
+}
+
+.teaching-tree-panel:nth-child(2) {
+    border-top-color: var(--accent);
 }
 
 .teaching-tree-panel h2 {
@@ -549,6 +557,16 @@ img {
 
 .course-tree > li {
     padding-left: 0;
+}
+
+.course-tree > li > .tree-root {
+    min-width: 130px;
+
+    padding: 10px 18px;
+
+    text-align: center;
+
+    box-shadow: 0 5px 12px rgba(11, 39, 66, 0.14);
 }
 
 .course-tree li {
@@ -615,6 +633,8 @@ img {
     font-weight: 700;
 
     text-decoration: none;
+
+    transition: 0.2s ease;
 }
 
 .tree-root {
@@ -633,6 +653,8 @@ img {
     border-color: var(--blue);
 
     background: #eef5fb;
+
+    transform: translateX(3px);
 }
 
 
