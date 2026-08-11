@@ -22,9 +22,28 @@ My teaching approach emphasizes:
 - Physical intuition
 - Connection between theory and experiment
 
-## Academic Interests
+## Research Experience:
+Design and operation of experimental setup for
+o	Fabrication of carbon thin films using pulsed laser deposition technique.
+o	Synthesis of nanodiamond using pulsed laser ablation in liquid.
+o	Plasma diagnostics of graphite plasma.
+o	Nonlinear optical study of carbon thin films.
+o	Laser beam micromachining. 
+o	Optical fiber sensing characterization.
+•	Structural and optical characterization of diamond-like carbon and graphitic thin films, nanodiamonds and graphene using Raman spectroscopy, UV-Vis-NIR and FTIR spectroscopy, Spectroscopic ellipsometry, Scanning electron microscopy, Transmission electron microscopy and Atomic force microscopy.
 
-- **Physics Education** — Development of effective undergraduate learning resources
-- **Atmospheric Physics** — Study of atmospheric processes and physical phenomena
-- **Optics** — Light, optical phenomena, and light–matter interaction
-- **Computational Physics** — Computational and simulation-based approaches to physics
+## Technical skills
+•	Operation of sophisticated instruments; 
+o	Raman spectrometer
+o	Transmission electron microscope
+o	UV-Vis-NIR spectrometer
+o	Monochromator
+o	Optical Spectrum Analyzer
+o	High Vacuum chamber	
+•	Handling of Q-switched Nd:YAG laser, cw He-Ne laser and cw Ar-ion laser.
+
+## Computational skills
+o	COMSOL Multiphysics
+o	Python
+o	Matlab
+
