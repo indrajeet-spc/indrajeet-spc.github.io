@@ -1026,6 +1026,69 @@ img {
     transform: translateY(-2px);
 }
 
+.semester-syllabus {
+    display: none;
+    margin: 45px 0;
+    padding: 28px;
+    border: 1px solid #dbe7df;
+    border-top: 5px solid #4f9f3a;
+    border-radius: 12px;
+    background: linear-gradient(145deg, #f8fcf7, #ffffff);
+    box-shadow: 0 10px 24px rgba(11, 39, 66, 0.08);
+    scroll-margin-top: 90px;
+}
+
+.semester-syllabus:target {
+    display: block;
+}
+
+.semester-syllabus h2 {
+    margin: 0 0 8px;
+}
+
+.semester-meta {
+    color: var(--muted);
+    font-size: 0.9rem;
+}
+
+.semester-topics {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+    margin: 22px 0;
+}
+
+.semester-topics a {
+    display: block;
+    padding: 15px;
+    border: 1px solid #dbe7df;
+    border-radius: 8px;
+    background: #ffffff;
+    color: var(--ink);
+    text-decoration: none;
+    transition: 0.2s ease;
+}
+
+.semester-topics a:hover {
+    border-color: #4f9f3a;
+    background: #eaf6e7;
+    transform: translateY(-2px);
+}
+
+.semester-topics strong,
+.semester-topics span {
+    display: block;
+}
+
+.semester-topics strong {
+    color: #356c2d;
+}
+
+.semester-topics span {
+    margin-top: 5px;
+    font-size: 0.9rem;
+}
+
 
 /* =========================================================
    SCIENTIFIC NEWS
@@ -1506,7 +1569,8 @@ footer {
     .card-grid,
     .gallery-grid,
     .news-grid,
-    .teaching-trees {
+    .teaching-trees,
+    .semester-topics {
         grid-template-columns: 1fr;
     }
 
