@@ -9,7 +9,7 @@ permalink: /teaching/
 
 ## Course Structure
 
-<div class="teaching-trees">
+<div class="teaching-trees" aria-label="Teaching course tree">
 <section class="teaching-tree-panel">
 <p class="tree-label">THEORY</p>
 <h2>Theory Courses</h2>

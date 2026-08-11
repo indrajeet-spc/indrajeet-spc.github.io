@@ -501,33 +501,80 @@ img {
    ========================================================= */
 
 .teaching-trees {
+    position: relative;
+
     display: grid;
 
     grid-template-columns: repeat(2, minmax(0, 1fr));
 
-    gap: 24px;
+    gap: 7%;
 
-    margin: 25px 0 55px;
+    margin: 45px 0 70px;
+
+    padding: 15px 0 35px;
 }
 
 .teaching-tree-panel {
+    position: relative;
+    z-index: 1;
+
     min-width: 0;
 
-    padding: 26px;
+    padding: 120px 20px 28px;
 
-    border: 1px solid var(--line);
+    border: 1px solid rgba(79, 159, 58, 0.2);
 
-    border-top: 4px solid var(--blue);
+    border-radius: 18px;
 
-    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.92);
 
-    background: var(--soft);
+    box-shadow: 0 12px 30px rgba(11, 39, 66, 0.08);
 
-    box-shadow: 0 12px 30px rgba(11, 39, 66, 0.07);
+    overflow: hidden;
 }
 
-.teaching-tree-panel:nth-child(2) {
-    border-top-color: var(--accent);
+.teaching-tree-panel::before {
+    position: absolute;
+
+    z-index: 0;
+
+    top: 48px;
+    left: 50%;
+
+    width: 34px;
+    height: calc(100% + 40px);
+
+    border-radius: 50% 50% 8% 8%;
+
+    background: linear-gradient(90deg, #3f8632, #65b649 48%, #3f8632);
+
+    content: "";
+
+    transform: translateX(-50%);
+}
+
+.teaching-tree-panel::after {
+    position: absolute;
+
+    z-index: 0;
+
+    top: 30px;
+    left: 8%;
+
+    width: 84%;
+    height: 110px;
+
+    border-top: 16px solid #4f9f3a;
+
+    border-radius: 50%;
+
+    content: "";
+}
+
+.teaching-tree-panel > * {
+    position: relative;
+
+    z-index: 1;
 }
 
 .teaching-tree-panel h2 {
@@ -537,7 +584,7 @@ img {
 .tree-label {
     margin: 0 0 7px;
 
-    color: var(--accent);
+    color: #4f9f3a;
 
     font-size: 0.75rem;
 
@@ -638,9 +685,9 @@ img {
 }
 
 .tree-root {
-    border-color: var(--navy);
+    border-color: #4f9f3a;
 
-    background: var(--navy);
+    background: #4f9f3a;
 
     color: #ffffff;
 }
@@ -1045,6 +1092,10 @@ footer {
     .news-grid,
     .teaching-trees {
         grid-template-columns: 1fr;
+    }
+
+    .teaching-trees {
+        gap: 24px;
     }
 
     .section {
