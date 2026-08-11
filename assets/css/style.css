@@ -251,12 +251,12 @@ img {
 
     width: 100%;
 
-    background: var(--navy);
+    background: #17443d;
 
     border-top: 3px solid var(--accent);
     border-bottom: 1px solid rgba(255, 255, 255, 0.14);
 
-    box-shadow: 0 8px 24px rgba(11, 39, 66, 0.2);
+    box-shadow: 0 8px 24px rgba(23, 68, 61, 0.24);
     backdrop-filter: blur(12px);
 }
 
