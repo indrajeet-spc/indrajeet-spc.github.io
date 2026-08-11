@@ -497,6 +497,146 @@ img {
 
 
 /* =========================================================
+   TEACHING COURSE TREES
+   ========================================================= */
+
+.teaching-trees {
+    display: grid;
+
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+
+    gap: 24px;
+
+    margin: 25px 0 55px;
+}
+
+.teaching-tree-panel {
+    min-width: 0;
+
+    padding: 26px;
+
+    border: 1px solid var(--line);
+
+    border-top: 4px solid var(--blue);
+
+    background: var(--soft);
+}
+
+.teaching-tree-panel h2 {
+    margin: 0 0 25px;
+}
+
+.tree-label {
+    margin: 0 0 7px;
+
+    color: var(--accent);
+
+    font-size: 0.75rem;
+
+    font-weight: 800;
+
+    letter-spacing: 0.16em;
+}
+
+.course-tree,
+.course-tree ul {
+    list-style: none;
+
+    margin: 0;
+
+    padding-left: 28px;
+}
+
+.course-tree > li {
+    padding-left: 0;
+}
+
+.course-tree li {
+    position: relative;
+
+    padding: 9px 0 0 28px;
+}
+
+.course-tree li::before {
+    position: absolute;
+
+    top: 0;
+    left: 0;
+
+    width: 1px;
+    height: 100%;
+
+    background: var(--line);
+
+    content: "";
+}
+
+.course-tree li::after {
+    position: absolute;
+
+    top: 25px;
+    left: 0;
+
+    width: 20px;
+    height: 1px;
+
+    background: var(--line);
+
+    content: "";
+}
+
+.course-tree > li::before,
+.course-tree > li::after,
+.course-tree li:last-child::before {
+    display: none;
+}
+
+.course-tree li:last-child::before {
+    height: 25px;
+}
+
+.tree-node {
+    display: inline-block;
+
+    min-width: 92px;
+
+    padding: 7px 12px;
+
+    border: 1px solid var(--line);
+
+    border-radius: 6px;
+
+    background: #ffffff;
+
+    color: var(--ink);
+
+    font-size: 0.9rem;
+
+    font-weight: 700;
+
+    text-decoration: none;
+}
+
+.tree-root {
+    border-color: var(--navy);
+
+    background: var(--navy);
+
+    color: #ffffff;
+}
+
+.tree-leaf {
+    color: var(--blue);
+}
+
+.tree-leaf:hover {
+    border-color: var(--blue);
+
+    background: #eef5fb;
+}
+
+
+/* =========================================================
    SCIENTIFIC NEWS
    ========================================================= */
 
@@ -880,7 +1020,8 @@ footer {
     .contact-grid,
     .card-grid,
     .gallery-grid,
-    .news-grid {
+    .news-grid,
+    .teaching-trees {
         grid-template-columns: 1fr;
     }
 
