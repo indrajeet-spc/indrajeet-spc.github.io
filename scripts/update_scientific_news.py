@@ -7,8 +7,14 @@ from datetime import timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 
-FEED_URL = "https://www.nasa.gov/rss/dyn/breaking_news.rss"
 OUTPUT_PATH = Path(__file__).resolve().parents[1] / "data" / "scientific-news.json"
+FEEDS = [
+    ("NASA News", "https://www.nasa.gov/rss/dyn/breaking_news.rss"),
+    ("Phys.org", "https://phys.org/rss-feed/physics-news/"),
+    ("ScienceDaily", "https://www.sciencedaily.com/rss/matter_energy/physics.xml"),
+    ("ScienceDaily Nanotechnology", "https://www.sciencedaily.com/rss/matter_energy/nanotechnology.xml"),
+    ("Nature Physics", "https://www.nature.com/subjects/physics.rss"),
+]
 NEWS_TOPICS = [
     "physics",
     "space science",
@@ -35,44 +41,60 @@ def format_date(value):
         return "Recent"
 
 
+def first_text(item, names):
+    for name in names:
+        value = item.findtext(name)
+        if value:
+            return value
+    return ""
+
+
 def matches_topic(item):
     searchable_text = " ".join([
-        item.findtext("title") or "",
-        item.findtext("description") or "",
+        first_text(item, ["title"]),
+        first_text(item, ["description", "{http://purl.org/rss/1.0/modules/content/}encoded"]),
         " ".join(category.text or "" for category in item.findall("category")),
     ]).lower()
     return not NEWS_TOPICS or any(topic.lower() in searchable_text for topic in NEWS_TOPICS)
 
 
 def main():
-    request = urllib.request.Request(FEED_URL, headers={"User-Agent": "indrajeet-spc.github.io scientific news updater"})
-    with urllib.request.urlopen(request, timeout=30) as response:
-        root = ET.fromstring(response.read())
-
     items = []
-    for item in root.findall("./channel/item"):
-        if not matches_topic(item):
+    seen_urls = set()
+    for source, feed_url in FEEDS:
+        request = urllib.request.Request(feed_url, headers={"User-Agent": "indrajeet-spc.github.io scientific news updater"})
+        try:
+            with urllib.request.urlopen(request, timeout=30) as response:
+                root = ET.fromstring(response.read())
+        except (OSError, ET.ParseError):
             continue
 
-        title = clean_text(item.findtext("title"), 140)
-        url = (item.findtext("link") or "").strip()
-        summary = clean_text(item.findtext("description"), 220)
-        if title and url:
-            items.append({
-                "title": title,
-                "url": url,
-                "date": format_date(item.findtext("pubDate")),
-                "summary": summary,
-            })
-        if len(items) == 6:
+        for item in root.findall("./channel/item"):
+            if not matches_topic(item):
+                continue
+
+            title = clean_text(first_text(item, ["title"]), 140)
+            url = first_text(item, ["link"]).strip()
+            abstract = clean_text(first_text(item, ["description", "{http://purl.org/rss/1.0/modules/content/}encoded"]), 300)
+            if title and url and url not in seen_urls:
+                items.append({
+                    "title": title,
+                    "url": url,
+                    "source": source,
+                    "date": format_date(first_text(item, ["pubDate", "published", "updated"])),
+                    "abstract": abstract or "Abstract unavailable. Open the full article for details.",
+                })
+                seen_urls.add(url)
+            if len(items) == 12:
+                break
+        if len(items) == 12:
             break
 
     if not items:
-        raise RuntimeError("The NASA feed returned no usable stories")
+        raise RuntimeError("The configured science feeds returned no usable stories")
 
     payload = {
-        "source": "NASA News",
-        "source_url": "https://www.nasa.gov/news/",
+        "sources": [{"name": source, "url": feed_url} for source, feed_url in FEEDS],
         "updated_at": __import__("datetime").datetime.now(timezone.utc).isoformat(),
         "items": items,
     }

@@ -44,7 +44,7 @@ Behavior and properties of light and its interaction with matter.
 
 ## Scientific News
 
-Latest science stories from NASA, refreshed automatically every day.
+Latest science stories from multiple sources, refreshed automatically every day.
 
 <div id="scientific-news" class="news-grid" aria-live="polite">
 <p class="news-status">Loading the latest scientific news…</p>
@@ -76,14 +76,15 @@ document.addEventListener("DOMContentLoaded", function () {
 
 			newsContainer.innerHTML = data.items.map(function (item) {
 				return '<article class="news-card">' +
-					'<p class="news-date">' + escapeHtml(item.date) + '</p>' +
+					'<p class="news-date">' + escapeHtml(item.date) + ' · ' + escapeHtml(item.source) + '</p>' +
 					'<h3><a href="' + escapeHtml(item.url) + '" target="_blank" rel="noopener">' + escapeHtml(item.title) + '</a></h3>' +
-					'<p>' + escapeHtml(item.summary) + '</p>' +
+					'<p class="news-abstract"><strong>Abstract:</strong> ' + escapeHtml(item.abstract) + '</p>' +
+					'<a class="news-link" href="' + escapeHtml(item.url) + '" target="_blank" rel="noopener">Read complete news →</a>' +
 					'</article>';
 			}).join("");
 		})
 		.catch(function () {
-			newsContainer.innerHTML = '<p class="news-status">Scientific news is temporarily unavailable. <a href="https://www.nasa.gov/news/" target="_blank" rel="noopener">Visit NASA News</a>.</p>';
+			newsContainer.innerHTML = '<p class="news-status">Scientific news is temporarily unavailable. Please try again later.</p>';
 		});
 });
 </script>
