@@ -165,7 +165,7 @@ img {
 .profile-block {
     flex-shrink: 0;
 
-    text-align: center;
+    text-align: right;
 }
 
 .profile-contact {
@@ -1168,7 +1168,7 @@ footer {
     }
 
     .page-header-content .profile-block {
-        align-self: center;
+        align-self: flex-end;
     }
 
     .profile-photo {
