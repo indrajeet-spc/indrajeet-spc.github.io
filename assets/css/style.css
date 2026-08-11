@@ -1064,6 +1064,19 @@ img {
     font-size: 0.9rem;
 }
 
+.semester-topics ul {
+    margin: 10px 0 0;
+    padding-left: 18px;
+    color: var(--muted);
+    font-size: 0.8rem;
+    font-weight: 400;
+    line-height: 1.55;
+}
+
+.semester-topics li {
+    margin: 2px 0;
+}
+
 
 /* =========================================================
    SCIENTIFIC NEWS
