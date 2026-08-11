@@ -11,8 +11,6 @@ permalink: /teaching/
 
 <div class="teaching-trees" aria-label="Teaching course tree">
 <section class="teaching-tree-panel">
-<p class="tree-label">THEORY</p>
-<h2>Theory Courses</h2>
 <ul class="course-tree">
 <li><span class="tree-node tree-root">Theory</span>
 <ul>
@@ -44,8 +42,6 @@ permalink: /teaching/
 </section>
 
 <section class="teaching-tree-panel">
-<p class="tree-label">PRACTICAL</p>
-<h2>Practical Courses</h2>
 <ul class="course-tree">
 <li><span class="tree-node tree-root">Practical</span>
 <ul>
