@@ -1033,38 +1033,30 @@ img {
     margin: 24px 0;
 }
 
-.semester-topics a {
+.semester-topic-box {
     display: block;
     padding: 16px;
     border: 1px solid #dbe7df;
     border-radius: 8px;
     background: #ffffff;
     color: var(--ink);
-    text-decoration: none;
-    transition: 0.2s ease;
 }
 
-.semester-topics a:hover {
-    border-color: #4f9f3a;
-    background: #eaf6e7;
-    transform: translateY(-2px);
-}
-
-.semester-topics strong,
-.semester-topics span {
+.semester-topic-box strong,
+.semester-topic-box span {
     display: block;
 }
 
-.semester-topics strong {
+.semester-topic-box strong {
     color: #356c2d;
 }
 
-.semester-topics span {
+.semester-topic-box span {
     margin-top: 5px;
     font-size: 0.9rem;
 }
 
-.semester-topics ul {
+.semester-topic-box ul {
     margin: 10px 0 0;
     padding-left: 18px;
     color: var(--muted);
@@ -1073,8 +1065,17 @@ img {
     line-height: 1.55;
 }
 
-.semester-topics li {
+.semester-topic-box li {
     margin: 2px 0;
+}
+
+.semester-topic-box li a {
+    color: var(--blue);
+    text-decoration: underline;
+}
+
+.semester-topic-box li a:hover {
+    color: #356c2d;
 }
 
 
