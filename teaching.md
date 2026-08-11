@@ -16,7 +16,7 @@ permalink: /teaching/
 <div class="radial-root">Theory<span>Physics courses</span></div>
 <div class="radial-branches">
 <div class="radial-branch branch-ug"><h3>UG</h3><div class="branch-leaves">
-<a href="#semester-i">Semester I</a><a href="https://indrajeet-spc.github.io/lecture-notes">Semester II</a><a href="https://indrajeet-spc.github.io/lecture-notes">Semester III</a><a href="https://indrajeet-spc.github.io/lecture-notes">Semester IV</a><a href="https://indrajeet-spc.github.io/lecture-notes">Semester V</a><a href="https://indrajeet-spc.github.io/lecture-notes">Semester VI</a><a href="https://indrajeet-spc.github.io/lecture-notes">Semester VII</a><a href="https://indrajeet-spc.github.io/lecture-notes">Semester VIII</a>
+<a href="{{ '/semester-i/' | relative_url }}">Semester I</a><a href="https://indrajeet-spc.github.io/lecture-notes">Semester II</a><a href="https://indrajeet-spc.github.io/lecture-notes">Semester III</a><a href="https://indrajeet-spc.github.io/lecture-notes">Semester IV</a><a href="https://indrajeet-spc.github.io/lecture-notes">Semester V</a><a href="https://indrajeet-spc.github.io/lecture-notes">Semester VI</a><a href="https://indrajeet-spc.github.io/lecture-notes">Semester VII</a><a href="https://indrajeet-spc.github.io/lecture-notes">Semester VIII</a>
 </div></div>
 <div class="radial-branch branch-pg"><h3>PG</h3><div class="branch-leaves">
 <a href="https://indrajeet-spc.github.io/PG-lecture-notes">Semester I</a><a href="https://indrajeet-spc.github.io/PG-lecture-notes">Semester II</a><a href="https://indrajeet-spc.github.io/PG-lecture-notes">Semester III</a><a href="https://indrajeet-spc.github.io/PG-lecture-notes">Semester IV</a><a href="{{ '/dissertation/' | relative_url }}">Dissertation</a>
@@ -40,18 +40,6 @@ permalink: /teaching/
 </div></div>
 </section>
 </div>
-
-<section id="semester-i" class="semester-syllabus" aria-labelledby="semester-i-title">
-<p class="tree-label">SEMESTER I</p>
-<h2 id="semester-i-title">MJ-1: Mechanics and Properties of Matter</h2>
-<p class="semester-meta">Theory: 45 hours · Practical: 30 hours · Credits: 3 theory + 1 practical</p>
-<p>Choose a topic to open its lecture notes.</p>
-<div class="semester-topics">
-<a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener"><strong>Unit I</strong><span>General Properties of Matter</span></a>
-<a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener"><strong>Unit II</strong><span>Central Force Motion and Oscillation</span></a>
-<a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener"><strong>Unit III</strong><span>Special Theory of Relativity</span></a>
-</div>
-</section>
 
 ## Semester-wise Physics Syllabus
 

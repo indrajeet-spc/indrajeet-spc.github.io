@@ -1026,41 +1026,16 @@ img {
     transform: translateY(-2px);
 }
 
-.semester-syllabus {
-    display: none;
-    margin: 45px 0;
-    padding: 28px;
-    border: 1px solid #dbe7df;
-    border-top: 5px solid #4f9f3a;
-    border-radius: 12px;
-    background: linear-gradient(145deg, #f8fcf7, #ffffff);
-    box-shadow: 0 10px 24px rgba(11, 39, 66, 0.08);
-    scroll-margin-top: 90px;
-}
-
-.semester-syllabus:target {
-    display: block;
-}
-
-.semester-syllabus h2 {
-    margin: 0 0 8px;
-}
-
-.semester-meta {
-    color: var(--muted);
-    font-size: 0.9rem;
-}
-
 .semester-topics {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 12px;
-    margin: 22px 0;
+    margin: 24px 0;
 }
 
 .semester-topics a {
     display: block;
-    padding: 15px;
+    padding: 16px;
     border: 1px solid #dbe7df;
     border-radius: 8px;
     background: #ffffff;
