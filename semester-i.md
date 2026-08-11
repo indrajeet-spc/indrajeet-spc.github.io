@@ -13,7 +13,9 @@ permalink: /semester-i/
 - **Practical:** 30 teaching hours
 - **Credits:** 3 theory + 1 practical
 
-Select a theory topic or practical experiment below to open the Semester I lecture-notes page.
+Select a theory topic below to open the Semester I lecture-notes page.
+
+> For Semester I practical experiments, visit [Semester I Practical Physics]({{ '/semester-i-practical/' | relative_url }}).
 
 ### Theory Topics
 
@@ -23,13 +25,4 @@ Select a theory topic or practical experiment below to open the Semester I lectu
 <div class="semester-topic-box"><strong>Unit III</strong><span>Special Theory of Relativity</span><ul><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Inertial and non-inertial frames</a></li><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Michelson-Morley experiment</a></li><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Postulates of special relativity</a></li><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Lorentz transformations</a></li></ul></div>
 </div>
 
-### Practical Experiments
 
-<div class="semester-topics practical-topics">
-<div class="semester-topic-box"><strong>Experiment 1</strong><span>Simple Pendulum</span><ul><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Determine the value of g</a></li></ul></div>
-<div class="semester-topic-box"><strong>Experiment 2</strong><span>Bar Pendulum</span><ul><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Determine the value of g</a></li></ul></div>
-<div class="semester-topic-box"><strong>Experiment 3</strong><span>Kater's Pendulum</span><ul><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Determine the value of g</a></li></ul></div>
-<div class="semester-topic-box"><strong>Experiment 4</strong><span>Motion of Spring</span><ul><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Calculate spring constant, g and modulus of rigidity</a></li></ul></div>
-<div class="semester-topic-box"><strong>Experiment 5</strong><span>Searle's Method</span><ul><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Determine the elastic constants of a wire</a></li></ul></div>
-<div class="semester-topic-box"><strong>Experiment 6</strong><span>Maxwell's Needle</span><ul><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Determine the modulus of rigidity of a wire</a></li></ul></div>
-</div>
