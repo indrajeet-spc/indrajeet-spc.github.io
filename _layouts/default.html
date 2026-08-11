@@ -12,7 +12,7 @@
 <div class="profile-block"><img src="{{ '/images/profile-photo.jpg' | relative_url }}" alt="Dr. Indrajeet Kumar" class="profile-photo"><div class="profile-contact"><a href="tel:+918638874019">8638874019</a><a href="mailto:indrajeet.spcollege@gmail.com">indrajeet.spcollege@gmail.com</a></div></div>
 {% else %}<div class="page-header-content"><div><p class="kicker">{{ page.kicker }}</p><h1>{{ page.heading | default: page.title }}</h1>{% if page.subtitle %}<p>{{ page.subtitle }}</p>{% endif %}</div><div class="profile-block"><img src="{{ '/images/profile-photo.jpg' | relative_url }}" alt="Dr. Indrajeet Kumar" class="profile-photo"><div class="profile-contact"><a href="tel:+918638874019">8638874019</a><a href="mailto:indrajeet.spcollege@gmail.com">indrajeet.spcollege@gmail.com</a></div></div></div>{% endif %}
 </div></header>
-<nav class="navbar"><div class="nav-inner"><a class="brand" href="{{ '/' | relative_url }}">IJK</a><div class="nav-links">
+<nav class="navbar"><div class="nav-inner"><a class="brand" href="{{ '/' | relative_url }}"><span class="brand-mark"><img src="{{ '/images/profile-photo.jpg' | relative_url }}" alt=""></span><span class="brand-copy"><strong>IJK</strong><small>PHYSICS</small></span></a><div class="nav-links">
 <a href="{{ '/about/' | relative_url }}" class="{% if page.url contains 'about' %}active{% endif %}">About</a>
 <a href="{{ '/teaching/' | relative_url }}" class="{% if page.url contains 'teaching' %}active{% endif %}">Teaching</a>
 <a href="{{ '/research/' | relative_url }}" class="{% if page.url contains 'research' %}active{% endif %}">Research</a>

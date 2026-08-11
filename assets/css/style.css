@@ -251,12 +251,12 @@ img {
 
     width: 100%;
 
-    background: rgba(255, 255, 255, 0.96);
+    background: var(--navy);
 
     border-top: 3px solid var(--accent);
-    border-bottom: 1px solid rgba(20, 93, 160, 0.12);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.14);
 
-    box-shadow: 0 8px 24px rgba(11, 39, 66, 0.08);
+    box-shadow: 0 8px 24px rgba(11, 39, 66, 0.2);
     backdrop-filter: blur(12px);
 }
 
@@ -276,20 +276,11 @@ img {
 }
 
 .brand {
-    font-weight: 800;
     text-decoration: none;
 
-    color: #ffffff;
-    background: linear-gradient(145deg, var(--navy), var(--blue));
-
-    width: 42px;
-    height: 42px;
-
-    border-radius: 10px;
-    box-shadow: 0 5px 12px rgba(11, 39, 66, 0.2);
-
-    display: grid;
-    place-items: center;
+    display: flex;
+    align-items: center;
+    gap: 10px;
 
     flex-shrink: 0;
 
@@ -300,8 +291,44 @@ img {
 
 .brand:hover {
     color: #ffffff;
-    transform: translateY(-2px) rotate(-3deg);
-    box-shadow: 0 8px 16px rgba(11, 39, 66, 0.25);
+    transform: translateY(-1px);
+}
+
+.brand-mark {
+    width: 42px;
+    height: 42px;
+    padding: 3px;
+    border: 2px solid var(--accent);
+    border-radius: 50%;
+    background: var(--accent);
+    box-shadow: 0 5px 12px rgba(0, 0, 0, 0.2);
+}
+
+.brand-mark img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.brand-copy {
+    display: grid;
+    gap: 1px;
+    line-height: 1;
+    color: #ffffff;
+}
+
+.brand-copy strong {
+    font-size: 1rem;
+    letter-spacing: 0.08em;
+}
+
+.brand-copy small {
+    color: #b9d2e4;
+    font-size: 0.58rem;
+    font-weight: 700;
+    letter-spacing: 0.18em;
 }
 
 .nav-links {
@@ -324,7 +351,7 @@ img {
 
     text-decoration: none;
 
-    color: var(--ink);
+    color: #e7f1f8;
 
     font-size: 0.95rem;
 
@@ -337,8 +364,8 @@ img {
 
 .nav-links a:hover,
 .nav-links a.active {
-    color: var(--blue);
-    background: #edf5fb;
+    color: #ffffff;
+    background: rgba(255, 255, 255, 0.1);
 }
 
 .nav-links a:hover {
