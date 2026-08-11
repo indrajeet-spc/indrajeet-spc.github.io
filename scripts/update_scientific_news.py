@@ -9,6 +9,15 @@ from pathlib import Path
 
 FEED_URL = "https://www.nasa.gov/rss/dyn/breaking_news.rss"
 OUTPUT_PATH = Path(__file__).resolve().parents[1] / "data" / "scientific-news.json"
+NEWS_TOPICS = [
+    "physics",
+    "space science",
+    "surface plasmon resonance",
+    "density functional theory",
+    "optical sensors",
+    "double resonance",
+    "graphene",
+]
 
 
 def clean_text(value, limit):
@@ -26,13 +35,25 @@ def format_date(value):
         return "Recent"
 
 
+def matches_topic(item):
+    searchable_text = " ".join([
+        item.findtext("title") or "",
+        item.findtext("description") or "",
+        " ".join(category.text or "" for category in item.findall("category")),
+    ]).lower()
+    return not NEWS_TOPICS or any(topic.lower() in searchable_text for topic in NEWS_TOPICS)
+
+
 def main():
     request = urllib.request.Request(FEED_URL, headers={"User-Agent": "indrajeet-spc.github.io scientific news updater"})
     with urllib.request.urlopen(request, timeout=30) as response:
         root = ET.fromstring(response.read())
 
     items = []
-    for item in root.findall("./channel/item")[:6]:
+    for item in root.findall("./channel/item"):
+        if not matches_topic(item):
+            continue
+
         title = clean_text(item.findtext("title"), 140)
         url = (item.findtext("link") or "").strip()
         summary = clean_text(item.findtext("description"), 220)
@@ -43,6 +64,8 @@ def main():
                 "date": format_date(item.findtext("pubDate")),
                 "summary": summary,
             })
+        if len(items) == 6:
+            break
 
     if not items:
         raise RuntimeError("The NASA feed returned no usable stories")
