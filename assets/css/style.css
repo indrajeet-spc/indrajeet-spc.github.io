@@ -1020,22 +1020,6 @@ img {
     transition: 0.2s ease;
 }
 
-.branch-leaves a strong,
-.branch-leaves a span {
-    display: block;
-}
-
-.branch-leaves a strong {
-    color: #285c24;
-}
-
-.branch-leaves a span {
-    margin-top: 2px;
-    color: #557255;
-    font-size: 0.65rem;
-    font-weight: 500;
-}
-
 .branch-leaves a:hover {
     border-color: #4f9f3a;
     background: #eaf6e7;

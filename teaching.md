@@ -16,14 +16,7 @@ permalink: /teaching/
 <div class="radial-root">Theory<span>Physics courses</span></div>
 <div class="radial-branches">
 <div class="radial-branch branch-ug"><h3>UG</h3><div class="branch-leaves">
-<a href="{{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}"><strong>Semester I</strong><span>MJ-1: Mechanics and Properties of Matter</span></a>
-<a href="{{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}"><strong>Semester II</strong><span>MJ-2: Mathematical Physics-I</span></a>
-<a href="{{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}"><strong>Semester III</strong><span>MJ-3: Electricity and Magnetism<br>MJ-4: Waves and Optics</span></a>
-<a href="{{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}"><strong>Semester IV</strong><span>MJ-5 to MJ-7: Heat, IKS and Semiconductor Devices</span></a>
-<a href="{{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}"><strong>Semester V</strong><span>MJ-8 to MJ-11: EM Theory, Numerical Techniques, Classical and Quantum Mechanics</span></a>
-<a href="{{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}"><strong>Semester VI</strong><span>MJ-12 to MJ-15: Modern, Statistical, Digital and Solid State Physics</span></a>
-<a href="{{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}"><strong>Semester VII</strong><span>MJ-16 to MJ-18, AMJ-1 and RM-1</span></a>
-<a href="{{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}"><strong>Semester VIII</strong><span>MJ-19, MJ-20, AMJ-2, AMJ-3 and RP/D-1</span></a>
+<a href="https://indrajeet-spc.github.io/lecture-notes">Semester I</a><a href="https://indrajeet-spc.github.io/lecture-notes">Semester II</a><a href="https://indrajeet-spc.github.io/lecture-notes">Semester III</a><a href="https://indrajeet-spc.github.io/lecture-notes">Semester IV</a><a href="https://indrajeet-spc.github.io/lecture-notes">Semester V</a><a href="https://indrajeet-spc.github.io/lecture-notes">Semester VI</a><a href="https://indrajeet-spc.github.io/lecture-notes">Semester VII</a><a href="https://indrajeet-spc.github.io/lecture-notes">Semester VIII</a>
 </div></div>
 <div class="radial-branch branch-pg"><h3>PG</h3><div class="branch-leaves">
 <a href="https://indrajeet-spc.github.io/PG-lecture-notes">Semester I</a><a href="https://indrajeet-spc.github.io/PG-lecture-notes">Semester II</a><a href="https://indrajeet-spc.github.io/PG-lecture-notes">Semester III</a><a href="https://indrajeet-spc.github.io/PG-lecture-notes">Semester IV</a><a href="{{ '/dissertation/' | relative_url }}">Dissertation</a>
@@ -47,6 +40,59 @@ permalink: /teaching/
 </div></div>
 </section>
 </div>
+
+## Semester-wise Physics Syllabus
+
+The following courses are organized from the **Physics MJ & RC** syllabus of Sido Kanhu Murmu University, Dumka.
+
+### Semester I
+
+- **MJ-1:** Mechanics and Properties of Matter
+
+### Semester II
+
+- **MJ-2:** Mathematical Physics-I
+
+### Semester III
+
+- **MJ-3:** Electricity and Magnetism
+- **MJ-4:** Waves and Optics
+
+### Semester IV
+
+- **MJ-5:** Indian Knowledge System: Physics in Ancient India
+- **MJ-6:** Heat and Thermodynamics
+- **MJ-7:** Semiconductor Devices
+
+### Semester V
+
+- **MJ-8:** Electromagnetic Theory
+- **MJ-9:** Numerical Techniques and Programming
+- **MJ-10:** Classical Mechanics
+- **MJ-11:** Quantum Mechanics-I
+
+### Semester VI
+
+- **MJ-12:** Modern Physics
+- **MJ-13:** Statistical Mechanics
+- **MJ-14:** Digital Electronics and Applications
+- **MJ-15:** Solid State Physics
+
+### Semester VII
+
+- **MJ-16:** Electrodynamics and Plasma Physics
+- **MJ-17:** Mathematical Physics-II
+- **MJ-18:** Quantum Mechanics-II
+- **AMJ-1:** Advanced Quantum Mechanics
+- **RM-1:** Research Methodology
+
+### Semester VIII
+
+- **MJ-19:** Nuclear and Particle Physics
+- **MJ-20:** Dissertation
+- **AMJ-2:** Classical Dynamics
+- **AMJ-3:** Advanced Statistical Mechanics
+- **RP/D-1:** Research Project or Dissertation
 
 ## Complete Syllabus
 
