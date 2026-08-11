@@ -1053,6 +1053,122 @@ img {
     font-size: 0.82rem;
 }
 
+
+/* =========================================================
+   NOBEL PHYSICS COLLECTION
+   ========================================================= */
+
+.nobel-toolbar {
+    display: flex;
+
+    align-items: center;
+
+    gap: 12px;
+
+    margin: 25px 0;
+
+    padding: 14px 18px;
+
+    border-left: 4px solid var(--accent);
+
+    background: var(--soft);
+}
+
+.nobel-toolbar label {
+    font-weight: 700;
+}
+
+.nobel-toolbar select {
+    min-width: 150px;
+
+    padding: 8px 10px;
+
+    border: 1px solid var(--line);
+
+    border-radius: 5px;
+
+    background: #ffffff;
+
+    color: var(--ink);
+
+    font: inherit;
+}
+
+.nobel-list {
+    display: grid;
+
+    gap: 16px;
+}
+
+.nobel-card {
+    display: grid;
+
+    grid-template-columns: 105px 1fr;
+
+    border: 1px solid var(--line);
+
+    border-left: 5px solid var(--accent);
+
+    background: #ffffff;
+
+    box-shadow: 0 7px 20px rgba(11, 39, 66, 0.05);
+}
+
+.nobel-year {
+    display: grid;
+
+    place-items: center;
+
+    background: #fff8e8;
+
+    color: #8c6010;
+
+    font-family: "Source Serif 4", Georgia, serif;
+
+    font-size: 1.8rem;
+
+    font-weight: 700;
+}
+
+.nobel-content {
+    padding: 20px 24px;
+}
+
+.nobel-content h2 {
+    margin: 0 0 12px;
+
+    font-size: 1.35rem;
+}
+
+.nobel-content p {
+    margin: 7px 0;
+
+    color: var(--muted);
+}
+
+.nobel-links {
+    display: flex;
+
+    flex-wrap: wrap;
+
+    gap: 18px;
+
+    margin-top: 16px;
+}
+
+.nobel-links a {
+    font-size: 0.9rem;
+
+    font-weight: 700;
+}
+
+.nobel-attribution {
+    margin-top: 22px;
+
+    color: var(--muted);
+
+    font-size: 0.85rem;
+}
 .news-date {
     margin: 0 0 8px;
 
@@ -1378,6 +1494,24 @@ footer {
     .news-grid,
     .teaching-trees {
         grid-template-columns: 1fr;
+    }
+
+    .nobel-card {
+        grid-template-columns: 1fr;
+    }
+
+    .nobel-year {
+        min-height: 60px;
+    }
+
+    .nobel-content {
+        padding: 18px;
+    }
+
+    .nobel-toolbar {
+        align-items: flex-start;
+
+        flex-direction: column;
     }
 
     .teaching-trees {
