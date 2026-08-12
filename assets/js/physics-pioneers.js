@@ -242,14 +242,37 @@ document.addEventListener('DOMContentLoaded', function () {
 
   function ensureScientistData(cb) {
     if (scientistMap) { if (cb) cb(); return; }
-    fetch('/data/scientists.json')
-      .then(function (r) { return r.json(); })
-      .then(function (data) {
-        scientistMap = {};
-        data.forEach(function (item) { scientistMap[item.slug] = item; });
-        if (cb) cb();
-      })
-      .catch(function () { if (cb) cb(); });
+
+    var candidates = [
+      '/data/scientists.json',
+      'data/scientists.json',
+      window.location.origin + '/data/scientists.json',
+      (window.location.origin + window.location.pathname.replace(/\/[^/]*$/, '') + '/data/scientists.json').replace(/([^:])\/\//g,'$1/'),
+    ];
+
+    var tried = 0;
+    function tryNext() {
+      if (tried >= candidates.length) { console.warn('Physics Pioneers: could not load scientists.json from any candidate'); if (cb) cb(); return; }
+      var url = candidates[tried++];
+      // avoid fetching obvious duplicates
+      if (!url) return tryNext();
+      fetch(url)
+        .then(function (r) {
+          if (!r.ok) throw new Error('status ' + r.status);
+          return r.json();
+        })
+        .then(function (data) {
+          scientistMap = {};
+          data.forEach(function (item) { scientistMap[item.slug] = item; });
+          if (cb) cb();
+        })
+        .catch(function (err) {
+          console.debug('Physics Pioneers: failed to load', url, err && err.message);
+          tryNext();
+        });
+    }
+
+    tryNext();
   }
 
   document.querySelectorAll('.section-toc a').forEach(function (link) {
