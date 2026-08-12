@@ -8,7 +8,7 @@
 <header class="{% if page.url == '/' %}site-header{% else %}page-header{% endif %}">
 <div class="{% if page.url == '/' %}header-inner{% else %}container{% endif %}">
 {% if page.url == '/' %}
-<div class="header-text"><p class="eyebrow">{{ page.kicker | default: "FACULTY • PHYSICS" }}</p><h1>{{ page.heading | default: "Dr. Indrajeet Kumar" }}</h1><p class="designation">Assistant Professor of Physics</p><p class="institution">Department of Physics, S.P. College, Dumka<br>Sido Kanhu Murmu University, Dumka, Jharkhand, India</p></div>
+<div class="header-text"><p class="eyebrow">{{ page.kicker | default: "FACULTY • PHYSICS" }}</p><h1>{{ page.heading | default: "Dr. Indrajeet Kumar" }}</h1><p class="designation">Assistant Professor</p><p class="institution">Department of Physics, S.P. College, Dumka<br>Sido Kanhu Murmu University, Dumka, Jharkhand, India</p></div>
 <div class="profile-block"><img src="{{ '/images/profile-photo.jpg' | relative_url }}" alt="Dr. Indrajeet Kumar" class="profile-photo"><div class="profile-contact"><a href="tel:+918638874019">8638874019</a><a href="mailto:indrajeet.spcollege@gmail.com">indrajeet.spcollege@gmail.com</a></div></div>
 {% else %}<div class="page-header-content"><div><p class="kicker">{{ page.kicker }}</p><h1>{{ page.heading | default: page.title }}</h1>{% if page.subtitle %}<p>{{ page.subtitle }}</p>{% endif %}</div><div class="profile-block"><img src="{{ '/images/profile-photo.jpg' | relative_url }}" alt="Dr. Indrajeet Kumar" class="profile-photo"><div class="profile-contact"><a href="tel:+918638874019">8638874019</a><a href="mailto:indrajeet.spcollege@gmail.com">indrajeet.spcollege@gmail.com</a></div></div></div>{% endif %}
 </div></header>
