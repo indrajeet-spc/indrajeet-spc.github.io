@@ -17,11 +17,14 @@ document.addEventListener('DOMContentLoaded', function () {
 
   if (contentRoot) {
     Array.from(contentRoot.querySelectorAll('h3')).forEach(function (h3) {
-      var generatedId = h3.id || h3.getAttribute('id') || slugify(h3.textContent || '');
+      // prefer explicit {#slug} in the heading text if present
+      var textRaw = h3.textContent || '';
+      var explicit = (textRaw.match(/\{\#([^\}]+)\}/) || [])[1];
+      var generatedId = explicit || h3.id || h3.getAttribute('id') || slugify(textRaw || '');
       if (!generatedId) return;
       h3.id = generatedId;
 
-      var title = (h3.textContent || '').replace(/\s*\{\#.*\}\s*$/, '').trim();
+      var title = (textRaw || '').replace(/\s*\{\#.*\}\s*$/, '').trim();
       var section = {
         id: generatedId,
         title: title,
@@ -40,8 +43,14 @@ document.addEventListener('DOMContentLoaded', function () {
 
       sectionMap[generatedId] = section;
       sectionMap[normalizeKey(generatedId)] = section;
-      sectionMap[normalizeKey(title.replace(/^\s*\d+[\.)]?\s*/, ''))] = section;
+      var titleNoNum = title.replace(/^\s*\d+[\.)]?\s*/, '').trim();
+      sectionMap[normalizeKey(titleNoNum)] = section;
+      // also index by the primary phrase before '&', ':' or similar so links like
+      // '#classical-mechanics' match 'Classical Mechanics & Foundations'
+      var primary = titleNoNum.split(/[&:\u2013\u2014\-–—]/)[0].trim();
+      if (primary) sectionMap[normalizeKey(primary)] = section;
     });
+    console.info('Physics Pioneers: detected sections', Object.keys(sectionMap));
   }
 
   function renderRightList(id) {
