@@ -10,7 +10,7 @@ permalink: /physics-pioneers/
 <p>Physics Pioneers highlights major contributors to the field and links directly to authoritative citation sources for their discoveries.</p>
 
 <div class="scientist-ribbon">
-  <a class="scientist-card" href="https://www.nobelprize.org/prizes/physics/1903/curie/facts/" target="_blank" rel="noopener">
+  <a class="scientist-card" href="https://www.nobelprize.org/prizes/physics/1903/marie-curie/facts/" target="_blank" rel="noopener">
     <h3>Marie Curie</h3>
     <p>Discovered radioactivity and isolated polonium and radium, opening the field of nuclear science.</p>
     <p class="citation">Source: Nobel Prize in Physics, 1903</p>
