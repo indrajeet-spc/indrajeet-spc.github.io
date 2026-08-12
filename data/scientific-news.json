@@ -21,14 +21,21 @@
       "url": "https://www.nature.com/subjects/physics.rss"
     }
   ],
-  "updated_at": "2026-08-11T09:33:00.776001+00:00",
+  "updated_at": "2026-08-12T06:43:21.483831+00:00",
   "items": [
     {
-      "title": "Lion Nebula Roars to Life With NASA\u2019s Webb",
-      "url": "https://science.nasa.gov/missions/webb/lion-nebula-roars-to-life-with-nasas-webb/",
-      "source": "NASA News",
-      "date": "10 Aug 2026",
-      "abstract": "Observing across the starry \u201cplains\u201d of space, NASA\u2019s James Webb Space Telescope has taken new images of NGC 2392, nicknamed the Lion Nebula. NASA\u2019s Hubble Space Telescope previously viewed this planetary nebula in 2000, imaging the lion face-shaped target in visible light and revealing features suc..."
+      "title": "New CERN measurement challenges conventional models of how gluons behave inside atomic nuclei",
+      "url": "https://phys.org/news/2026-08-cern-conventional-gluons-atomic-nuclei.html",
+      "source": "Phys.org",
+      "date": "11 Aug 2026",
+      "abstract": "A University of Kansas physicist played a leading role in a CERN study showing that two rival explanations for how gluons behave inside atomic nuclei can now be experimentally distinguished."
+    },
+    {
+      "title": "X-rays: Beyond the Nobel Prize limit",
+      "url": "https://phys.org/news/2026-08-rays-nobel-prize-limit.html",
+      "source": "Phys.org",
+      "date": "11 Aug 2026",
+      "abstract": "When certain atoms are irradiated with laser light, they can produce a very different kind of laser light: laser pulses with extremely high frequencies in the X-ray range. These laser pulses, which helped achieve record-breaking results at TU Wien in the 1990s, were the subject of the 2023 Nobel Pri..."
     },
     {
       "title": "Tiny particles defy action-reaction symmetry to stay in motion",
@@ -92,13 +99,6 @@
       "source": "Phys.org",
       "date": "05 Aug 2026",
       "abstract": "All chemistry starts with a push from electrons. In the early moments of a chemical reaction, it's the movement of electrons that initiates the breaking of old chemical bonds and forging of new ones, transforming one molecule into another."
-    },
-    {
-      "title": "Using the Earth's magnetic field to hunt for axions and dark photons",
-      "url": "https://phys.org/news/2026-08-earth-magnetic-field-axions-dark.html",
-      "source": "Phys.org",
-      "date": "05 Aug 2026",
-      "abstract": "Dark matter's existence is all but certain\u2014astronomers believe it makes up about a quarter of the universe's total energy content\u2014yet its true identity has eluded us for decades. Two of the leading candidates for dark matter are the hypothetical particles ultralight axions and dark photons, which in..."
     },
     {
       "title": "A 200-year-old physics experiment could help build future computers",
