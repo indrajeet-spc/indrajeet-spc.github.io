@@ -1,81 +1,49 @@
 document.addEventListener('DOMContentLoaded', function () {
-  // Wrap headings + following lists into section blocks (id comes from heading id)
-  var firstH3 = document.querySelector('h3');
-  var contentRoot = (firstH3 && firstH3.parentElement) || document.querySelector('.container.prose') || document.querySelector('main') || document.body;
-  if (contentRoot) {
-    var headings = Array.from(contentRoot.querySelectorAll('h3'));
-    headings.forEach(function (h3, idx) {
-      var id = h3.id || h3.getAttribute('id');
-      if (!id) return;
-      var wrapper = document.createElement('div');
-      wrapper.className = 'section-block';
-      wrapper.id = id;
-      // insert wrapper before heading and move heading into wrapper
-      contentRoot.insertBefore(wrapper, h3);
-      wrapper.appendChild(h3);
-      // move following siblings until next h3
-      var sib = wrapper.nextSibling;
-      while (sib && !(sib.nodeType===1 && sib.tagName==='H3')) {
-        var next = sib.nextSibling;
-        wrapper.appendChild(sib);
-        sib = next;
-      }
-    });
-
-    // hide all sections initially, show first by default
-    var sections = Array.from(contentRoot.querySelectorAll('.section-block'));
-    sections.forEach(function(s){ s.style.display = 'none'; });
-    if (sections.length) {
-      sections[0].style.display = 'block';
-      // mark corresponding TOC link active
-      var firstId = sections[0].id;
-      var tocLinks = document.querySelectorAll('.section-toc a');
-      tocLinks.forEach(function(a){ if (a.getAttribute('href').substring(1)===firstId) a.classList.add('active'); });
-      // render the first section into the right pane
-      renderRightList(firstId);
-    }
-  }
-
-  // Convert plain list items into links and set data-slug
   function slugify(name) {
-    return name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/-+/g, '-').replace(/(^-|-$)/g, '');
+    return (name || '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/-+/g, '-').replace(/(^-|-$)/g, '');
   }
-  document.querySelectorAll('.section-block li').forEach(function (li) {
-    // skip if already converted
-    if (li.querySelector('.scientist-link')) return;
-    var text = li.textContent.trim();
-    var parts = text.split('\u2014'); // em dash
-    if (parts.length===1) parts = text.split(' - ');
-    var name = parts[0].trim();
-    var desc = parts[1] ? parts[1].trim() : '';
-    var slug = slugify(name);
-    var a = document.createElement('a');
-    a.className = 'scientist-link';
-    a.href = '/scientist.html?slug=' + encodeURIComponent(slug);
-    a.setAttribute('data-slug', slug);
-    a.innerHTML = name + ' <span class="dates" data-slug="' + slug + '"></span>';
-    // clear li and append
-    li.innerHTML = '';
-    li.appendChild(a);
-    if (desc) {
-      li.insertAdjacentHTML('beforeend', ' — ' + desc);
-    }
-  });
 
-  // Toggle sections when TOC links clicked
-  document.querySelectorAll('.section-toc a').forEach(function (link) {
-    link.addEventListener('click', function (e) {
-      e.preventDefault();
-      var target = this.getAttribute('href').substring(1);
-      // mark active
-      document.querySelectorAll('.section-toc a').forEach(function (a) { a.classList.remove('active'); });
-      this.classList.add('active');
-      // render the subject's list into the right pane
-      renderRightList(target);
+  function normalizeKey(value) {
+    return (value || '')
+      .toLowerCase()
+      .replace(/&/g, ' and ')
+      .replace(/[^a-z0-9]+/g, '-')
+      .replace(/-+/g, '-')
+      .replace(/(^-|-$)/g, '');
+  }
+
+  var sectionMap = {};
+  var contentRoot = document.querySelector('.pp-content') || document.querySelector('.container.prose') || document.querySelector('main') || document.body;
+
+  if (contentRoot) {
+    Array.from(contentRoot.querySelectorAll('h3')).forEach(function (h3) {
+      var generatedId = h3.id || h3.getAttribute('id') || slugify(h3.textContent || '');
+      if (!generatedId) return;
+      h3.id = generatedId;
+
+      var title = (h3.textContent || '').replace(/\s*\{\#.*\}\s*$/, '').trim();
+      var section = {
+        id: generatedId,
+        title: title,
+        list: null
+      };
+
+      var node = h3.nextElementSibling;
+      while (node) {
+        if (node.tagName && node.tagName.toLowerCase() === 'h3') break;
+        if (node.tagName && (node.tagName.toLowerCase() === 'ul' || node.tagName.toLowerCase() === 'ol')) {
+          section.list = node;
+          break;
+        }
+        node = node.nextElementSibling;
+      }
+
+      sectionMap[generatedId] = section;
+      sectionMap[normalizeKey(generatedId)] = section;
+      sectionMap[normalizeKey(title.replace(/^\s*\d+[\.)]?\s*/, ''))] = section;
     });
-  });
+  }
 
-  // Render a subject list into the visible right pane
   function renderRightList(id) {
     var layout = document.querySelector('.pp-layout');
     if (!layout) return;
@@ -87,66 +55,22 @@ document.addEventListener('DOMContentLoaded', function () {
     }
     right.innerHTML = '';
 
-    function normalizeKey(value) {
-      return (value || '')
-        .toLowerCase()
-        .replace(/&/g, ' and ')
-        .replace(/[^a-z0-9]+/g, '-')
-        .replace(/-+/g, '-')
-        .replace(/(^-|-$)/g, '');
-    }
+    var key = normalizeKey(id || '');
+    var section = sectionMap[key] || Object.keys(sectionMap).map(function (k) { return sectionMap[k]; }).find(function (entry) {
+      return entry && (normalizeKey(entry.id) === key || normalizeKey(entry.title) === key);
+    });
 
-    function findSectionForId(targetId) {
-      var direct = document.querySelector('.section-block[id="' + targetId + '"]') ||
-        document.querySelector('h3[id="' + targetId + '"]') ||
-        document.getElementById(targetId);
-      if (direct) {
-        return direct.closest('.section-block') || direct;
-      }
-
-      var allSections = Array.from(document.querySelectorAll('.section-block'));
-      for (var i = 0; i < allSections.length; i++) {
-        var section = allSections[i];
-        var heading = section.querySelector('h3');
-        var headingText = (heading ? heading.textContent : section.textContent) || '';
-        var cleanHeading = headingText.replace(/\s*\{\#.*\}\s*$/, '').trim();
-        var noNum = cleanHeading.replace(/^\s*\d+[\.)]?\s*/, '').trim();
-        var sectionId = section.id || (heading ? heading.id : '');
-
-        if (
-          normalizeKey(sectionId) === targetId ||
-          normalizeKey(cleanHeading) === targetId ||
-          normalizeKey(noNum) === targetId ||
-          normalizeKey(cleanHeading).indexOf(targetId) === 0 ||
-          normalizeKey(noNum).indexOf(targetId) === 0 ||
-          (heading && cleanHeading.toLowerCase().indexOf(targetId.replace(/-/g, ' ')) !== -1)
-        ) {
-          return section;
-        }
-      }
-
-      return null;
-    }
-
-    var section = findSectionForId(id);
     if (!section) {
-      console.warn('Physics Pioneers: cannot find section for', id);
-      console.info('Available sections:', Array.from(document.querySelectorAll('.section-block')).map(function (s) {
-        return { id: s.id, text: (s.querySelector('h3') || s).textContent.trim() };
-      }));
       right.textContent = 'No content found for this subject.';
       return;
     }
 
-    var heading = section.querySelector('h3') || section;
-    var title = (heading.textContent || heading.innerText || '').replace(/\s*\{\#.*\}\s*$/, '').trim();
     var titleEl = document.createElement('h3');
-    titleEl.textContent = title;
+    titleEl.textContent = section.title;
     right.appendChild(titleEl);
 
-    var foundList = section.querySelector('ul, ol');
-    if (foundList) {
-      var clone = foundList.cloneNode(true);
+    if (section.list) {
+      var clone = section.list.cloneNode(true);
       clone.querySelectorAll('li').forEach(function (li) {
         li.style.display = 'list-item';
       });
@@ -154,11 +78,57 @@ document.addEventListener('DOMContentLoaded', function () {
     } else {
       right.insertAdjacentHTML('beforeend', '<p>No list available.</p>');
     }
+
     right.setAttribute('tabindex', '-1');
     right.focus();
   }
 
-  // Populate dates in the lists from data/scientists.json
+  var firstSectionId = Object.keys(sectionMap).find(function (key) {
+    return key && sectionMap[key] && sectionMap[key].title;
+  });
+
+  if (firstSectionId && sectionMap[firstSectionId]) {
+    var tocLinks = document.querySelectorAll('.section-toc a');
+    tocLinks.forEach(function (a) {
+      if (normalizeKey(a.getAttribute('href') || '').replace(/^#/, '') === normalizeKey(firstSectionId)) {
+        a.classList.add('active');
+      }
+    });
+    renderRightList(firstSectionId);
+  }
+
+  document.querySelectorAll('.pp-content li').forEach(function (li) {
+    if (li.querySelector('.scientist-link')) return;
+    var text = li.textContent.trim();
+    var parts = text.split('\u2014');
+    if (parts.length === 1) parts = text.split(' - ');
+    var name = parts[0].trim();
+    var desc = parts[1] ? parts[1].trim() : '';
+    var slug = slugify(name);
+    var a = document.createElement('a');
+    a.className = 'scientist-link';
+    a.href = '/scientist.html?slug=' + encodeURIComponent(slug);
+    a.setAttribute('data-slug', slug);
+    a.innerHTML = name + ' <span class="dates" data-slug="' + slug + '"></span>';
+    li.innerHTML = '';
+    li.appendChild(a);
+    if (desc) {
+      li.insertAdjacentHTML('beforeend', ' — ' + desc);
+    }
+  });
+
+  document.querySelectorAll('.section-toc a').forEach(function (link) {
+    link.addEventListener('click', function (e) {
+      e.preventDefault();
+      var target = (this.getAttribute('href') || '').replace(/^#/, '');
+      document.querySelectorAll('.section-toc a').forEach(function (a) {
+        a.classList.remove('active');
+      });
+      this.classList.add('active');
+      renderRightList(target);
+    });
+  });
+
   fetch('/data/scientists.json')
     .then(function (r) { return r.json(); })
     .then(function (data) {
