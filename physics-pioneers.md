@@ -11,7 +11,6 @@ This page presents a large, organized list of major physicists in the history of
 
 <div class="pp-layout">
 <div class="section-toc">
-  <strong>Recommended study timeline</strong>
   <a href="#classical-mechanics">Classical Mechanics</a>
   <a href="#electromagnetism">Electromagnetism</a>
   <a href="#thermodynamics">Thermodynamics</a>
@@ -275,6 +274,6 @@ This page presents a large, organized list of major physicists in the history of
   </div>
   </div>
 
-<script src="{{ '/assets/js/physics-pioneers.js' | relative_url }}"></script>
+<script src="/assets/js/physics-pioneers.js"></script>
 
 
