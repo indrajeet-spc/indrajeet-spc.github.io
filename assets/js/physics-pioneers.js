@@ -86,55 +86,67 @@ document.addEventListener('DOMContentLoaded', function () {
       layout.appendChild(right);
     }
     right.innerHTML = '';
-    // Try to find the heading element with this id, then gather the following list
-    function slugifyText(t) {
-      return t.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/-+/g, '-').replace(/(^-|-$)/g, '');
+
+    function normalizeKey(value) {
+      return (value || '')
+        .toLowerCase()
+        .replace(/&/g, ' and ')
+        .replace(/[^a-z0-9]+/g, '-')
+        .replace(/-+/g, '-')
+        .replace(/(^-|-$)/g, '');
     }
 
-    var heading = document.querySelector('h3[id="' + id + '"]') || document.getElementById(id);
-    if (!heading) {
-      // try matching by slugified heading text
-      var allH3 = Array.from(document.querySelectorAll('h3'));
-      for (var i=0;i<allH3.length;i++) {
-        var h = allH3[i];
-        var rawText = h.textContent || '';
-        // strip any literal markdown id marker like " {#classical-mechanics}"
-        var text = rawText.replace(/\s*\{\#.*\}\s*$/,'').trim();
-        // remove numbering like '1. ' or '1) '
-        var noNum = text.replace(/^\s*\d+\.?\s*/,'');
-        if (slugifyText(text) === id) { heading = h; break; }
-        if (slugifyText(noNum) === id) { heading = h; break; }
-        // fallback: contains words
-        if (text.toLowerCase().indexOf(id.replace(/-/g,' ')) !== -1) { heading = h; break; }
+    function findSectionForId(targetId) {
+      var direct = document.querySelector('.section-block[id="' + targetId + '"]') ||
+        document.querySelector('h3[id="' + targetId + '"]') ||
+        document.getElementById(targetId);
+      if (direct) {
+        return direct.closest('.section-block') || direct;
       }
+
+      var allSections = Array.from(document.querySelectorAll('.section-block'));
+      for (var i = 0; i < allSections.length; i++) {
+        var section = allSections[i];
+        var heading = section.querySelector('h3');
+        var headingText = (heading ? heading.textContent : section.textContent) || '';
+        var cleanHeading = headingText.replace(/\s*\{\#.*\}\s*$/, '').trim();
+        var noNum = cleanHeading.replace(/^\s*\d+[\.)]?\s*/, '').trim();
+        var sectionId = section.id || (heading ? heading.id : '');
+
+        if (
+          normalizeKey(sectionId) === targetId ||
+          normalizeKey(cleanHeading) === targetId ||
+          normalizeKey(noNum) === targetId ||
+          normalizeKey(cleanHeading).indexOf(targetId) === 0 ||
+          normalizeKey(noNum).indexOf(targetId) === 0 ||
+          (heading && cleanHeading.toLowerCase().indexOf(targetId.replace(/-/g, ' ')) !== -1)
+        ) {
+          return section;
+        }
+      }
+
+      return null;
     }
-    if (!heading) {
-      // helpful debug info in console
-      console.warn('Physics Pioneers: cannot find heading for', id);
-      console.info('Available headings:', Array.from(document.querySelectorAll('h3')).map(function(h){return {text:h.textContent, id:h.id};}));
+
+    var section = findSectionForId(id);
+    if (!section) {
+      console.warn('Physics Pioneers: cannot find section for', id);
+      console.info('Available sections:', Array.from(document.querySelectorAll('.section-block')).map(function (s) {
+        return { id: s.id, text: (s.querySelector('h3') || s).textContent.trim() };
+      }));
       right.textContent = 'No content found for this subject.';
       return;
     }
-    var title = heading.textContent.trim();
+
+    var heading = section.querySelector('h3') || section;
+    var title = (heading.textContent || heading.innerText || '').replace(/\s*\{\#.*\}\s*$/, '').trim();
     var titleEl = document.createElement('h3');
     titleEl.textContent = title;
     right.appendChild(titleEl);
 
-    // walk siblings after the heading until next h3 to find the first list
-    var node = heading.nextElementSibling;
-    var foundList = null;
-    while (node && !(node.tagName && node.tagName.toLowerCase() === 'h3')) {
-      if (!foundList && (node.tagName && (node.tagName.toLowerCase() === 'ul' || node.tagName.toLowerCase() === 'ol'))) {
-        foundList = node;
-        break;
-      }
-      node = node.nextElementSibling;
-    }
-
+    var foundList = section.querySelector('ul, ol');
     if (foundList) {
-      // clone to avoid moving original nodes
       var clone = foundList.cloneNode(true);
-      // ensure list items are displayed as block list items
       clone.querySelectorAll('li').forEach(function (li) {
         li.style.display = 'list-item';
       });
@@ -142,7 +154,6 @@ document.addEventListener('DOMContentLoaded', function () {
     } else {
       right.insertAdjacentHTML('beforeend', '<p>No list available.</p>');
     }
-    // focus for accessibility
     right.setAttribute('tabindex', '-1');
     right.focus();
   }
