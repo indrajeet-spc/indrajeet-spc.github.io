@@ -9,7 +9,24 @@ permalink: /physics-pioneers/
 
 This page presents a large, organized list of major physicists in the history of physics. It is designed for undergraduate teaching and emphasizes the core contributors by subject area.
 
-### 1. Classical Mechanics & Foundations
+<div class="section-toc">
+  <strong>Jump to:</strong>
+  <a href="#classical-mechanics">Classical Mechanics</a>
+  <a href="#electromagnetism">Electromagnetism</a>
+  <a href="#thermodynamics">Thermodynamics</a>
+  <a href="#quantum-mechanics">Quantum Mechanics</a>
+  <a href="#relativity">Relativity</a>
+  <a href="#nuclear-physics">Nuclear Physics</a>
+  <a href="#particle-physics">Particle Physics</a>
+  <a href="#condensed-matter">Condensed Matter</a>
+  <a href="#optics">Optics</a>
+  <a href="#astrophysics">Astrophysics</a>
+  <a href="#fluid-mechanics">Fluid Mechanics</a>
+  <a href="#indian-physicists">Indian Physicists</a>
+  <a href="#women-pioneers">Women Pioneers</a>
+</div>
+
+### 1. Classical Mechanics & Foundations {#classical-mechanics}
 
 - Galileo Galilei
 - Johannes Kepler
@@ -28,7 +45,7 @@ This page presents a large, organized list of major physicists in the history of
 - Joseph Fourier
 - Carl Friedrich Gauss
 
-### 2. Electromagnetism
+### 2. Electromagnetism {#electromagnetism}
 
 - William Gilbert
 - Charles-Augustin de Coulomb
@@ -46,7 +63,7 @@ This page presents a large, organized list of major physicists in the history of
 - J. J. Thomson
 - Guglielmo Marconi
 
-### 3. Thermodynamics & Statistical Physics
+### 3. Thermodynamics & Statistical Physics {#thermodynamics}
 
 - Sadi Carnot
 - James Prescott Joule
@@ -61,7 +78,7 @@ This page presents a large, organized list of major physicists in the history of
 - Albert Einstein
 - Enrico Fermi
 
-### 4. Quantum Mechanics
+### 4. Quantum Mechanics {#quantum-mechanics}
 
 - Max Planck
 - Albert Einstein
@@ -82,7 +99,7 @@ This page presents a large, organized list of major physicists in the history of
 - George Uhlenbeck
 - Samuel Goudsmit
 
-### 5. Relativity & Gravitation
+### 5. Relativity & Gravitation {#relativity}
 
 - Albert Einstein
 - Henri Poincaré
@@ -99,7 +116,7 @@ This page presents a large, organized list of major physicists in the history of
 - Stephen Hawking
 - Kip Thorne
 
-### 6. Nuclear Physics
+### 6. Nuclear Physics {#nuclear-physics}
 
 - Ernest Rutherford
 - Niels Bohr
@@ -117,7 +134,7 @@ This page presents a large, organized list of major physicists in the history of
 - Emilio Segrè
 - Glenn T. Seaborg
 
-### 7. Particle Physics
+### 7. Particle Physics {#particle-physics}
 
 - Paul Dirac
 - Wolfgang Pauli
@@ -139,7 +156,7 @@ This page presents a large, organized list of major physicists in the history of
 - David Politzer
 - Yoichiro Nambu
 
-### 8. Condensed Matter & Solid-State Physics
+### 8. Condensed Matter & Solid-State Physics {#condensed-matter}
 
 - Felix Bloch
 - Louis Néel
@@ -158,7 +175,7 @@ This page presents a large, organized list of major physicists in the history of
 - Georg Bednorz
 - K. Alex Müller
 
-### 9. Optics, Lasers & Photonics
+### 9. Optics, Lasers & Photonics {#optics}
 
 - Ibn al-Haytham (Alhazen)
 - Christiaan Huygens
@@ -175,7 +192,7 @@ This page presents a large, organized list of major physicists in the history of
 - Theodore Maiman
 - Nicolaas Bloembergen
 
-### 10. Astrophysics & Cosmology
+### 10. Astrophysics & Cosmology {#astrophysics}
 
 - Johannes Kepler
 - Galileo Galilei
@@ -196,7 +213,7 @@ This page presents a large, organized list of major physicists in the history of
 - Jocelyn Bell Burnell
 - Kip Thorne
 
-### 11. Fluid Mechanics
+### 11. Fluid Mechanics {#fluid-mechanics}
 
 - Daniel Bernoulli
 - Leonhard Euler
@@ -209,7 +226,7 @@ This page presents a large, organized list of major physicists in the history of
 - Jean Léonard Marie Poiseuille
 - Theodore von Kármán
 
-### 12. Indian Physicists
+### 12. Indian Physicists {#indian-physicists}
 
 - Satyendra Nath Bose — Bose-Einstein statistics
 - C. V. Raman — Raman effect
@@ -232,7 +249,7 @@ This page presents a large, organized list of major physicists in the history of
 - Deepak Dhar — statistical physics
 - N. Mukunda — theoretical physics
 
-### 13. Women Pioneers in Physics
+### 13. Women Pioneers in Physics {#women-pioneers}
 
 - Marie Curie
 - Lise Meitner
