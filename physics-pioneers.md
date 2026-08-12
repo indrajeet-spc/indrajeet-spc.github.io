@@ -9,6 +9,7 @@ permalink: /physics-pioneers/
 
 This page presents a large, organized list of major physicists in the history of physics. It is designed for undergraduate teaching and emphasizes the core contributors by subject area.
 
+<div class="pp-layout">
 <div class="section-toc">
   <strong>Jump to:</strong>
   <a href="#classical-mechanics">Classical Mechanics</a>
@@ -266,8 +267,10 @@ This page presents a large, organized list of major physicists in the history of
 - Anne L'Huillier
 - Fabiola Gianotti
 
-### A useful way to study them
 
-For teaching undergraduate physics, organize the scientists into a physics timeline:
+</div>
+</div>
 
-**Ancient → Classical → Electromagnetism → Thermodynamics → Relativity → Quantum Mechanics → Nuclear Physics → Particle Physics → Condensed Matter → Astrophysics → Modern Physics.**
+<script src="{{ '/assets/js/physics-pioneers.js' | relative_url }}"></script>
+
+

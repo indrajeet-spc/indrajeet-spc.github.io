@@ -1,0 +1,47 @@
+---
+layout: default
+title: "Scientist Details"
+heading: "Scientist"
+kicker: "BIOGRAPHY"
+---
+
+<div id="scientist-content" class="scientist-detail container">
+  <p>Loading scientist details…</p>
+</div>
+
+<script>
+(function (){
+  function qs(key){
+    var params = new URLSearchParams(window.location.search);
+    return params.get(key);
+  }
+  var slug = qs('slug') || location.hash.replace('#','');
+  fetch('{{ '/data/scientists.json' | relative_url }}')
+    .then(r=>r.json())
+    .then(list=>{
+      var item = list.find(x=>x.slug===slug);
+      var container = document.getElementById('scientist-content');
+      if(!item){
+        container.innerHTML = '<p>Scientist data not found. Details coming soon.</p>';
+        return;
+      }
+      var html = '';
+      if(item.image){ html += '<img class="scientist-photo" src="' + item.image + '" alt="' + item.name + '">'; }
+      html += '<h2>' + item.name + (item.dates? ' <span class="dates">(' + item.dates + ')</span>' : '') + '</h2>';
+      if(item.bio) html += '<div class="scientist-bio">' + item.bio + '</div>';
+      if(item.contribution) html += '<h3>Contribution</h3><div class="scientist-contribution">' + item.contribution + '</div>';
+      if(item.citations && item.citations.length){
+        html += '<h3>Sources</h3><ul class="citation-links">';
+        item.citations.forEach(function(c){ html += '<li><a href="'+c.url+'" target="_blank" rel="noopener">'+c.title+'</a></li>'; });
+        html += '</ul>';
+      }
+      container.innerHTML = html;
+    })
+    .catch(function(){ document.getElementById('scientist-content').innerHTML = '<p>Unable to load scientist data.</p>'; });
+})();
+</script>
+<style>
+.scientist-detail { padding: 20px 0; }
+.scientist-photo { max-width: 220px; float: right; margin-left: 20px; border-radius: 8px; }
+.scientist-bio, .scientist-contribution { margin-top: 12px; }
+</style>

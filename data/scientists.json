@@ -1,0 +1,58 @@
+[
+  {
+    "slug": "marie-curie",
+    "name": "Marie Curie",
+    "born": "1867",
+    "died": "1934",
+    "dates": "1867–1934",
+    "image": "/images/marie-curie.jpg",
+    "bio": "Marie Skłodowska Curie was a pioneer in radioactivity research and the first person awarded two Nobel Prizes.",
+    "contribution": "Discovered radioactivity, isolated polonium and radium, and developed techniques for measuring radioactivity.",
+    "citations": [
+      { "title": "Nobel Prize facts, 1903", "url": "https://www.nobelprize.org/prizes/physics/1903/marie-curie/facts/" },
+      { "title": "Britannica biography", "url": "https://www.britannica.com/biography/Marie-Curie" }
+    ]
+  },
+  {
+    "slug": "albert-einstein",
+    "name": "Albert Einstein",
+    "born": "1879",
+    "died": "1955",
+    "dates": "1879–1955",
+    "image": "/images/albert-einstein.jpg",
+    "bio": "Theoretical physicist who developed the theories of special and general relativity.",
+    "contribution": "Theory of relativity, mass-energy equivalence (E=mc^2), contributions to quantum theory.",
+    "citations": [
+      { "title": "Britannica biography", "url": "https://www.britannica.com/biography/Albert-Einstein" },
+      { "title": "Nobel Prize facts, 1921", "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/facts/" }
+    ]
+  },
+  {
+    "slug": "c-v-raman",
+    "name": "C. V. Raman",
+    "born": "1888",
+    "died": "1970",
+    "dates": "1888–1970",
+    "image": "/images/cv-raman.jpg",
+    "bio": "Indian physicist known for the Raman effect in light scattering.",
+    "contribution": "Discovery of the Raman effect, which provided insight into light-matter interactions.",
+    "citations": [
+      { "title": "Nobel Prize facts, 1930", "url": "https://www.nobelprize.org/prizes/physics/1930/raman/facts/" },
+      { "title": "Britannica biography", "url": "https://www.britannica.com/biography/C-V-Raman" }
+    ]
+  },
+  {
+    "slug": "emmy-noether",
+    "name": "Emmy Noether",
+    "born": "1882",
+    "died": "1935",
+    "dates": "1882–1935",
+    "image": "/images/emmy-noether.jpg",
+    "bio": "Mathematician whose theorem established the connection between symmetries and conservation laws in physics.",
+    "contribution": "Noether's theorem linking symmetries and conservation laws, foundational for modern theoretical physics.",
+    "citations": [
+      { "title": "MacTutor biography", "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Noether/" },
+      { "title": "Stanford Encyclopedia of Philosophy", "url": "https://plato.stanford.edu/entries/noether/" }
+    ]
+  }
+]

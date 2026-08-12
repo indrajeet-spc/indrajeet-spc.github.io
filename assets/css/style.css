@@ -346,6 +346,30 @@ img {
     }
 }
 
+/* Two-column layout for Physics Pioneers page */
+.pp-layout {
+    display: block;
+}
+
+@media (min-width: 920px) {
+    .pp-layout {
+        display: grid;
+        grid-template-columns: 260px 1fr;
+        gap: 28px;
+        align-items: start;
+    }
+    .pp-layout .section-toc {
+        position: sticky;
+        top: 120px;
+        height: calc(100vh - 140px);
+        overflow: auto;
+        margin: 0;
+    }
+    .pp-layout .container.prose {
+        margin: 0;
+    }
+}
+
 
 /* =========================================================
    NAVIGATION
