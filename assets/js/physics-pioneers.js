@@ -97,10 +97,12 @@ document.addEventListener('DOMContentLoaded', function () {
       var allH3 = Array.from(document.querySelectorAll('h3'));
       for (var i=0;i<allH3.length;i++) {
         var h = allH3[i];
-        var text = h.textContent || '';
-        if (slugifyText(text) === id) { heading = h; break; }
+        var rawText = h.textContent || '';
+        // strip any literal markdown id marker like " {#classical-mechanics}"
+        var text = rawText.replace(/\s*\{\#.*\}\s*$/,'').trim();
         // remove numbering like '1. ' or '1) '
         var noNum = text.replace(/^\s*\d+\.?\s*/,'');
+        if (slugifyText(text) === id) { heading = h; break; }
         if (slugifyText(noNum) === id) { heading = h; break; }
         // fallback: contains words
         if (text.toLowerCase().indexOf(id.replace(/-/g,' ')) !== -1) { heading = h; break; }
