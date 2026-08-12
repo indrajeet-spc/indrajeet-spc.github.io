@@ -14,6 +14,10 @@ FEEDS = [
     ("ScienceDaily", "https://www.sciencedaily.com/rss/matter_energy/physics.xml"),
     ("ScienceDaily Nanotechnology", "https://www.sciencedaily.com/rss/matter_energy/nanotechnology.xml"),
     ("Nature Physics", "https://www.nature.com/subjects/physics.rss"),
+    ("Science Magazine", "https://www.sciencemag.org/rss/news_current.xml"),
+    ("Scientific American", "https://www.scientificamerican.com/feed/rss/"),
+    ("APS Physics", "https://physics.aps.org/rss"),
+    ("The Conversation - Science", "https://theconversation.com/global/topics/science-and-technology-53.rss"),
 ]
 NEWS_TOPICS = [
     "physics",
