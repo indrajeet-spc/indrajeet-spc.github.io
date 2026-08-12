@@ -291,6 +291,26 @@ img {
     font-weight: 700;
 }
 
+.citation-links {
+    margin: 8px 0 0;
+    padding-left: 18px;
+    color: var(--muted);
+}
+
+.citation-links li {
+    margin-bottom: 4px;
+}
+
+.citation-links a {
+    color: var(--blue);
+    text-decoration: none;
+}
+
+.citation-links a:hover,
+.citation-links a:focus-visible {
+    text-decoration: underline;
+}
+
 
 /* =========================================================
    NAVIGATION
