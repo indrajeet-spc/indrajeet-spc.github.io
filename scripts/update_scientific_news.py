@@ -73,7 +73,7 @@ def main():
         except (OSError, ET.ParseError):
             continue
 
-        for item in root.findall("./channel/item"):
+        for item in root.findall(".//item"):
             if not matches_topic(item):
                 continue
 
@@ -89,13 +89,11 @@ def main():
                     "abstract": abstract or "Abstract unavailable. Open the full article for details.",
                 })
                 seen_urls.add(url)
-            if len(items) == 12:
-                break
-        if len(items) == 12:
-            break
 
     if not items:
         raise RuntimeError("The configured science feeds returned no usable stories")
+
+    items = items[:12]
 
     payload = {
         "sources": [{"name": source, "url": feed_url} for source, feed_url in FEEDS],

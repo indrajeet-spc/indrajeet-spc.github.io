@@ -19,10 +19,40 @@
     {
       "name": "Nature Physics",
       "url": "https://www.nature.com/subjects/physics.rss"
+    },
+    {
+      "name": "Science Magazine",
+      "url": "https://www.sciencemag.org/rss/news_current.xml"
+    },
+    {
+      "name": "Scientific American",
+      "url": "https://www.scientificamerican.com/feed/rss/"
+    },
+    {
+      "name": "APS Physics",
+      "url": "https://physics.aps.org/rss"
+    },
+    {
+      "name": "The Conversation - Science",
+      "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-08-12T06:43:21.483831+00:00",
+  "updated_at": "2026-08-12T09:47:22.410653+00:00",
   "items": [
+    {
+      "title": "What Is the Nancy Grace Roman Space Telescope? (Grades 5-8)",
+      "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-nancy-grace-roman-space-telescope-grades-5-8/",
+      "source": "NASA News",
+      "date": "11 Aug 2026",
+      "abstract": "This article is for students grades 5-8. The Nancy Grace Roman Space Telescope is NASA\u2019s newest astrophysics observatory. The telescope will scan large sections of space. Roman will help astronomers answer questions about dark energy, dark matter, exoplanets, and more. ______________________________..."
+    },
+    {
+      "title": "NASA Completes Astronaut-Deployed Science Instrument for Lunar Surface",
+      "url": "https://science.nasa.gov/missions/artemis/nasa-completes-astronaut-deployed-science-instrument-for-lunar-surface/",
+      "source": "NASA News",
+      "date": "11 Aug 2026",
+      "abstract": "NASA has declared \u201cwrenches down\u201d on the first completed payload designed for Artemis astronauts to deploy on the Moon\u2019s surface. Engineers working on NASA\u2019s Lunar Environment Monitoring Station, or LEMS, have completed hardware development and testing and the payload is ready for its permanent home..."
+    },
     {
       "title": "New CERN measurement challenges conventional models of how gluons behave inside atomic nuclei",
       "url": "https://phys.org/news/2026-08-cern-conventional-gluons-atomic-nuclei.html",
@@ -92,20 +122,6 @@
       "source": "Phys.org",
       "date": "05 Aug 2026",
       "abstract": "An international team of researchers has succeeded in producing atomic quantum gas mixtures with an unprecedented particle flux. In the journal Nature Communications, the scientists report on experiments conducted with the MAIUS-B apparatus, in which Bose\u2013Einstein condensates (BECs) consisting of tw..."
-    },
-    {
-      "title": "Attosecond X-ray method maps early electron motions that trigger chemical reactions",
-      "url": "https://phys.org/news/2026-08-attosecond-ray-method-early-electron.html",
-      "source": "Phys.org",
-      "date": "05 Aug 2026",
-      "abstract": "All chemistry starts with a push from electrons. In the early moments of a chemical reaction, it's the movement of electrons that initiates the breaking of old chemical bonds and forging of new ones, transforming one molecule into another."
-    },
-    {
-      "title": "A 200-year-old physics experiment could help build future computers",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260713000755.htm",
-      "source": "ScienceDaily",
-      "date": "13 Jul 2026",
-      "abstract": "Scientists at Nanyang Technological University in Singapore have discovered a surprisingly simple way to create exotic light structures called optical skyrmions using a 200-year-old optical effect known as the Poisson spot. Instead of relying on expensive, highly engineered materials, they simply sh..."
     }
   ]
 }
