@@ -239,6 +239,58 @@ img {
     color: #ffffff;
 }
 
+/* =========================================================
+   SCIENCE PIONEERS RIBBON
+   ========================================================= */
+
+.scientist-ribbon {
+    display: grid;
+    gap: 16px;
+    margin: 24px 0 40px;
+}
+
+@media (min-width: 720px) {
+    .scientist-ribbon {
+        grid-template-columns: repeat(4, minmax(220px, 1fr));
+    }
+}
+
+.scientist-card {
+    display: block;
+    padding: 22px;
+    border-radius: 16px;
+    background: #f5f8fb;
+    border: 1px solid #d9e2ea;
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+}
+
+.scientist-card:hover,
+.scientist-card:focus-visible {
+    transform: translateY(-4px);
+    box-shadow: 0 18px 40px rgba(13, 42, 75, 0.12);
+    border-color: rgba(20, 93, 160, 0.2);
+}
+
+.scientist-card h3 {
+    margin: 0 0 10px;
+    font-size: 1.05rem;
+}
+
+.scientist-card p {
+    margin: 0 0 12px;
+    color: var(--muted);
+    line-height: 1.55;
+}
+
+.scientist-card .citation {
+    margin-top: 10px;
+    font-size: 0.82rem;
+    color: var(--blue);
+    font-weight: 700;
+}
+
 
 /* =========================================================
    NAVIGATION
