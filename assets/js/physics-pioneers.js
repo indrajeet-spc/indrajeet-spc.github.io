@@ -87,8 +87,29 @@ document.addEventListener('DOMContentLoaded', function () {
     }
     right.innerHTML = '';
     // Try to find the heading element with this id, then gather the following list
+    function slugifyText(t) {
+      return t.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/-+/g, '-').replace(/(^-|-$)/g, '');
+    }
+
     var heading = document.querySelector('h3[id="' + id + '"]') || document.getElementById(id);
     if (!heading) {
+      // try matching by slugified heading text
+      var allH3 = Array.from(document.querySelectorAll('h3'));
+      for (var i=0;i<allH3.length;i++) {
+        var h = allH3[i];
+        var text = h.textContent || '';
+        if (slugifyText(text) === id) { heading = h; break; }
+        // remove numbering like '1. ' or '1) '
+        var noNum = text.replace(/^\s*\d+\.?\s*/,'');
+        if (slugifyText(noNum) === id) { heading = h; break; }
+        // fallback: contains words
+        if (text.toLowerCase().indexOf(id.replace(/-/g,' ')) !== -1) { heading = h; break; }
+      }
+    }
+    if (!heading) {
+      // helpful debug info in console
+      console.warn('Physics Pioneers: cannot find heading for', id);
+      console.info('Available headings:', Array.from(document.querySelectorAll('h3')).map(function(h){return {text:h.textContent, id:h.id};}));
       right.textContent = 'No content found for this subject.';
       return;
     }
