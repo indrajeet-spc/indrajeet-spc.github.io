@@ -25,7 +25,11 @@ This page presents a large, organized list of major physicists in the history of
   <a href="#fluid-mechanics">Fluid Mechanics</a>
   <a href="#indian-physicists">Indian Physicists</a>
   <a href="#women-pioneers">Women Pioneers</a>
-</div>
+  </div>
+
+  <div class="pp-right" aria-live="polite"></div>
+
+  <div class="pp-content">
 
 ### 1. Classical Mechanics & Foundations {#classical-mechanics}
 
@@ -268,8 +272,8 @@ This page presents a large, organized list of major physicists in the history of
 - Fabiola Gianotti
 
 
-</div>
-</div>
+  </div>
+  </div>
 
 <script src="{{ '/assets/js/physics-pioneers.js' | relative_url }}"></script>
 

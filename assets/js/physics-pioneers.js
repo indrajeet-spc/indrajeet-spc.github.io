@@ -31,6 +31,8 @@ document.addEventListener('DOMContentLoaded', function () {
       var firstId = sections[0].id;
       var tocLinks = document.querySelectorAll('.section-toc a');
       tocLinks.forEach(function(a){ if (a.getAttribute('href').substring(1)===firstId) a.classList.add('active'); });
+      // render the first section into the right pane
+      renderRightList(firstId);
     }
   }
 
@@ -65,19 +67,49 @@ document.addEventListener('DOMContentLoaded', function () {
     link.addEventListener('click', function (e) {
       e.preventDefault();
       var target = this.getAttribute('href').substring(1);
-      // Hide all sections
-      document.querySelectorAll('.section-block').forEach(function (s) { s.style.display = 'none'; });
-      // Show target
-      var el = document.getElementById(target);
-      if (el) el.style.display = 'block';
       // mark active
       document.querySelectorAll('.section-toc a').forEach(function (a) { a.classList.remove('active'); });
       this.classList.add('active');
-      // scroll to top of content
-      var top = (contentRoot.getBoundingClientRect().top + window.pageYOffset) - 20;
-      window.scrollTo({top: top, behavior: 'smooth'});
+      // render the subject's list into the right pane
+      renderRightList(target);
     });
   });
+
+  // Render a subject list into the visible right pane
+  function renderRightList(id) {
+    var layout = document.querySelector('.pp-layout');
+    if (!layout) return;
+    var right = layout.querySelector('.pp-right');
+    if (!right) {
+      right = document.createElement('div');
+      right.className = 'pp-right';
+      layout.appendChild(right);
+    }
+    right.innerHTML = '';
+    var section = document.getElementById(id);
+    if (!section) {
+      right.textContent = 'No content found for this subject.';
+      return;
+    }
+    // heading
+    var h = section.querySelector('h3');
+    var title = h ? h.textContent.trim() : id.replace(/-/g, ' ');
+    var titleEl = document.createElement('h3');
+    titleEl.textContent = title;
+    right.appendChild(titleEl);
+    // find the first list inside the section
+    var list = section.querySelector('ul, ol');
+    if (list) {
+      var clone = list.cloneNode(true);
+      // ensure list items are links (conversion earlier runs on .section-block)
+      right.appendChild(clone);
+    } else {
+      right.insertAdjacentHTML('beforeend', '<p>No list available.</p>');
+    }
+    // focus for accessibility
+    right.setAttribute('tabindex', '-1');
+    right.focus();
+  }
 
   // Populate dates in the lists from data/scientists.json
   fetch('/data/scientists.json')

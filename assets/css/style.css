@@ -372,8 +372,19 @@ img {
         overflow: auto;
         margin: 0;
     }
-    .pp-layout .container.prose {
+    .pp-layout .pp-right {
         margin: 0;
+        padding: 6px 8px;
+    }
+    .pp-content {
+        display: none; /* keep original lists hidden; used as data source */
+    }
+    .pp-right ul {
+        margin: 0 0 18px 20px;
+    }
+    .pp-right h3 {
+        margin-top: 0;
+        margin-bottom: 10px;
     }
 }
 
