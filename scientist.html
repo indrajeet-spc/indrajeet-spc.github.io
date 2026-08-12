@@ -16,7 +16,7 @@ kicker: "BIOGRAPHY"
     return params.get(key);
   }
   var slug = qs('slug') || location.hash.replace('#','');
-  fetch('{{ '/data/scientists.json' | relative_url }}')
+  fetch('/data/scientists.json')
     .then(r=>r.json())
     .then(list=>{
       var item = list.find(x=>x.slug===slug);
