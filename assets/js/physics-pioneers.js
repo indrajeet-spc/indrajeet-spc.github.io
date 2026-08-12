@@ -13,6 +13,7 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 
   var sectionMap = {};
+  var scientistMap = null; // cache fetched scientist data by slug
   var contentRoot = document.querySelector('.pp-content') || document.querySelector('.container.prose') || document.querySelector('main') || document.body;
 
   if (contentRoot) {
@@ -133,6 +134,8 @@ document.addEventListener('DOMContentLoaded', function () {
           if (items.length) {
             var ul = document.createElement('ul');
             items.forEach(function(it){ var li = document.createElement('li'); li.textContent = it.replace(/^[-*]\s+/,''); ul.appendChild(li); });
+            // convert list items to links before appending
+            convertListToLinks(ul);
             right.appendChild(ul);
             right.setAttribute('tabindex', '-1'); right.focus();
             return;
@@ -152,9 +155,9 @@ document.addEventListener('DOMContentLoaded', function () {
 
     if (section.list) {
       var clone = section.list.cloneNode(true);
-      clone.querySelectorAll('li').forEach(function (li) {
-        li.style.display = 'list-item';
-      });
+      clone.querySelectorAll('li').forEach(function (li) { li.style.display = 'list-item'; });
+      // convert plain list items into links
+      convertListToLinks(clone);
       right.appendChild(clone);
     } else {
       right.insertAdjacentHTML('beforeend', '<p>No list available.</p>');
@@ -198,6 +201,57 @@ document.addEventListener('DOMContentLoaded', function () {
     }
   });
 
+  // populate dates for any links created from the existing content
+  ensureScientistData(populateDates);
+
+  // Helper: convert LI elements inside a UL/OL to links to scientist page
+  function convertListToLinks(rootList) {
+    Array.from(rootList.querySelectorAll('li')).forEach(function (li) {
+      if (li.querySelector('.scientist-link')) return;
+      var text = li.textContent.trim();
+      var parts = text.split('\u2014');
+      if (parts.length === 1) parts = text.split(' - ');
+      var name = parts[0].trim();
+      var desc = parts[1] ? parts[1].trim() : '';
+      var slug = slugify(name);
+      var a = document.createElement('a');
+      a.className = 'scientist-link';
+      a.href = '/scientist.html?slug=' + encodeURIComponent(slug);
+      a.setAttribute('data-slug', slug);
+      a.innerHTML = name + ' <span class="dates" data-slug="' + slug + '"></span>';
+      li.innerHTML = '';
+      li.appendChild(a);
+      if (desc) li.insertAdjacentHTML('beforeend', ' — ' + desc);
+    });
+    // after creating links, ensure dates are populated
+    ensureScientistData(populateDates);
+  }
+
+  function populateDates() {
+    if (!scientistMap) return;
+    document.querySelectorAll('.scientist-link').forEach(function (a) {
+      var slug = a.dataset.slug;
+      var span = a.querySelector('.dates');
+      if (scientistMap[slug] && span) {
+        var b = scientistMap[slug].born || '';
+        var d = scientistMap[slug].died || '';
+        if (b || d) span.textContent = ' (' + (b || '?') + '–' + (d || '') + ')';
+      }
+    });
+  }
+
+  function ensureScientistData(cb) {
+    if (scientistMap) { if (cb) cb(); return; }
+    fetch('/data/scientists.json')
+      .then(function (r) { return r.json(); })
+      .then(function (data) {
+        scientistMap = {};
+        data.forEach(function (item) { scientistMap[item.slug] = item; });
+        if (cb) cb();
+      })
+      .catch(function () { if (cb) cb(); });
+  }
+
   document.querySelectorAll('.section-toc a').forEach(function (link) {
     link.addEventListener('click', function (e) {
       e.preventDefault();
@@ -210,22 +264,5 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   });
 
-  fetch('/data/scientists.json')
-    .then(function (r) { return r.json(); })
-    .then(function (data) {
-      var map = {};
-      data.forEach(function (item) { map[item.slug] = item; });
-      document.querySelectorAll('.scientist-link').forEach(function (a) {
-        var slug = a.dataset.slug;
-        var span = a.querySelector('.dates');
-        if (map[slug] && span) {
-          var b = map[slug].born || '';
-          var d = map[slug].died || '';
-          if (b || d) {
-            span.textContent = ' (' + (b || '?') + '–' + (d || '') + ')';
-          }
-        }
-      });
-    })
-    .catch(function () { /* ignore */ });
+  // data loading handled via ensureScientistData/populateDates
 });
