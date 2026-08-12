@@ -108,7 +108,40 @@ document.addEventListener('DOMContentLoaded', function () {
       return entry && (normalizeKey(entry.id) === key || normalizeKey(entry.title) === key);
     });
 
+    // If no section found via DOM mapping, try extracting a markdown block from the page HTML/text
     if (!section) {
+      try {
+        var html = document.body.innerHTML || '';
+        // First try to find a heading with an explicit {#id}
+        var reExplicit = new RegExp('###\\s*[^<]*\\{#' + id + '\\}([\\s\\S]*?)(?=(?:###|$))','i');
+        var match = html.match(reExplicit);
+        if (!match) {
+          // try matching heading line by its slugified/normalized id in text
+          var labelPattern = id.replace(/[-\s]+/g, '[\\s\\-\u2013\u2014]*');
+          var reLabel = new RegExp('###\\s*.*' + labelPattern + '.*([\\s\\S]*?)(?=(?:###|$))','i');
+          match = html.match(reLabel);
+        }
+        if (match && match[1]) {
+          var block = match[1];
+          // extract lines that start with - or *
+          var lines = block.split(/\r?\n/);
+          var items = lines.map(function (l) { return l.trim(); }).filter(function (l) { return /^[-*]\s+/.test(l); });
+          var titleText = id.replace(/-/g,' ');
+          var titleEl = document.createElement('h3');
+          titleEl.textContent = titleText;
+          right.appendChild(titleEl);
+          if (items.length) {
+            var ul = document.createElement('ul');
+            items.forEach(function(it){ var li = document.createElement('li'); li.textContent = it.replace(/^[-*]\s+/,''); ul.appendChild(li); });
+            right.appendChild(ul);
+            right.setAttribute('tabindex', '-1'); right.focus();
+            return;
+          }
+        }
+      } catch (e) {
+        console.warn('Physics Pioneers: markdown extraction failed', e);
+      }
+
       right.textContent = 'No content found for this subject.';
       return;
     }
