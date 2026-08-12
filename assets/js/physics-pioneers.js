@@ -86,22 +86,35 @@ document.addEventListener('DOMContentLoaded', function () {
       layout.appendChild(right);
     }
     right.innerHTML = '';
-    var section = document.getElementById(id);
-    if (!section) {
+    // Try to find the heading element with this id, then gather the following list
+    var heading = document.querySelector('h3[id="' + id + '"]') || document.getElementById(id);
+    if (!heading) {
       right.textContent = 'No content found for this subject.';
       return;
     }
-    // heading
-    var h = section.querySelector('h3');
-    var title = h ? h.textContent.trim() : id.replace(/-/g, ' ');
+    var title = heading.textContent.trim();
     var titleEl = document.createElement('h3');
     titleEl.textContent = title;
     right.appendChild(titleEl);
-    // find the first list inside the section
-    var list = section.querySelector('ul, ol');
-    if (list) {
-      var clone = list.cloneNode(true);
-      // ensure list items are links (conversion earlier runs on .section-block)
+
+    // walk siblings after the heading until next h3 to find the first list
+    var node = heading.nextElementSibling;
+    var foundList = null;
+    while (node && !(node.tagName && node.tagName.toLowerCase() === 'h3')) {
+      if (!foundList && (node.tagName && (node.tagName.toLowerCase() === 'ul' || node.tagName.toLowerCase() === 'ol'))) {
+        foundList = node;
+        break;
+      }
+      node = node.nextElementSibling;
+    }
+
+    if (foundList) {
+      // clone to avoid moving original nodes
+      var clone = foundList.cloneNode(true);
+      // ensure list items are displayed as block list items
+      clone.querySelectorAll('li').forEach(function (li) {
+        li.style.display = 'list-item';
+      });
       right.appendChild(clone);
     } else {
       right.insertAdjacentHTML('beforeend', '<p>No list available.</p>');
