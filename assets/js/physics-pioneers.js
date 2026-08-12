@@ -1,6 +1,7 @@
 document.addEventListener('DOMContentLoaded', function () {
   // Wrap headings + following lists into section blocks (id comes from heading id)
-  var contentRoot = document.querySelector('.container.prose');
+  var firstH3 = document.querySelector('h3');
+  var contentRoot = (firstH3 && firstH3.parentElement) || document.querySelector('.container.prose') || document.querySelector('main') || document.body;
   if (contentRoot) {
     var headings = Array.from(contentRoot.querySelectorAll('h3'));
     headings.forEach(function (h3, idx) {
@@ -9,8 +10,8 @@ document.addEventListener('DOMContentLoaded', function () {
       var wrapper = document.createElement('div');
       wrapper.className = 'section-block';
       wrapper.id = id;
-      // move heading into wrapper
-      h3.parentNode.insertBefore(wrapper, h3);
+      // insert wrapper before heading and move heading into wrapper
+      contentRoot.insertBefore(wrapper, h3);
       wrapper.appendChild(h3);
       // move following siblings until next h3
       var sib = wrapper.nextSibling;
@@ -19,8 +20,18 @@ document.addEventListener('DOMContentLoaded', function () {
         wrapper.appendChild(sib);
         sib = next;
       }
-      // default: show all; the TOC click will hide/show
     });
+
+    // hide all sections initially, show first by default
+    var sections = Array.from(contentRoot.querySelectorAll('.section-block'));
+    sections.forEach(function(s){ s.style.display = 'none'; });
+    if (sections.length) {
+      sections[0].style.display = 'block';
+      // mark corresponding TOC link active
+      var firstId = sections[0].id;
+      var tocLinks = document.querySelectorAll('.section-toc a');
+      tocLinks.forEach(function(a){ if (a.getAttribute('href').substring(1)===firstId) a.classList.add('active'); });
+    }
   }
 
   // Convert plain list items into links and set data-slug
@@ -55,9 +66,7 @@ document.addEventListener('DOMContentLoaded', function () {
       e.preventDefault();
       var target = this.getAttribute('href').substring(1);
       // Hide all sections
-      document.querySelectorAll('main .section-block').forEach(function (s) {
-        s.style.display = 'none';
-      });
+      document.querySelectorAll('.section-block').forEach(function (s) { s.style.display = 'none'; });
       // Show target
       var el = document.getElementById(target);
       if (el) el.style.display = 'block';
@@ -65,7 +74,8 @@ document.addEventListener('DOMContentLoaded', function () {
       document.querySelectorAll('.section-toc a').forEach(function (a) { a.classList.remove('active'); });
       this.classList.add('active');
       // scroll to top of content
-      window.scrollTo({top: 0, behavior: 'smooth'});
+      var top = (contentRoot.getBoundingClientRect().top + window.pageYOffset) - 20;
+      window.scrollTo({top: top, behavior: 'smooth'});
     });
   });
 
