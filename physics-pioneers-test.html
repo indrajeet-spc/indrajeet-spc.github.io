@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Physics Pioneers Test</title>
+  <style>
+    .section-toc { display: flex; flex-direction: column; gap: 8px; }
+    .section-toc a.active { font-weight: bold; }
+    .pp-layout { display: flex; gap: 24px; }
+    .pp-right { width: 420px; border-left: 1px solid #ddd; padding-left: 16px; }
+    .section-block { display: none; }
+    .section-block:first-of-type { display: block; }
+  </style>
+</head>
+<body>
+<div class="pp-layout">
+  <div class="section-toc">
+    <a href="#classical-mechanics">Classical Mechanics</a>
+    <a href="#electromagnetism">Electromagnetism</a>
+  </div>
+  <div class="pp-right" aria-live="polite"></div>
+  <div class="pp-content">
+    <div class="section-block" id="classical-mechanics">
+      <h3 id="classical-mechanics">1. Classical Mechanics &amp; Foundations</h3>
+      <ul>
+        <li>Galileo Galilei</li>
+        <li>Isaac Newton</li>
+      </ul>
+    </div>
+    <div class="section-block" id="electromagnetism">
+      <h3 id="electromagnetism">2. Electromagnetism</h3>
+      <ul>
+        <li>Michael Faraday</li>
+        <li>James Clerk Maxwell</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<script src="/assets/js/physics-pioneers.js"></script>
+</body>
+</html>
