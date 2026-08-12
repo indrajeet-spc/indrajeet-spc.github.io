@@ -12,35 +12,6 @@ permalink: /
 <p>Academic resources, research interests, lecture notes and professional information.</p>
 </div>
 
-## Teaching & Course Materials
-
-### Undergraduate Physics
-
-Lecture notes, syllabi, assignments and practical resources for undergraduate students.
-
-[**Open UG Lecture Notes →**](https://indrajeet-spc.github.io/lecture-notes)
-
-### Postgraduate Physics
-
-Advanced lecture notes and learning resources for postgraduate physics students.
-
-[**Open PG Lecture Notes →**](https://indrajeet-spc.github.io/PG-lecture-notes)
-
-### Academic Resources
-
-[**View Resources →**]({{ '/resources/' | relative_url }})
-
-## Research Interests
-
-### Atmospheric Physics
-
-Atmospheric dynamics, thermodynamics and physical phenomena of the Earth's atmosphere.
-
-### Optics
-
-Behavior and properties of light and its interaction with matter.
-
-[**Explore Research →**]({{ '/research/' | relative_url }})
 
 ## Physics Pioneers
 

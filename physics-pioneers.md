@@ -28,7 +28,7 @@ This page presents a large, organized list of major physicists in the history of
 
   <div class="pp-right" aria-live="polite"></div>
 
-  <div class="pp-content">
+  <div class="pp-content" markdown="1">
 
 ### 1. Classical Mechanics & Foundations {#classical-mechanics}
 
