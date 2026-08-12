@@ -51,6 +51,45 @@ document.addEventListener('DOMContentLoaded', function () {
       if (primary) sectionMap[normalizeKey(primary)] = section;
     });
     console.info('Physics Pioneers: detected sections', Object.keys(sectionMap));
+
+    // Fallback: if no sections found, try parsing raw Markdown text (when serving .md directly)
+    if (Object.keys(sectionMap).length === 0) {
+      console.info('Physics Pioneers: attempting markdown fallback parse');
+      var txt = contentRoot.innerText || contentRoot.textContent || '';
+      var lines = txt.split(/\r?\n/);
+      var current = null;
+      for (var i = 0; i < lines.length; i++) {
+        var L = lines[i].trim();
+        var m = L.match(/^###\s*(.*)/);
+        if (m) {
+          // start a new section
+          if (current) {
+            // finalize previous
+            sectionMap[current.id] = current;
+            sectionMap[normalizeKey(current.id)] = current;
+            sectionMap[normalizeKey(current.title.replace(/^\s*\d+[\.)]?\s*/,''))] = current;
+          }
+          var rawTitle = m[1] || '';
+          var explicit = (rawTitle.match(/\{\#([^\}]+)\}/) || [])[1];
+          var title = rawTitle.replace(/\s*\{\#.*\}\s*$/, '').trim();
+          var id = explicit || slugify(title) || 'section-' + i;
+          var ul = document.createElement('ul');
+          current = { id: id, title: title, list: ul };
+          continue;
+        }
+        if (current && L.match(/^[-*]\s+/)) {
+          var li = document.createElement('li');
+          li.textContent = L.replace(/^[-*]\s+/, '');
+          current.list.appendChild(li);
+        }
+      }
+      if (current) {
+        sectionMap[current.id] = current;
+        sectionMap[normalizeKey(current.id)] = current;
+        sectionMap[normalizeKey(current.title.replace(/^\s*\d+[\.)]?\s*/,''))] = current;
+      }
+      console.info('Physics Pioneers: markdown fallback produced sections', Object.keys(sectionMap));
+    }
   }
 
   function renderRightList(id) {
