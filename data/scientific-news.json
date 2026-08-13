@@ -37,7 +37,7 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-08-12T09:47:22.410653+00:00",
+  "updated_at": "2026-08-13T03:39:40.325560+00:00",
   "items": [
     {
       "title": "What Is the Nancy Grace Roman Space Telescope? (Grades 5-8)",
@@ -52,6 +52,13 @@
       "source": "NASA News",
       "date": "11 Aug 2026",
       "abstract": "NASA has declared \u201cwrenches down\u201d on the first completed payload designed for Artemis astronauts to deploy on the Moon\u2019s surface. Engineers working on NASA\u2019s Lunar Environment Monitoring Station, or LEMS, have completed hardware development and testing and the payload is ready for its permanent home..."
+    },
+    {
+      "title": "Quantum advantage reassessed: More realistic benchmarks for quantum algorithms",
+      "url": "https://phys.org/news/2026-08-quantum-advantage-reassessed-realistic-benchmarks.html",
+      "source": "Phys.org",
+      "date": "12 Aug 2026",
+      "abstract": "Quantum advantage refers to the point at which a quantum computer solves a clearly defined task faster or more efficiently than any classical computer\u2014or makes it solvable in the first place. For many practical applications, this has not yet been demonstrated. Research therefore relies heavily on th..."
     },
     {
       "title": "New CERN measurement challenges conventional models of how gluons behave inside atomic nuclei",
@@ -115,13 +122,6 @@
       "source": "Phys.org",
       "date": "06 Aug 2026",
       "abstract": "At the International Conference on High Energy Physics in Brazil, the BESIII Collaboration report that, after 15 years of sustained research, it identified the dominant constituent of the X(2370) as a pseudoscalar glueball with spin-parity quantum numbers of 0\u207b\u207a."
-    },
-    {
-      "title": "Miniaturized laser technology paves the way for fundamental physics experiments in space",
-      "url": "https://phys.org/news/2026-08-miniaturized-laser-technology-paves-fundamental.html",
-      "source": "Phys.org",
-      "date": "05 Aug 2026",
-      "abstract": "An international team of researchers has succeeded in producing atomic quantum gas mixtures with an unprecedented particle flux. In the journal Nature Communications, the scientists report on experiments conducted with the MAIUS-B apparatus, in which Bose\u2013Einstein condensates (BECs) consisting of tw..."
     }
   ]
 }
