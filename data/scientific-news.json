@@ -37,21 +37,21 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-08-13T03:39:40.325560+00:00",
+  "updated_at": "2026-08-14T03:37:45.721743+00:00",
   "items": [
     {
-      "title": "What Is the Nancy Grace Roman Space Telescope? (Grades 5-8)",
-      "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-nancy-grace-roman-space-telescope-grades-5-8/",
-      "source": "NASA News",
-      "date": "11 Aug 2026",
-      "abstract": "This article is for students grades 5-8. The Nancy Grace Roman Space Telescope is NASA\u2019s newest astrophysics observatory. The telescope will scan large sections of space. Roman will help astronomers answer questions about dark energy, dark matter, exoplanets, and more. ______________________________..."
+      "title": "Melting diamond could unlock triple fusion gain and the secrets of ice giant planets",
+      "url": "https://phys.org/news/2026-08-diamond-triple-fusion-gain-secrets.html",
+      "source": "Phys.org",
+      "date": "13 Aug 2026",
+      "abstract": "Diamond is more than a dazzling gem\u2014the extremely hard form of carbon makes up the pellet that encases fuel for inertial confinement fusion, and scientists believe it rains down deep inside ice giant planets like Neptune and Uranus. In both cases, the material experiences enormous pressures. Until n..."
     },
     {
-      "title": "NASA Completes Astronaut-Deployed Science Instrument for Lunar Surface",
-      "url": "https://science.nasa.gov/missions/artemis/nasa-completes-astronaut-deployed-science-instrument-for-lunar-surface/",
-      "source": "NASA News",
-      "date": "11 Aug 2026",
-      "abstract": "NASA has declared \u201cwrenches down\u201d on the first completed payload designed for Artemis astronauts to deploy on the Moon\u2019s surface. Engineers working on NASA\u2019s Lunar Environment Monitoring Station, or LEMS, have completed hardware development and testing and the payload is ready for its permanent home..."
+      "title": "Muon g-2 experiment places new constraints on a forbidden property of muons",
+      "url": "https://phys.org/news/2026-08-muon-constraints-forbidden-property-muons.html",
+      "source": "Phys.org",
+      "date": "13 Aug 2026",
+      "abstract": "A year after its final muon magnetic anomaly announcement, the Muon g-2 collaboration reports a new measurement of a different property of the muon: its electric dipole moment. The work is published on the arXiv preprint server."
     },
     {
       "title": "Quantum advantage reassessed: More realistic benchmarks for quantum algorithms",
@@ -117,11 +117,11 @@
       "abstract": "Using a detector filled with nearly 9 metric tons of liquid xenon, researchers have delivered some of the most sensitive dark matter results ever recorded. In the latest analysis from the XENON collaboration, working at the Gran Sasso National Laboratory in Italy, researchers carried out a \"blind\" t..."
     },
     {
-      "title": "X(2370) emerges as glueball-dominated particle in collider experiments",
-      "url": "https://phys.org/news/2026-08-x2370-emerges-glueball-dominated-particle.html",
-      "source": "Phys.org",
-      "date": "06 Aug 2026",
-      "abstract": "At the International Conference on High Energy Physics in Brazil, the BESIII Collaboration report that, after 15 years of sustained research, it identified the dominant constituent of the X(2370) as a pseudoscalar glueball with spin-parity quantum numbers of 0\u207b\u207a."
+      "title": "A 200-year-old physics experiment could help build future computers",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260713000755.htm",
+      "source": "ScienceDaily",
+      "date": "13 Jul 2026",
+      "abstract": "Scientists at Nanyang Technological University in Singapore have discovered a surprisingly simple way to create exotic light structures called optical skyrmions using a 200-year-old optical effect known as the Poisson spot. Instead of relying on expensive, highly engineered materials, they simply sh..."
     }
   ]
 }
