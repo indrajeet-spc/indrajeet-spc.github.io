@@ -37,8 +37,29 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-08-14T03:37:45.721743+00:00",
+  "updated_at": "2026-08-15T02:31:27.158266+00:00",
   "items": [
+    {
+      "title": "NASA\u2019s COFFIES Uses AI to Predict Storm-Causing Active Regions on Sun",
+      "url": "https://science.nasa.gov/science-research/heliophysics/nasas-coffies-uses-ai-to-predict-storm-causing-active-regions-on-sun/",
+      "source": "NASA News",
+      "date": "14 Aug 2026",
+      "abstract": "As humanity looks to the Moon and stars for future exploration, predicting space weather \u2014 conditions in space primarily driven by the Sun \u2014 is more important than ever. Now, a team of astrophysicists and data scientists with NASA\u2019s COFFIES (Consequence Of Fields and Flows in the Interior and Exteri..."
+    },
+    {
+      "title": "Cell biochemistry beyond membranes: Condensate physics reveals general rules for chemical responses",
+      "url": "https://phys.org/news/2026-08-cell-biochemistry-membranes-condensate-physics.html",
+      "source": "Phys.org",
+      "date": "14 Aug 2026",
+      "abstract": "Basic biology courses teach that cells contain organelles\u2014such as the nucleus, mitochondria and Golgi apparatus\u2014set apart by lipid membranes to get things done. Recent cell biology research has revealed another organizational principle at work in cells across all orders of biology."
+    },
+    {
+      "title": "Bound gravitational waves inspired by photonic systems",
+      "url": "https://phys.org/news/2026-08-bound-gravitational-photonic.html",
+      "source": "Phys.org",
+      "date": "14 Aug 2026",
+      "abstract": "When one mentions \"waves,\" we immediately think of a perturbation that propagates. This applies to waves on the shore, sound waves in the air or electromagnetic waves that we use to transmit information via optical fibers. The same idea of propagating perturbations applies to gravitational waves (GW..."
+    },
     {
       "title": "Melting diamond could unlock triple fusion gain and the secrets of ice giant planets",
       "url": "https://phys.org/news/2026-08-diamond-triple-fusion-gain-secrets.html",
@@ -101,27 +122,6 @@
       "source": "Phys.org",
       "date": "07 Aug 2026",
       "abstract": "In Goethe's ballad \"Erlk\u00f6nig,\" immortalized in Schubert's fevered 1815 setting, a dying boy riding through the night sees a spectral king beckoning from the darkness. His father calms him: \"Mein Sohn, es ist ein Nebelstreif\"\u2014my son, it is only a wisp of fog. In the poem, the father's reassurance pro..."
-    },
-    {
-      "title": "Tiny floating magnet detects ultrafaint magnetic fields at room temperature",
-      "url": "https://phys.org/news/2026-08-tiny-magnet-ultrafaint-magnetic-fields.html",
-      "source": "Phys.org",
-      "date": "07 Aug 2026",
-      "abstract": "Measuring faint magnetic fields is useful in a number of areas, including mapping brain activity, monitoring hearts and probing fundamental physics. Typically, picking up such weak signals requires expensive or bulky equipment, such as liquid-helium cooling tanks or specially shielded rooms that blo..."
-    },
-    {
-      "title": "XENONnT detector narrows the hunt for dark matter",
-      "url": "https://phys.org/news/2026-08-xenonnt-detector-narrows-dark.html",
-      "source": "Phys.org",
-      "date": "07 Aug 2026",
-      "abstract": "Using a detector filled with nearly 9 metric tons of liquid xenon, researchers have delivered some of the most sensitive dark matter results ever recorded. In the latest analysis from the XENON collaboration, working at the Gran Sasso National Laboratory in Italy, researchers carried out a \"blind\" t..."
-    },
-    {
-      "title": "A 200-year-old physics experiment could help build future computers",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260713000755.htm",
-      "source": "ScienceDaily",
-      "date": "13 Jul 2026",
-      "abstract": "Scientists at Nanyang Technological University in Singapore have discovered a surprisingly simple way to create exotic light structures called optical skyrmions using a 200-year-old optical effect known as the Poisson spot. Instead of relying on expensive, highly engineered materials, they simply sh..."
     }
   ]
 }
