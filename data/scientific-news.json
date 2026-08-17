@@ -37,8 +37,22 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-08-16T02:40:43.014027+00:00",
+  "updated_at": "2026-08-17T02:39:33.682084+00:00",
   "items": [
+    {
+      "title": "Strain flips Hall signal in altermagnetic manganese telluride, suggesting a path to practical spintronics",
+      "url": "https://phys.org/news/2026-08-strain-flips-hall-altermagnetic-manganese.html",
+      "source": "Phys.org",
+      "date": "16 Aug 2026",
+      "abstract": "Time-reversal symmetry is an exotic behavior found in systems whose internal physics looks different when running forward versus backward in time. For some time, physicists have searched for this behavior in systems with almost no overall magnetization. Such phases are highly prized for spintronics,..."
+    },
+    {
+      "title": "Centuries-old physics test could help detect millicharged particles",
+      "url": "https://phys.org/news/2026-08-centuries-physics-millicharged-particles.html",
+      "source": "Phys.org",
+      "date": "16 Aug 2026",
+      "abstract": "Theoretical physicists have long predicted the existence of millicharged particles (mCPs), hypothetical particles that carry a very small electric charge. These particles are expected to interact very weakly with ordinary matter and electromagnetic fields; hence, they would be difficult to detect in..."
+    },
     {
       "title": "Nonrepeating photonic crystal may enable more tunable, reliable semiconductor lasers",
       "url": "https://phys.org/news/2026-08-nonrepeating-photonic-crystal-enable-tunable.html",
@@ -108,20 +122,6 @@
       "source": "Phys.org",
       "date": "08 Aug 2026",
       "abstract": "In a new Nature Physics study, researchers accelerated electrons to more than twice the energy predicted by the traditional dephasing limit for laser-plasma accelerators operating over the same distance. This was made possible by a specially engineered laser pulse called a flying focus, which counte..."
-    },
-    {
-      "title": "Laser spectroscopy helps reveal hidden nuclear properties in fermium",
-      "url": "https://phys.org/news/2026-08-laser-spectroscopy-reveal-hidden-nuclear.html",
-      "source": "Phys.org",
-      "date": "07 Aug 2026",
-      "abstract": "For the first time, researchers have determined the shape of the actinide nucleus of fermium-255 and measured its structure with high precision and resolution."
-    },
-    {
-      "title": "Crossing into a mirror world: Particles turn to wisps of fog, and the magnetic monopole paradox dissolves",
-      "url": "https://phys.org/news/2026-08-mirror-world-particles-wisps-fog.html",
-      "source": "Phys.org",
-      "date": "07 Aug 2026",
-      "abstract": "In Goethe's ballad \"Erlk\u00f6nig,\" immortalized in Schubert's fevered 1815 setting, a dying boy riding through the night sees a spectral king beckoning from the darkness. His father calms him: \"Mein Sohn, es ist ein Nebelstreif\"\u2014my son, it is only a wisp of fog. In the poem, the father's reassurance pro..."
     }
   ]
 }
