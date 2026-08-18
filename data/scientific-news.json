@@ -37,8 +37,50 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-08-17T02:39:33.682084+00:00",
+  "updated_at": "2026-08-18T02:34:50.473025+00:00",
   "items": [
+    {
+      "title": "Hubble Solves Merger Mystery From Milky Way\u2019s Early Years",
+      "url": "https://science.nasa.gov/missions/hubble/hubble-solves-merger-mystery-from-milky-ways-early-years/",
+      "source": "NASA News",
+      "date": "17 Aug 2026",
+      "abstract": "New Hubble data shows definitive evidence of a dwarf galaxy merging with the young Milky Way in the earliest phases of its evolution."
+    },
+    {
+      "title": "Quantum light engine links atom-photon thermodynamics to classical physics",
+      "url": "https://phys.org/news/2026-08-quantum-links-atom-photon-thermodynamics.html",
+      "source": "Phys.org",
+      "date": "17 Aug 2026",
+      "abstract": "What is heat, and what is useful work if a machine consists only of an atom and light particles? In modern quantum technologies, this kind of question connects thermodynamics with quantum physics. Researchers at the University of Basel, Switzerland, have developed a theoretical approach that can rec..."
+    },
+    {
+      "title": "Gluons may play a central role in baryon number conservation\u2014and matter's stability",
+      "url": "https://phys.org/news/2026-08-gluons-play-central-role-baryon.html",
+      "source": "Phys.org",
+      "date": "17 Aug 2026",
+      "abstract": "New results from the STAR detector at the Relativistic Heavy Ion Collider (RHIC) suggest that gluons, the glue-like particles that hold quarks together inside protons, play a central role in the conservation of baryon number\u2014an essential part of a particle's quantum identity."
+    },
+    {
+      "title": "Graphene device measures fractional electric charges carried by some of quantum physics' strangest objects",
+      "url": "https://phys.org/news/2026-08-graphene-device-fractional-electric-quantum.html",
+      "source": "Phys.org",
+      "date": "17 Aug 2026",
+      "abstract": "An electron is supposed to be indivisible. It carries one fundamental unit of electric charge, and every electron is exactly the same. But under extreme conditions, large numbers of electrons act together and give rise to new quantum objects called quasiparticles. These act as if they carry only a f..."
+    },
+    {
+      "title": "AI agents coordinate behavior based on majority opinion\u2014even when said opinions are meaningless",
+      "url": "https://phys.org/news/2026-08-ai-agents-behavior-based-majority.html",
+      "source": "Phys.org",
+      "date": "17 Aug 2026",
+      "abstract": "A new study published in Science Advances takes a closer look at how AI agents' choices are influenced by their peers. The team found that more advanced models tend to follow the majority when shown other agents' choices, and they maintain stable agreement in groups far larger than those seen in hum..."
+    },
+    {
+      "title": "Anomalous quantum oscillations reveal new physics in a topological insulator",
+      "url": "https://phys.org/news/2026-08-anomalous-quantum-oscillations-reveal-physics.html",
+      "source": "Phys.org",
+      "date": "17 Aug 2026",
+      "abstract": "A study has been published in Nature Communications that identifies an unusual regime of quantum oscillations in a three-dimensional topological insulator. The results show that, when subjected to temperatures near absolute zero and extreme magnetic fields, electrons in the material zirconium pentat..."
+    },
     {
       "title": "Strain flips Hall signal in altermagnetic manganese telluride, suggesting a path to practical spintronics",
       "url": "https://phys.org/news/2026-08-strain-flips-hall-altermagnetic-manganese.html",
@@ -80,48 +122,6 @@
       "source": "Phys.org",
       "date": "13 Aug 2026",
       "abstract": "Diamond is more than a dazzling gem\u2014the extremely hard form of carbon makes up the pellet that encases fuel for inertial confinement fusion, and scientists believe it rains down deep inside ice giant planets like Neptune and Uranus. In both cases, the material experiences enormous pressures. Until n..."
-    },
-    {
-      "title": "Muon g-2 experiment places new constraints on a forbidden property of muons",
-      "url": "https://phys.org/news/2026-08-muon-constraints-forbidden-property-muons.html",
-      "source": "Phys.org",
-      "date": "13 Aug 2026",
-      "abstract": "A year after its final muon magnetic anomaly announcement, the Muon g-2 collaboration reports a new measurement of a different property of the muon: its electric dipole moment. The work is published on the arXiv preprint server."
-    },
-    {
-      "title": "Quantum advantage reassessed: More realistic benchmarks for quantum algorithms",
-      "url": "https://phys.org/news/2026-08-quantum-advantage-reassessed-realistic-benchmarks.html",
-      "source": "Phys.org",
-      "date": "12 Aug 2026",
-      "abstract": "Quantum advantage refers to the point at which a quantum computer solves a clearly defined task faster or more efficiently than any classical computer\u2014or makes it solvable in the first place. For many practical applications, this has not yet been demonstrated. Research therefore relies heavily on th..."
-    },
-    {
-      "title": "New CERN measurement challenges conventional models of how gluons behave inside atomic nuclei",
-      "url": "https://phys.org/news/2026-08-cern-conventional-gluons-atomic-nuclei.html",
-      "source": "Phys.org",
-      "date": "11 Aug 2026",
-      "abstract": "A University of Kansas physicist played a leading role in a CERN study showing that two rival explanations for how gluons behave inside atomic nuclei can now be experimentally distinguished."
-    },
-    {
-      "title": "X-rays: Beyond the Nobel Prize limit",
-      "url": "https://phys.org/news/2026-08-rays-nobel-prize-limit.html",
-      "source": "Phys.org",
-      "date": "11 Aug 2026",
-      "abstract": "When certain atoms are irradiated with laser light, they can produce a very different kind of laser light: laser pulses with extremely high frequencies in the X-ray range. These laser pulses, which helped achieve record-breaking results at TU Wien in the 1990s, were the subject of the 2023 Nobel Pri..."
-    },
-    {
-      "title": "Tiny particles defy action-reaction symmetry to stay in motion",
-      "url": "https://phys.org/news/2026-08-tiny-particles-defy-action-reaction.html",
-      "source": "Phys.org",
-      "date": "09 Aug 2026",
-      "abstract": "From schools of fish and flocks of birds to microscopic synthetic particles, many systems in nature and the laboratory consist of individual units or agents that move by consuming energy. These systems are known as active matter because their components continuously use energy to generate motion, ei..."
-    },
-    {
-      "title": "'Flying focus' laser overcomes key limitation in plasma-based particle accelerators",
-      "url": "https://phys.org/news/2026-08-flying-focus-laser-key-limitation.html",
-      "source": "Phys.org",
-      "date": "08 Aug 2026",
-      "abstract": "In a new Nature Physics study, researchers accelerated electrons to more than twice the energy predicted by the traditional dephasing limit for laser-plasma accelerators operating over the same distance. This was made possible by a specially engineered laser pulse called a flying focus, which counte..."
     }
   ]
 }
