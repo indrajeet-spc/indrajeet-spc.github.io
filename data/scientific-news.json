@@ -37,14 +37,42 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-08-18T02:34:50.473025+00:00",
+  "updated_at": "2026-08-19T02:37:32.925068+00:00",
   "items": [
     {
-      "title": "Hubble Solves Merger Mystery From Milky Way\u2019s Early Years",
-      "url": "https://science.nasa.gov/missions/hubble/hubble-solves-merger-mystery-from-milky-ways-early-years/",
-      "source": "NASA News",
-      "date": "17 Aug 2026",
-      "abstract": "New Hubble data shows definitive evidence of a dwarf galaxy merging with the young Milky Way in the earliest phases of its evolution."
+      "title": "The global race to make a practical quantum computer just took a big leap forward",
+      "url": "https://phys.org/news/2026-08-global-quantum-big.html",
+      "source": "Phys.org",
+      "date": "18 Aug 2026",
+      "abstract": "In the global race to build bigger and better quantum computers, researchers have taken a step forward. A new machine called Helios is radically different from other quantum computers."
+    },
+    {
+      "title": "Loud snoring\u2014simulation reveals the physical mechanism that keeps so many of us awake at night",
+      "url": "https://phys.org/news/2026-08-loud-simulation-reveals-physical-mechanism.html",
+      "source": "Phys.org",
+      "date": "18 Aug 2026",
+      "abstract": "Anyone who has had to share a room\u2014or worse, a bed\u2014with a loud snorer knows the effect unchecked snoring can have on sleep, sanity and emotional stability. An entire industry of products, technologies and treatments claims to cure or prevent loud snoring, with varying degrees of success."
+    },
+    {
+      "title": "Long-range magnetic interactions govern how a ferrimagnet approaches its phase transition",
+      "url": "https://phys.org/news/2026-08-range-magnetic-interactions-ferrimagnet-approaches.html",
+      "source": "Phys.org",
+      "date": "18 Aug 2026",
+      "abstract": "Close to a phase transition, very different materials can follow the same mathematical rules. The concept of universality, which groups seemingly distinct systems based on their common properties, was developed to describe this phenomenon."
+    },
+    {
+      "title": "Unusual superconductivity could emerge in valley-imbalanced rhombohedral graphene",
+      "url": "https://phys.org/news/2026-08-unusual-superconductivity-emerge-valley-imbalanced.html",
+      "source": "Phys.org",
+      "date": "18 Aug 2026",
+      "abstract": "Superconductors are materials in which electrical current flows with a resistance of zero, typically below specific temperatures. In conventional superconductors, this state of matter emerges when two electrons bind together at low temperatures, forming so-called Cooper pairs."
+    },
+    {
+      "title": "A new approach to building noise-resistant quantum sensors",
+      "url": "https://phys.org/news/2026-08-approach-noise-resistant-quantum-sensors.html",
+      "source": "Phys.org",
+      "date": "18 Aug 2026",
+      "abstract": "Quantum sensors, devices that collect measurements by exploiting quantum-mechanical phenomena, could potentially detect extremely weak magnetic, gravitational and electromagnetic signals with greater sensitivity than classical sensors. Some quantum sensors leverage entanglement, a phenomenon that pr..."
     },
     {
       "title": "Quantum light engine links atom-photon thermodynamics to classical physics",
@@ -94,34 +122,6 @@
       "source": "Phys.org",
       "date": "16 Aug 2026",
       "abstract": "Theoretical physicists have long predicted the existence of millicharged particles (mCPs), hypothetical particles that carry a very small electric charge. These particles are expected to interact very weakly with ordinary matter and electromagnetic fields; hence, they would be difficult to detect in..."
-    },
-    {
-      "title": "Nonrepeating photonic crystal may enable more tunable, reliable semiconductor lasers",
-      "url": "https://phys.org/news/2026-08-nonrepeating-photonic-crystal-enable-tunable.html",
-      "source": "Phys.org",
-      "date": "15 Aug 2026",
-      "abstract": "Over the past two decades, photonic-crystal surface-emitting lasers (PCSELs) have shown promise as a type of advanced semiconductor laser useful in defense- and aerospace-related applications. Typically, these devices are made with photonic crystal patterns that repeat across the area of the device...."
-    },
-    {
-      "title": "Cell biochemistry beyond membranes: Condensate physics reveals general rules for chemical responses",
-      "url": "https://phys.org/news/2026-08-cell-biochemistry-membranes-condensate-physics.html",
-      "source": "Phys.org",
-      "date": "14 Aug 2026",
-      "abstract": "Basic biology courses teach that cells contain organelles\u2014such as the nucleus, mitochondria and Golgi apparatus\u2014set apart by lipid membranes to get things done. Recent cell biology research has revealed another organizational principle at work in cells across all orders of biology."
-    },
-    {
-      "title": "Bound gravitational waves inspired by photonic systems",
-      "url": "https://phys.org/news/2026-08-bound-gravitational-photonic.html",
-      "source": "Phys.org",
-      "date": "14 Aug 2026",
-      "abstract": "When one mentions \"waves,\" we immediately think of a perturbation that propagates. This applies to waves on the shore, sound waves in the air or electromagnetic waves that we use to transmit information via optical fibers. The same idea of propagating perturbations applies to gravitational waves (GW..."
-    },
-    {
-      "title": "Melting diamond could unlock triple fusion gain and the secrets of ice giant planets",
-      "url": "https://phys.org/news/2026-08-diamond-triple-fusion-gain-secrets.html",
-      "source": "Phys.org",
-      "date": "13 Aug 2026",
-      "abstract": "Diamond is more than a dazzling gem\u2014the extremely hard form of carbon makes up the pellet that encases fuel for inertial confinement fusion, and scientists believe it rains down deep inside ice giant planets like Neptune and Uranus. In both cases, the material experiences enormous pressures. Until n..."
     }
   ]
 }
