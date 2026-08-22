@@ -37,8 +37,22 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-08-21T02:43:01.726244+00:00",
+  "updated_at": "2026-08-22T02:33:27.177657+00:00",
   "items": [
+    {
+      "title": "NASA Shares Views of August Solar Eclipse from Ground, Air, Space",
+      "url": "https://science.nasa.gov/science-research/heliophysics/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/",
+      "source": "NASA News",
+      "date": "21 Aug 2026",
+      "abstract": "On Aug. 12, a total solar eclipse darkened skies over Greenland, Iceland, and Spain. As the Moon covered the Sun, it briefly revealed the Sun\u2019s wispy outer atmosphere \u2014 the corona \u2014 to those in the path of totality who were lucky enough to have clear skies. NASA researchers and photographers were al..."
+    },
+    {
+      "title": "LHC collisions reveal oxygen and neon's shifting nuclear geometry",
+      "url": "https://phys.org/news/2026-08-lhc-collisions-reveal-oxygen-neon.html",
+      "source": "Phys.org",
+      "date": "21 Aug 2026",
+      "abstract": "Many people are aware that the Large Hadron Collider (LHC) at CERN smashes tiny subatomic particles together at nearly the speed of light to test foundational laws of physics and discover new fundamental particles, but some experiments also help scientists better visualize the actual structure of at..."
+    },
     {
       "title": "Century-old physics idea explains why cubic fluid equations work",
       "url": "https://phys.org/news/2026-08-century-physics-idea-cubic-fluid.html",
@@ -108,20 +122,6 @@
       "source": "Phys.org",
       "date": "19 Aug 2026",
       "abstract": "In the world of fusion energy, scientists and engineers study the fourth state of matter known as plasma in an effort to design and build a new type of power plant. Relying on the heat produced by two small atoms smashing together, a network of such facilities would help create a novel source of sta..."
-    },
-    {
-      "title": "Turning a quantum battery's environmental sensitivity into an advantage",
-      "url": "https://phys.org/news/2026-08-quantum-battery-environmental-sensitivity-advantage.html",
-      "source": "Phys.org",
-      "date": "19 Aug 2026",
-      "abstract": "Quantum batteries, devices that store energy by exploiting quantum mechanical phenomena, could, in principle, be charged faster and more efficiently than classical ones. Despite their potential, connecting these batteries to chargers is known to create quantum correlations that can trap some energy..."
-    },
-    {
-      "title": "Search in strange quark sector reveals new particle possibilities",
-      "url": "https://phys.org/news/2026-08-strange-quark-sector-reveals-particle.html",
-      "source": "Phys.org",
-      "date": "19 Aug 2026",
-      "abstract": "Despite science's best efforts to classify the vast menagerie of subatomic particles discovered over the past few decades, some exotic varieties defy explanation. Now, nuclear physicists at the U.S. Department of Energy's Thomas Jefferson National Accelerator Facility have found evidence of two unex..."
     }
   ]
 }
