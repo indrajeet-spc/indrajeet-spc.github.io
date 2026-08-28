@@ -37,8 +37,43 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-08-27T11:45:50.655309+00:00",
+  "updated_at": "2026-08-28T13:08:41.688759+00:00",
   "items": [
+    {
+      "title": "ATLAS and CMS narrow in on twin Higgs production",
+      "url": "https://phys.org/news/2026-08-atlas-cms-narrow-twin-higgs.html",
+      "source": "Phys.org",
+      "date": "27 Aug 2026",
+      "abstract": "Finding one Higgs boson was hard enough, but physicists at the Large Hadron Collider (LHC) are hunting for something even more elusive: pairs of Higgs bosons. At the recent International Conference on High Energy Physics 2026, the ATLAS and CMS collaborations presented new constraints on the double-..."
+    },
+    {
+      "title": "The physics of kiiking, Estonia's extreme sport of swinging",
+      "url": "https://phys.org/news/2026-08-physics-kiiking-estonia-extreme-sport.html",
+      "source": "Phys.org",
+      "date": "27 Aug 2026",
+      "abstract": "When an athlete swings upside down atop a 7-meter (23-foot) pendulum, it may seem like a feat of strength, courage or technique. A new study suggests it is something more fundamental: a striking demonstration of how intelligence emerges from the interaction of brain, body and environment."
+    },
+    {
+      "title": "Oxygen collisions reveal how quark\u2013gluon matter approaches equilibrium",
+      "url": "https://phys.org/news/2026-08-oxygen-collisions-reveal-quarkgluon-approaches.html",
+      "source": "Phys.org",
+      "date": "27 Aug 2026",
+      "abstract": "High-energy nuclear collisions recreate extreme conditions similar to those in the early universe, producing quark\u2013gluon plasma (QGP), a hot state of matter in which quarks and gluons are no longer confined inside protons and neutrons. While large systems such as lead\u2013lead collisions can produce mat..."
+    },
+    {
+      "title": "Deep underground, SuperCDMS begins hunting light dark matter with 24 cryogenic crystals",
+      "url": "https://phys.org/news/2026-08-deep-underground-supercdms-dark-cryogenic.html",
+      "source": "Phys.org",
+      "date": "27 Aug 2026",
+      "abstract": "In the hunt for one of nature's most elusive substances\u2014dark matter, which makes up 85% of all matter in the universe\u2014scientists are going to extremes. Deep underground and chilled to near absolute zero, the Super Cryogenic Dark Matter Search (SuperCDMS) SNOLAB\u2014one of the world's most sensitive dark..."
+    },
+    {
+      "title": "Geomimicry offers a new framework for engineering sustainable materials",
+      "url": "https://phys.org/news/2026-08-geomimicry-framework-sustainable-materials.html",
+      "source": "Phys.org",
+      "date": "27 Aug 2026",
+      "abstract": "When engineers look to nature for inspiration, they often turn to living systems. The flight of birds has influenced aircraft design, gecko feet inspired new adhesives and lotus leaves led to the development of self-cleaning surfaces."
+    },
     {
       "title": "Going beyond simple models of neural networks: Extended mean-field theory offers a better approach",
       "url": "https://phys.org/news/2026-08-simple-neural-networks-field-theory.html",
@@ -87,41 +122,6 @@
       "source": "Phys.org",
       "date": "25 Aug 2026",
       "abstract": "Every high-energy nuclear collision leaves behind a trail of clues about the structure of atomic nuclei. Deciphering those clues, however, depends on the accuracy of the underlying theory. Physicists at Osaka Metropolitan University have now performed a full calculation within Glauber theory, a corn..."
-    },
-    {
-      "title": "How fusion reactions can survive flaws\u2014up to a point",
-      "url": "https://phys.org/news/2026-08-fusion-reactions-survive-flaws.html",
-      "source": "Phys.org",
-      "date": "24 Aug 2026",
-      "abstract": "Researchers at Lawrence Livermore National Laboratory (LLNL) have found that implosions designed for inertial fusion energy (IFE) can tolerate significant imperfections before performance abruptly declines, a finding that could inform the design of fuel targets for future fusion power plants."
-    },
-    {
-      "title": "Mapping thorium's preferred sites could pave the way for nuclear clocks",
-      "url": "https://phys.org/news/2026-08-thorium-sites-pave-nuclear-clocks.html",
-      "source": "Phys.org",
-      "date": "24 Aug 2026",
-      "abstract": "For decades, physicists have used a technique called M\u00f6ssbauer spectroscopy to peer inside solid materials, revealing fine details of their surroundings by studying how their atomic nuclei absorb and re-emit gamma rays."
-    },
-    {
-      "title": "Corners in focus: Metasurface enables motion tracking without digital image processing",
-      "url": "https://phys.org/news/2026-08-corners-focus-metasurface-enables-motion.html",
-      "source": "Phys.org",
-      "date": "24 Aug 2026",
-      "abstract": "A research team at City University of Hong Kong (CityUHK) has developed a new optical corner-detection imaging method that uses azimuthal Hilbert transform metasurfaces and is designed to work as a universal framework. The study marks an important advance in high-speed, low-power optical information..."
-    },
-    {
-      "title": "Quantum computer microscope is set to significantly improve electron microscopy",
-      "url": "https://phys.org/news/2026-08-quantum-microscope-significantly-electron-microscopy.html",
-      "source": "Phys.org",
-      "date": "23 Aug 2026",
-      "abstract": "Electron microscopes are used wherever particularly small details need to be imaged. But from a strictly physical point of view, every electron in a conventional electron microscope represents a missed opportunity: If all you do is count electrons, any additional quantum information they carry remai..."
-    },
-    {
-      "title": "LHC collisions reveal oxygen and neon's shifting nuclear geometry",
-      "url": "https://phys.org/news/2026-08-lhc-collisions-reveal-oxygen-neon.html",
-      "source": "Phys.org",
-      "date": "21 Aug 2026",
-      "abstract": "Many people are aware that the Large Hadron Collider (LHC) at CERN smashes tiny subatomic particles together at nearly the speed of light to test foundational laws of physics and discover new fundamental particles, but some experiments also help scientists better visualize the actual structure of at..."
     }
   ]
 }
