@@ -37,8 +37,15 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-08-28T13:08:41.688759+00:00",
+  "updated_at": "2026-08-29T08:04:50.104096+00:00",
   "items": [
+    {
+      "title": "Diamond clock combines two signals to cut temperature-driven drift",
+      "url": "https://phys.org/news/2026-08-diamond-clock-combines-temperature-driven.html",
+      "source": "Phys.org",
+      "date": "28 Aug 2026",
+      "abstract": "Despite all the advertisements for engagement rings and necklace gifts, natural diamonds are imperfect. Their carbon atoms are arranged in a cubic lattice, but they nonetheless contain several types of crystallographic defects due to impurities that occasionally replace a carbon atom. The most commo..."
+    },
     {
       "title": "ATLAS and CMS narrow in on twin Higgs production",
       "url": "https://phys.org/news/2026-08-atlas-cms-narrow-twin-higgs.html",
@@ -115,13 +122,6 @@
       "source": "Phys.org",
       "date": "25 Aug 2026",
       "abstract": "Astronomers can't see dark matter directly, but they know it's there: Its gravity shapes galaxies and the large-scale structure of the cosmos. In an effort to uncover the composition of this hidden mass, a team at Lawrence Livermore National Laboratory (LLNL) is pursuing evidence of particles that e..."
-    },
-    {
-      "title": "Exact calculations sharpen view of atomic nuclei",
-      "url": "https://phys.org/news/2026-08-exact-sharpen-view-atomic-nuclei.html",
-      "source": "Phys.org",
-      "date": "25 Aug 2026",
-      "abstract": "Every high-energy nuclear collision leaves behind a trail of clues about the structure of atomic nuclei. Deciphering those clues, however, depends on the accuracy of the underlying theory. Physicists at Osaka Metropolitan University have now performed a full calculation within Glauber theory, a corn..."
     }
   ]
 }
