@@ -37,8 +37,15 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-08-29T08:04:50.104096+00:00",
+  "updated_at": "2026-08-30T07:02:28.724373+00:00",
   "items": [
+    {
+      "title": "How plastic welds retain a molecular 'memory' of their former surfaces to strengthen pipe joints",
+      "url": "https://phys.org/news/2026-08-plastic-welds-retain-molecular-memory.html",
+      "source": "Phys.org",
+      "date": "29 Aug 2026",
+      "abstract": "Welding plastic is a critically important part of everyday engineering\u2014especially for preventing leaks in underground water and gas pipes. For decades, engineers have understood that a properly welded joint in polyethylene pipe can be just as strong as the pipe itself, if not stronger. However, the..."
+    },
     {
       "title": "Diamond clock combines two signals to cut temperature-driven drift",
       "url": "https://phys.org/news/2026-08-diamond-clock-combines-temperature-driven.html",
@@ -115,13 +122,6 @@
       "source": "Phys.org",
       "date": "25 Aug 2026",
       "abstract": "Diffusion is a fundamental natural phenomenon that can be observed across a wide range of length and time scales. It plays a key role in many fields, including physics, biology and economics. In particular, asymmetric or directional diffusion of particle systems has attracted growing interest for pr..."
-    },
-    {
-      "title": "Using plutonium to probe the universe: Magneto\u2011\u03bd experiment advances dark matter and neutrino research",
-      "url": "https://phys.org/news/2026-08-plutonium-probe-universe-magneto-advances.html",
-      "source": "Phys.org",
-      "date": "25 Aug 2026",
-      "abstract": "Astronomers can't see dark matter directly, but they know it's there: Its gravity shapes galaxies and the large-scale structure of the cosmos. In an effort to uncover the composition of this hidden mass, a team at Lawrence Livermore National Laboratory (LLNL) is pursuing evidence of particles that e..."
     }
   ]
 }
