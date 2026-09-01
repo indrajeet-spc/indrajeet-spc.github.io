@@ -37,8 +37,22 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-08-31T07:18:02.737070+00:00",
+  "updated_at": "2026-09-01T06:31:02.235203+00:00",
   "items": [
+    {
+      "title": "Faint far-infrared radiation drives a correlated insulator-to-metal transition in magic-angle graphene",
+      "url": "https://phys.org/news/2026-08-faint-infrared-insulator-metal-transition.html",
+      "source": "Phys.org",
+      "date": "31 Aug 2026",
+      "abstract": "One of the central ideas in modern physics is the phase transition\u2014a sudden transformation of the state of a material. We encounter phase transitions throughout everyday life: water freezes into ice, wax melts in the warmth of a flame, and water vapor condenses into droplets on a cold window. In the..."
+    },
+    {
+      "title": "Organic crystal reveals how Joule heating stabilizes resistive switching",
+      "url": "https://phys.org/news/2026-08-crystal-reveals-joule-stabilizes-resistive.html",
+      "source": "Phys.org",
+      "date": "31 Aug 2026",
+      "abstract": "Metal-insulator transitions (MITs), in which a material changes from a metallic state with low resistivity to an insulating state because of a change in an external parameter, such as temperature, pressure or an electric field, are a central topic in fundamental physics research."
+    },
     {
       "title": "How plastic welds retain a molecular 'memory' of their former surfaces to strengthen pipe joints",
       "url": "https://phys.org/news/2026-08-plastic-welds-retain-molecular-memory.html",
@@ -108,20 +122,6 @@
       "source": "Phys.org",
       "date": "26 Aug 2026",
       "abstract": "Scientists have developed a new acoustic levitation technique using an ultrasonic beam capable of levitating and moving small objects in midair over distances of up to 40 cm (16 inches), six times farther than previously achieved using conventional methods. The study, carried out by a research team..."
-    },
-    {
-      "title": "Sound waves do double duty, carrying and protecting quantum information",
-      "url": "https://phys.org/news/2026-08-duty-quantum.html",
-      "source": "Phys.org",
-      "date": "25 Aug 2026",
-      "abstract": "Researchers at the Harvard John A. Paulson School of Engineering and Applied Sciences (SEAS) have demonstrated a promising new way to protect fragile quantum information using nothing but mechanical vibrations\u2014essentially extremely small sound waves. The breakthrough, which comes from the lab of Mar..."
-    },
-    {
-      "title": "Simulations reveal asymmetric diffusion of magnetic skyrmions through an off-center gate",
-      "url": "https://phys.org/news/2026-08-simulations-reveal-asymmetric-diffusion-magnetic.html",
-      "source": "Phys.org",
-      "date": "25 Aug 2026",
-      "abstract": "Diffusion is a fundamental natural phenomenon that can be observed across a wide range of length and time scales. It plays a key role in many fields, including physics, biology and economics. In particular, asymmetric or directional diffusion of particle systems has attracted growing interest for pr..."
     }
   ]
 }
