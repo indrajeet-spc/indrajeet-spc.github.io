@@ -1,0 +1,353 @@
+================================================================================
+PROMPT 1
+================================================================================
+
+================================================================================
+PROMPT 1 - ERROR
+================================================================================
+write() argument must be str, not None
+
+================================================================================
+PROMPT 2
+================================================================================
+
+---
+
+### 1. What are Miller Indices?
+
+**Miller indices** are a standardized notation system in crystallography used to specify the orientation of **lattice planes** and **directions** within a crystal lattice. Introduced by the British mineralogist William Hallowes Miller in 1839, this system is fundamental to materials science, solid-state physics, and chemistry.
+
+Understanding plane orientations is critical because physical, optical, electrical, and mechanical properties of crystals (such as mechanical strength, cleavage, and chemical reactivity) depend heavily on the crystallographic plane being exposed or acted upon.
+
+---
+
+### 2. Notation Conventions
+
+Miller indices are always expressed as integers. The type of brackets used indicates what is being specified:
+
+| Notation | Meaning | Example |
+| :--- | :--- | :--- |
+| **$(hkl)$** | A specific crystallographic **plane** | $(110)$ |
+| **$\{hkl\}$** | A **family** of crystallographically equivalent planes | $\{100\}$ includes $(100), (010), (001)$, etc. |
+| **$[uvw]$** | A specific crystallographic **direction** | $[111]$ |
+| **$\langle uvw \rangle$** | A **family** of equivalent directions | $\langle 100 \rangle$ |
+
+> **Note on Negatives:** If an index is negative, a bar (minus sign) is placed above the number rather than in front of it. For example, $-1$ is written as $\bar{1}$ (read as "bar one"), e.g., $(1\bar{1}0)$.
+
+---
+
+### 3. Why Use Reciprocals?
+
+If we defined planes using direct intercept lengths, a plane parallel to an axis would intercept it at **infinity ($\infty$)**. Working with mathematical equations involving infinity is impractical. Taking the **reciprocal** transforms an infinite intercept into **zero ($0$)**, making calculations and geometric representations simple and tractable.
+
+---
+
+### 4. Step-by-Step Procedure for Planes
+
+To find the Miller indices $(hkl)$ of a crystal plane, follow these standard steps:
+
+1. **Establish the Coordinate System:**
+   Identify the unit cell axes ($x, y, z$) and unit lengths ($a, b, c$).
+2. **Handle the Origin:**
+   Ensure the plane does **not** pass through the chosen origin. If it does, shift the origin parallelly to an adjacent lattice point.
+3. **Find the Intercepts:**
+   Determine the fractional intercepts of the plane along the $x, y,$ and $z$ axes in terms of the lattice constants $a, b,$ and $c$.
+4. **Take the Reciprocals:**
+   Calculate the inverse (reciprocal) of each intercept value.
+5. **Clear Fractions (Simplify to Integers):**
+   Multiply all reciprocals by their Least Common Multiple (LCM) to reduce them to the smallest set of whole integers.
+6. **Enclose in Parentheses:**
+   Write the final integer values enclosed in round brackets as $(hkl)$ without commas.
+
+---
+
+### 5. Worked Example
+
+#### **Problem:**
+Determine the Miller indices for a plane in a cubic unit cell that intercepts the $x$-axis at $\frac{1}{2}a$, the $y$-axis at $1b$, and runs parallel to the $z$-axis.
+
+---
+
+#### **Solution Step-by-Step:**
+
+* **Step 1: Identify the intercepts**
+  * $x$-axis intercept: $\frac{1}{2}a \rightarrow \mathbf{\frac{1}{2}}$
+  * $y$-axis intercept: $1b \rightarrow \mathbf{1}$
+  * $z$-axis intercept: Parallel to $z$, so intercept is at infinity $\rightarrow \mathbf{\infty}$
+
+* **Step 2: Take the reciprocals of the intercepts**
+  * $x$: $\frac{1}{1/2} = \mathbf{2}$
+  * $y$: $\frac{1}{1} = \mathbf{1}$
+  * $z$: $\frac{1}{\infty} = \mathbf{0}$
+
+* **Step 3: Clear fractions to get the smallest integers**
+  * The reciprocals are already integers: $2, 1, 0$.
+  * The smallest integer ratio is already established.
+
+* **Step 4: Format as Miller Indices**
+  * Enclose the values in parentheses: **$(210)$**
+
+---
+
+### Visual Summary of Common Cubic Planes
+
+To build intuition, here are three standard planes in a cubic crystal:
+
+```
+    (100) Plane                  (110) Plane                  (111) Plane
+    
+    +---+---+                    +---+---+                    +---+---+
+   /|  /|                       /   /|                       /   /|
+  +---+ |  (Front face)        +---+ |  (Diagonal plane)    +---+ |  (Corner triangle)
+  | | | |                      | \ | |                      | / | |
+  | +-|--+                     |  \|-+                      |/--|-+
+  |/  |/                       |   |/                       +---|/
+  +---+                        +---+                        +---+
+  Intercepts: (1, ∞, ∞)        Intercepts: (1, 1, ∞)        Intercepts: (1, 1, 1)
+  Indices:    (100)            Indices:    (110)            Indices:    (111)
+```
+
+---
+
+### 6. Key Rules & Special Cases
+
+1. **Planes Passing Through the Origin:**
+   If a plane passes through $(0,0,0)$, step 2 will fail (division by zero). You must shift the coordinate origin to an adjacent cell corner before measuring intercepts.
+2. **Parallel Planes:**
+   All parallel, evenly spaced planes have the **same Miller indices**. For example, a plane cutting at $(2, 2, 2)$ simplifies via reciprocals to $\frac{1}{2}, \frac{1}{2}, \frac{1}{2} \rightarrow (111)$.
+3. **No Commas:**
+   Do not use commas between single digits (write $(110)$, not $(1,1,0)$). Commas are only used if an index is double-digit to avoid ambiguity (e.g., $(1, 12, 3)$).
+
+
+================================================================================
+PROMPT 3 - ERROR
+================================================================================
+503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+
+================================================================================
+PROMPT 4
+================================================================================
+
+A **diatomic chain** is a 1D model consisting of alternating atoms of two different masses, $M_1$ and $M_2$, connected by identical springs with spring constant $C$. The repeat distance (lattice constant) of the primitive unit cell containing two atoms is $a$.
+
+This model is fundamental in solid-state physics because it explains the existence of two distinct types of lattice vibrations (quantized as **phonons**): **Acoustic** and **Optical** phonons.
+
+---
+
+### 1. Mathematical Setup and Dispersion Relation
+
+Let $u_n$ be the displacement of atom $M_1$ in unit cell $n$, and $v_n$ be the displacement of atom $M_2$ in unit cell $n$.
+
+Using Newton's second law for nearest-neighbor interactions:
+$$M_1 \ddot{u}_n = C(v_n + v_{n-1} - 2u_n)$$
+$$M_2 \ddot{v}_n = C(u_{n+1} + u_n - 2v_n)$$
+
+We assume plane wave solutions with frequency $\omega$ and wavevector $k$:
+$$u_n = U e^{i(kna - \omega t)}$$
+$$v_n = V e^{i(kna - \omega t)}$$
+
+Substituting these into the equations of motion yields a system of two homogeneous equations:
+$$\begin{pmatrix} 2C - M_1\omega^2 & -C(1 + e^{-ika}) \\ -C(1 + e^{ika}) & 2C - M_2\omega^2 \end{pmatrix} \begin{pmatrix} U \\ V \end{pmatrix} = \begin{pmatrix} 0 \\ 0 \end{pmatrix}$$
+
+For non-trivial solutions, the determinant of this matrix must vanish. Setting $\det = 0$ gives the quadratic equation in $\omega^2$:
+$$M_1 M_2 \omega^4 - 2C(M_1 + M_2)\omega^2 + 2C^2(1 - \cos ka) = 0$$
+
+Using $\frac{1 - \cos ka}{2} = \sin^2\left(\frac{ka}{2}\right)$, the exact **Dispersion Relation** $\omega(k)$ is:
+
+$$\omega^2(k) = C \left( \frac{1}{M_1} + \frac{1}{M_2} \right) \pm C \sqrt{\left( \frac{1}{M_1} + \frac{1}{M_2} \right)^2 - \frac{4 \sin^2(ka/2)}{M_1 M_2}}$$
+
+The **$+$ sign** corresponds to the **Optical Branch** ($\omega_+$), and the **$-$ sign** corresponds to the **Acoustic Branch** ($\omega_-$).
+
+---
+
+### 2. Analysis of the Dispersion Branches
+
+Assume without loss of generality that $M_1 > M_2$. The First Brillouin Zone lies in the range $k \in \left[-\frac{\pi}{a}, \frac{\pi}{a}\right]$.
+
+```
+          Frequency (ω)
+            ^
+            |       Optical Branch (ω+)
+  ω_max ----+--  . - - - - - - .  <-- ω = √(2C/M₂)
+            |  /               \
+   ω_opt ---+-*                 *- <-- ω = √(2C(1/M₁ + 1/M₂)) at k=0
+            |  \               /
+            |    ` - - - - - - `  <-- Bandgap (Forbidden Region)
+   ω_ac ----+--  . - - - - - - .  <-- ω = √(2C/M₁)
+            |  /               \
+            | / Acoustic        \
+          0 +---------------------> Wavevector (k)
+           -π/a        0        π/a
+```
+
+#### A. Center of the Brillouin Zone ($k \to 0$)
+* **Acoustic Branch ($\omega_-$):** 
+  Using a Taylor expansion for small $k$:
+  $$\omega_- \approx \sqrt{\frac{C}{2(M_1 + M_2)}} \, a \, k = v_s |k|$$
+  $\omega_-$ goes linearly to zero as $k \to 0$. Here $v_s$ is the speed of sound in the lattice.
+* **Optical Branch ($\omega_+$):**
+  $$\omega_+ = \sqrt{2C \left(\frac{1}{M_1} + \frac{1}{M_2}\right)} = \sqrt{\frac{2C}{\mu}}$$
+  (where $\mu = \frac{M_1 M_2}{M_1 + M_2}$ is the reduced mass).
+  $\omega_+$ remains finite (non-zero) even at $k = 0$.
+
+#### B. Edge of the Brillouin Zone ($k = \pm \frac{\pi}{a}$)
+At $k = \frac{\pi}{a}$, $\sin^2\left(\frac{ka}{2}\right) = 1$:
+* **Acoustic Branch:** $\omega_- = \sqrt{\frac{2C}{M_1}}$ (oscillation governed by the heavier mass).
+* **Optical Branch:** $\omega_+ = \sqrt{\frac{2C}{M_2}}$ (oscillation governed by the lighter mass).
+
+#### C. Phonon Bandgap
+No propagating wave solutions exist for frequencies between $\sqrt{\frac{2C}{M_1}}$ and $\sqrt{\frac{2C}{M_2}}$. This frequency range is an energy **bandgap** (or forbidden gap).
+
+---
+
+### 3. Physical Interpretation
+
+The fundamental physical difference lies in **how adjacent atoms move relative to each other** within the same unit cell. We can see this by calculating the amplitude ratio $U/V$ from the matrix equations:
+
+$$\frac{U}{V} = \frac{2C \cos(ka/2) e^{-ika/2}}{2C - M_1 \omega^2}$$
+
+#### Acoustic Phonons ($\omega_-$)
+* **Atomic Motion ($k \to 0$):** $\frac{U}{V} = +1$
+  * **In-phase motion:** Both atoms ($M_1$ and $M_2$) move in the **same direction** with the same amplitude and velocity.
+  * The center of mass of the unit cell moves.
+* **Physical Nature:** These are long-wavelength elastic density waves (sound waves). Because entire unit cells compress and expand together, it requires very little energy for long wavelengths ($k \to 0$), which is why $\omega \to 0$.
+
+#### Optical Phonons ($\omega_+$)
+* **Atomic Motion ($k \to 0$):** $\frac{U}{V} = -\frac{M_2}{M_1} \implies M_1 U + M_2 V = 0$
+  * **Out-of-phase motion:** Adjacent atoms move in **opposite directions** relative to each other such that the center of mass of the unit cell remains stationary.
+* **Physical Nature:** 
+  * If the two atoms carry opposite effective charges (like $Na^+$ and $Cl^-$ in ionic crystals), this out-of-phase motion creates a fluctuating **electric dipole moment**.
+  * Light (photons) can strongly couple to these oscillating dipoles because electromagnetic radiation drives opposite charges in opposite directions. Thus, these vibrations can be directly excited by **infrared light**—hence the name **"optical"**.
+  * Restoring forces are large even at long wavelengths ($k \to 0$) because neighboring springs are compressed/stretched significantly, leading to a high, non-zero activation frequency ($\omega > 0$).
+
+---
+
+### 4. Summary Table
+
+| Feature | Acoustic Branch ($\omega_-$) | Optical Branch ($\omega_+$) |
+| :--- | :--- | :--- |
+| **Frequency at $k=0$** | $\omega = 0$ | $\omega = \sqrt{2C/\mu} > 0$ |
+| **Dispersion at small $k$** | Linear ($\omega = v_s k$) | Flat/quadratic ($\omega \approx \text{const}$) |
+| **Relative Motion** | Atoms move **in-phase** ($U \approx V$) | Atoms move **out-of-phase** ($M_1 U = -M_2 V$) |
+| **Center of Mass** | Moves | Remains stationary |
+| **Physical Mechanism** | Sound propagation, heat transport | Dipole excitation via light (in ionic solids) |
+
+
+================================================================================
+PROMPT 5
+================================================================================
+
+## 1. Introduction
+
+In 1912, Peter Debye developed a quantum theory of the specific heat of solids to address the shortcomings of classical physics (Dulong-Petit Law) and Einstein's early quantum model. 
+
+* **Dulong-Petit Law** predicted a constant molar specific heat ($C_v = 3R$) at all temperatures, failing completely at low temperatures.
+* **Einstein's Model** assumed atoms vibrate independently at a single frequency. While it predicted that $C_v \to 0$ as $T \to 0$, its exponential drop was too steep compared to real experimental data.
+
+**Debye’s Key Insight:** Atoms in a solid do not vibrate independently. Instead, atomic motions are coupled, forming collective lattice vibrations (elastic waves or **phonons**) spanning a spectrum of frequencies, ranging from low acoustic waves up to a maximum cut-off frequency.
+
+---
+
+## 2. Assumptions of Debye's Theory
+
+1. **Continuous Elastic Medium:** A solid is treated as an isotropic, continuous elastic medium rather than a collection of independent harmonic oscillators.
+2. **Elastic Waves:** The lattice vibrations are sound waves (phonons) propagating through the solid with constant velocity (ignoring dispersion).
+3. **Polarization:** Vibrational waves exist in three polarization modes: **1 longitudinal** and **2 transverse**.
+4. **Frequency Cut-off ($\nu_m$):** Since a solid consists of a finite number of atoms ($N$), the total number of vibrational modes is fixed to **$3N$**. This introduces a maximum cut-off frequency, $\nu_m$.
+5. **Planck's Energy Quantization:** The energy of each vibrational mode of frequency $\nu$ is quantized according to Planck's distribution law:
+   $$\bar{\epsilon} = \frac{h\nu}{e^{h\nu / k_B T} - 1}$$
+   *(ignoring the zero-point energy $\frac{1}{2}h\nu$, as it does not contribute to $C_v$)*.
+
+---
+
+## 3. Derivation of Debye's Specific Heat Formula
+
+### Step 1: Density of Modes $g(\nu)d\nu$
+In a continuous 3D medium of volume $V$, the number of vibrational modes in the frequency range $\nu$ to $\nu + d\nu$ is:
+$$g(\nu)d\nu = 4\pi V \left( \frac{1}{v_l^3} + \frac{2}{v_t^3} \right) \nu^2 d\nu$$
+
+Where $v_l$ and $v_t$ are the longitudinal and transverse wave velocities, respectively. Defining an average sound velocity $v_m$ such that:
+$$\frac{3}{v_m^3} = \frac{1}{v_l^3} + \frac{2}{v_t^3}$$
+
+The mode density simplifies to:
+$$g(\nu)d\nu = \frac{12\pi V}{v_m^3} \nu^2 d\nu$$
+
+### Step 2: Finding the Cut-off Frequency ($\nu_m$)
+The total number of modes integrated up to $\nu_m$ must equal the total $3N$ degrees of freedom:
+$$\int_{0}^{\nu_m} g(\nu) d\nu = 3N$$
+
+$$\int_{0}^{\nu_m} \frac{12\pi V}{v_m^3} \nu^2 d\nu = 3N \implies \frac{12\pi V}{v_m^3} \left[ \frac{\nu_m^3}{3} \right] = 3N$$
+
+$$\frac{4\pi V \nu_m^3}{v_m^3} = 3N \implies \frac{V}{v_m^3} = \frac{3N}{4\pi \nu_m^3}$$
+
+Substituting this back into $g(\nu)d\nu$:
+$$g(\nu)d\nu = \frac{9N}{\nu_m^3} \nu^2 d\nu$$
+
+### Step 3: Total Internal Energy ($U$)
+The total vibrational internal energy of the solid is:
+$$U = \int_{0}^{\nu_m} \bar{\epsilon} \cdot g(\nu) d\nu = \int_{0}^{\nu_m} \left( \frac{h\nu}{e^{h\nu / k_B T} - 1} \right) \left( \frac{9N}{\nu_m^3} \nu^2 d\nu \right)$$
+
+$$U = \frac{9Nh}{\nu_m^3} \int_{0}^{\nu_m} \frac{\nu^3}{e^{h\nu / k_B T} - 1} d\nu$$
+
+### Step 4: Variable Substitution and Debye Temperature Definition
+Let $x = \frac{h\nu}{k_B T}$, then $d\nu = \frac{k_B T}{h} dx$. 
+
+The upper limit of integration becomes $x_m = \frac{h\nu_m}{k_B T} = \frac{\Theta_D}{T}$, where **$\Theta_D$ is the Debye Temperature**.
+
+Substituting $x$ into $U$:
+$$U = \frac{9Nh}{\nu_m^3} \left( \frac{k_B T}{h} \right)^4 \int_{0}^{x_m} \frac{x^3}{e^x - 1} dx$$
+
+Since $h\nu_m = k_B \Theta_D$, we rewrite $U$ as:
+$$U = 9 N k_B T \left( \frac{T}{\Theta_D} \right)^3 \int_{0}^{\Theta_D / T} \frac{x^3}{e^x - 1} dx$$
+
+### Step 5: Heat Capacity ($C_v$)
+The specific heat at constant volume $C_v = \left( \frac{\partial U}{\partial T} \right)_V$:
+
+$$C_v = 9 N k_B \left( \frac{T}{\Theta_D} \right)^3 \int_{0}^{\Theta_D / T} \frac{x^4 e^x}{(e^x - 1)^2} dx$$
+
+---
+
+## 4. Debye Temperature ($\Theta_D$)
+
+The **Debye Temperature** is defined as:
+$$\Theta_D = \frac{h \nu_m}{k_B}$$
+
+* **Physical Significance:** It represents the temperature scale at which highest frequency phonon mode is thermalized.
+  * For $T \gg \Theta_D$, all vibrational modes are fully excited (classical regime).
+  * For $T \ll \Theta_D$, high-frequency modes "freeze out," and only long-wavelength acoustic phonons are excited.
+* **Material Property:** Harder materials with strong interatomic bonds and lighter atoms (like Diamond) have high speed of sound and thus high Debye temperatures ($\Theta_D \approx 2200\text{ K}$). Softer materials (like Lead) have low Debye temperatures ($\Theta_D \approx 105\text{ K}$).
+
+---
+
+## 5. Low-Temperature Limit (Debye $T^3$ Law)
+
+When $T \ll \Theta_D$, $x_m = \frac{\Theta_D}{T} \to \infty$.
+
+The integral becomes a standard definite integral:
+$$\int_{0}^{\infty} \frac{x^3}{e^x - 1} dx = \frac{\pi^4}{15}$$
+
+Substituting this value into the internal energy equation:
+$$U \approx 9 N k_B T \left( \frac{T}{\Theta_D} \right)^3 \left( \frac{\pi^4}{15} \right) = \frac{3 \pi^4 N k_B T^4}{5 \Theta_D^3}$$
+
+Taking the derivative with respect to $T$ for 1 mole of substance ($N = N_A$, $N_A k_B = R$):
+
+$$C_v = \frac{\partial U}{\partial T} = \frac{12 \pi^4 R}{5} \left( \frac{T}{\Theta_D} \right)^3$$
+
+$$C_v \propto T^3$$
+
+This is the famous **Debye $T^3$ Law**, which perfectly matches experimental results for non-metallic solids near absolute zero.
+
+*(Note: At high temperatures $T \gg \Theta_D$, applying Taylor expansion $e^x - 1 \approx x$ reduces the formula to $C_v = 3R$, successfully recovering the classical **Dulong-Petit Law**).*
+
+---
+
+## 6. Limitations of Debye's Theory
+
+1. **Continuum Approximation:** Debye treated the solid as a continuous medium, ignoring the discrete, periodic nature of the crystal lattice. This assumption fails for short-wavelength (high-frequency) vibrations.
+2. **Ignores Dispersion:** It assumes linear dispersion ($\omega = v \cdot k$, constant velocity of sound). In real solids, wave velocity changes with frequency ($\omega$ vs $k$ curve bends near Brillouin zone boundaries).
+3. **No Distinction Between Optical and Acoustic Branches:** In solids with multi-atomic unit cells, vibrations split into acoustic and optical phonons. Debye's model considers acoustic modes only.
+4. **Anisotropy Ignored:** The model assumes isotropic media, whereas actual crystals exhibit different elastic properties along different crystallographic axes.
+5. **Electronic Contribution Neglected:** In metals, conduction electrons contribute a linear temperature term ($C_{elec} = \gamma T$) to specific heat at extremely low temperatures, which Debye's model does not account for.
+6. **$\Theta_D$ is Not Truly Constant:** Experimentally calculated values of $\Theta_D$ vary slightly with temperature, demonstrating that the model is an approximation rather than an exact law.
+
+
