@@ -37,8 +37,22 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-09-01T06:31:02.235203+00:00",
+  "updated_at": "2026-09-02T06:09:46.947345+00:00",
   "items": [
+    {
+      "title": "First measurement of low-energy solar neutrinos scattering off electrons",
+      "url": "https://phys.org/news/2026-09-energy-solar-neutrinos-electrons.html",
+      "source": "Phys.org",
+      "date": "01 Sep 2026",
+      "abstract": "Every second, tens of billions of neutrinos produced by nuclear fusion in the sun pass through every square centimeter of Earth\u2014and through our bodies\u2014almost without interacting. Although they are among the most abundant particles emitted by the sun, their extremely weak interactions make detecting..."
+    },
+    {
+      "title": "Experiment sees surprising result in search for dark matter",
+      "url": "https://phys.org/news/2026-09-result-dark.html",
+      "source": "Phys.org",
+      "date": "01 Sep 2026",
+      "abstract": "For the better part of a century, people have been trying to understand dark matter. This invisible substance makes up roughly 85% of the mass in the universe but has never been directly detected. Determining exactly what it is remains one of the biggest questions about our world."
+    },
     {
       "title": "Faint far-infrared radiation drives a correlated insulator-to-metal transition in magic-angle graphene",
       "url": "https://phys.org/news/2026-08-faint-infrared-insulator-metal-transition.html",
@@ -108,20 +122,6 @@
       "source": "Phys.org",
       "date": "27 Aug 2026",
       "abstract": "Physics is most readily applied to relatively simple systems: a pendulum, two electrons colliding or the structure of the solar system. But when systems become complicated\u2014when many particles interact with one another, in condensed matter systems such as gases and fluids or in the cosmology of the e..."
-    },
-    {
-      "title": "Ramped fields create more robust entanglement between trapped-ion qubits",
-      "url": "https://phys.org/news/2026-08-ramped-fields-robust-entanglement-ion.html",
-      "source": "Phys.org",
-      "date": "26 Aug 2026",
-      "abstract": "While quantum computing could be the future, it is currently plagued by finicky hardware. To make the technology practical, researchers must demonstrate that it consistently and continuously works and performs at scale. In a new study, published in Physical Review Letters, researchers at Lawrence Li..."
-    },
-    {
-      "title": "Narrow ultrasonic beam enables stable 3D levitation six times farther than before",
-      "url": "https://phys.org/news/2026-08-narrow-ultrasonic-enables-stable-3d.html",
-      "source": "Phys.org",
-      "date": "26 Aug 2026",
-      "abstract": "Scientists have developed a new acoustic levitation technique using an ultrasonic beam capable of levitating and moving small objects in midair over distances of up to 40 cm (16 inches), six times farther than previously achieved using conventional methods. The study, carried out by a research team..."
     }
   ]
 }
