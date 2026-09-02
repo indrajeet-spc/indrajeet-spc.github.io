@@ -3,7 +3,7 @@ import json
 import re
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import timezone
+from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 
@@ -13,6 +13,7 @@ FEEDS = [
     ("Phys.org", "https://phys.org/rss-feed/physics-news/"),
     ("ScienceDaily", "https://www.sciencedaily.com/rss/matter_energy/physics.xml"),
     ("ScienceDaily Nanotechnology", "https://www.sciencedaily.com/rss/matter_energy/nanotechnology.xml"),
+    ("Nature Journal", "https://www.nature.com/nature.rss"),
     ("Nature Physics", "https://www.nature.com/subjects/physics.rss"),
     ("Science Magazine", "https://www.sciencemag.org/rss/news_current.xml"),
     ("Scientific American", "https://www.scientificamerican.com/feed/rss/"),
@@ -38,26 +39,65 @@ def clean_text(value, limit):
 
 
 def format_date(value):
+    if not value:
+        return "Recent"
+
+    # If value is an RFC-2822 style date (e.g., 'Wed, 02 Sep 2026 09:30:01 EDT')
     try:
-        parsed = parsedate_to_datetime(value).astimezone(timezone.utc)
-        return parsed.strftime("%d %b %Y")
+        parsed = parsedate_to_datetime(value)
+        return parsed.astimezone(timezone.utc).strftime("%d %b %Y")
     except (TypeError, ValueError):
+        pass
+
+    # If value is an ISO date-only string like '2026-09-02', treat it as a date (no timezone shift).
+    if re.match(r"^\d{4}-\d{2}-\d{2}$", value):
+        try:
+            return datetime.fromisoformat(value).strftime("%d %b %Y")
+        except ValueError:
+            return "Recent"
+
+    # For other ISO datetime strings, parse and convert to UTC for consistent display
+    try:
+        parsed = datetime.fromisoformat(value)
+        if parsed.tzinfo is None:
+            # naive datetime with time component — treat it as UTC to avoid local TZ shifts
+            parsed = parsed.replace(tzinfo=timezone.utc)
+        return parsed.astimezone(timezone.utc).strftime("%d %b %Y")
+    except ValueError:
         return "Recent"
 
 
 def first_text(item, names):
     for name in names:
-        value = item.findtext(name)
-        if value:
-            return value
+        local_name = name.rsplit("}", 1)[-1] if "}" in name else name
+        candidates = [name, f"{{*}}{local_name}"]
+        for candidate in candidates:
+            value = item.findtext(candidate)
+            if value:
+                return value
     return ""
 
 
-def matches_topic(item):
+def iter_items(root):
+    items = root.findall(".//item")
+    if items:
+        return items
+    return root.findall(".//{*}item")
+
+
+def item_categories(item):
+    categories = item.findall("category") + item.findall("{*}category")
+    return [category.text or "" for category in categories]
+
+
+def matches_topic(item, source):
+    if source == "Nature Journal":
+        return True
+
     searchable_text = " ".join([
         first_text(item, ["title"]),
         first_text(item, ["description", "{http://purl.org/rss/1.0/modules/content/}encoded"]),
-        " ".join(category.text or "" for category in item.findall("category")),
+        " ".join(item_categories(item)),
     ]).lower()
     return not NEWS_TOPICS or any(topic.lower() in searchable_text for topic in NEWS_TOPICS)
 
@@ -73,8 +113,8 @@ def main():
         except (OSError, ET.ParseError):
             continue
 
-        for item in root.findall(".//item"):
-            if not matches_topic(item):
+        for item in iter_items(root):
+            if not matches_topic(item, source):
                 continue
 
             title = clean_text(first_text(item, ["title"]), 140)
@@ -85,7 +125,7 @@ def main():
                     "title": title,
                     "url": url,
                     "source": source,
-                    "date": format_date(first_text(item, ["pubDate", "published", "updated"])),
+                    "date": format_date(first_text(item, ["pubDate", "published", "updated", "date", "{http://purl.org/dc/elements/1.1/}date"])),
                     "abstract": abstract or "Abstract unavailable. Open the full article for details.",
                 })
                 seen_urls.add(url)
@@ -93,6 +133,13 @@ def main():
     if not items:
         raise RuntimeError("The configured science feeds returned no usable stories")
 
+    def sort_key(item):
+        try:
+            return datetime.strptime(item["date"], "%d %b %Y")
+        except ValueError:
+            return datetime.min
+
+    items = sorted(items, key=sort_key, reverse=True)
     items = items[:12]
 
     payload = {
