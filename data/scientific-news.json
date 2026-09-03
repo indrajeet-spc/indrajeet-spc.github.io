@@ -41,14 +41,21 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-09-02T17:05:46.741742+00:00",
+  "updated_at": "2026-09-03T06:08:06.562434+00:00",
   "items": [
     {
-      "title": "NASA Rocket Takes First Multi-Point Look Inside Radio-Disrupting Clouds",
-      "url": "https://science.nasa.gov/science-research/heliophysics/nasa-rocket-takes-first-multi-point-look-inside-radio-disrupting-clouds/",
-      "source": "NASA News",
+      "title": "PACMAN AI framework for controlling fusion systems safely makes key decisions in milliseconds",
+      "url": "https://phys.org/news/2026-09-pacman-ai-framework-fusion-safely.html",
+      "source": "Phys.org",
       "date": "02 Sep 2026",
-      "abstract": "High above Earth, thin veils of metallic haze drift through the edge of space. Known as sporadic E layers, these high-altitude \u201cclouds\u201d form from the vaporized dust of burnt-up meteors, earning their name from the unpredictable way they emerge and then dissipate. Now, new results from a NASA soundin..."
+      "abstract": "Inside some fusion energy systems, particles hotter than the core of the sun can become unruly in a few thousandths of a second, far faster than any human operator can react. A new software framework developed by researchers at the U.S. Department of Energy's (DOE) Princeton Plasma Physics Laborator..."
+    },
+    {
+      "title": "Scientists observe Einstein's gravity in the quantum world",
+      "url": "https://phys.org/news/2026-09-scientists-einstein-gravity-quantum-world.html",
+      "source": "Phys.org",
+      "date": "02 Sep 2026",
+      "abstract": "An international team including Nobel Prize-winning physicist Professor Sir Roger Penrose has observed a long-predicted effect of gravity on a falling quantum object for the first time. The result shows that a fundamental principle at the heart of Einstein's theory of gravity remains consistent with..."
     },
     {
       "title": "Physicists test the weak equivalence principle in an orbiting space station",
@@ -100,6 +107,13 @@
       "abstract": "Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02762-4 Researchers are hunting for ways to enhance DNA repair with the hopes that this will keep people healthier for longer."
     },
     {
+      "title": "Functional chimeric mRNAs encode proteins in mammalian immunity",
+      "url": "https://www.nature.com/articles/s41586-026-10982-x",
+      "source": "Nature Journal",
+      "date": "02 Sep 2026",
+      "abstract": "Nature, Published online: 02 September 2026; doi:10.1038/s41586-026-10982-x Inflammation induces interchromosomal DNA interactions that bring parent genes into close proximity, facilitating the formation of chimeric mRNAs that encode physiologically relevant, functional proteins."
+    },
+    {
       "title": "3D epigenome of glial cell types in developing human cortex",
       "url": "https://www.nature.com/articles/s41586-026-10987-6",
       "source": "Nature Journal",
@@ -112,20 +126,6 @@
       "source": "Nature Journal",
       "date": "02 Sep 2026",
       "abstract": "Nature, Published online: 02 September 2026; doi:10.1038/s41586-026-10690-6 Connectomics, electrophysiology and modelling of electric fish neural circuits shows how distributed synaptic plasticity across multiple network layers cooperates to enable fast, accurate and noise-robust sensory learning."
-    },
-    {
-      "title": "Designing physics experiments with artificial intelligence",
-      "url": "https://www.nature.com/articles/s41586-026-10898-6",
-      "source": "Nature Journal",
-      "date": "02 Sep 2026",
-      "abstract": "Nature, Published online: 02 September 2026; doi:10.1038/s41586-026-10898-6 Artificial intelligence in physics experimental design is explored on the basis of searching for optima over a vast space of hardware configurations and proposing entirely new experimental layouts, rather than tuning a handf..."
-    },
-    {
-      "title": "Creating bottom-up RNA transfer vehicles from synthetic protein assemblies",
-      "url": "https://www.nature.com/articles/s41586-026-10952-3",
-      "source": "Nature Journal",
-      "date": "02 Sep 2026",
-      "abstract": "Nature, Published online: 02 September 2026; doi:10.1038/s41586-026-10952-3 Synthetic virus-like protein architectures designed by artificial intelligence show superior ability to deliver RNA into cells, compared with their naturally occurring counterparts, by overcoming the evolutionary constraints..."
     }
   ]
 }
