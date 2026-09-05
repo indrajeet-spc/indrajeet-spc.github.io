@@ -41,8 +41,36 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-09-04T06:15:30.021044+00:00",
+  "updated_at": "2026-09-05T06:03:57.145715+00:00",
   "items": [
+    {
+      "title": "Quantum oscillations defy expectations in this exotic material",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260901010715.htm",
+      "source": "ScienceDaily",
+      "date": "05 Sep 2026",
+      "abstract": "Scientists have uncovered an unusual form of electron behavior in zirconium pentatelluride, a quantum material that can act as both an insulator and a conductor. Under temperatures near absolute zero and magnetic fields reaching 60 tesla, electrons produced quantum oscillations that continued even a..."
+    },
+    {
+      "title": "Magic-angle graphene provides evidence for unconventional superconductivity",
+      "url": "https://phys.org/news/2026-09-magic-angle-graphene-evidence-unconventional.html",
+      "source": "Phys.org",
+      "date": "04 Sep 2026",
+      "abstract": "Researchers have completely suppressed superconductivity in magic-angle graphene by screening interactions between electrons, helping resolve a long-running debate about the origin of the phenomenon."
+    },
+    {
+      "title": "Briefing Chat: How 1,000 pairs of buried underpants helped measure soil health",
+      "url": "https://www.nature.com/articles/d41586-026-02800-1",
+      "source": "Nature Journal",
+      "date": "04 Sep 2026",
+      "abstract": "Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02800-1 Nature staff discuss the winners of the 2026 Ig Nobel prizes \u2014 plus, the isolated energy flash that could be the first glimpse of dark matter."
+    },
+    {
+      "title": "Super-precise optical clocks in four nations tick in harmony",
+      "url": "https://www.nature.com/articles/d41586-026-02741-9",
+      "source": "Nature Journal",
+      "date": "04 Sep 2026",
+      "abstract": "Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02741-9 Comparison using signals sent over fibre-optic cable tests agreement between seven devices spread across Europe."
+    },
     {
       "title": "Body parts used for ancient Egyptian artworks traced to surprising source",
       "url": "https://www.nature.com/articles/d41586-026-02739-3",
@@ -51,81 +79,53 @@
       "abstract": "Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02739-3 Coffin decorations and wall paintings were made with tissue from a broad range of organisms."
     },
     {
-      "title": "BESIII sets world's most stringent direct limit on Lambda hyperon electric dipole moment",
-      "url": "https://phys.org/news/2026-09-besiii-world-stringent-limit-lambda.html",
-      "source": "Phys.org",
-      "date": "03 Sep 2026",
-      "abstract": "The BESIII Collaboration, led by the Institute of High Energy Physics of the Chinese Academy of Sciences, has achieved the world's most precise measurement of the electric dipole moment (EDM) of the Lambda (\u039b) hyperon using quantum-entangled \u039b\u2013anti-\u039b pairs produced in J/\u03c8 decays. The result improves..."
-    },
-    {
-      "title": "AI suggests new physics experiments that could outperform human-designed setups",
-      "url": "https://phys.org/news/2026-09-ai-physics-outperform-human-setups.html",
-      "source": "Phys.org",
-      "date": "03 Sep 2026",
-      "abstract": "Research means asking questions of the universe. For centuries, clever minds have advanced science by devising ingenious experiments designed so their results reveal something about the laws of nature as clearly and unambiguously as possible."
-    },
-    {
-      "title": "Dual-purpose qubit design could speed operations while cutting quantum errors",
-      "url": "https://phys.org/news/2026-09-dual-purpose-qubit-quantum-errors.html",
-      "source": "Phys.org",
-      "date": "03 Sep 2026",
-      "abstract": "Researchers from MIT have designed a new qubit architecture that enables qubits to interact with each other much more quickly while remaining very stable. This advance could someday help scientists build practical quantum computers that can run long, complex algorithms with high accuracy."
-    },
-    {
-      "title": "Heat has a memory\u2014and a new theoretical framework can track it",
-      "url": "https://phys.org/news/2026-09-memory-theoretical-framework-track.html",
-      "source": "Phys.org",
-      "date": "03 Sep 2026",
-      "abstract": "Heat, it turns out, has a memory. A cooling cup of coffee may not seem particularly thoughtful. At the scale of a kitchen, heat appears to follow a straightforward rule: it moves from warmer places to cooler ones. Leave the cup unattended long enough, and the disappointing result offers convincing e..."
-    },
-    {
-      "title": "Quantum control algorithm looks to explain how birds migrate",
-      "url": "https://phys.org/news/2026-09-quantum-algorithm-birds-migrate.html",
-      "source": "Phys.org",
-      "date": "03 Sep 2026",
-      "abstract": "The hidden world of quantum mechanics exists at scales many orders of magnitude smaller than living organisms, yet scientists have long theorized that quantum effects play an important role in biology. Birds' ability to sense magnetic fields during migration is one of the best-known mysteries in thi..."
-    },
-    {
-      "title": "Scientists just overturned a century-old physics assumption",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260901010659.htm",
-      "source": "ScienceDaily Nanotechnology",
-      "date": "03 Sep 2026",
-      "abstract": "Scientists at Carnegie Mellon University have discovered an unexpected form of the Hall effect, overturning the long-held assumption that this electrical response only appears when a magnetic field points perpendicular to a material. Beyond expanding a century-old principle of physics, the finding c..."
-    },
-    {
-      "title": "Ketone homologation via palladium-catalysed decarboxylative rearrangement",
-      "url": "https://www.nature.com/articles/s41586-026-11091-5",
+      "title": "Tropical cyclones could be predicted with an extra day\u2019s warning, thanks to an AI model",
+      "url": "https://www.nature.com/articles/d41586-026-02643-w",
       "source": "Nature Journal",
-      "date": "03 Sep 2026",
-      "abstract": "Nature, Published online: 03 September 2026; doi:10.1038/s41586-026-11091-5 Ketone homologation via palladium-catalysed decarboxylative rearrangement"
+      "date": "04 Sep 2026",
+      "abstract": "Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02643-w The track and intensity of tropical cyclones can be predicted with high accuracy using an AI model, which has the potential to protect lives if shared responsibly worldwide."
     },
     {
-      "title": "Immune therapy engineered inside the body eases multiple sclerosis",
-      "url": "https://www.nature.com/articles/d41586-026-02765-1",
+      "title": "Ada Yonath obituary: Crystallographer who overcame \u2018impossible\u2019 challenge of mapping the ribosome",
+      "url": "https://www.nature.com/articles/d41586-026-02801-0",
       "source": "Nature Journal",
-      "date": "03 Sep 2026",
-      "abstract": "Nature, Published online: 03 September 2026; doi:10.1038/d41586-026-02765-1 Results from a small trial suggest a modified virus can instruct the immune system to wipe out disease-causing cells."
+      "date": "04 Sep 2026",
+      "abstract": "Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02801-0 Nobel laureate persisted despite widespread derision and revolutionized structural biology by protecting fragile crystals."
     },
     {
-      "title": "Magic-mushroom compound blocks a severe side effect of chemotherapy, in mice",
-      "url": "https://www.nature.com/articles/d41586-026-02744-6",
+      "title": "Revealed: inside the US military's plan to tap huge sums from the NIH",
+      "url": "https://www.nature.com/articles/d41586-026-02799-5",
       "source": "Nature Journal",
-      "date": "03 Sep 2026",
-      "abstract": "Nature, Published online: 03 September 2026; doi:10.1038/d41586-026-02744-6 Study shows that psilocybin acts on nerves to prevent the painful condition called peripheral neuropathy."
+      "date": "04 Sep 2026",
+      "abstract": "Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02799-5 An agreement paves the way for hundreds of millions of dollars\u2019 worth of projects to be transferred from the NIH\u2019s institute for infectious diseases to the Department of Defense."
     },
     {
       "title": "Buried underpants and a new definition of kissing win 2026 Ig Nobel prizes",
       "url": "https://www.nature.com/articles/d41586-026-02650-x",
       "source": "Nature Journal",
-      "date": "03 Sep 2026",
-      "abstract": "Nature, Published online: 03 September 2026; doi:10.1038/d41586-026-02650-x The awards highlight weird, funny and improbable research that also makes you think."
+      "date": "04 Sep 2026",
+      "abstract": "Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02650-x The awards highlight weird, funny and improbable research that also makes you think."
     },
     {
-      "title": "Nations expanding their research programmes impose sweeping penalties for malpractice",
-      "url": "https://www.nature.com/articles/d41586-026-02517-1",
+      "title": "Bunsen burners\u2019 reputation for sterilizing workplaces flames out",
+      "url": "https://www.nature.com/articles/d41586-026-02758-0",
       "source": "Nature Journal",
-      "date": "03 Sep 2026",
-      "abstract": "Nature, Published online: 03 September 2026; doi:10.1038/d41586-026-02517-1 India, Peru and Vietnam are rolling out policies that limit opportunities for scientists who fall foul of research-integrity guidelines."
+      "date": "04 Sep 2026",
+      "abstract": "Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02758-0 Study shows that the venerable device does not waft bacteria away from workbenches, as is often assumed."
+    },
+    {
+      "title": "Accelerated stable structure prediction of Li-intercalated bilayer graphene using a data-efficient deep learning framework",
+      "url": "https://www.nature.com/articles/s41524-026-02314-4",
+      "source": "Nature Physics",
+      "date": "04 Sep 2026",
+      "abstract": "Abstract unavailable. Open the full article for details."
+    },
+    {
+      "title": "Physics filtering favors the generalization of robot learning",
+      "url": "https://www.nature.com/articles/s44182-026-00114-y",
+      "source": "Nature Physics",
+      "date": "04 Sep 2026",
+      "abstract": "Abstract unavailable. Open the full article for details."
     }
   ]
 }
