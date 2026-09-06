@@ -41,14 +41,35 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-09-05T06:03:57.145715+00:00",
+  "updated_at": "2026-09-06T06:16:32.350365+00:00",
   "items": [
+    {
+      "title": "Levitated magnet opens new frontier in search for ultraheavy dark matter",
+      "url": "https://phys.org/news/2026-09-levitated-magnet-frontier-ultraheavy-dark.html",
+      "source": "Phys.org",
+      "date": "05 Sep 2026",
+      "abstract": "Rice University researchers have used a magnetically levitated particle to search for ultraheavy dark matter, extending the hunt for some of the heaviest possible forms of the invisible matter thought to hold galaxies together. Led by Christopher Tunnell, associate professor of physics and astronomy..."
+    },
     {
       "title": "Quantum oscillations defy expectations in this exotic material",
       "url": "https://www.sciencedaily.com/releases/2026/09/260901010715.htm",
       "source": "ScienceDaily",
       "date": "05 Sep 2026",
       "abstract": "Scientists have uncovered an unusual form of electron behavior in zirconium pentatelluride, a quantum material that can act as both an insulator and a conductor. Under temperatures near absolute zero and magnetic fields reaching 60 tesla, electrons produced quantum oscillations that continued even a..."
+    },
+    {
+      "title": "Strong amplification of graphene surface plasmon polaritons in a time-varying plasmonic waveguide using temporal anisotropy",
+      "url": "https://www.nature.com/articles/s41598-026-69414-5",
+      "source": "Nature Physics",
+      "date": "05 Sep 2026",
+      "abstract": "Abstract unavailable. Open the full article for details."
+    },
+    {
+      "title": "Novel analysis of physics-informed neural networks for solving Cahn-Allen, FitzHugh-Nagumo and Fisher\u2013KPP Models",
+      "url": "https://www.nature.com/articles/s41598-026-69745-3",
+      "source": "Nature Physics",
+      "date": "05 Sep 2026",
+      "abstract": "Abstract unavailable. Open the full article for details."
     },
     {
       "title": "Magic-angle graphene provides evidence for unconventional superconductivity",
@@ -105,27 +126,6 @@
       "source": "Nature Journal",
       "date": "04 Sep 2026",
       "abstract": "Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02650-x The awards highlight weird, funny and improbable research that also makes you think."
-    },
-    {
-      "title": "Bunsen burners\u2019 reputation for sterilizing workplaces flames out",
-      "url": "https://www.nature.com/articles/d41586-026-02758-0",
-      "source": "Nature Journal",
-      "date": "04 Sep 2026",
-      "abstract": "Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02758-0 Study shows that the venerable device does not waft bacteria away from workbenches, as is often assumed."
-    },
-    {
-      "title": "Accelerated stable structure prediction of Li-intercalated bilayer graphene using a data-efficient deep learning framework",
-      "url": "https://www.nature.com/articles/s41524-026-02314-4",
-      "source": "Nature Physics",
-      "date": "04 Sep 2026",
-      "abstract": "Abstract unavailable. Open the full article for details."
-    },
-    {
-      "title": "Physics filtering favors the generalization of robot learning",
-      "url": "https://www.nature.com/articles/s44182-026-00114-y",
-      "source": "Nature Physics",
-      "date": "04 Sep 2026",
-      "abstract": "Abstract unavailable. Open the full article for details."
     }
   ]
 }
