@@ -41,8 +41,78 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-09-07T06:24:54.058270+00:00",
+  "updated_at": "2026-09-08T06:14:05.406200+00:00",
   "items": [
+    {
+      "title": "China\u2019s fast-track clinical trials are in the spotlight after child deaths",
+      "url": "https://www.nature.com/articles/d41586-026-02407-6",
+      "source": "Nature Journal",
+      "date": "08 Sep 2026",
+      "abstract": "Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02407-6 A new government policy seeks to balance innovation and safety."
+    },
+    {
+      "title": "Two children died from gene therapies in China: where the field goes next",
+      "url": "https://www.nature.com/articles/d41586-026-02497-2",
+      "source": "Nature Journal",
+      "date": "08 Sep 2026",
+      "abstract": "Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02497-2 Strengthened laws should help to ensure future deaths are quickly disclosed to the public, but China\u2019s reputation for such research is at risk."
+    },
+    {
+      "title": "Entangled particles revive a 35-year-old test of the Standard Model",
+      "url": "https://phys.org/news/2026-09-entangled-particles-revive-year-standard.html",
+      "source": "Phys.org",
+      "date": "07 Sep 2026",
+      "abstract": "Physicists at the BESIII Collaboration have breathed new life into a decades-old test of one of the Standard Model's most important ideas, using a technique that had gone almost untouched by experimenters for 35 years."
+    },
+    {
+      "title": "Dark plasma regions reveal overlooked source of reactive atomic oxygen",
+      "url": "https://phys.org/news/2026-09-dark-plasma-regions-reveal-overlooked.html",
+      "source": "Phys.org",
+      "date": "07 Sep 2026",
+      "abstract": "Scientists from Tokyo Metropolitan University have found a way to make plasma more effective for its wide-ranging uses, from antimicrobial applications to surface conditioning in the semiconductor industry. They mapped the production of atomic oxygen, a key ingredient of oxygen plasma, while a high..."
+    },
+    {
+      "title": "Author Correction: AhR inhibition promotes axon regeneration via a stress\u2013growth switch",
+      "url": "https://www.nature.com/articles/s41586-026-11103-4",
+      "source": "Nature Journal",
+      "date": "07 Sep 2026",
+      "abstract": "Nature, Published online: 07 September 2026; doi:10.1038/s41586-026-11103-4 Author Correction: AhR inhibition promotes axon regeneration via a stress\u2013growth switch"
+    },
+    {
+      "title": "Author Correction: A mouse brain stereotaxic topographic atlas with isotropic 1-\u03bcm resolution",
+      "url": "https://www.nature.com/articles/s41586-026-11094-2",
+      "source": "Nature Journal",
+      "date": "07 Sep 2026",
+      "abstract": "Nature, Published online: 07 September 2026; doi:10.1038/s41586-026-11094-2 Author Correction: A mouse brain stereotaxic topographic atlas with isotropic 1-\u03bcm resolution"
+    },
+    {
+      "title": "Probing the proteome at cellular scale",
+      "url": "https://www.nature.com/articles/d41586-026-02805-w",
+      "source": "Nature Journal",
+      "date": "07 Sep 2026",
+      "abstract": "Nature, Published online: 07 September 2026; doi:10.1038/d41586-026-02805-w Rapid technological advances are allowing researchers to identify thousands of proteins in individual cells, revealing the hidden mechanisms underlying development and disease."
+    },
+    {
+      "title": "The secret life of a cell-cycle gatekeeper of breast cancer",
+      "url": "https://www.nature.com/articles/d41586-026-02470-z",
+      "source": "Nature Journal",
+      "date": "07 Sep 2026",
+      "abstract": "Nature, Published online: 07 September 2026; doi:10.1038/d41586-026-02470-z A newly discovered function for the protein Rb explains why inhibiting cell division can enhance the signalling mediated by the oestrogen receptor that drives breast cancer."
+    },
+    {
+      "title": "Isaac Newton\u2019s remarkable year \u2014 and the plagiarism accusations that followed",
+      "url": "https://www.nature.com/articles/d41586-026-02808-7",
+      "source": "Nature Journal",
+      "date": "07 Sep 2026",
+      "abstract": "Nature, Published online: 07 September 2026; doi:10.1038/d41586-026-02808-7 A deep dive into Newton\u2019s major work, Principia Mathematica, reveals his hate of hypotheses and a habit of courting controversy."
+    },
+    {
+      "title": "Anthropic AI \u2018formalizes\u2019 proof of Fermat\u2019s last theorem in just 11 days",
+      "url": "https://www.nature.com/articles/d41586-026-02822-9",
+      "source": "Nature Journal",
+      "date": "07 Sep 2026",
+      "abstract": "Nature, Published online: 07 September 2026; doi:10.1038/d41586-026-02822-9 Claude produced a 13-million-line, computer-checked proof of the famed conjecture \u2014 a major milestone in mathematics."
+    },
     {
       "title": "Levitated magnet opens new frontier in search for ultraheavy dark matter",
       "url": "https://phys.org/news/2026-09-levitated-magnet-frontier-ultraheavy-dark.html",
@@ -56,76 +126,6 @@
       "source": "ScienceDaily",
       "date": "05 Sep 2026",
       "abstract": "Scientists have uncovered an unusual form of electron behavior in zirconium pentatelluride, a quantum material that can act as both an insulator and a conductor. Under temperatures near absolute zero and magnetic fields reaching 60 tesla, electrons produced quantum oscillations that continued even a..."
-    },
-    {
-      "title": "Strong amplification of graphene surface plasmon polaritons in a time-varying plasmonic waveguide using temporal anisotropy",
-      "url": "https://www.nature.com/articles/s41598-026-69414-5",
-      "source": "Nature Physics",
-      "date": "05 Sep 2026",
-      "abstract": "Abstract unavailable. Open the full article for details."
-    },
-    {
-      "title": "Novel analysis of physics-informed neural networks for solving Cahn-Allen, FitzHugh-Nagumo and Fisher\u2013KPP Models",
-      "url": "https://www.nature.com/articles/s41598-026-69745-3",
-      "source": "Nature Physics",
-      "date": "05 Sep 2026",
-      "abstract": "Abstract unavailable. Open the full article for details."
-    },
-    {
-      "title": "Magic-angle graphene provides evidence for unconventional superconductivity",
-      "url": "https://phys.org/news/2026-09-magic-angle-graphene-evidence-unconventional.html",
-      "source": "Phys.org",
-      "date": "04 Sep 2026",
-      "abstract": "Researchers have completely suppressed superconductivity in magic-angle graphene by screening interactions between electrons, helping resolve a long-running debate about the origin of the phenomenon."
-    },
-    {
-      "title": "Briefing Chat: How 1,000 pairs of buried underpants helped measure soil health",
-      "url": "https://www.nature.com/articles/d41586-026-02800-1",
-      "source": "Nature Journal",
-      "date": "04 Sep 2026",
-      "abstract": "Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02800-1 Nature staff discuss the winners of the 2026 Ig Nobel prizes \u2014 plus, the isolated energy flash that could be the first glimpse of dark matter."
-    },
-    {
-      "title": "Super-precise optical clocks in four nations tick in harmony",
-      "url": "https://www.nature.com/articles/d41586-026-02741-9",
-      "source": "Nature Journal",
-      "date": "04 Sep 2026",
-      "abstract": "Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02741-9 Comparison using signals sent over fibre-optic cable tests agreement between seven devices spread across Europe."
-    },
-    {
-      "title": "Body parts used for ancient Egyptian artworks traced to surprising source",
-      "url": "https://www.nature.com/articles/d41586-026-02739-3",
-      "source": "Nature Journal",
-      "date": "04 Sep 2026",
-      "abstract": "Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02739-3 Coffin decorations and wall paintings were made with tissue from a broad range of organisms."
-    },
-    {
-      "title": "Tropical cyclones could be predicted with an extra day\u2019s warning, thanks to an AI model",
-      "url": "https://www.nature.com/articles/d41586-026-02643-w",
-      "source": "Nature Journal",
-      "date": "04 Sep 2026",
-      "abstract": "Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02643-w The track and intensity of tropical cyclones can be predicted with high accuracy using an AI model, which has the potential to protect lives if shared responsibly worldwide."
-    },
-    {
-      "title": "Ada Yonath obituary: Crystallographer who overcame \u2018impossible\u2019 challenge of mapping the ribosome",
-      "url": "https://www.nature.com/articles/d41586-026-02801-0",
-      "source": "Nature Journal",
-      "date": "04 Sep 2026",
-      "abstract": "Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02801-0 Nobel laureate persisted despite widespread derision and revolutionized structural biology by protecting fragile crystals."
-    },
-    {
-      "title": "Revealed: inside the US military's plan to tap huge sums from the NIH",
-      "url": "https://www.nature.com/articles/d41586-026-02799-5",
-      "source": "Nature Journal",
-      "date": "04 Sep 2026",
-      "abstract": "Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02799-5 An agreement paves the way for hundreds of millions of dollars\u2019 worth of projects to be transferred from the NIH\u2019s institute for infectious diseases to the Department of Defense."
-    },
-    {
-      "title": "Buried underpants and a new definition of kissing win 2026 Ig Nobel prizes",
-      "url": "https://www.nature.com/articles/d41586-026-02650-x",
-      "source": "Nature Journal",
-      "date": "04 Sep 2026",
-      "abstract": "Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02650-x The awards highlight weird, funny and improbable research that also makes you think."
     }
   ]
 }
