@@ -41,91 +41,91 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-09-09T06:20:25.230356+00:00",
+  "updated_at": "2026-09-10T06:19:14.165296+00:00",
   "items": [
     {
-      "title": "Proof of concept of a graphene-based reconfigurable frequency multiplier fabricated within the 2D Experimental Pilot Line",
-      "url": "https://www.nature.com/articles/s41699-026-00734-w",
-      "source": "Nature Physics",
+      "title": "Distant sensors announced a fearsome tsunami\u2019s birth",
+      "url": "https://www.nature.com/articles/d41586-026-02809-6",
+      "source": "Nature Journal",
+      "date": "10 Sep 2026",
+      "abstract": "Nature, Published online: 10 September 2026; doi:10.1038/d41586-026-02809-6 Seismic data pinpoint the collapse of an underwater volcano, and reveal how the eruption triggered a destructive tsunami."
+    },
+    {
+      "title": "Unconventional quantum materials could dramatically boost the search for dark matter",
+      "url": "https://phys.org/news/2026-09-unconventional-quantum-materials-boost-dark.html",
+      "source": "Phys.org",
       "date": "09 Sep 2026",
-      "abstract": "Abstract unavailable. Open the full article for details."
+      "abstract": "For decades, physicists have searched for dark matter, the invisible substance thought to make up roughly 85% of all matter in the universe. Although its gravitational influence shapes galaxies and the large-scale structure of the cosmos, dark matter has never been directly detected. Now, an interna..."
     },
     {
-      "title": "NASA\u2019s Hubble, Webb Find Far-out Solar System Objects \u2018Remember\u2019 Past",
-      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-webb-find-far-out-solar-system-objects-remember-past/",
-      "source": "NASA News",
-      "date": "08 Sep 2026",
-      "abstract": "For the first time, scientists used the joint power of NASA\u2019s Hubble and James Webb Space Telescopes to study some of the most far-flung bodies in our solar system, Trans-Neptunian Objects (TNOs). Some of these are the smallest and faintest ever directly seen. The researchers unexpectedly found fewe..."
-    },
-    {
-      "title": "A new game demonstrates quantum advantage with provable classical limits",
-      "url": "https://phys.org/news/2026-09-game-quantum-advantage-provable-classical.html",
+      "title": "Tiny 2D cracks creep through materials before triggering sudden fracture, experiments reveal",
+      "url": "https://phys.org/news/2026-09-tiny-2d-materials-triggering-sudden.html",
       "source": "Phys.org",
-      "date": "08 Sep 2026",
-      "abstract": "For decades, physicists have worked to prove the strange predictions of quantum mechanics with real experiments. As quantum computers have grown more powerful, researchers have devised increasingly sophisticated ways to test whether these machines are truly harnessing quantum effects\u2014but every metho..."
+      "date": "09 Sep 2026",
+      "abstract": "We have all seen something suddenly break: a phone screen cracks, a plastic object snaps or a piece of glass shatters. To our eyes, the failure seems to happen all at once. But what if the most important part of the break happens long before the final snap?"
     },
     {
-      "title": "Superfluid qubit could help scale up quantum computers",
-      "url": "https://phys.org/news/2026-09-superfluid-qubit-scale-quantum.html",
+      "title": "Physics-aware benchmark reveals why similar materials AI models can predict thermal conductivity differently",
+      "url": "https://phys.org/news/2026-09-physics-aware-benchmark-reveals-similar.html",
       "source": "Phys.org",
-      "date": "08 Sep 2026",
-      "abstract": "Superfluid helium could offer a new way to tackle one of the biggest challenges in scaling up quantum computers, say researchers from the University of Surrey. The research team has introduced a conceptual design for a new type of qubit that could be much less vulnerable to errors."
+      "date": "09 Sep 2026",
+      "abstract": "Material properties such as sound insulation, resistance to extreme heat and thermal expansion originate from how the zillions of microscopic building blocks (nuclei and electrons) interact at equilibrium and respond to perturbations. Atoms are typically about one ten-billionth of a meter across, so..."
     },
     {
-      "title": "A photon that challenges Einstein: According to current physics, it should never have reached Earth",
-      "url": "https://phys.org/news/2026-09-photon-einstein-current-physics-earth.html",
+      "title": "Could quantum protocols make electronic voting more secure?",
+      "url": "https://phys.org/news/2026-09-quantum-protocols-electronic-voting.html",
       "source": "Phys.org",
-      "date": "08 Sep 2026",
-      "abstract": "How did a photon survive a journey of more than 2 billion light-years when, according to known physics, it should have been absorbed long before reaching Earth? This is the question at the heart of a new study by Giorgio Galanti (INAF) and Marco Roncadelli (INFN), accepted for publication in Physica..."
+      "date": "09 Sep 2026",
+      "abstract": "Electronic voting, the use of electronic systems to cast, record or count votes, could potentially simplify the process of electing new political leaders or other representatives. While some countries have already started using internet-connected devices or electronic voting machines at polling stat..."
     },
     {
-      "title": "Author Correction: Contrasting roles of histone 3 lysine 27 demethylases in acute lymphoblastic leukaemia",
-      "url": "https://www.nature.com/articles/s41586-026-11081-7",
+      "title": "Highly efficient base editing at PCSK9 and normal human embryo development",
+      "url": "https://www.nature.com/articles/s41586-026-11118-x",
       "source": "Nature Journal",
-      "date": "08 Sep 2026",
-      "abstract": "Nature, Published online: 08 September 2026; doi:10.1038/s41586-026-11081-7 Author Correction: Contrasting roles of histone 3 lysine 27 demethylases in acute lymphoblastic leukaemia"
+      "date": "09 Sep 2026",
+      "abstract": "Nature, Published online: 09 September 2026; doi:10.1038/s41586-026-11118-x Highly efficient base editing at PCSK9 and normal human embryo development"
     },
     {
-      "title": "Put patients at the centre of medical AI governance",
-      "url": "https://www.nature.com/articles/d41586-026-02796-8",
+      "title": "Phone tutoring boosts math scores when schools are forced to close",
+      "url": "https://www.nature.com/articles/d41586-026-02843-4",
       "source": "Nature Journal",
-      "date": "08 Sep 2026",
-      "abstract": "Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02796-8 Put patients at the centre of medical AI governance"
+      "date": "09 Sep 2026",
+      "abstract": "Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02843-4 Evidence suggests that regular calls can keep kids learning when schooling is disrupted \u2014 plus, why a familiar world map may be about to change."
     },
     {
-      "title": "Nepal disaster is a wake-up call to take compound climate risks seriously",
-      "url": "https://www.nature.com/articles/d41586-026-02794-w",
+      "title": "How AI is changing PhD programmes: join our free webinar",
+      "url": "https://www.nature.com/articles/d41586-026-02751-7",
       "source": "Nature Journal",
-      "date": "08 Sep 2026",
-      "abstract": "Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02794-w Nepal disaster is a wake-up call to take compound climate risks seriously"
+      "date": "09 Sep 2026",
+      "abstract": "Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02751-7 Learn how artificial intelligence can hone your research skills as well as the potential pitfalls of relying too heavily on it."
     },
     {
-      "title": "Sideline vested interests to reform China\u2019s research",
-      "url": "https://www.nature.com/articles/d41586-026-02797-7",
+      "title": "Bacteria recruited to treat cancer",
+      "url": "https://www.nature.com/articles/d41586-026-02823-8",
       "source": "Nature Journal",
-      "date": "08 Sep 2026",
-      "abstract": "Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02797-7 Sideline vested interests to reform China\u2019s research"
+      "date": "09 Sep 2026",
+      "abstract": "Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02823-8 Anticancer drugs could be manufactured and delivered by modified microorganisms."
     },
     {
-      "title": "Limit bets on clinical-trial outcomes being placed on prediction markets",
-      "url": "https://www.nature.com/articles/d41586-026-02795-9",
+      "title": "Ruins of ancient Asian city show engineering prowess and organization",
+      "url": "https://www.nature.com/articles/d41586-026-02821-w",
       "source": "Nature Journal",
-      "date": "08 Sep 2026",
-      "abstract": "Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02795-9 Limit bets on clinical-trial outcomes being placed on prediction markets"
+      "date": "09 Sep 2026",
+      "abstract": "Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02821-w The 5,000-year-old city of Liangzhu has mounds, dams and city walls built in a challenging waterlogged site."
     },
     {
-      "title": "The Kelvin scale\u2019s creator William Thomson made many scientific advances",
-      "url": "https://www.nature.com/articles/d41586-026-02722-y",
+      "title": "Breaking timescales with generative sampling of conformational transitions",
+      "url": "https://www.nature.com/articles/s41586-026-11025-1",
       "source": "Nature Journal",
-      "date": "08 Sep 2026",
-      "abstract": "Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02722-y A physics pioneer who provided a new way to describe temperature, and the value of studying fossilized tracks in this week\u2019s pick from the Nature archive."
+      "date": "09 Sep 2026",
+      "abstract": "Nature, Published online: 09 September 2026; doi:10.1038/s41586-026-11025-1 A generative committor-guided path-sampling framework reconstructs rare biomolecular transition pathways and reveals the underlying thermodynamics and kinetics without using predefined collective variables or brute-force sam..."
     },
     {
-      "title": "The World Bank is right to prioritize reproducibility",
-      "url": "https://www.nature.com/articles/d41586-026-02678-z",
+      "title": "Within-family effect of ancestry on complex traits in a Mexican population",
+      "url": "https://www.nature.com/articles/s41586-026-11039-9",
       "source": "Nature Journal",
-      "date": "08 Sep 2026",
-      "abstract": "Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02678-z The development bank and others are starting to publish and verify the raw data and code accompanying their research-based reports and papers. Other agencies should do the same."
+      "date": "09 Sep 2026",
+      "abstract": "Nature, Published online: 09 September 2026; doi:10.1038/s41586-026-11039-9 This study uses a within-family design to identify significant ancestry differences in complex traits such as height and type 2 diabetes in a genetically diverse population from Mexico City."
     }
   ]
 }
