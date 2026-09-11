@@ -41,14 +41,70 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-09-10T06:19:14.165296+00:00",
+  "updated_at": "2026-09-11T06:22:39.374299+00:00",
   "items": [
+    {
+      "title": "Ultra-cold quantum sensors cut X-ray uncertainty, improving nuclear material assessments",
+      "url": "https://phys.org/news/2026-09-ultra-cold-quantum-sensors-ray.html",
+      "source": "Phys.org",
+      "date": "10 Sep 2026",
+      "abstract": "To monitor the amount and type of nuclear material at power plants and weapons facilities, scientists look for a special signal\u2014the unique pattern of gamma rays emitted by specific radioactive elements. However, some of these elements also emit X-rays in the same energy range as the gamma-ray emissi..."
+    },
+    {
+      "title": "New pulse-train method aims to improve precision in quantum control",
+      "url": "https://phys.org/news/2026-09-pulse-method-aims-precision-quantum.html",
+      "source": "Phys.org",
+      "date": "10 Sep 2026",
+      "abstract": "Quantum technologies are poised to transform fields ranging from medicine and sensing to computing and communications by manipulating the energy states of atoms and molecules. These manipulations are achieved by controlling quantum states with laser pulses."
+    },
+    {
+      "title": "1,000 times faster operations bring reliable quantum computing a step closer",
+      "url": "https://phys.org/news/2026-09-faster-reliable-quantum-closer.html",
+      "source": "Phys.org",
+      "date": "10 Sep 2026",
+      "abstract": "So far, quantum computers have been held back by their extreme sensitivity to errors and external disturbances. The longer a quantum operation takes, the greater the risk of computational errors."
+    },
+    {
+      "title": "Author Correction: The molecular basis of force selectivity by PIEZO2",
+      "url": "https://www.nature.com/articles/s41586-026-11079-1",
+      "source": "Nature Journal",
+      "date": "10 Sep 2026",
+      "abstract": "Nature, Published online: 10 September 2026; doi:10.1038/s41586-026-11079-1 Author Correction: The molecular basis of force selectivity by PIEZO2"
+    },
+    {
+      "title": "The neurons that can put a brake on a nervous-system cancer",
+      "url": "https://www.nature.com/articles/d41586-026-02834-5",
+      "source": "Nature Journal",
+      "date": "10 Sep 2026",
+      "abstract": "Nature, Published online: 10 September 2026; doi:10.1038/d41586-026-02834-5 Drugs that imitate the effect of GABAergic neurons slow the growth of tumours called gliomas in mice."
+    },
     {
       "title": "Distant sensors announced a fearsome tsunami\u2019s birth",
       "url": "https://www.nature.com/articles/d41586-026-02809-6",
       "source": "Nature Journal",
       "date": "10 Sep 2026",
       "abstract": "Nature, Published online: 10 September 2026; doi:10.1038/d41586-026-02809-6 Seismic data pinpoint the collapse of an underwater volcano, and reveal how the eruption triggered a destructive tsunami."
+    },
+    {
+      "title": "AI researchers reckon with the $1.5 million \u2018academia tax\u2019",
+      "url": "https://www.nature.com/articles/d41586-026-02026-1",
+      "source": "Nature Journal",
+      "date": "10 Sep 2026",
+      "abstract": "Nature, Published online: 10 September 2026; doi:10.1038/d41586-026-02026-1 Academics explain that their research freedom beats the increased salary they would get in the corporate sector, but emerging hybrid models might allow them to get the best of both worlds."
+    },
+    {
+      "title": "A pathway towards decentralized studies of radioactive post-lead elements and their applications in beyond standard model physics",
+      "url": "https://www.nature.com/articles/s41467-026-77082-2",
+      "source": "Nature Physics",
+      "date": "10 Sep 2026",
+      "abstract": "Abstract unavailable. Open the full article for details."
+    },
+    {
+      "title": "NASA\u2019s Chandra Unveils Mysterious X-Ray Objects",
+      "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-unveils-mysterious-x-ray-objects/",
+      "source": "NASA News",
+      "date": "09 Sep 2026",
+      "abstract": "Using NASA\u2019s Chandra X-ray Observatory, scientists have discovered a new class of objects behaving unlike any they have seen before. Astronomers suggest these newly spotted objects in other galaxies may help solve not one, but two long-standing questions in astrophysics. These mysterious objects giv..."
     },
     {
       "title": "Unconventional quantum materials could dramatically boost the search for dark matter",
@@ -70,62 +126,6 @@
       "source": "Phys.org",
       "date": "09 Sep 2026",
       "abstract": "Material properties such as sound insulation, resistance to extreme heat and thermal expansion originate from how the zillions of microscopic building blocks (nuclei and electrons) interact at equilibrium and respond to perturbations. Atoms are typically about one ten-billionth of a meter across, so..."
-    },
-    {
-      "title": "Could quantum protocols make electronic voting more secure?",
-      "url": "https://phys.org/news/2026-09-quantum-protocols-electronic-voting.html",
-      "source": "Phys.org",
-      "date": "09 Sep 2026",
-      "abstract": "Electronic voting, the use of electronic systems to cast, record or count votes, could potentially simplify the process of electing new political leaders or other representatives. While some countries have already started using internet-connected devices or electronic voting machines at polling stat..."
-    },
-    {
-      "title": "Highly efficient base editing at PCSK9 and normal human embryo development",
-      "url": "https://www.nature.com/articles/s41586-026-11118-x",
-      "source": "Nature Journal",
-      "date": "09 Sep 2026",
-      "abstract": "Nature, Published online: 09 September 2026; doi:10.1038/s41586-026-11118-x Highly efficient base editing at PCSK9 and normal human embryo development"
-    },
-    {
-      "title": "Phone tutoring boosts math scores when schools are forced to close",
-      "url": "https://www.nature.com/articles/d41586-026-02843-4",
-      "source": "Nature Journal",
-      "date": "09 Sep 2026",
-      "abstract": "Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02843-4 Evidence suggests that regular calls can keep kids learning when schooling is disrupted \u2014 plus, why a familiar world map may be about to change."
-    },
-    {
-      "title": "How AI is changing PhD programmes: join our free webinar",
-      "url": "https://www.nature.com/articles/d41586-026-02751-7",
-      "source": "Nature Journal",
-      "date": "09 Sep 2026",
-      "abstract": "Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02751-7 Learn how artificial intelligence can hone your research skills as well as the potential pitfalls of relying too heavily on it."
-    },
-    {
-      "title": "Bacteria recruited to treat cancer",
-      "url": "https://www.nature.com/articles/d41586-026-02823-8",
-      "source": "Nature Journal",
-      "date": "09 Sep 2026",
-      "abstract": "Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02823-8 Anticancer drugs could be manufactured and delivered by modified microorganisms."
-    },
-    {
-      "title": "Ruins of ancient Asian city show engineering prowess and organization",
-      "url": "https://www.nature.com/articles/d41586-026-02821-w",
-      "source": "Nature Journal",
-      "date": "09 Sep 2026",
-      "abstract": "Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02821-w The 5,000-year-old city of Liangzhu has mounds, dams and city walls built in a challenging waterlogged site."
-    },
-    {
-      "title": "Breaking timescales with generative sampling of conformational transitions",
-      "url": "https://www.nature.com/articles/s41586-026-11025-1",
-      "source": "Nature Journal",
-      "date": "09 Sep 2026",
-      "abstract": "Nature, Published online: 09 September 2026; doi:10.1038/s41586-026-11025-1 A generative committor-guided path-sampling framework reconstructs rare biomolecular transition pathways and reveals the underlying thermodynamics and kinetics without using predefined collective variables or brute-force sam..."
-    },
-    {
-      "title": "Within-family effect of ancestry on complex traits in a Mexican population",
-      "url": "https://www.nature.com/articles/s41586-026-11039-9",
-      "source": "Nature Journal",
-      "date": "09 Sep 2026",
-      "abstract": "Nature, Published online: 09 September 2026; doi:10.1038/s41586-026-11039-9 This study uses a within-family design to identify significant ancestry differences in complex traits such as height and type 2 diabetes in a genetically diverse population from Mexico City."
     }
   ]
 }
