@@ -41,8 +41,57 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-09-11T06:22:39.374299+00:00",
+  "updated_at": "2026-09-12T06:08:53.637777+00:00",
   "items": [
+    {
+      "title": "AI extracts interpretable constitutive laws directly from solid-mechanics data",
+      "url": "https://phys.org/news/2026-09-ai-constitutive-laws-solid-mechanics.html",
+      "source": "Phys.org",
+      "date": "11 Sep 2026",
+      "abstract": "Researchers at the Eastern Institute of Technology (EIT), Ningbo, have developed a graph-based approach that directly extracts concise, accurate constitutive equations from solid-material experimental data. The study, published in Science Advances, describes a method for discovering constitutive mod..."
+    },
+    {
+      "title": "Briefing Chat: The Bunsen burner myth that turns out to be just hot air",
+      "url": "https://www.nature.com/articles/d41586-026-02893-8",
+      "source": "Nature Journal",
+      "date": "11 Sep 2026",
+      "abstract": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02893-8 Nature staff discuss an AI tool that can assess the impact of 9 billion mutations \u2014 plus, how the Bunsen burner\u2019s reputation for sterilization might be based on tradition alone."
+    },
+    {
+      "title": "NSF moves to overhaul funding approach in line with White House priorities",
+      "url": "https://www.nature.com/articles/d41586-026-02892-9",
+      "source": "Nature Journal",
+      "date": "11 Sep 2026",
+      "abstract": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02892-9 The major funder of basic science has not said how its new initiatives will be funded \u2014 but staff worry streamlined approach will further squeeze cash for core sciences."
+    },
+    {
+      "title": "People trust scientists seen to be 'on their side', UK study find",
+      "url": "https://www.nature.com/articles/d41586-026-02883-w",
+      "source": "Nature Journal",
+      "date": "11 Sep 2026",
+      "abstract": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02883-w Politics and personal values influence people\u2019s confidence in scientists, finds new report"
+    },
+    {
+      "title": "El Ni\u00f1o goes viral \u2014 and scientists learn what makes people care about the climate",
+      "url": "https://www.nature.com/articles/d41586-026-02763-3",
+      "source": "Nature Journal",
+      "date": "11 Sep 2026",
+      "abstract": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02763-3 Evoking emotions is more likely to prompt people to engage with climate efforts than are data alone."
+    },
+    {
+      "title": "Successful early-career scientists rely on network of mentors",
+      "url": "https://www.nature.com/articles/d41586-026-02827-4",
+      "source": "Nature Journal",
+      "date": "11 Sep 2026",
+      "abstract": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02827-4 Large networks are particularly beneficial to researchers in under-represented groups."
+    },
+    {
+      "title": "Osteoporosis affects millions: could modified cells rebuild their bones?",
+      "url": "https://www.nature.com/articles/d41586-026-02828-3",
+      "source": "Nature Journal",
+      "date": "11 Sep 2026",
+      "abstract": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02828-3 Small trial hints at regenerative potential of bone-seeking marrow cells."
+    },
     {
       "title": "Ultra-cold quantum sensors cut X-ray uncertainty, improving nuclear material assessments",
       "url": "https://phys.org/news/2026-09-ultra-cold-quantum-sensors-ray.html",
@@ -77,55 +126,6 @@
       "source": "Nature Journal",
       "date": "10 Sep 2026",
       "abstract": "Nature, Published online: 10 September 2026; doi:10.1038/d41586-026-02834-5 Drugs that imitate the effect of GABAergic neurons slow the growth of tumours called gliomas in mice."
-    },
-    {
-      "title": "Distant sensors announced a fearsome tsunami\u2019s birth",
-      "url": "https://www.nature.com/articles/d41586-026-02809-6",
-      "source": "Nature Journal",
-      "date": "10 Sep 2026",
-      "abstract": "Nature, Published online: 10 September 2026; doi:10.1038/d41586-026-02809-6 Seismic data pinpoint the collapse of an underwater volcano, and reveal how the eruption triggered a destructive tsunami."
-    },
-    {
-      "title": "AI researchers reckon with the $1.5 million \u2018academia tax\u2019",
-      "url": "https://www.nature.com/articles/d41586-026-02026-1",
-      "source": "Nature Journal",
-      "date": "10 Sep 2026",
-      "abstract": "Nature, Published online: 10 September 2026; doi:10.1038/d41586-026-02026-1 Academics explain that their research freedom beats the increased salary they would get in the corporate sector, but emerging hybrid models might allow them to get the best of both worlds."
-    },
-    {
-      "title": "A pathway towards decentralized studies of radioactive post-lead elements and their applications in beyond standard model physics",
-      "url": "https://www.nature.com/articles/s41467-026-77082-2",
-      "source": "Nature Physics",
-      "date": "10 Sep 2026",
-      "abstract": "Abstract unavailable. Open the full article for details."
-    },
-    {
-      "title": "NASA\u2019s Chandra Unveils Mysterious X-Ray Objects",
-      "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-unveils-mysterious-x-ray-objects/",
-      "source": "NASA News",
-      "date": "09 Sep 2026",
-      "abstract": "Using NASA\u2019s Chandra X-ray Observatory, scientists have discovered a new class of objects behaving unlike any they have seen before. Astronomers suggest these newly spotted objects in other galaxies may help solve not one, but two long-standing questions in astrophysics. These mysterious objects giv..."
-    },
-    {
-      "title": "Unconventional quantum materials could dramatically boost the search for dark matter",
-      "url": "https://phys.org/news/2026-09-unconventional-quantum-materials-boost-dark.html",
-      "source": "Phys.org",
-      "date": "09 Sep 2026",
-      "abstract": "For decades, physicists have searched for dark matter, the invisible substance thought to make up roughly 85% of all matter in the universe. Although its gravitational influence shapes galaxies and the large-scale structure of the cosmos, dark matter has never been directly detected. Now, an interna..."
-    },
-    {
-      "title": "Tiny 2D cracks creep through materials before triggering sudden fracture, experiments reveal",
-      "url": "https://phys.org/news/2026-09-tiny-2d-materials-triggering-sudden.html",
-      "source": "Phys.org",
-      "date": "09 Sep 2026",
-      "abstract": "We have all seen something suddenly break: a phone screen cracks, a plastic object snaps or a piece of glass shatters. To our eyes, the failure seems to happen all at once. But what if the most important part of the break happens long before the final snap?"
-    },
-    {
-      "title": "Physics-aware benchmark reveals why similar materials AI models can predict thermal conductivity differently",
-      "url": "https://phys.org/news/2026-09-physics-aware-benchmark-reveals-similar.html",
-      "source": "Phys.org",
-      "date": "09 Sep 2026",
-      "abstract": "Material properties such as sound insulation, resistance to extreme heat and thermal expansion originate from how the zillions of microscopic building blocks (nuclei and electrons) interact at equilibrium and respond to perturbations. Atoms are typically about one ten-billionth of a meter across, so..."
     }
   ]
 }
