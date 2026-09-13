@@ -41,8 +41,36 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-09-12T06:08:53.637777+00:00",
+  "updated_at": "2026-09-13T06:31:06.394036+00:00",
   "items": [
+    {
+      "title": "Unified framework shows thermoelectric performance depends on more than the material itself",
+      "url": "https://phys.org/news/2026-09-framework-thermoelectric-material.html",
+      "source": "Phys.org",
+      "date": "12 Sep 2026",
+      "abstract": "Thermoelectric materials can directly convert heat into electricity, making them promising for recovering waste heat from factories, vehicles and other sources. They can also transport heat when an electric current is applied through a phenomenon known as the Peltier effect. These properties have at..."
+    },
+    {
+      "title": "Room-temperature mechanical and electronic transport properties in locally strained graphene devices during crack propagation",
+      "url": "https://www.nature.com/articles/s41598-026-69799-3",
+      "source": "Nature Physics",
+      "date": "12 Sep 2026",
+      "abstract": "Abstract unavailable. Open the full article for details."
+    },
+    {
+      "title": "Effect of cascaded centrifugal speed on scalability potential of few layer graphene via liquid phase exfoliation",
+      "url": "https://www.nature.com/articles/s41598-026-71425-1",
+      "source": "Nature Physics",
+      "date": "12 Sep 2026",
+      "abstract": "Abstract unavailable. Open the full article for details."
+    },
+    {
+      "title": "Design, RLC equivalent circuit modeling, and ML/DL-based performance prediction of a graphene MIMO antenna for 6G THz systems",
+      "url": "https://www.nature.com/articles/s41598-026-70139-8",
+      "source": "Nature Physics",
+      "date": "12 Sep 2026",
+      "abstract": "Abstract unavailable. Open the full article for details."
+    },
     {
       "title": "AI extracts interpretable constitutive laws directly from solid-mechanics data",
       "url": "https://phys.org/news/2026-09-ai-constitutive-laws-solid-mechanics.html",
@@ -98,34 +126,6 @@
       "source": "Phys.org",
       "date": "10 Sep 2026",
       "abstract": "To monitor the amount and type of nuclear material at power plants and weapons facilities, scientists look for a special signal\u2014the unique pattern of gamma rays emitted by specific radioactive elements. However, some of these elements also emit X-rays in the same energy range as the gamma-ray emissi..."
-    },
-    {
-      "title": "New pulse-train method aims to improve precision in quantum control",
-      "url": "https://phys.org/news/2026-09-pulse-method-aims-precision-quantum.html",
-      "source": "Phys.org",
-      "date": "10 Sep 2026",
-      "abstract": "Quantum technologies are poised to transform fields ranging from medicine and sensing to computing and communications by manipulating the energy states of atoms and molecules. These manipulations are achieved by controlling quantum states with laser pulses."
-    },
-    {
-      "title": "1,000 times faster operations bring reliable quantum computing a step closer",
-      "url": "https://phys.org/news/2026-09-faster-reliable-quantum-closer.html",
-      "source": "Phys.org",
-      "date": "10 Sep 2026",
-      "abstract": "So far, quantum computers have been held back by their extreme sensitivity to errors and external disturbances. The longer a quantum operation takes, the greater the risk of computational errors."
-    },
-    {
-      "title": "Author Correction: The molecular basis of force selectivity by PIEZO2",
-      "url": "https://www.nature.com/articles/s41586-026-11079-1",
-      "source": "Nature Journal",
-      "date": "10 Sep 2026",
-      "abstract": "Nature, Published online: 10 September 2026; doi:10.1038/s41586-026-11079-1 Author Correction: The molecular basis of force selectivity by PIEZO2"
-    },
-    {
-      "title": "The neurons that can put a brake on a nervous-system cancer",
-      "url": "https://www.nature.com/articles/d41586-026-02834-5",
-      "source": "Nature Journal",
-      "date": "10 Sep 2026",
-      "abstract": "Nature, Published online: 10 September 2026; doi:10.1038/d41586-026-02834-5 Drugs that imitate the effect of GABAergic neurons slow the growth of tumours called gliomas in mice."
     }
   ]
 }
