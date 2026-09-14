@@ -41,8 +41,29 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-09-13T06:31:06.394036+00:00",
+  "updated_at": "2026-09-14T06:42:11.294172+00:00",
   "items": [
+    {
+      "title": "Physicists can\u2019t agree on how the Universe works",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260912220041.htm",
+      "source": "ScienceDaily",
+      "date": "13 Sep 2026",
+      "abstract": "A massive worldwide survey of physicists has revealed surprisingly little agreement about some of the universe\u2019s biggest mysteries. No majority backed the standard cosmological model, a leading explanation for dark matter, or any single theory of quantum gravity. One area of stronger agreement stood..."
+    },
+    {
+      "title": "Physicists discover a hidden \u201ccurveball\u201d in quantum light",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260912220025.htm",
+      "source": "ScienceDaily",
+      "date": "13 Sep 2026",
+      "abstract": "Researchers have experimentally demonstrated the optical Magnus effect for the first time, revealing that a tightly focused laser interacts most strongly with an atom slightly away from the beam\u2019s center. The unexpected shift is similar to the physics that makes a spinning table tennis ball curve th..."
+    },
+    {
+      "title": "The super El Ni\u00f1o is already wreaking havoc: here\u2019s what\u2019s in store",
+      "url": "https://www.nature.com/articles/d41586-026-02826-5",
+      "source": "Nature Journal",
+      "date": "13 Sep 2026",
+      "abstract": "Nature, Published online: 13 September 2026; doi:10.1038/d41586-026-02826-5 The extreme weather of this year\u2019s mega El Ni\u00f1o could look different from past events."
+    },
     {
       "title": "Unified framework shows thermoelectric performance depends on more than the material itself",
       "url": "https://phys.org/news/2026-09-framework-thermoelectric-material.html",
@@ -105,27 +126,6 @@
       "source": "Nature Journal",
       "date": "11 Sep 2026",
       "abstract": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02763-3 Evoking emotions is more likely to prompt people to engage with climate efforts than are data alone."
-    },
-    {
-      "title": "Successful early-career scientists rely on network of mentors",
-      "url": "https://www.nature.com/articles/d41586-026-02827-4",
-      "source": "Nature Journal",
-      "date": "11 Sep 2026",
-      "abstract": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02827-4 Large networks are particularly beneficial to researchers in under-represented groups."
-    },
-    {
-      "title": "Osteoporosis affects millions: could modified cells rebuild their bones?",
-      "url": "https://www.nature.com/articles/d41586-026-02828-3",
-      "source": "Nature Journal",
-      "date": "11 Sep 2026",
-      "abstract": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02828-3 Small trial hints at regenerative potential of bone-seeking marrow cells."
-    },
-    {
-      "title": "Ultra-cold quantum sensors cut X-ray uncertainty, improving nuclear material assessments",
-      "url": "https://phys.org/news/2026-09-ultra-cold-quantum-sensors-ray.html",
-      "source": "Phys.org",
-      "date": "10 Sep 2026",
-      "abstract": "To monitor the amount and type of nuclear material at power plants and weapons facilities, scientists look for a special signal\u2014the unique pattern of gamma rays emitted by specific radioactive elements. However, some of these elements also emit X-rays in the same energy range as the gamma-ray emissi..."
     }
   ]
 }
