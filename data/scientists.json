@@ -58,5 +58,39 @@
       { "title": "MacTutor biography", "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Noether/" },
       { "title": "Stanford Encyclopedia of Philosophy", "url": "https://plato.stanford.edu/entries/noether/" }
     ]
+  },
+  {
+    "slug": "leon-foucault",
+    "name": "Léon Foucault",
+    "birth_date": "1819-09-18",
+    "dates": "1819–1868",
+    "bio": "French physicist and astronomer whose precision experiments made the motion of Earth visible.",
+    "contribution": "His Foucault pendulum demonstrated Earth's rotation, and the Foucault knife-edge test measured the quality of telescope mirrors.",
+    "citations": [
+      { "title": "Britannica biography", "url": "https://www.britannica.com/biography/Leon-Foucault" }
+    ]
+  },
+  {
+    "slug": "james-dewar",
+    "name": "James Dewar",
+    "birth_date": "1842-09-20",
+    "dates": "1842–1923",
+    "bio": "Scottish physicist and chemist known for pioneering work in low-temperature physics.",
+    "contribution": "He liquefied hydrogen and invented the vacuum flask, now commonly called a thermos, for thermal insulation.",
+    "citations": [
+      { "title": "Britannica biography", "url": "https://www.britannica.com/biography/James-Dewar" }
+    ]
+  },
+  {
+    "slug": "michael-faraday",
+    "name": "Michael Faraday",
+    "birth_date": "1791-09-22",
+    "dates": "1791–1867",
+    "bio": "English scientist whose experiments established many of the foundations of modern electromagnetism.",
+    "contribution": "His discoveries of electromagnetic induction, the laws of electrolysis, and diamagnetism shaped electric motors and generators.",
+    "citations": [
+      { "title": "Royal Institution biography", "url": "https://www.rigb.org/explore-science/explore/biographies/michael-faraday" },
+      { "title": "Britannica biography", "url": "https://www.britannica.com/biography/Michael-Faraday" }
+    ]
   }
 ]
