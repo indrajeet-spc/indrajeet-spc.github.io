@@ -1,0 +1,19 @@
+---
+---
+{
+  "name": "Dr. Indrajeet Kumar | Physics",
+  "short_name": "Dr. Indrajeet Kumar",
+  "description": "Academic website of Dr. Indrajeet Kumar, Assistant Professor of Physics.",
+  "start_url": "{{ '/' | relative_url }}",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#102a43",
+  "icons": [
+    {
+      "src": "{{ '/images/logo.png' | relative_url }}",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
