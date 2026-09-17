@@ -73,6 +73,7 @@
         });
         return [
           "<a class=\"scientist-card\" href=\"{{ '/scientist.html' | relative_url }}?slug=" + encodeURIComponent(scientist.slug) + "\">",
+          scientist.image ? "<img class=\"birthday-scientist-photo\" src=\"" + escapeHtml(scientist.image) + "\" alt=\"Portrait of " + escapeHtml(scientist.name) + "\" loading=\"lazy\">" : "",
           "<h3>" + escapeHtml(scientist.name) + "</h3>",
           '<p class="birthday-date">Birthday: ' + dateLabel + "</p>",
           "<p>" + escapeHtml(scientist.bio) + "</p>",

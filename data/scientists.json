@@ -6,7 +6,7 @@
     "born": "1867",
     "died": "1934",
     "dates": "1867–1934",
-    "image": "/images/marie-curie.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Marie_Curie_c._1920s.jpg/330px-Marie_Curie_c._1920s.jpg",
     "bio": "Marie Skłodowska Curie was a pioneer in radioactivity research and the first person awarded two Nobel Prizes.",
     "contribution": "Discovered radioactivity, isolated polonium and radium, and developed techniques for measuring radioactivity.",
     "citations": [
@@ -21,7 +21,7 @@
     "born": "1879",
     "died": "1955",
     "dates": "1879–1955",
-    "image": "/images/albert-einstein.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/330px-Albert_Einstein_Head_cleaned.jpg",
     "bio": "Theoretical physicist who developed the theories of special and general relativity.",
     "contribution": "Theory of relativity, mass-energy equivalence (E=mc^2), contributions to quantum theory.",
     "citations": [
@@ -36,7 +36,7 @@
     "born": "1888",
     "died": "1970",
     "dates": "1888–1970",
-    "image": "/images/cv-raman.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sir_CV_Raman.JPG/330px-Sir_CV_Raman.JPG",
     "bio": "Indian physicist known for the Raman effect in light scattering.",
     "contribution": "Discovery of the Raman effect, which provided insight into light-matter interactions.",
     "citations": [
@@ -51,7 +51,7 @@
     "born": "1882",
     "died": "1935",
     "dates": "1882–1935",
-    "image": "/images/emmy-noether.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Emmy_Noether_%283x4_cropped%29.jpg/330px-Emmy_Noether_%283x4_cropped%29.jpg",
     "bio": "Mathematician whose theorem established the connection between symmetries and conservation laws in physics.",
     "contribution": "Noether's theorem linking symmetries and conservation laws, foundational for modern theoretical physics.",
     "citations": [
@@ -64,6 +64,7 @@
     "name": "Léon Foucault",
     "birth_date": "1819-09-18",
     "dates": "1819–1868",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Foucault_portre_crop.jpg/330px-Foucault_portre_crop.jpg",
     "bio": "French physicist and astronomer whose precision experiments made the motion of Earth visible.",
     "contribution": "His Foucault pendulum demonstrated Earth's rotation, and the Foucault knife-edge test measured the quality of telescope mirrors.",
     "citations": [
@@ -75,6 +76,7 @@
     "name": "James Dewar",
     "birth_date": "1842-09-20",
     "dates": "1842–1923",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/James_Dewar.jpg/330px-James_Dewar.jpg",
     "bio": "Scottish physicist and chemist known for pioneering work in low-temperature physics.",
     "contribution": "He liquefied hydrogen and invented the vacuum flask, now commonly called a thermos, for thermal insulation.",
     "citations": [
@@ -86,6 +88,7 @@
     "name": "Michael Faraday",
     "birth_date": "1791-09-22",
     "dates": "1791–1867",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Michael_Faraday_sitting_crop.jpg/330px-Michael_Faraday_sitting_crop.jpg",
     "bio": "English scientist whose experiments established many of the foundations of modern electromagnetism.",
     "contribution": "His discoveries of electromagnetic induction, the laws of electrolysis, and diamagnetism shaped electric motors and generators.",
     "citations": [
