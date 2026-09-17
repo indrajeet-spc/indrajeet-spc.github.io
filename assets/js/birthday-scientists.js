@@ -53,7 +53,7 @@
           };
         })
         .filter(function (entry) {
-          return entry.offset <= 7;
+          return entry.offset >= 0 && entry.offset <= 7;
         })
         .sort(function (first, second) {
           return first.offset - second.offset;
@@ -75,7 +75,7 @@
           "<a class=\"scientist-card\" href=\"{{ '/scientist.html' | relative_url }}?slug=" + encodeURIComponent(scientist.slug) + "\">",
           scientist.image ? "<img class=\"birthday-scientist-photo\" src=\"" + escapeHtml(scientist.image) + "\" alt=\"Portrait of " + escapeHtml(scientist.name) + "\" loading=\"lazy\">" : "",
           "<h3>" + escapeHtml(scientist.name) + "</h3>",
-          '<p class="birthday-date">Birthday: ' + dateLabel + "</p>",
+          '<p class="birthday-date">' + (entry.offset === 0 ? "Birthday today: " : "Birthday: ") + dateLabel + "</p>",
           "<p>" + escapeHtml(scientist.bio) + "</p>",
           "<p><strong>Contribution:</strong> " + escapeHtml(scientist.contribution) + "</p>",
           "</a>"

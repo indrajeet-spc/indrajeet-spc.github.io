@@ -13,9 +13,9 @@ permalink: /
 </div>
 
 
-## Scientists with birthdays this week
+## Scientists with birthdays today and this week
 
-Daily highlights of scientists whose birthdays fall within the next seven days, including a brief biography and their major contribution.
+Daily highlights of scientists whose birthdays fall today or within the next seven days, including a brief biography and their major contribution.
 
 <div id="birthday-scientists" class="scientist-ribbon" data-scientists-url="{{ '/data/scientists.json' | relative_url }}" aria-live="polite">
   <p>Loading this week's scientist birthdays…</p>
