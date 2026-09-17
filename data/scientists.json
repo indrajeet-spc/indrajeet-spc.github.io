@@ -2,6 +2,7 @@
   {
     "slug": "marie-curie",
     "name": "Marie Curie",
+    "birth_date": "1867-11-07",
     "born": "1867",
     "died": "1934",
     "dates": "1867–1934",
@@ -16,6 +17,7 @@
   {
     "slug": "albert-einstein",
     "name": "Albert Einstein",
+    "birth_date": "1879-03-14",
     "born": "1879",
     "died": "1955",
     "dates": "1879–1955",
@@ -30,6 +32,7 @@
   {
     "slug": "c-v-raman",
     "name": "C. V. Raman",
+    "birth_date": "1888-11-07",
     "born": "1888",
     "died": "1970",
     "dates": "1888–1970",
@@ -44,6 +47,7 @@
   {
     "slug": "emmy-noether",
     "name": "Emmy Noether",
+    "birth_date": "1882-03-23",
     "born": "1882",
     "died": "1935",
     "dates": "1882–1935",

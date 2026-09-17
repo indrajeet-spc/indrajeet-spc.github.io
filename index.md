@@ -13,32 +13,15 @@ permalink: /
 </div>
 
 
-## Physics Pioneers
+## Scientists with birthdays this week
 
-Discover influential physicists and their landmark contributions with direct citation links.
+Daily highlights of scientists whose birthdays fall within the next seven days, including a brief biography and their major contribution.
 
-<div class="scientist-ribbon">
-  <a class="scientist-card" href="https://www.nobelprize.org/prizes/physics/1903/curie/facts/" target="_blank" rel="noopener">
-    <h3>Marie Curie</h3>
-    <p>Discovered radioactivity and isolated polonium and radium, opening the field of nuclear science.</p>
-    <p class="citation">Source: Nobel Prize in Physics, 1903</p>
-  </a>
-  <a class="scientist-card" href="https://www.britannica.com/biography/Albert-Einstein" target="_blank" rel="noopener">
-    <h3>Albert Einstein</h3>
-    <p>Developed the theory of relativity, transforming our understanding of space, time, and gravity.</p>
-    <p class="citation">Source: Britannica biography</p>
-  </a>
-  <a class="scientist-card" href="https://www.nobelprize.org/prizes/physics/1930/raman/facts/" target="_blank" rel="noopener">
-    <h3>C. V. Raman</h3>
-    <p>Discovered the Raman effect, which revealed how light scatters at different wavelengths in matter.</p>
-    <p class="citation">Source: Nobel Prize in Physics, 1930</p>
-  </a>
-  <a class="scientist-card" href="https://www.britannica.com/biography/Emmy-Noether" target="_blank" rel="noopener">
-    <h3>Emmy Noether</h3>
-    <p>Formulated Noether's theorem, linking symmetries in physics to conservation laws.</p>
-    <p class="citation">Source: Britannica biography</p>
-  </a>
+<div id="birthday-scientists" class="scientist-ribbon" aria-live="polite">
+  <p>Loading this week's scientist birthdays…</p>
 </div>
+
+<script src="{{ '/assets/js/birthday-scientists.js' | relative_url }}"></script>
 
 ## Contact
 
