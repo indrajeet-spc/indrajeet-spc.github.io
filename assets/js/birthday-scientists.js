@@ -1,6 +1,7 @@
 (function () {
   var container = document.getElementById("birthday-scientists");
   if (!container) return;
+  var scientistsUrl = container.getAttribute("data-scientists-url");
 
   function dayOfYear(date) {
     var start = new Date(date.getFullYear(), 0, 0);
@@ -32,7 +33,7 @@
   var today = new Date();
   today.setHours(0, 0, 0, 0);
 
-  fetch("{{ '/data/scientists.json' | relative_url }}?v=" + today.getTime())
+  fetch(scientistsUrl + "?v=" + today.getTime())
     .then(function (response) {
       if (!response.ok) throw new Error("Unable to load scientist data");
       return response.json();

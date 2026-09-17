@@ -17,7 +17,7 @@ permalink: /
 
 Daily highlights of scientists whose birthdays fall within the next seven days, including a brief biography and their major contribution.
 
-<div id="birthday-scientists" class="scientist-ribbon" aria-live="polite">
+<div id="birthday-scientists" class="scientist-ribbon" data-scientists-url="{{ '/data/scientists.json' | relative_url }}" aria-live="polite">
   <p>Loading this week's scientist birthdays…</p>
 </div>
 
