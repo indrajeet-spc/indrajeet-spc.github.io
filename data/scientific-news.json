@@ -41,21 +41,28 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-09-19T06:16:02.420124+00:00",
+  "updated_at": "2026-09-20T06:38:53.249654+00:00",
   "items": [
     {
-      "title": "NASA-JAXA XRISM Mission Sees Pulsar Gathering Companion\u2019s \u2018Wind\u2019",
-      "url": "https://science.nasa.gov/missions/xrism/xrism-sees-pulsar-gathering-companions-wind/",
-      "source": "NASA News",
-      "date": "18 Sep 2026",
-      "abstract": "Using data from the Japan-led XRISM (X-ray Imaging and Spectroscopy Mission) observatory, astronomers have directly observed a giant star\u2019s outflow, called a stellar wind, being captured by its compact companion and providing the power source for strong X-ray flares. The research is part of NASA\u2019s e..."
+      "title": "Two-color light steers electrons through graphene's transient topological state",
+      "url": "https://phys.org/news/2026-09-electrons-graphene-transient-topological-state.html",
+      "source": "Phys.org",
+      "date": "19 Sep 2026",
+      "abstract": "The electronic properties of materials are typically determined by their structure under normal, undisturbed conditions, when they are in a state known as equilibrium. Intense light beams, however, can temporarily reshape a material's electronic band structure (i.e., the range of energy states avail..."
     },
     {
-      "title": "NASA\u2019s Hubble Spots an Out-of-Sync Galaxy",
-      "url": "https://science.nasa.gov/uncategorized/nasas-hubble-spots-an-out-of-sync-galaxy/",
-      "source": "NASA News",
-      "date": "18 Sep 2026",
-      "abstract": "Though the spiral galaxy in this new image from the NASA/ESA Hubble Space Telescope seems serene, it hides a chaotic secret. This galaxy is NGC 4698, and it lies about 55 million light-years away in the constellation Virgo. It\u2019s one of over a thousand galaxies in the Virgo Cluster, the nearest large..."
+      "title": "Extended physics-informed neural networks (Ex-PINNs): a machine-learning method for solving partial differential equations in domain with sp...",
+      "url": "https://www.nature.com/articles/s41598-026-72553-4",
+      "source": "Nature Physics",
+      "date": "19 Sep 2026",
+      "abstract": "Abstract unavailable. Open the full article for details."
+    },
+    {
+      "title": "Physics-guided machine learning for traffic-flow prediction and operating-regime attribution on a desert heavy-duty expressway",
+      "url": "https://www.nature.com/articles/s41598-026-71710-z",
+      "source": "Nature Physics",
+      "date": "19 Sep 2026",
+      "abstract": "Abstract unavailable. Open the full article for details."
     },
     {
       "title": "Physicists extend the search for quantum black holes at the LHC",
@@ -119,13 +126,6 @@
       "source": "Nature Journal",
       "date": "18 Sep 2026",
       "abstract": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02943-1 Research also uncovers an efficient way to grow hindbrain cells from stem cells \u2014 a difficult feat."
-    },
-    {
-      "title": "AI cracked the Navier\u2013Stokes challenge. What does that mean for physics?",
-      "url": "https://www.nature.com/articles/d41586-026-02922-6",
-      "source": "Nature Journal",
-      "date": "18 Sep 2026",
-      "abstract": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02922-6 Physicists and mathematicians are going beyond the classic equations of fluid dynamics to understand turbulence \u2014 often with the help of AI."
     }
   ]
 }
