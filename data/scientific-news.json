@@ -41,8 +41,29 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-09-20T06:38:53.249654+00:00",
+  "updated_at": "2026-09-21T06:45:18.516760+00:00",
   "items": [
+    {
+      "title": "Cooling liquids reveal self-limiting particle clusters behind glass transition",
+      "url": "https://phys.org/news/2026-09-cooling-liquids-reveal-limiting-particle.html",
+      "source": "Phys.org",
+      "date": "20 Sep 2026",
+      "abstract": "Before diving into the mystery of glass, theoretical physicist Corentin Laudicina takes us back to high school physics for a moment. Although he has spent years studying exactly what happens in a material during the glass transition, he also understands that his research is not the easiest thing to..."
+    },
+    {
+      "title": "Scientists opened a sealed envelope after 10 years. Gravity still didn\u2019t make sense",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260920032049.htm",
+      "source": "ScienceDaily",
+      "date": "20 Sep 2026",
+      "abstract": "A decade-long NIST experiment has produced a new measurement of the universal gravitational constant that differs unexpectedly from another leading result, deepening a 225-year-old physics puzzle. The discrepancy is tiny, but for one of nature\u2019s most fundamental constants, it is large enough to keep..."
+    },
+    {
+      "title": "Einstein\u2019s \u201cspooky action\u201d just survived one of physics\u2019 most extreme tests",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260919031023.htm",
+      "source": "ScienceDaily",
+      "date": "20 Sep 2026",
+      "abstract": "Physicists have detected strong evidence that heavy, fleeting Z bosons can become quantum entangled during Higgs boson decays at CERN\u2019s Large Hadron Collider. The result shows that Einstein\u2019s \u201cspooky action at a distance\u201d survives even under some of the most extreme conditions ever created in a labo..."
+    },
     {
       "title": "Two-color light steers electrons through graphene's transient topological state",
       "url": "https://phys.org/news/2026-09-electrons-graphene-transient-topological-state.html",
@@ -63,6 +84,20 @@
       "source": "Nature Physics",
       "date": "19 Sep 2026",
       "abstract": "Abstract unavailable. Open the full article for details."
+    },
+    {
+      "title": "NASA-JAXA XRISM Mission Sees Pulsar Gathering Companion\u2019s \u2018Wind\u2019",
+      "url": "https://science.nasa.gov/missions/xrism/xrism-sees-pulsar-gathering-companions-wind/",
+      "source": "NASA News",
+      "date": "18 Sep 2026",
+      "abstract": "Using data from the Japan-led XRISM (X-ray Imaging and Spectroscopy Mission) observatory, astronomers have directly observed a giant star\u2019s outflow, called a stellar wind, being captured by its compact companion and providing the power source for strong X-ray flares. The research is part of NASA\u2019s e..."
+    },
+    {
+      "title": "NASA\u2019s Hubble Spots an Out-of-Sync Galaxy",
+      "url": "https://science.nasa.gov/uncategorized/nasas-hubble-spots-an-out-of-sync-galaxy/",
+      "source": "NASA News",
+      "date": "18 Sep 2026",
+      "abstract": "Though the spiral galaxy in this new image from the NASA/ESA Hubble Space Telescope seems serene, it hides a chaotic secret. This galaxy is NGC 4698, and it lies about 55 million light-years away in the constellation Virgo. It\u2019s one of over a thousand galaxies in the Virgo Cluster, the nearest large..."
     },
     {
       "title": "Physicists extend the search for quantum black holes at the LHC",
@@ -91,41 +126,6 @@
       "source": "Nature Journal",
       "date": "18 Sep 2026",
       "abstract": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02897-4 The trait could explain why symptoms vary in severity between people with similar brain pathology."
-    },
-    {
-      "title": "Briefing Chat: Evidence mounts for hidden chambers beyond Tutankhamun's tomb",
-      "url": "https://www.nature.com/articles/d41586-026-02984-6",
-      "source": "Nature Journal",
-      "date": "18 Sep 2026",
-      "abstract": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02984-6 Nature staff discuss data that could point to Nefertiti\u2019s burial place \u2014 plus, the implant that translates brain activity into speech and gestures."
-    },
-    {
-      "title": "Europe pushes for space independence amid geopolitical rifts",
-      "url": "https://www.nature.com/articles/d41586-026-02919-1",
-      "source": "Nature Journal",
-      "date": "18 Sep 2026",
-      "abstract": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02919-1 The European Union is easing its reliance on US space infrastructure \u2014 and is seeking to grow its satellite and launch operations."
-    },
-    {
-      "title": "How research funding took me out of the lab and into leadership",
-      "url": "https://www.nature.com/articles/d41586-026-02184-2",
-      "source": "Nature Journal",
-      "date": "18 Sep 2026",
-      "abstract": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02184-2 Landing two large grants caused Anna Sandak to take on a managerial role in her team and made her reflect on what it means to contribute to research."
-    },
-    {
-      "title": "First for RNA therapy: man with rare motor-neuron disease improves after treatment",
-      "url": "https://www.nature.com/articles/d41586-026-02945-z",
-      "source": "Nature Journal",
-      "date": "18 Sep 2026",
-      "abstract": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02945-z Gene-targeting treatments could be used to treat other people with rare forms of amyotrophic lateral sclerosis (ALS)."
-    },
-    {
-      "title": "How to make a brain: new experiments challenge existing picture",
-      "url": "https://www.nature.com/articles/d41586-026-02943-1",
-      "source": "Nature Journal",
-      "date": "18 Sep 2026",
-      "abstract": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02943-1 Research also uncovers an efficient way to grow hindbrain cells from stem cells \u2014 a difficult feat."
     }
   ]
 }
