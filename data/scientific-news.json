@@ -41,91 +41,91 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-09-21T06:45:18.516760+00:00",
+  "updated_at": "2026-09-22T06:32:28.805162+00:00",
   "items": [
+    {
+      "title": "Nuclear-spin swap extends room-temperature entanglement lifetime up to 240-fold",
+      "url": "https://phys.org/news/2026-09-nuclear-swap-room-temperature-entanglement.html",
+      "source": "Phys.org",
+      "date": "21 Sep 2026",
+      "abstract": "Researchers in China have extended the lifetime of entanglement in a room-temperature, solid-state system by up to a factor of 240. Led by Shuo Ren and Rui-Jian Liang at the University of Science and Technology of China in Hefei, the team transferred entangled states from the electron spins of solid..."
+    },
+    {
+      "title": "Quantum communication protocol enables three users to establish a shared secure key",
+      "url": "https://phys.org/news/2026-09-quantum-communication-protocol-enables-users.html",
+      "source": "Phys.org",
+      "date": "21 Sep 2026",
+      "abstract": "Quantum key distribution allows two users to establish secret keys whose security is grounded in the laws of quantum mechanics. Extending this capability to multiple users is an essential step toward quantum networks that support secure communication among many participants. Quantum cryptographic co..."
+    },
+    {
+      "title": "Chemist-aligned retrosynthesis by ensembling diverse inductive bias models",
+      "url": "https://www.nature.com/articles/s41586-026-11160-9",
+      "source": "Nature Journal",
+      "date": "21 Sep 2026",
+      "abstract": "Nature, Published online: 21 September 2026; doi:10.1038/s41586-026-11160-9 Chemist-aligned retrosynthesis by ensembling diverse inductive bias models"
+    },
+    {
+      "title": "Six principles for supporting academic freedom in universities",
+      "url": "https://www.nature.com/articles/d41586-026-02932-4",
+      "source": "Nature Journal",
+      "date": "21 Sep 2026",
+      "abstract": "Nature, Published online: 21 September 2026; doi:10.1038/d41586-026-02932-4 Many academics are concerned about threats to independent enquiry in higher education. Here\u2019s how it can be protected while taking legitimate concerns into account."
+    },
+    {
+      "title": "Losing your way of life to climate change matters \u2014 and we need a way to measure it",
+      "url": "https://www.nature.com/articles/d41586-026-02928-0",
+      "source": "Nature Journal",
+      "date": "21 Sep 2026",
+      "abstract": "Nature, Published online: 21 September 2026; doi:10.1038/d41586-026-02928-0 Climate losses extend beyond property and income. Policymakers need ways to assess what people value, experience and ultimately stand to lose."
+    },
+    {
+      "title": "Edible batteries power medical devices in the body",
+      "url": "https://www.nature.com/articles/d41586-026-02987-3",
+      "source": "Nature Journal",
+      "date": "21 Sep 2026",
+      "abstract": "Nature, Published online: 21 September 2026; doi:10.1038/d41586-026-02987-3 The tiny power sources, tested in pigs, dissolve inside the digestive tract after several months."
+    },
+    {
+      "title": "China punishes prominent academics exposed by research sleuth",
+      "url": "https://www.nature.com/articles/d41586-026-02890-x",
+      "source": "Nature Journal",
+      "date": "21 Sep 2026",
+      "abstract": "Nature, Published online: 21 September 2026; doi:10.1038/d41586-026-02890-x Several scientists investigated for research-integrity violations by video-blogger \u2018Student Geng\u2019 have now faced disciplinary measures. The penalties are part of a misconduct crackdown on 31 research teams."
+    },
+    {
+      "title": "AI co-scientists are revolutionizing how research is done",
+      "url": "https://www.nature.com/articles/d41586-026-02931-5",
+      "source": "Nature Journal",
+      "date": "21 Sep 2026",
+      "abstract": "Nature, Published online: 21 September 2026; doi:10.1038/d41586-026-02931-5 Artificial-intelligence systems can generate hypotheses, design experiments and analyse data \u2014 but humans still need to decide what makes sense."
+    },
+    {
+      "title": "How do I change labs gracefully during my PhD?",
+      "url": "https://www.nature.com/articles/d41586-026-02441-4",
+      "source": "Nature Journal",
+      "date": "21 Sep 2026",
+      "abstract": "Nature, Published online: 21 September 2026; doi:10.1038/d41586-026-02441-4 A scientist in training seeks help in finding a new adviser without damaging existing working relationships."
+    },
+    {
+      "title": "'Epigenetic' editing is here: gene-tagging technique banishes hepatitis B virus",
+      "url": "https://www.nature.com/articles/d41586-026-02981-9",
+      "source": "Nature Journal",
+      "date": "21 Sep 2026",
+      "abstract": "Nature, Published online: 21 September 2026; doi:10.1038/d41586-026-02981-9 Technique uses chemical tags to shut down viral DNA lurking in host\u2019s genome."
+    },
+    {
+      "title": "Adsorption of V-series nerve agents on graphene oxide: spectroscopic validation, electronic properties and charge transfer dynamics",
+      "url": "https://www.nature.com/articles/s41598-026-70131-2",
+      "source": "Nature Physics",
+      "date": "21 Sep 2026",
+      "abstract": "Abstract unavailable. Open the full article for details."
+    },
     {
       "title": "Cooling liquids reveal self-limiting particle clusters behind glass transition",
       "url": "https://phys.org/news/2026-09-cooling-liquids-reveal-limiting-particle.html",
       "source": "Phys.org",
       "date": "20 Sep 2026",
       "abstract": "Before diving into the mystery of glass, theoretical physicist Corentin Laudicina takes us back to high school physics for a moment. Although he has spent years studying exactly what happens in a material during the glass transition, he also understands that his research is not the easiest thing to..."
-    },
-    {
-      "title": "Scientists opened a sealed envelope after 10 years. Gravity still didn\u2019t make sense",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260920032049.htm",
-      "source": "ScienceDaily",
-      "date": "20 Sep 2026",
-      "abstract": "A decade-long NIST experiment has produced a new measurement of the universal gravitational constant that differs unexpectedly from another leading result, deepening a 225-year-old physics puzzle. The discrepancy is tiny, but for one of nature\u2019s most fundamental constants, it is large enough to keep..."
-    },
-    {
-      "title": "Einstein\u2019s \u201cspooky action\u201d just survived one of physics\u2019 most extreme tests",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260919031023.htm",
-      "source": "ScienceDaily",
-      "date": "20 Sep 2026",
-      "abstract": "Physicists have detected strong evidence that heavy, fleeting Z bosons can become quantum entangled during Higgs boson decays at CERN\u2019s Large Hadron Collider. The result shows that Einstein\u2019s \u201cspooky action at a distance\u201d survives even under some of the most extreme conditions ever created in a labo..."
-    },
-    {
-      "title": "Two-color light steers electrons through graphene's transient topological state",
-      "url": "https://phys.org/news/2026-09-electrons-graphene-transient-topological-state.html",
-      "source": "Phys.org",
-      "date": "19 Sep 2026",
-      "abstract": "The electronic properties of materials are typically determined by their structure under normal, undisturbed conditions, when they are in a state known as equilibrium. Intense light beams, however, can temporarily reshape a material's electronic band structure (i.e., the range of energy states avail..."
-    },
-    {
-      "title": "Extended physics-informed neural networks (Ex-PINNs): a machine-learning method for solving partial differential equations in domain with sp...",
-      "url": "https://www.nature.com/articles/s41598-026-72553-4",
-      "source": "Nature Physics",
-      "date": "19 Sep 2026",
-      "abstract": "Abstract unavailable. Open the full article for details."
-    },
-    {
-      "title": "Physics-guided machine learning for traffic-flow prediction and operating-regime attribution on a desert heavy-duty expressway",
-      "url": "https://www.nature.com/articles/s41598-026-71710-z",
-      "source": "Nature Physics",
-      "date": "19 Sep 2026",
-      "abstract": "Abstract unavailable. Open the full article for details."
-    },
-    {
-      "title": "NASA-JAXA XRISM Mission Sees Pulsar Gathering Companion\u2019s \u2018Wind\u2019",
-      "url": "https://science.nasa.gov/missions/xrism/xrism-sees-pulsar-gathering-companions-wind/",
-      "source": "NASA News",
-      "date": "18 Sep 2026",
-      "abstract": "Using data from the Japan-led XRISM (X-ray Imaging and Spectroscopy Mission) observatory, astronomers have directly observed a giant star\u2019s outflow, called a stellar wind, being captured by its compact companion and providing the power source for strong X-ray flares. The research is part of NASA\u2019s e..."
-    },
-    {
-      "title": "NASA\u2019s Hubble Spots an Out-of-Sync Galaxy",
-      "url": "https://science.nasa.gov/uncategorized/nasas-hubble-spots-an-out-of-sync-galaxy/",
-      "source": "NASA News",
-      "date": "18 Sep 2026",
-      "abstract": "Though the spiral galaxy in this new image from the NASA/ESA Hubble Space Telescope seems serene, it hides a chaotic secret. This galaxy is NGC 4698, and it lies about 55 million light-years away in the constellation Virgo. It\u2019s one of over a thousand galaxies in the Virgo Cluster, the nearest large..."
-    },
-    {
-      "title": "Physicists extend the search for quantum black holes at the LHC",
-      "url": "https://phys.org/news/2026-09-physicists-quantum-black-holes-lhc.html",
-      "source": "Phys.org",
-      "date": "18 Sep 2026",
-      "abstract": "Physicists at UC Santa Barbara have extended the search for evidence of microscopic black holes produced at the Large Hadron Collider (LHC) at the European Organization for Nuclear Research (CERN). The formation of these tiny, fleeting objects at the LHC represents one way theorists have sought to r..."
-    },
-    {
-      "title": "Laser experiments recreate solar flare physics and reveal consistent magnetic reconnection rates",
-      "url": "https://phys.org/news/2026-09-laser-recreate-solar-flare-physics.html",
-      "source": "Phys.org",
-      "date": "18 Sep 2026",
-      "abstract": "Magnetic reconnection is a process that occurs when the magnetic fields of a conductive plasma quickly rearrange and release massive amounts of stored magnetic energy. It is widely thought to be the underlying mechanism behind cosmic events such as solar flares and substorms in Earth's magnetosphere..."
-    },
-    {
-      "title": "Scientists are about to test Einstein\u2019s gravity with exotic matter",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260918024808.htm",
-      "source": "ScienceDaily",
-      "date": "18 Sep 2026",
-      "abstract": "Scientists have found a new way to create a controlled beam of muonium, an exotic atom containing a heavier cousin of the electron. The advance could allow researchers to test for the first time whether gravity acts on second-generation particles exactly as Einstein\u2019s theory predicts. Any unexpected..."
-    },
-    {
-      "title": "Cognitive resilience helps to predict Alzheimer\u2019s dementia",
-      "url": "https://www.nature.com/articles/d41586-026-02897-4",
-      "source": "Nature Journal",
-      "date": "18 Sep 2026",
-      "abstract": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02897-4 The trait could explain why symptoms vary in severity between people with similar brain pathology."
     }
   ]
 }
