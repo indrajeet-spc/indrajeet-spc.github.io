@@ -41,91 +41,91 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-09-22T06:32:28.805162+00:00",
+  "updated_at": "2026-09-23T06:18:08.632609+00:00",
   "items": [
     {
-      "title": "Nuclear-spin swap extends room-temperature entanglement lifetime up to 240-fold",
-      "url": "https://phys.org/news/2026-09-nuclear-swap-room-temperature-entanglement.html",
+      "title": "The LHC just ruled out another hiding place for quantum black holes",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260922005649.htm",
+      "source": "ScienceDaily",
+      "date": "23 Sep 2026",
+      "abstract": "Physicists searching through Large Hadron Collider data found no evidence that the machine has been producing microscopic quantum black holes, but the result sharply narrows where such exotic physics could still be hiding. These hypothetical black holes could form if extra spatial dimensions make gr..."
+    },
+    {
+      "title": "Physicists crack the math connecting ultraslow quantum magnetism to ultrafast black-hole physics",
+      "url": "https://phys.org/news/2026-09-physicists-math-ultraslow-quantum-magnetism.html",
       "source": "Phys.org",
-      "date": "21 Sep 2026",
-      "abstract": "Researchers in China have extended the lifetime of entanglement in a room-temperature, solid-state system by up to a factor of 240. Led by Shuo Ren and Rui-Jian Liang at the University of Science and Technology of China in Hefei, the team transferred entangled states from the electron spins of solid..."
+      "date": "22 Sep 2026",
+      "abstract": "A team led by University at Buffalo physicists has found a mathematical solution that shows how a frustrated quantum magnet can transition from ultraslow behavior to ultrafast, highly entangled behavior resembling that of a black hole."
     },
     {
-      "title": "Quantum communication protocol enables three users to establish a shared secure key",
-      "url": "https://phys.org/news/2026-09-quantum-communication-protocol-enables-users.html",
+      "title": "From swarming bacteria to tissue cells, living matter defies classic physical models of motion",
+      "url": "https://phys.org/news/2026-09-swarming-bacteria-tissue-cells-defies.html",
       "source": "Phys.org",
-      "date": "21 Sep 2026",
-      "abstract": "Quantum key distribution allows two users to establish secret keys whose security is grounded in the laws of quantum mechanics. Extending this capability to multiple users is an essential step toward quantum networks that support secure communication among many participants. Quantum cryptographic co..."
+      "date": "22 Sep 2026",
+      "abstract": "A new study led by researchers from Ben-Gurion University of the Negev (BGU) reveals that living matter violates previously known physical principles of symmetry when cellular flows form and break down collective patterns. The research, published in Nature Physics, challenges conventional liquid-cry..."
     },
     {
-      "title": "Chemist-aligned retrosynthesis by ensembling diverse inductive bias models",
-      "url": "https://www.nature.com/articles/s41586-026-11160-9",
-      "source": "Nature Journal",
-      "date": "21 Sep 2026",
-      "abstract": "Nature, Published online: 21 September 2026; doi:10.1038/s41586-026-11160-9 Chemist-aligned retrosynthesis by ensembling diverse inductive bias models"
-    },
-    {
-      "title": "Six principles for supporting academic freedom in universities",
-      "url": "https://www.nature.com/articles/d41586-026-02932-4",
-      "source": "Nature Journal",
-      "date": "21 Sep 2026",
-      "abstract": "Nature, Published online: 21 September 2026; doi:10.1038/d41586-026-02932-4 Many academics are concerned about threats to independent enquiry in higher education. Here\u2019s how it can be protected while taking legitimate concerns into account."
-    },
-    {
-      "title": "Losing your way of life to climate change matters \u2014 and we need a way to measure it",
-      "url": "https://www.nature.com/articles/d41586-026-02928-0",
-      "source": "Nature Journal",
-      "date": "21 Sep 2026",
-      "abstract": "Nature, Published online: 21 September 2026; doi:10.1038/d41586-026-02928-0 Climate losses extend beyond property and income. Policymakers need ways to assess what people value, experience and ultimately stand to lose."
-    },
-    {
-      "title": "Edible batteries power medical devices in the body",
-      "url": "https://www.nature.com/articles/d41586-026-02987-3",
-      "source": "Nature Journal",
-      "date": "21 Sep 2026",
-      "abstract": "Nature, Published online: 21 September 2026; doi:10.1038/d41586-026-02987-3 The tiny power sources, tested in pigs, dissolve inside the digestive tract after several months."
-    },
-    {
-      "title": "China punishes prominent academics exposed by research sleuth",
-      "url": "https://www.nature.com/articles/d41586-026-02890-x",
-      "source": "Nature Journal",
-      "date": "21 Sep 2026",
-      "abstract": "Nature, Published online: 21 September 2026; doi:10.1038/d41586-026-02890-x Several scientists investigated for research-integrity violations by video-blogger \u2018Student Geng\u2019 have now faced disciplinary measures. The penalties are part of a misconduct crackdown on 31 research teams."
-    },
-    {
-      "title": "AI co-scientists are revolutionizing how research is done",
-      "url": "https://www.nature.com/articles/d41586-026-02931-5",
-      "source": "Nature Journal",
-      "date": "21 Sep 2026",
-      "abstract": "Nature, Published online: 21 September 2026; doi:10.1038/d41586-026-02931-5 Artificial-intelligence systems can generate hypotheses, design experiments and analyse data \u2014 but humans still need to decide what makes sense."
-    },
-    {
-      "title": "How do I change labs gracefully during my PhD?",
-      "url": "https://www.nature.com/articles/d41586-026-02441-4",
-      "source": "Nature Journal",
-      "date": "21 Sep 2026",
-      "abstract": "Nature, Published online: 21 September 2026; doi:10.1038/d41586-026-02441-4 A scientist in training seeks help in finding a new adviser without damaging existing working relationships."
-    },
-    {
-      "title": "'Epigenetic' editing is here: gene-tagging technique banishes hepatitis B virus",
-      "url": "https://www.nature.com/articles/d41586-026-02981-9",
-      "source": "Nature Journal",
-      "date": "21 Sep 2026",
-      "abstract": "Nature, Published online: 21 September 2026; doi:10.1038/d41586-026-02981-9 Technique uses chemical tags to shut down viral DNA lurking in host\u2019s genome."
-    },
-    {
-      "title": "Adsorption of V-series nerve agents on graphene oxide: spectroscopic validation, electronic properties and charge transfer dynamics",
-      "url": "https://www.nature.com/articles/s41598-026-70131-2",
-      "source": "Nature Physics",
-      "date": "21 Sep 2026",
-      "abstract": "Abstract unavailable. Open the full article for details."
-    },
-    {
-      "title": "Cooling liquids reveal self-limiting particle clusters behind glass transition",
-      "url": "https://phys.org/news/2026-09-cooling-liquids-reveal-limiting-particle.html",
+      "title": "RHIC data reveal intriguing dip in momentum fluctuations in high-density nuclear matter",
+      "url": "https://phys.org/news/2026-09-rhic-reveal-intriguing-dip-momentum.html",
       "source": "Phys.org",
-      "date": "20 Sep 2026",
-      "abstract": "Before diving into the mystery of glass, theoretical physicist Corentin Laudicina takes us back to high school physics for a moment. Although he has spent years studying exactly what happens in a material during the glass transition, he also understands that his research is not the easiest thing to..."
+      "date": "22 Sep 2026",
+      "abstract": "Scientists using the STAR detector to study particle collisions at the Relativistic Heavy Ion Collider (RHIC) have found an intriguing dip in their data in a relatively unexplored region of the nuclear phase diagram\u2014a map of how nuclear matter behaves under various conditions of temperature and dens..."
+    },
+    {
+      "title": "Electrical control method tunes magnetic properties for next-generation spintronic memory",
+      "url": "https://phys.org/news/2026-09-electrical-method-tunes-magnetic-properties.html",
+      "source": "Phys.org",
+      "date": "22 Sep 2026",
+      "abstract": "A research team led by Professor Jung-Il Hong of the Department of Physics and Chemistry at DGIST has successfully used current pulses to alter the spin configuration within a ferrimagnetic material, lowering its \"compensation temperature\"\u2014the temperature at which opposing magnetizations cancel each..."
+    },
+    {
+      "title": "Quantum protocol securely verifies a device's position using stations 2 km apart",
+      "url": "https://phys.org/news/2026-09-quantum-protocol-device-position-stations.html",
+      "source": "Phys.org",
+      "date": "22 Sep 2026",
+      "abstract": "Reliably verifying the location of a device connected to the internet or other networks is important for various real-world applications. For instance, it could be valuable for authorizing financial transactions, securing communications and controlling who can access specific databases or services."
+    },
+    {
+      "title": "Biosecurity must protect human functional capacity",
+      "url": "https://www.nature.com/articles/d41586-026-02996-2",
+      "source": "Nature Journal",
+      "date": "22 Sep 2026",
+      "abstract": "Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02996-2 Biosecurity must protect human functional capacity"
+    },
+    {
+      "title": "Why insects need their own protected areas",
+      "url": "https://www.nature.com/articles/d41586-026-02997-1",
+      "source": "Nature Journal",
+      "date": "22 Sep 2026",
+      "abstract": "Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02997-1 Why insects need their own protected areas"
+    },
+    {
+      "title": "A global safety net for climate-risk intelligence is urgently needed",
+      "url": "https://www.nature.com/articles/d41586-026-02995-3",
+      "source": "Nature Journal",
+      "date": "22 Sep 2026",
+      "abstract": "Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02995-3 A global safety net for climate-risk intelligence is urgently needed"
+    },
+    {
+      "title": "What happens in Vegas: one lecturer\u2019s hunt for a projector",
+      "url": "https://www.nature.com/articles/d41586-026-02724-w",
+      "source": "Nature Journal",
+      "date": "22 Sep 2026",
+      "abstract": "Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02724-w Misadventures at a scientific meeting in Nevada, and ponderings on the idea that physical objects exist only as perceptual phenomena, in our weekly dip into Nature\u2019s archive."
+    },
+    {
+      "title": "Dust in the wind is on the decline",
+      "url": "https://www.nature.com/articles/d41586-026-02979-3",
+      "source": "Nature Journal",
+      "date": "22 Sep 2026",
+      "abstract": "Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02979-3 The global decrease in atmospheric dust might be affecting Earth\u2019s temperature."
+    },
+    {
+      "title": "About to give your first lecture? Read this first",
+      "url": "https://www.nature.com/articles/d41586-026-02369-9",
+      "source": "Nature Journal",
+      "date": "22 Sep 2026",
+      "abstract": "Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02369-9 Ten researchers and faculty members share what surprised them when they began teaching \u2014 and what they wish they had known before walking into the room."
     }
   ]
 }
