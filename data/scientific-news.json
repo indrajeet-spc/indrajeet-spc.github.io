@@ -41,14 +41,77 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-09-25T06:22:11.509109+00:00",
+  "updated_at": "2026-09-26T06:22:52.662684+00:00",
   "items": [
+    {
+      "title": "Rare quantum state reveals particles with quarter-electron charge",
+      "url": "https://phys.org/news/2026-09-rare-quantum-state-reveals-particles.html",
+      "source": "Phys.org",
+      "date": "25 Sep 2026",
+      "abstract": "An electron's charge is normally fixed, like a coin you can't break into pieces. But if electrons are cooled close to absolute zero and trapped in a two-dimensional layer under a powerful magnetic field, they organize into a collective state of \"quasiparticles\" that seem to hold only a fraction of a..."
+    },
+    {
+      "title": "Random access quantum memory lets one processor select among seven storage cells",
+      "url": "https://phys.org/news/2026-09-random-access-quantum-memory-processor.html",
+      "source": "Phys.org",
+      "date": "25 Sep 2026",
+      "abstract": "Classical computers can temporarily store the information required to perform specific tasks in a short-term memory component known as RAM (random access memory). This component allows computer processors to retrieve information from a chosen location without searching through all stored data."
+    },
     {
       "title": "Cosmic lockdown: How the environment can isolate quantum fields",
       "url": "https://phys.org/news/2026-09-cosmic-lockdown-environment-isolate-quantum.html",
       "source": "Phys.org",
       "date": "25 Sep 2026",
       "abstract": "A simplified cosmological model suggests that decoherence can suppress quantum tunneling, effectively locking fields into the vacuum state they have reached."
+    },
+    {
+      "title": "Briefing Chat: Why scientists made papyrus scrolls, then burnt them",
+      "url": "https://www.nature.com/articles/d41586-026-03041-y",
+      "source": "Nature Journal",
+      "date": "25 Sep 2026",
+      "abstract": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03041-y Nature staff discuss a technique that could help researchers read charred Herculaneum scrolls \u2014 plus, a biodegradeable, edible battery."
+    },
+    {
+      "title": "Why science wouldn\u2019t exist without alchemy, curiosity and great writing: Books in brief",
+      "url": "https://www.nature.com/articles/d41586-026-03032-z",
+      "source": "Nature Journal",
+      "date": "25 Sep 2026",
+      "abstract": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03032-z Andrew Robinson reviews five of the best science picks."
+    },
+    {
+      "title": "Anthropic\u2019s AI biolab finds \u2018CRISPR-like\u2019 DNA in viruses. What\u2019s next?",
+      "url": "https://www.nature.com/articles/d41586-026-03039-6",
+      "source": "Nature Journal",
+      "date": "25 Sep 2026",
+      "abstract": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03039-6 The detection effort enlisted roughly 950 AI agents that spent more than 21 hours combing through DNA sequence databases."
+    },
+    {
+      "title": "Chemists struggle to ditch hazardous solvents \u2014 even after decades of \u2018green\u2019 efforts",
+      "url": "https://www.nature.com/articles/d41586-026-03023-0",
+      "source": "Nature Journal",
+      "date": "25 Sep 2026",
+      "abstract": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03023-0 Laboratories are still using dangerous and carbon-intensive liquids much more often than environmentally friendly ones, according to a 40-year survey of patents."
+    },
+    {
+      "title": "Nepal\u2019s floods expose issues with climate-disaster funding \u2014 firmer policies are needed fast",
+      "url": "https://www.nature.com/articles/d41586-026-03016-z",
+      "source": "Nature Journal",
+      "date": "25 Sep 2026",
+      "abstract": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03016-z The UN\u2019s climate loss and damage fund needs to consider how to make decisions about finance fairly and quickly, without disadvantaging low-resource nations."
+    },
+    {
+      "title": "Exclusive: Sham scientific societies are misleading star researchers",
+      "url": "https://www.nature.com/articles/d41586-026-02980-w",
+      "source": "Nature Journal",
+      "date": "25 Sep 2026",
+      "abstract": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-02980-w A Nature investigation reveals a network of organizations that have been building their ranks through deceptive practices."
+    },
+    {
+      "title": "OpenAI's research chief talks of \u2018cultural reset\u2019 after wild few weeks",
+      "url": "https://www.nature.com/articles/d41586-026-03028-9",
+      "source": "Nature Journal",
+      "date": "25 Sep 2026",
+      "abstract": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03028-9 Mark Chen discusses how the Hugging Face cybersecurity incident prompted a pivot to safety \u2014 and giving AI models a sense of 'taste'."
     },
     {
       "title": "AI bots are flooding researchers with requests for money and time",
@@ -63,69 +126,6 @@
       "source": "Nature Physics",
       "date": "25 Sep 2026",
       "abstract": "Abstract unavailable. Open the full article for details."
-    },
-    {
-      "title": "Higher-dimensional black holes hide an exact symmetry in their ringing, and string-inspired gravity breaks it",
-      "url": "https://phys.org/news/2026-09-higher-dimensional-black-holes-exact.html",
-      "source": "Phys.org",
-      "date": "24 Sep 2026",
-      "abstract": "Strike a bell, and it rings with a pitch and a fading that tell you about the bell: its size, its shape, the metal it is made of. Black holes ring too. When two merge, the newborn black hole shivers and sheds gravitational waves in a brief, dying chord, and since 2015, gravitational-wave detectors h..."
-    },
-    {
-      "title": "Physicists define new material blueprint for next-generation microchip encryption",
-      "url": "https://phys.org/news/2026-09-physicists-material-blueprint-generation-microchip.html",
-      "source": "Phys.org",
-      "date": "24 Sep 2026",
-      "abstract": "Behind every secure online transaction or encrypted message lies a string of completely unpredictable numbers. A team of physicists has now proposed a theoretical way around a long-standing roadblock, opening the door to next-generation security chips that protect everyday data without slowing perfo..."
-    },
-    {
-      "title": "New catalogs map the quantum possibilities of atomically thin materials",
-      "url": "https://phys.org/news/2026-09-quantum-possibilities-atomically-thin-materials.html",
-      "source": "Phys.org",
-      "date": "24 Sep 2026",
-      "abstract": "Twistronics has become a new alchemy of materials. By choosing atomically thin layers, stacking them and changing their relative angle, researchers can create electronic behavior absent from the original ingredients. Twisted graphene and transition metal dichalcogenides have already yielded supercon..."
-    },
-    {
-      "title": "Whirlpool in a water tank reveals long-predicted wave turbulence",
-      "url": "https://phys.org/news/2026-09-whirlpool-tank-reveals-turbulence.html",
-      "source": "Phys.org",
-      "date": "24 Sep 2026",
-      "abstract": "When water drains from a bathtub, a whirlpool often forms above the drain, and its narrow core can start to wobble and twist. For almost 150 years, physicists have predicted that these wobbles can become turbulent, passing energy from large ripples down to ever smaller ones. Until now, however, this..."
-    },
-    {
-      "title": "Bumblebees don\u2019t mind a little plastic in their honeypots",
-      "url": "https://www.nature.com/articles/d41586-026-02988-2",
-      "source": "Nature Journal",
-      "date": "24 Sep 2026",
-      "abstract": "Nature, Published online: 24 September 2026; doi:10.1038/d41586-026-02988-2 Insects show off their adaptability by incorporating unfamiliar construction materials to build honey-storage vessels."
-    },
-    {
-      "title": "Youthful fans of YouTube sports videos stick to the sofa",
-      "url": "https://www.nature.com/articles/d41586-026-02989-1",
-      "source": "Nature Journal",
-      "date": "24 Sep 2026",
-      "abstract": "Nature, Published online: 24 September 2026; doi:10.1038/d41586-026-02989-1 University students who are highly motivated to watch sports online do not report higher participation in exercise."
-    },
-    {
-      "title": "GLP-1 drugs fail to help some people lose weight \u2014 scientists are on a quest for answers",
-      "url": "https://www.nature.com/articles/d41586-026-03020-3",
-      "source": "Nature Journal",
-      "date": "24 Sep 2026",
-      "abstract": "Nature, Published online: 24 September 2026; doi:10.1038/d41586-026-03020-3 Understanding why some people see no benefits from potent anti-obesity medications could lead to new therapies and personalized weight-loss regimens."
-    },
-    {
-      "title": "AI system helps lab devices \u2018talk\u2019 with each other \u2014 streamlining research",
-      "url": "https://www.nature.com/articles/d41586-026-02990-8",
-      "source": "Nature Journal",
-      "date": "24 Sep 2026",
-      "abstract": "Nature, Published online: 24 September 2026; doi:10.1038/d41586-026-02990-8 Platform allows disparate machines to communicate and to be controlled by an artificial-intelligence agent."
-    },
-    {
-      "title": "AI agent hacks government website for first time: why this breach matters",
-      "url": "https://www.nature.com/articles/d41586-026-03024-z",
-      "source": "Nature Journal",
-      "date": "24 Sep 2026",
-      "abstract": "Nature, Published online: 24 September 2026; doi:10.1038/d41586-026-03024-z An OpenAI agent accessed secure data on an Australian health-care website, but the incident wasn\u2019t reported for months."
     }
   ]
 }
