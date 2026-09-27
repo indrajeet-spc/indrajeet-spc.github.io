@@ -41,8 +41,15 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-09-26T06:22:52.662684+00:00",
+  "updated_at": "2026-09-27T06:51:05.047273+00:00",
   "items": [
+    {
+      "title": "Quantum computer simulates matter \u201cpopping into existence\u201d",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260925005416.htm",
+      "source": "ScienceDaily",
+      "date": "26 Sep 2026",
+      "abstract": "Scientists recreated a particle-forming process linked to the extreme physics of the early universe using a 13-ion quantum simulator. The breakthrough suggests quantum computers could eventually help researchers investigate how matter formed and evolved after the Big Bang."
+    },
     {
       "title": "Rare quantum state reveals particles with quarter-electron charge",
       "url": "https://phys.org/news/2026-09-rare-quantum-state-reveals-particles.html",
@@ -119,13 +126,6 @@
       "source": "Nature Journal",
       "date": "25 Sep 2026",
       "abstract": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03005-2 Many scientists use artificial intelligence in their work, but agents are increasingly soliciting researchers for collaborations."
-    },
-    {
-      "title": "Electrical signal transmission across electrolyte junctions separated by atomically-thin graphene",
-      "url": "https://www.nature.com/articles/s41467-026-78067-x",
-      "source": "Nature Physics",
-      "date": "25 Sep 2026",
-      "abstract": "Abstract unavailable. Open the full article for details."
     }
   ]
 }
