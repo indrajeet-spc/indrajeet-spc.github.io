@@ -41,91 +41,91 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-09-28T07:17:29.096440+00:00",
+  "updated_at": "2026-09-29T07:14:25.826644+00:00",
   "items": [
+    {
+      "title": "Predicting moir\u00e9 physics from local proximity effects in van der Waals heterostructures",
+      "url": "https://www.nature.com/articles/s41524-026-02346-w",
+      "source": "Nature Physics",
+      "date": "29 Sep 2026",
+      "abstract": "Abstract unavailable. Open the full article for details."
+    },
+    {
+      "title": "How to balance quantum batteries' high power with stable energy delivery",
+      "url": "https://phys.org/news/2026-09-quantum-batteries-high-power-stable.html",
+      "source": "Phys.org",
+      "date": "28 Sep 2026",
+      "abstract": "Quantum batteries are an emerging area of research, with progress coming from theoretical studies and proof-of-principle experiments in small quantum systems. Unlike conventional chemical batteries used in everyday life, they use quantum systems to store and transfer energy. Researchers are explorin..."
+    },
+    {
+      "title": "New model explains why glass becomes less transparent to terahertz light",
+      "url": "https://phys.org/news/2026-09-glass-transparent-terahertz.html",
+      "source": "Phys.org",
+      "date": "28 Sep 2026",
+      "abstract": "Electromagnetic waves in the gigahertz (GHz) range, such as those used in mobile communications, can readily pass through many types of glass. However, transmission decreases significantly at terahertz frequencies above a characteristic threshold."
+    },
+    {
+      "title": "DarkSide detector puts 'nuclear' dark matter to the test",
+      "url": "https://phys.org/news/2026-09-darkside-detector-nuclear-dark.html",
+      "source": "Phys.org",
+      "date": "28 Sep 2026",
+      "abstract": "Researchers at the DarkSide collaboration have unveiled results from a seven-year experiment that tested whether dark matter particles could exist as composites of smaller, elementary particles. While the search turned up no direct evidence of this \"ultraheavy nuclear\" dark matter, results from the..."
+    },
+    {
+      "title": "Waves find order in the chaos of an oddly shaped cavity",
+      "url": "https://phys.org/news/2026-09-chaos-oddly-cavity.html",
+      "source": "Phys.org",
+      "date": "28 Sep 2026",
+      "abstract": "When light or sound bounces around inside an oddly shaped room, its reflections can quickly become difficult to predict. But new research led by scientists at the Advanced Science Research Center at the CUNY Graduate Center (CUNY ASRC) shows that waves can behave very differently when they travel th..."
+    },
+    {
+      "title": "China now leads the world in trials for next-gen CAR-T therapies",
+      "url": "https://www.nature.com/articles/d41586-026-03004-3",
+      "source": "Nature Journal",
+      "date": "28 Sep 2026",
+      "abstract": "Nature, Published online: 28 September 2026; doi:10.1038/d41586-026-03004-3 China tests these therapies faster than the rest of the world but regulatory changes could slow them down."
+    },
+    {
+      "title": "Stephen Hawking biography explores an \u2018exceptionally clear, uncluttered mind\u2019",
+      "url": "https://www.nature.com/articles/d41586-026-02959-7",
+      "source": "Nature Journal",
+      "date": "28 Sep 2026",
+      "abstract": "Nature, Published online: 28 September 2026; doi:10.1038/d41586-026-02959-7 An elegant account of the physicist\u2019s unusual life story highlights the relationships that inspired him."
+    },
+    {
+      "title": "Bigger than CRISPR? A guide to the latest genome editors",
+      "url": "https://www.nature.com/articles/d41586-026-02964-w",
+      "source": "Nature Journal",
+      "date": "28 Sep 2026",
+      "abstract": "Nature, Published online: 28 September 2026; doi:10.1038/d41586-026-02964-w Gene-editing techniques could soon allow researchers to replace entire genes and engineer complex cellular circuits \u2014 if the systems can be delivered safely into cells."
+    },
+    {
+      "title": "Vaping in childhood has bigger health risks than we\u2019d thought",
+      "url": "https://www.nature.com/articles/d41586-026-02962-y",
+      "source": "Nature Journal",
+      "date": "28 Sep 2026",
+      "abstract": "Nature, Published online: 28 September 2026; doi:10.1038/d41586-026-02962-y Use of e-cigarettes makes it more likely that young people will experience mental-health disorders and take up smoking. Governments must act."
+    },
+    {
+      "title": "Old hearts age backwards: transplanted organs adjust to host's biological age",
+      "url": "https://www.nature.com/articles/d41586-026-03043-w",
+      "source": "Nature Journal",
+      "date": "28 Sep 2026",
+      "abstract": "Nature, Published online: 28 September 2026; doi:10.1038/d41586-026-03043-w Tracking the biological age of grafted organs suggests that donor pools could be expanded to boost organ availability."
+    },
+    {
+      "title": "Paid to peer review: firms are paying researchers to assess manuscripts for journals",
+      "url": "https://www.nature.com/articles/d41586-026-02277-y",
+      "source": "Nature Journal",
+      "date": "28 Sep 2026",
+      "abstract": "Nature, Published online: 28 September 2026; doi:10.1038/d41586-026-02277-y Freelance peer-review jobs through third-party companies raise practical and ethical questions."
+    },
     {
       "title": "Quantum computer simulates matter \u201cpopping into existence\u201d",
       "url": "https://www.sciencedaily.com/releases/2026/09/260925005416.htm",
       "source": "ScienceDaily",
       "date": "26 Sep 2026",
       "abstract": "Scientists recreated a particle-forming process linked to the extreme physics of the early universe using a 13-ion quantum simulator. The breakthrough suggests quantum computers could eventually help researchers investigate how matter formed and evolved after the Big Bang."
-    },
-    {
-      "title": "Rare quantum state reveals particles with quarter-electron charge",
-      "url": "https://phys.org/news/2026-09-rare-quantum-state-reveals-particles.html",
-      "source": "Phys.org",
-      "date": "25 Sep 2026",
-      "abstract": "An electron's charge is normally fixed, like a coin you can't break into pieces. But if electrons are cooled close to absolute zero and trapped in a two-dimensional layer under a powerful magnetic field, they organize into a collective state of \"quasiparticles\" that seem to hold only a fraction of a..."
-    },
-    {
-      "title": "Random access quantum memory lets one processor select among seven storage cells",
-      "url": "https://phys.org/news/2026-09-random-access-quantum-memory-processor.html",
-      "source": "Phys.org",
-      "date": "25 Sep 2026",
-      "abstract": "Classical computers can temporarily store the information required to perform specific tasks in a short-term memory component known as RAM (random access memory). This component allows computer processors to retrieve information from a chosen location without searching through all stored data."
-    },
-    {
-      "title": "Cosmic lockdown: How the environment can isolate quantum fields",
-      "url": "https://phys.org/news/2026-09-cosmic-lockdown-environment-isolate-quantum.html",
-      "source": "Phys.org",
-      "date": "25 Sep 2026",
-      "abstract": "A simplified cosmological model suggests that decoherence can suppress quantum tunneling, effectively locking fields into the vacuum state they have reached."
-    },
-    {
-      "title": "Briefing Chat: Why scientists made papyrus scrolls, then burnt them",
-      "url": "https://www.nature.com/articles/d41586-026-03041-y",
-      "source": "Nature Journal",
-      "date": "25 Sep 2026",
-      "abstract": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03041-y Nature staff discuss a technique that could help researchers read charred Herculaneum scrolls \u2014 plus, a biodegradeable, edible battery."
-    },
-    {
-      "title": "Why science wouldn\u2019t exist without alchemy, curiosity and great writing: Books in brief",
-      "url": "https://www.nature.com/articles/d41586-026-03032-z",
-      "source": "Nature Journal",
-      "date": "25 Sep 2026",
-      "abstract": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03032-z Andrew Robinson reviews five of the best science picks."
-    },
-    {
-      "title": "Anthropic\u2019s AI biolab finds \u2018CRISPR-like\u2019 DNA in viruses. What\u2019s next?",
-      "url": "https://www.nature.com/articles/d41586-026-03039-6",
-      "source": "Nature Journal",
-      "date": "25 Sep 2026",
-      "abstract": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03039-6 The detection effort enlisted roughly 950 AI agents that spent more than 21 hours combing through DNA sequence databases."
-    },
-    {
-      "title": "Chemists struggle to ditch hazardous solvents \u2014 even after decades of \u2018green\u2019 efforts",
-      "url": "https://www.nature.com/articles/d41586-026-03023-0",
-      "source": "Nature Journal",
-      "date": "25 Sep 2026",
-      "abstract": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03023-0 Laboratories are still using dangerous and carbon-intensive liquids much more often than environmentally friendly ones, according to a 40-year survey of patents."
-    },
-    {
-      "title": "Nepal\u2019s floods expose issues with climate-disaster funding \u2014 firmer policies are needed fast",
-      "url": "https://www.nature.com/articles/d41586-026-03016-z",
-      "source": "Nature Journal",
-      "date": "25 Sep 2026",
-      "abstract": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03016-z The UN\u2019s climate loss and damage fund needs to consider how to make decisions about finance fairly and quickly, without disadvantaging low-resource nations."
-    },
-    {
-      "title": "Exclusive: Sham scientific societies are misleading star researchers",
-      "url": "https://www.nature.com/articles/d41586-026-02980-w",
-      "source": "Nature Journal",
-      "date": "25 Sep 2026",
-      "abstract": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-02980-w A Nature investigation reveals a network of organizations that have been building their ranks through deceptive practices."
-    },
-    {
-      "title": "OpenAI's research chief talks of \u2018cultural reset\u2019 after wild few weeks",
-      "url": "https://www.nature.com/articles/d41586-026-03028-9",
-      "source": "Nature Journal",
-      "date": "25 Sep 2026",
-      "abstract": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03028-9 Mark Chen discusses how the Hugging Face cybersecurity incident prompted a pivot to safety \u2014 and giving AI models a sense of 'taste'."
-    },
-    {
-      "title": "AI bots are flooding researchers with requests for money and time",
-      "url": "https://www.nature.com/articles/d41586-026-03005-2",
-      "source": "Nature Journal",
-      "date": "25 Sep 2026",
-      "abstract": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03005-2 Many scientists use artificial intelligence in their work, but agents are increasingly soliciting researchers for collaborations."
     }
   ]
 }
