@@ -41,8 +41,36 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-10-03T06:49:24.721071+00:00",
+  "updated_at": "2026-10-04T07:10:07.346951+00:00",
   "items": [
+    {
+      "title": "Tuning structural, optical, charge storage, and electronic transport properties of graphene oxide through functional group engineering",
+      "url": "https://www.nature.com/articles/s41598-026-71031-1",
+      "source": "Nature Physics",
+      "date": "04 Oct 2026",
+      "abstract": "Abstract unavailable. Open the full article for details."
+    },
+    {
+      "title": "Reading hidden topology in light, even when energy leaks away",
+      "url": "https://phys.org/news/2026-10-hidden-topology-energy-leaks.html",
+      "source": "Phys.org",
+      "date": "03 Oct 2026",
+      "abstract": "When I explain topology to students, I start with a knot in a rope. You can stretch it, twist it or shake it, but the knot stays until you cut the rope. Physicists have found that some materials and devices carry similar \"knots\" in how waves move through them. These are topological properties, label..."
+    },
+    {
+      "title": "Visible light does not speed up water evaporation, rigorous experiments suggest",
+      "url": "https://phys.org/news/2026-10-visible-evaporation-rigorous.html",
+      "source": "Phys.org",
+      "date": "03 Oct 2026",
+      "abstract": "In recent experiments involving hydrogels and water droplets, researchers have proposed that exposure to visible light could make water evaporate faster without heating it. However, direct evidence that light acts on water itself has proven elusive."
+    },
+    {
+      "title": "Fundamental dynamical units for physics-informed structural inference from perturbation time-series in networked systems",
+      "url": "https://www.nature.com/articles/s41598-026-73479-7",
+      "source": "Nature Physics",
+      "date": "03 Oct 2026",
+      "abstract": "Abstract unavailable. Open the full article for details."
+    },
     {
       "title": "Q&A: How will quantum computers change society?",
       "url": "https://phys.org/news/2026-10-qa-quantum-society.html",
@@ -51,7 +79,7 @@
       "abstract": "Once called a \"pipe dream,\" quantum computers are now approaching practical use. Companies and research institutes around the world are in fierce competition to develop this technology, which has the potential to rapidly perform some calculations that are extremely difficult even for conventional su..."
     },
     {
-      "title": "Physicists who uncovered the first particle accelerator were honored with a Nobel Prize 75 years ago",
+      "title": "Particle accelerator pioneers won a Nobel Prize 75 years ago",
       "url": "https://phys.org/news/2026-10-physicists-uncovered-particle-honored-nobel.html",
       "source": "Phys.org",
       "date": "02 Oct 2026",
@@ -63,6 +91,13 @@
       "source": "Phys.org",
       "date": "02 Oct 2026",
       "abstract": "Imagine a proton catching a wave and surfing it to gain speed. While the imagery may seem wild, the premise of laser-driven ion acceleration has promise as an alternative to conventional accelerators. However, the ultrathin targets used to drive this increase in ion energy are vulnerable to the weak..."
+    },
+    {
+      "title": "Electrons slow to a crawl in a strange new quantum state",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260929053548.htm",
+      "source": "ScienceDaily",
+      "date": "02 Oct 2026",
+      "abstract": "Scientists at the University of Chicago have uncovered a surprising quantum state in the layered magnetic material Fe5GeTe2, where huge numbers of electrons move together unusually slowly while remaining quantum coherent. The behavior contradicts existing theoretical predictions about how the materi..."
     },
     {
       "title": "Location, location, location: how to edit genes only in the cells you want",
@@ -91,41 +126,6 @@
       "source": "Nature Journal",
       "date": "02 Oct 2026",
       "abstract": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03126-8 A fossil from a previously undiscovered species with feathery limbs, unearthed in China, adds to evidence that dinosaurs and birds evolved flight more than once."
-    },
-    {
-      "title": "Nature has rights \u2014 it is time the world recognized them",
-      "url": "https://www.nature.com/articles/d41586-026-03145-5",
-      "source": "Nature Journal",
-      "date": "02 Oct 2026",
-      "abstract": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03145-5 Existing legal frameworks have not halted planetary crises. Recognizing the rights of nature could offer a different path."
-    },
-    {
-      "title": "Can you name the women who have won a science Nobel prize?",
-      "url": "https://www.nature.com/articles/d41586-026-03133-9",
-      "source": "Nature Journal",
-      "date": "02 Oct 2026",
-      "abstract": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03133-9 Take Nature\u2019s quiz on female Nobel laureates in physics, chemistry and physiology or medicine."
-    },
-    {
-      "title": "Von Neumann\u2019s party",
-      "url": "https://www.nature.com/articles/d41586-026-02976-6",
-      "source": "Nature Journal",
-      "date": "02 Oct 2026",
-      "abstract": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-02976-6 A tricky question."
-    },
-    {
-      "title": "Prozac use for childhood depression skewed by single flawed medical trial",
-      "url": "https://www.nature.com/articles/d41586-026-02769-x",
-      "source": "Nature Journal",
-      "date": "02 Oct 2026",
-      "abstract": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-02769-x One small study in Iran swayed meta-analyses in favour of antidepressant use in children, researchers say."
-    },
-    {
-      "title": "Can we have class outside? Seven tips to breeze through outdoor lectures",
-      "url": "https://www.nature.com/articles/d41586-026-02564-8",
-      "source": "Nature Journal",
-      "date": "02 Oct 2026",
-      "abstract": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-02564-8 Advocates say that delivering lectures and presentations al fresco can energize students and provide them with a complete experience."
     }
   ]
 }
