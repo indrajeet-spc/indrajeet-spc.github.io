@@ -41,8 +41,15 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-10-04T07:10:07.346951+00:00",
+  "updated_at": "2026-10-05T07:24:24.881482+00:00",
   "items": [
+    {
+      "title": "Multiphysics computational study of coupled analysis of thermal energy and mass transfer in a non-Newtonian fluid under chemical reaction",
+      "url": "https://www.nature.com/articles/s41598-026-73264-6",
+      "source": "Nature Physics",
+      "date": "04 Oct 2026",
+      "abstract": "Abstract unavailable. Open the full article for details."
+    },
     {
       "title": "Tuning structural, optical, charge storage, and electronic transport properties of graphene oxide through functional group engineering",
       "url": "https://www.nature.com/articles/s41598-026-71031-1",
@@ -119,13 +126,6 @@
       "source": "Nature Journal",
       "date": "02 Oct 2026",
       "abstract": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03058-3 Psychologist Mirta Galesic discusses an increase in hateful comments online, and the science-backed way to react."
-    },
-    {
-      "title": "Stunning fossil shows dinosaurs\u2019 distinctive path to flight",
-      "url": "https://www.nature.com/articles/d41586-026-03126-8",
-      "source": "Nature Journal",
-      "date": "02 Oct 2026",
-      "abstract": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03126-8 A fossil from a previously undiscovered species with feathery limbs, unearthed in China, adds to evidence that dinosaurs and birds evolved flight more than once."
     }
   ]
 }
