@@ -41,18 +41,74 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-10-05T07:24:24.881482+00:00",
+  "updated_at": "2026-10-06T07:50:51.919729+00:00",
   "items": [
+    {
+      "title": "Suspected Second-generation Planet Solves NASA Hubble Cold Case",
+      "url": "https://science.nasa.gov/missions/hubble/suspected-second-generation-planet-solves-nasa-hubble-cold-case/",
+      "source": "NASA News",
+      "date": "05 Oct 2026",
+      "abstract": "New analysis of archival Hubble data points to the possibility of \u201cdead\u201d white dwarf stars hosting second-generation planetary systems."
+    },
+    {
+      "title": "Quantum systems never quite forget where they came from",
+      "url": "https://phys.org/news/2026-10-quantum.html",
+      "source": "Phys.org",
+      "date": "05 Oct 2026",
+      "abstract": "Even the most chaotic quantum systems keep a permanent mark of their own past\u2014a \"quantum birthmark\"\u2014that never fades. Researchers from Tampere University, Harvard University and TU Dresden discovered the feature in their recent study. Their findings shed new light on the elusive relationship between..."
+    },
+    {
+      "title": "A novel path to fusion ignition: Heat first, then add fuel",
+      "url": "https://phys.org/news/2026-10-path-fusion-ignition-fuel.html",
+      "source": "Phys.org",
+      "date": "05 Oct 2026",
+      "abstract": "For more than 70 years, fusion energy researchers have used a particular equation to judge whether a plasma would stay hot and dense enough\u2014for long enough\u2014to reach a point where it could sustain itself without any more external power added. While that equation marks the finish line, also known as i..."
+    },
+    {
+      "title": "Scientists uncover recurrent patterns within chaotic quantum behavior",
+      "url": "https://phys.org/news/2026-09-scientists-uncover-recurrent-patterns-chaotic.html",
+      "source": "Phys.org",
+      "date": "05 Oct 2026",
+      "abstract": "Many complex quantum systems rapidly lose the recognizable patterns of their initial states as their components interact. To describe patterns of regular and chaotic motion in specific systems, physicists can construct a mathematical map called an effective phase space."
+    },
+    {
+      "title": "\u2018What took them so long?\u2019 This year\u2019s medicine Nobel winner is overdue",
+      "url": "https://www.nature.com/articles/d41586-026-03094-z",
+      "source": "Nature Journal",
+      "date": "05 Oct 2026",
+      "abstract": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03094-z Nature\u2019s senior biology reporter Ewen Callaway reflects on today\u2019s prize for optogenetics \u2014 which scientists have anticipated for years."
+    },
+    {
+      "title": "The top cancer success stories of the past 50 years, by the numbers",
+      "url": "https://www.nature.com/articles/d41586-026-03157-1",
+      "source": "Nature Journal",
+      "date": "05 Oct 2026",
+      "abstract": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03157-1 Outcomes have improved drastically in the United States for some forms of the disease, but those for others continue to lag."
+    },
+    {
+      "title": "Medicine Nobel awarded for brain \u2018switch\u2019 that controls neurons with light",
+      "url": "https://www.nature.com/articles/d41586-026-03091-2",
+      "source": "Nature Journal",
+      "date": "05 Oct 2026",
+      "abstract": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03091-2 Karl Deisseroth, Peter Hegemann and Georg Nagel win the 2026 Nobel Prize in Physiology or Medicine for their work on optogenetics, which has revolutionized neuroscience."
+    },
+    {
+      "title": "How big tech is building a military\u2013industrial complex in the age of AI",
+      "url": "https://www.nature.com/articles/d41586-026-03134-8",
+      "source": "Nature Journal",
+      "date": "05 Oct 2026",
+      "abstract": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03134-8 Two books explore how warfare is being reshaped, with influence shifting from states to tech giants."
+    },
+    {
+      "title": "AI biohazard hype must not divert attention from the real risks we face now",
+      "url": "https://www.nature.com/articles/d41586-026-03135-7",
+      "source": "Nature Journal",
+      "date": "05 Oct 2026",
+      "abstract": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03135-7 Twenty-five years after the US anthrax attacks, fears around AI are distracting people from seeing what\u2019s needed to stay safe: a strong, regulated life-sciences sector."
+    },
     {
       "title": "Multiphysics computational study of coupled analysis of thermal energy and mass transfer in a non-Newtonian fluid under chemical reaction",
       "url": "https://www.nature.com/articles/s41598-026-73264-6",
-      "source": "Nature Physics",
-      "date": "04 Oct 2026",
-      "abstract": "Abstract unavailable. Open the full article for details."
-    },
-    {
-      "title": "Tuning structural, optical, charge storage, and electronic transport properties of graphene oxide through functional group engineering",
-      "url": "https://www.nature.com/articles/s41598-026-71031-1",
       "source": "Nature Physics",
       "date": "04 Oct 2026",
       "abstract": "Abstract unavailable. Open the full article for details."
@@ -70,62 +126,6 @@
       "source": "Phys.org",
       "date": "03 Oct 2026",
       "abstract": "In recent experiments involving hydrogels and water droplets, researchers have proposed that exposure to visible light could make water evaporate faster without heating it. However, direct evidence that light acts on water itself has proven elusive."
-    },
-    {
-      "title": "Fundamental dynamical units for physics-informed structural inference from perturbation time-series in networked systems",
-      "url": "https://www.nature.com/articles/s41598-026-73479-7",
-      "source": "Nature Physics",
-      "date": "03 Oct 2026",
-      "abstract": "Abstract unavailable. Open the full article for details."
-    },
-    {
-      "title": "Q&A: How will quantum computers change society?",
-      "url": "https://phys.org/news/2026-10-qa-quantum-society.html",
-      "source": "Phys.org",
-      "date": "02 Oct 2026",
-      "abstract": "Once called a \"pipe dream,\" quantum computers are now approaching practical use. Companies and research institutes around the world are in fierce competition to develop this technology, which has the potential to rapidly perform some calculations that are extremely difficult even for conventional su..."
-    },
-    {
-      "title": "Particle accelerator pioneers won a Nobel Prize 75 years ago",
-      "url": "https://phys.org/news/2026-10-physicists-uncovered-particle-honored-nobel.html",
-      "source": "Phys.org",
-      "date": "02 Oct 2026",
-      "abstract": "While scientists are known for their dedication to their research, crawling on the floor to avoid electrocution for the sake of a measurement seems a little excessive. But this is what British physicist John Cockcroft and Irish physicist Ernest T.S. Walton had to do in the early 1930s while studying..."
-    },
-    {
-      "title": "Protons ride moving waves to reach record energy with long-pulse lasers",
-      "url": "https://phys.org/news/2026-10-protons-energy-pulse-lasers.html",
-      "source": "Phys.org",
-      "date": "02 Oct 2026",
-      "abstract": "Imagine a proton catching a wave and surfing it to gain speed. While the imagery may seem wild, the premise of laser-driven ion acceleration has promise as an alternative to conventional accelerators. However, the ultrathin targets used to drive this increase in ion energy are vulnerable to the weak..."
-    },
-    {
-      "title": "Electrons slow to a crawl in a strange new quantum state",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260929053548.htm",
-      "source": "ScienceDaily",
-      "date": "02 Oct 2026",
-      "abstract": "Scientists at the University of Chicago have uncovered a surprising quantum state in the layered magnetic material Fe5GeTe2, where huge numbers of electrons move together unusually slowly while remaining quantum coherent. The behavior contradicts existing theoretical predictions about how the materi..."
-    },
-    {
-      "title": "Location, location, location: how to edit genes only in the cells you want",
-      "url": "https://www.nature.com/articles/d41586-026-03037-8",
-      "source": "Nature Journal",
-      "date": "02 Oct 2026",
-      "abstract": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03037-8 Gene-editing CRISPR enzymes controlled by light and sound target tissues of interest."
-    },
-    {
-      "title": "\u2018Learning about physics changed my life\u2019: author Hernan Diaz on his new novel Ply",
-      "url": "https://www.nature.com/articles/d41586-026-03057-4",
-      "source": "Nature Journal",
-      "date": "02 Oct 2026",
-      "abstract": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03057-4 The Pulitzer-Prize-winning author joins us to talk about his time visiting CERN and communicating quantum physics in fiction."
-    },
-    {
-      "title": "How to respond to hate speech without fuelling it further",
-      "url": "https://www.nature.com/articles/d41586-026-03058-3",
-      "source": "Nature Journal",
-      "date": "02 Oct 2026",
-      "abstract": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03058-3 Psychologist Mirta Galesic discusses an increase in hateful comments online, and the science-backed way to react."
     }
   ]
 }
