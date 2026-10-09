@@ -41,91 +41,91 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-10-08T07:46:39.573848+00:00",
+  "updated_at": "2026-10-09T07:43:12.992013+00:00",
   "items": [
     {
-      "title": "Woody \u2018blankets\u2019 deployed on Arctic permafrost to reduce carbon emissions",
+      "title": "NASA\u2019s SPHEREx Telescope Sees Menagerie of Brown Dwarfs",
+      "url": "https://www.nasa.gov/missions/spherex/nasas-spherex-telescope-sees-menagerie-of-brown-dwarfs/",
+      "source": "NASA News",
+      "date": "08 Oct 2026",
+      "abstract": "NASA\u2019s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) space telescope is shedding light on brown dwarfs, celestial objects that blur the line between stars and exoplanets. New findings published in The Astrophysical Journal show that these dark..."
+    },
+    {
+      "title": "Webb Measures Distance to Farthest Fast Radio Burst, Suggesting Origin",
+      "url": "https://science.nasa.gov/missions/webb/webb-measures-distance-to-farthest-fast-radio-burst-suggesting-origin/",
+      "source": "NASA News",
+      "date": "08 Oct 2026",
+      "abstract": "First discovered in 2007, fast radio bursts are enigmatic, millisecond-long flashes of radio emission from the distant universe. Their origin remains uncertain, particularly since most are seen once and never again. Astronomers using NASA\u2019s James Webb Space Telescope have pinpointed the host galaxy..."
+    },
+    {
+      "title": "Lensless imaging method enables long-term monitoring of living cells without staining",
+      "url": "https://phys.org/news/2026-10-lensless-imaging-method-enables-term.html",
+      "source": "Phys.org",
+      "date": "08 Oct 2026",
+      "abstract": "In a study led by Tampere University, researchers have developed a new lensless imaging method that produces precise quantitative data on living cells from a single image. The compact system can be placed inside a standard cell-culture incubator, allowing living cells to be monitored continuously fo..."
+    },
+    {
+      "title": "Nonchaotic model reveals how predictability can emerge from seemingly unpredictable dynamics",
+      "url": "https://phys.org/news/2026-10-nonchaotic-reveals-emerge-seemingly-unpredictable.html",
+      "source": "Phys.org",
+      "date": "08 Oct 2026",
+      "abstract": "Predicting a system's final outcome from its initial state is the ultimate goal for many physicists. In certain complex systems, however, this goal is thwarted by chaos, where even the subtlest tweaks to the initial state can lead to completely different fates, making the system almost impossible to..."
+    },
+    {
+      "title": "How researchers tell different quantum excitations apart in individual molecules",
+      "url": "https://phys.org/news/2026-10-quantum-individual-molecules.html",
+      "source": "Phys.org",
+      "date": "08 Oct 2026",
+      "abstract": "Molecules can be placed in a wide variety of quantum states. How can these states be distinguished in measurements when theoretical models are unreliable? Which excitation process lies behind which measurement signal?"
+    },
+    {
+      "title": "What pig hearts and a little noise can teach us about designing better soft valves",
+      "url": "https://phys.org/news/2026-10-pig-hearts-noise-soft-valves.html",
+      "source": "Phys.org",
+      "date": "08 Oct 2026",
+      "abstract": "Some of the best engineers and inventors are copycats. They look at how the natural world solves complex problems and use those mechanisms as the basis for innovations. But Mother Nature doesn't always give up her secrets easily."
+    },
+    {
+      "title": "Author Correction: Histone readers MLLT1 and MLLT3 concentrate AID to confer locus specificity",
+      "url": "https://www.nature.com/articles/s41586-026-11266-0",
+      "source": "Nature Journal",
+      "date": "08 Oct 2026",
+      "abstract": "Nature, Published online: 08 October 2026; doi:10.1038/s41586-026-11266-0 Author Correction: Histone readers MLLT1 and MLLT3 concentrate AID to confer locus specificity"
+    },
+    {
+      "title": "Editorial Expression of Concern: Maternal gut bacteria promote neurodevelopmental abnormalities in mouse offspring",
+      "url": "https://www.nature.com/articles/s41586-026-11070-w",
+      "source": "Nature Journal",
+      "date": "08 Oct 2026",
+      "abstract": "Nature, Published online: 08 October 2026; doi:10.1038/s41586-026-11070-w Editorial Expression of Concern: Maternal gut bacteria promote neurodevelopmental abnormalities in mouse offspring"
+    },
+    {
+      "title": "Women are talking about menopause \u2014 health systems must listen",
+      "url": "https://www.nature.com/articles/d41586-026-03218-5",
+      "source": "Nature Journal",
+      "date": "08 Oct 2026",
+      "abstract": "Nature, Published online: 08 October 2026; doi:10.1038/d41586-026-03218-5 In the Arab world, lack of training, research and discussion about menopause is hampering care. Three changes can help."
+    },
+    {
+      "title": "US proposes $100,000 charge for international students to do post-graduate work",
+      "url": "https://www.nature.com/articles/d41586-026-02921-7",
+      "source": "Nature Journal",
+      "date": "08 Oct 2026",
+      "abstract": "Nature, Published online: 08 October 2026; doi:10.1038/d41586-026-02921-7 Proposed rule would choke off a crucial STEM talent pipeline, policy specialists say"
+    },
+    {
+      "title": "How to build a mouse: embryo development captured in stunning detail",
+      "url": "https://www.nature.com/articles/d41586-026-03193-x",
+      "source": "Nature Journal",
+      "date": "08 Oct 2026",
+      "abstract": "Nature, Published online: 08 October 2026; doi:10.1038/d41586-026-03193-x Gene-editing technologies enabled researchers to trace the cell-by-cell development of a single fertilised mouse egg to a late-stage embryo."
+    },
+    {
+      "title": "Woody \u2018blankets\u2019 are being deployed on Arctic permafrost to reduce carbon emissions",
       "url": "https://www.nature.com/articles/d41586-026-03045-8",
       "source": "Nature Journal",
       "date": "08 Oct 2026",
       "abstract": "Nature, Published online: 08 October 2026; doi:10.1038/d41586-026-03045-8 A start-up company is testing whether stabilizing areas of rapidly eroding permafrost can prevent greenhouse-gas emissions."
-    },
-    {
-      "title": "Nobel physics winner's pride at pioneering AI role",
-      "url": "https://phys.org/news/2026-10-nobel-physics-winner-pride-ai.html",
-      "source": "Phys.org",
-      "date": "07 Oct 2026",
-      "abstract": "Francis Halzen, winner of the Nobel Prize in physics, spoke with pride on Wednesday about his early promotion of artificial intelligence in his research on neutrinos."
-    },
-    {
-      "title": "Ultrashort laser pulses let new microscope map electron interactions across thin materials",
-      "url": "https://phys.org/news/2026-10-ultrashort-laser-pulses-microscope-electron.html",
-      "source": "Phys.org",
-      "date": "07 Oct 2026",
-      "abstract": "A new type of advanced microscope (wide-field coherent multidimensional microscopy) has been developed. It uses a carefully designed sequence of ultrashort light pulses to study the behavior of high-tech materials, with potential practical applications in the study of innovative materials such as th..."
-    },
-    {
-      "title": "Acoustic experiments confirm topology can persist at gapless critical points",
-      "url": "https://phys.org/news/2026-10-acoustic-topology-persist-gapless-critical.html",
-      "source": "Phys.org",
-      "date": "07 Oct 2026",
-      "abstract": "Two studies on critical topology have recently been published in the journal Nature. These studies were led by the teams of Prof. Baile Zhang at Nanyang Technological University, Singapore, and Prof. Jianhua Jiang at the University of Science and Technology of China, respectively. Prof. Xue-Jia Yu f..."
-    },
-    {
-      "title": "First observation of quantum spins shifting a centimeter-scale object in the lab",
-      "url": "https://phys.org/news/2026-10-quantum-shifting-centimeter-scale-lab.html",
-      "source": "Phys.org",
-      "date": "07 Oct 2026",
-      "abstract": "Modern technological breakthroughs like lasers, MRI scanners, semiconductors and quantum computers rest on the study of quantum mechanics. However, the field has predominantly focused on (sub)atomic phenomena far removed from our human senses."
-    },
-    {
-      "title": "Levitating glass sphere becomes entangled with light at room temperature",
-      "url": "https://phys.org/news/2026-10-levitating-glass-sphere-entangled-room.html",
-      "source": "Phys.org",
-      "date": "07 Oct 2026",
-      "abstract": "Today, many physicists are actively exploring how light could be used to link objects through quantum entanglement. By fully harnessing the effect, they hope to unlock a wide array of applications, from secure communication networks spanning vast distances to sensitive new tests of the fundamental l..."
-    },
-    {
-      "title": "The first stand-alone nuclear clock is ticking in Vienna",
-      "url": "https://phys.org/news/2026-10-nuclear-clock-vienna.html",
-      "source": "Phys.org",
-      "date": "07 Oct 2026",
-      "abstract": "For decades, researchers around the world have been working toward this goal\u2014and now major advances are following in rapid succession. Vienna is now home to the world's first nuclear clock that stabilizes itself, as atomic clocks typically do. This system has been shown to remain stable for more tha..."
-    },
-    {
-      "title": "Cricket's day-night pink ball not always so pretty",
-      "url": "https://phys.org/news/2026-10-cricket-day-night-pink-ball.html",
-      "source": "Phys.org",
-      "date": "07 Oct 2026",
-      "abstract": "The pink ball was introduced for day-night matches over a decade ago, and in June this year the International Cricket Council (ICC) approved a trial of pink balls in Tests expected to be affected by bad light\u2014subject to prior agreement from both teams."
-    },
-    {
-      "title": "Quantum computing shortcut makes particle collisions easier to simulate",
-      "url": "https://phys.org/news/2026-10-quantum-shortcut-particle-collisions-easier.html",
-      "source": "Phys.org",
-      "date": "07 Oct 2026",
-      "abstract": "Collisions between particles at high energies can sometimes produce new particles and shed light on interactions between the fundamental constituents of matter. Simulating these collisions and their underlying processes could yield valuable insights into how matter behaves at extremely small scales."
-    },
-    {
-      "title": "Nobel winner Halzen says years of October 'misery' finally over",
-      "url": "https://phys.org/news/2026-10-nobel-winner-halzen-years-october.html",
-      "source": "Phys.org",
-      "date": "07 Oct 2026",
-      "abstract": "Physicist Francis Halzen has an impressively long list of academic accolades\u2014but every October, as the Nobel Prize rolled around, his failure to bag the biggest award of them all left him \"miserable,\" he admits."
-    },
-    {
-      "title": "A guide to Nature Index tables",
-      "url": "https://www.nature.com/articles/d41586-026-02999-z",
-      "source": "Nature Journal",
-      "date": "07 Oct 2026",
-      "abstract": "Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-02999-z Information on the methodology used in the ranking for the 2026 Nature Spotlight: Infectious diseases."
-    },
-    {
-      "title": "Nobel Prizes 2026: brain switches, \u2018ghost\u2019 particle hunter, and 'the chemistry of life'",
-      "url": "https://www.nature.com/articles/d41586-026-03208-7",
-      "source": "Nature Journal",
-      "date": "07 Oct 2026",
-      "abstract": "Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03208-7 Nature rounds up the Nobel Prizes for science \u2014 plus, hints of the ancestral human gut microbiome."
     }
   ]
 }
