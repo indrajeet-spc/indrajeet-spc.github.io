@@ -41,8 +41,29 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-10-10T07:29:22.896408+00:00",
+  "updated_at": "2026-10-11T07:34:24.825047+00:00",
   "items": [
+    {
+      "title": "A multiphysics computational framework for evaluating ATP response and thermal loading during skeletal muscle photobiomodulation",
+      "url": "https://www.nature.com/articles/s41598-026-66515-z",
+      "source": "Nature Physics",
+      "date": "11 Oct 2026",
+      "abstract": "Abstract unavailable. Open the full article for details."
+    },
+    {
+      "title": "Hybrid quantum computer observes foundational quantum effect in a new setting",
+      "url": "https://phys.org/news/2026-10-hybrid-quantum-foundational-effect.html",
+      "source": "Phys.org",
+      "date": "10 Oct 2026",
+      "abstract": "Physicists in the Department of Physics at the University of Oxford have used a hybrid quantum computer, made up of qubits and quantum oscillators, to observe the Aharonov\u2013Bohm effect in a quantum simulation. The effect is a quantum phenomenon in which a particle can acquire a measurable phase by tr..."
+    },
+    {
+      "title": "Scientists may have found a shortcut to fusion energy",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261008005242.htm",
+      "source": "ScienceDaily",
+      "date": "10 Oct 2026",
+      "abstract": "Princeton Plasma Physics Laboratory may have found a dramatically more efficient route to fusion energy by reversing the traditional approach: heating plasma first, then increasing its density. Their calculations could help future reactors reach self-sustaining fusion with far less energy while avoi..."
+    },
     {
       "title": "Three quantum-inspired cores leave opposite fingerprints on the ringing of black holes",
       "url": "https://phys.org/news/2026-10-quantum-cores-fingerprints-black-holes.html",
@@ -105,27 +126,6 @@
       "source": "Nature Journal",
       "date": "09 Oct 2026",
       "abstract": "Nature, Published online: 09 October 2026; doi:10.1038/s41586-026-11273-1 Publisher Correction: Sleep chart of biological ageing clocks in middle and late life"
-    },
-    {
-      "title": "Five movements from the edge of the singularity",
-      "url": "https://www.nature.com/articles/d41586-026-03116-w",
-      "source": "Nature Journal",
-      "date": "09 Oct 2026",
-      "abstract": "Nature, Published online: 09 October 2026; doi:10.1038/d41586-026-03116-w Change is in the air."
-    },
-    {
-      "title": "Flexible, stretchable and sustainable paper electronics enabled by ultraviolet laser-induced graphene",
-      "url": "https://www.nature.com/articles/s41528-026-00649-y",
-      "source": "Nature Physics",
-      "date": "09 Oct 2026",
-      "abstract": "Abstract unavailable. Open the full article for details."
-    },
-    {
-      "title": "Lensless imaging method enables long-term monitoring of living cells without staining",
-      "url": "https://phys.org/news/2026-10-lensless-imaging-method-enables-term.html",
-      "source": "Phys.org",
-      "date": "08 Oct 2026",
-      "abstract": "In a study led by Tampere University, researchers have developed a new lensless imaging method that produces precise quantitative data on living cells from a single image. The compact system can be placed inside a standard cell-culture incubator, allowing living cells to be monitored continuously fo..."
     }
   ]
 }
