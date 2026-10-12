@@ -41,8 +41,15 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-10-11T07:34:24.825047+00:00",
+  "updated_at": "2026-10-12T07:42:35.654038+00:00",
   "items": [
+    {
+      "title": "Quantum 'birthmarks' hold lasting traces of a system's past",
+      "url": "https://phys.org/news/2026-10-quantum-birthmarks.html",
+      "source": "Phys.org",
+      "date": "11 Oct 2026",
+      "abstract": "Some classical physical systems can explore many configurations over time until their long-term behavior no longer reveals their starting conditions. The sampling of available configurations according to the appropriate statistical distribution is a property called ergodicity."
+    },
     {
       "title": "A multiphysics computational framework for evaluating ATP response and thermal loading during skeletal muscle photobiomodulation",
       "url": "https://www.nature.com/articles/s41598-026-66515-z",
@@ -119,13 +126,6 @@
       "source": "Nature Journal",
       "date": "09 Oct 2026",
       "abstract": "Nature, Published online: 09 October 2026; doi:10.1038/d41586-026-02909-3 David Lapola is testing a big climate-science unknown: how will the forest cope as atmospheric carbon dioxide continues to rise?"
-    },
-    {
-      "title": "Publisher Correction: Sleep chart of biological ageing clocks in middle and late life",
-      "url": "https://www.nature.com/articles/s41586-026-11273-1",
-      "source": "Nature Journal",
-      "date": "09 Oct 2026",
-      "abstract": "Nature, Published online: 09 October 2026; doi:10.1038/s41586-026-11273-1 Publisher Correction: Sleep chart of biological ageing clocks in middle and late life"
     }
   ]
 }
