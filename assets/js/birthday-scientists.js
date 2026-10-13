@@ -71,15 +71,18 @@
           month: "long",
           day: "numeric"
         });
-        return [
+        var card = [
           "<a class=\"scientist-card\" href=\"{{ '/scientist.html' | relative_url }}?slug=" + encodeURIComponent(scientist.slug) + "\">",
           scientist.image ? "<img class=\"birthday-scientist-photo\" src=\"" + escapeHtml(scientist.image) + "\" alt=\"Portrait of " + escapeHtml(scientist.name) + "\" loading=\"lazy\">" : "",
           "<h3>" + escapeHtml(scientist.name) + "</h3>",
           '<p class="birthday-date">' + (entry.offset === 0 ? "Birthday today: " : "Birthday: ") + dateLabel + "</p>",
-          "<p>" + escapeHtml(scientist.bio) + "</p>",
-          "<p><strong>Contribution:</strong> " + escapeHtml(scientist.contribution) + "</p>",
-          "</a>"
-        ].join("");
+          "<p>" + escapeHtml(scientist.bio) + "</p>"
+        ];
+        if (scientist.contribution) {
+          card.push("<p><strong>Contribution:</strong> " + escapeHtml(scientist.contribution) + "</p>");
+        }
+        card.push("</a>");
+        return card.join("");
       }).join("");
     })
     .catch(function () {

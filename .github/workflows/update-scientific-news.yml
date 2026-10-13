@@ -13,15 +13,21 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out site
+        id: checkout
         uses: actions/checkout@v4
 
+      - name: Update scientist data
+        run: python scripts/update_scientists.py
+
       - name: Update news data
+        if: always() && steps.checkout.outcome == 'success'
         run: python scripts/update_scientific_news.py
 
-      - name: Commit updated news
+      - name: Commit updated science data
+        if: always() && steps.checkout.outcome == 'success'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/scientific-news.json
-          git diff --cached --quiet || git commit -m "Update scientific news"
+          git add data/scientists.json data/scientific-news.json
+          git diff --cached --quiet || git commit -m "Update science data"
           git push

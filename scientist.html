@@ -11,6 +11,19 @@ kicker: "BIOGRAPHY"
 
 <script>
 (function (){
+  function escapeHtml(value){
+    return String(value || '').replace(/[&<>"']/g, function(character){
+      return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[character];
+    });
+  }
+  function safeUrl(value){
+    try {
+      var url = new URL(value, location.href);
+      return url.protocol === 'http:' || url.protocol === 'https:' ? escapeHtml(url.href) : '';
+    } catch (error) {
+      return '';
+    }
+  }
   function qs(key){
     var params = new URLSearchParams(window.location.search);
     return params.get(key);
@@ -26,13 +39,16 @@ kicker: "BIOGRAPHY"
         return;
       }
       var html = '';
-      if(item.image){ html += '<img class="scientist-photo" src="' + item.image + '" alt="' + item.name + '">'; }
-      html += '<h2>' + item.name + (item.dates? ' <span class="dates">(' + item.dates + ')</span>' : '') + '</h2>';
-      if(item.bio) html += '<div class="scientist-bio">' + item.bio + '</div>';
-      if(item.contribution) html += '<h3>Contribution</h3><div class="scientist-contribution">' + item.contribution + '</div>';
+      if(item.image && safeUrl(item.image)){ html += '<img class="scientist-photo" src="' + safeUrl(item.image) + '" alt="' + escapeHtml(item.name) + '">'; }
+      html += '<h2>' + escapeHtml(item.name) + (item.dates? ' <span class="dates">(' + escapeHtml(item.dates) + ')</span>' : '') + '</h2>';
+      if(item.bio) html += '<div class="scientist-bio">' + escapeHtml(item.bio) + '</div>';
+      if(item.contribution) html += '<h3>Contribution</h3><div class="scientist-contribution">' + escapeHtml(item.contribution) + '</div>';
       if(item.citations && item.citations.length){
         html += '<h3>Sources</h3><ul class="citation-links">';
-        item.citations.forEach(function(c){ html += '<li><a href="'+c.url+'" target="_blank" rel="noopener">'+c.title+'</a></li>'; });
+        item.citations.forEach(function(c){
+          var url = safeUrl(c.url);
+          if(url) html += '<li><a href="'+url+'" target="_blank" rel="noopener">'+escapeHtml(c.title)+'</a></li>';
+        });
         html += '</ul>';
       }
       container.innerHTML = html;

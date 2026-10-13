@@ -2,7 +2,9 @@
 
 Jekyll/Markdown website prepared for GitHub Pages.
 
-Scientific news on the homepage is sourced from multiple science RSS feeds, including NASA, Phys.org, ScienceDaily, Nature Journal, Nature Physics, Science Magazine, Scientific American, APS Physics, and The Conversation. A GitHub Actions workflow refreshes the local news data once per day at 7:00 AM India time.
+Scientific news on the homepage is sourced from multiple science RSS feeds, including NASA, Phys.org, ScienceDaily, Nature Journal, Nature Physics, Science Magazine, Scientific American, APS Physics, and The Conversation. A GitHub Actions workflow refreshes the local news and scientist data once per day at 7:00 AM India time. New scientist records are discovered through Wikidata for upcoming birthdays. Automated records cover Wikidata occupations tagged scientist, physicist, mathematician, chemist, or biologist, and require an English description and Wikipedia article; curated entries remain in the data file.
+
+To refresh either dataset immediately, open **Actions → Update scientific news → Run workflow**.
 
 To control the subjects shown, edit the `NEWS_TOPICS` list near the top of `scripts/update_scientific_news.py`. Stories are selected when a topic appears in their title, summary, or NASA category. Use an empty list to allow all NASA news.
 
