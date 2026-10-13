@@ -107,5 +107,629 @@
     "citations": [
       { "title": "Britannica biography", "url": "https://www.britannica.com/biography/Konstantin-Tsiolkovsky" }
     ]
+  },
+  {
+    "slug": "isaac-newton",
+    "name": "Isaac Newton",
+    "birth_date": "1643-01-04",
+    "born": "1643",
+    "died": "1727",
+    "dates": "1643–1727",
+    "bio": "English mathematician and physicist whose work helped establish classical mechanics.",
+    "contribution": "Formulated the laws of motion and universal gravitation and made foundational contributions to calculus and optics.",
+    "citations": [
+      { "title": "Britannica biography", "url": "https://www.britannica.com/biography/Isaac-Newton" }
+    ]
+  },
+  {
+    "slug": "stephen-hawking",
+    "name": "Stephen Hawking",
+    "birth_date": "1942-01-08",
+    "born": "1942",
+    "died": "2018",
+    "dates": "1942–2018",
+    "bio": "English theoretical physicist known for work on black holes and the origins of the universe.",
+    "contribution": "Predicted that black holes emit radiation, now known as Hawking radiation.",
+    "citations": [
+      { "title": "Britannica biography", "url": "https://www.britannica.com/biography/Stephen-Hawking" }
+    ]
+  },
+  {
+    "slug": "benjamin-franklin",
+    "name": "Benjamin Franklin",
+    "birth_date": "1706-01-17",
+    "born": "1706",
+    "died": "1790",
+    "dates": "1706–1790",
+    "bio": "American printer, statesman, and natural philosopher who investigated electricity.",
+    "contribution": "Experiments with electricity helped establish that lightning is electrical in nature; he also developed the lightning rod.",
+    "citations": [
+      { "title": "Britannica biography", "url": "https://www.britannica.com/biography/Benjamin-Franklin" }
+    ]
+  },
+  {
+    "slug": "andre-marie-ampere",
+    "name": "André-Marie Ampère",
+    "birth_date": "1775-01-20",
+    "born": "1775",
+    "died": "1836",
+    "dates": "1775–1836",
+    "bio": "French mathematician and physicist, regarded as one of the founders of electrodynamics.",
+    "contribution": "Established mathematical foundations for electromagnetism; the ampere, the SI unit of electric current, is named in his honor.",
+    "citations": [
+      { "title": "Britannica biography", "url": "https://www.britannica.com/biography/Andre-Marie-Ampere" }
+    ]
+  },
+  {
+    "slug": "robert-boyle",
+    "name": "Robert Boyle",
+    "birth_date": "1627-01-25",
+    "born": "1627",
+    "died": "1691",
+    "dates": "1627–1691",
+    "bio": "Anglo-Irish natural philosopher and chemist who helped shape experimental science.",
+    "contribution": "Boyle's law describes the inverse relationship between the pressure and volume of a gas at constant temperature.",
+    "citations": [
+      { "title": "Britannica biography", "url": "https://www.britannica.com/biography/Robert-Boyle" }
+    ]
+  },
+  {
+    "slug": "rudolf-mossbauer",
+    "name": "Rudolf Mössbauer",
+    "birth_date": "1929-01-31",
+    "born": "1929",
+    "died": "2011",
+    "dates": "1929–2011",
+    "bio": "German physicist whose research concerned the absorption of gamma rays by solids.",
+    "contribution": "Discovered the recoil-free nuclear resonance absorption of gamma radiation, known as the Mössbauer effect.",
+    "citations": [
+      { "title": "Nobel Prize biography", "url": "https://www.nobelprize.org/prizes/physics/1961/mossbauer/biographical/" }
+    ]
+  },
+  {
+    "slug": "dmitri-mendeleev",
+    "name": "Dmitri Mendeleev",
+    "birth_date": "1834-02-08",
+    "born": "1834",
+    "died": "1907",
+    "dates": "1834–1907",
+    "bio": "Russian chemist who organized the known chemical elements into a periodic system.",
+    "contribution": "Created the periodic table and predicted the properties of elements that had not yet been discovered.",
+    "citations": [
+      { "title": "Britannica biography", "url": "https://www.britannica.com/biography/Dmitri-Mendeleev" }
+    ]
+  },
+  {
+    "slug": "thomas-edison",
+    "name": "Thomas Edison",
+    "birth_date": "1847-02-11",
+    "born": "1847",
+    "died": "1931",
+    "dates": "1847–1931",
+    "bio": "American inventor whose work helped make electric lighting and sound recording practical.",
+    "contribution": "Developed commercially practical electric-lighting systems and made major improvements to the phonograph.",
+    "citations": [
+      { "title": "Britannica biography", "url": "https://www.britannica.com/biography/Thomas-Edison" }
+    ]
+  },
+  {
+    "slug": "charles-darwin",
+    "name": "Charles Darwin",
+    "birth_date": "1809-02-12",
+    "born": "1809",
+    "died": "1882",
+    "dates": "1809–1882",
+    "bio": "English naturalist whose observations transformed the study of life and its diversity.",
+    "contribution": "Developed the theory of evolution by natural selection, presented in On the Origin of Species.",
+    "citations": [
+      { "title": "Britannica biography", "url": "https://www.britannica.com/biography/Charles-Darwin" }
+    ]
+  },
+  {
+    "slug": "galileo-galilei",
+    "name": "Galileo Galilei",
+    "birth_date": "1564-02-15",
+    "born": "1564",
+    "died": "1642",
+    "dates": "1564–1642",
+    "bio": "Italian astronomer and physicist whose observations and experiments advanced modern science.",
+    "contribution": "Used telescopic observations to study the Moon, Jupiter's moons, and the phases of Venus, supporting a Sun-centered model.",
+    "citations": [
+      { "title": "Britannica biography", "url": "https://www.britannica.com/biography/Galileo-Galilei" }
+    ]
+  },
+  {
+    "slug": "nicolaus-copernicus",
+    "name": "Nicolaus Copernicus",
+    "birth_date": "1473-02-19",
+    "born": "1473",
+    "died": "1543",
+    "dates": "1473–1543",
+    "bio": "Renaissance astronomer who proposed a mathematical model with the Sun near the center of the planetary system.",
+    "contribution": "His heliocentric model helped transform astronomy and the understanding of Earth's place in the cosmos.",
+    "citations": [
+      { "title": "Britannica biography", "url": "https://www.britannica.com/biography/Nicolaus-Copernicus" }
+    ]
+  },
+  {
+    "slug": "alexander-graham-bell",
+    "name": "Alexander Graham Bell",
+    "birth_date": "1847-03-03",
+    "born": "1847",
+    "died": "1922",
+    "dates": "1847–1922",
+    "bio": "Scottish-born inventor and teacher of the deaf who researched speech and sound transmission.",
+    "contribution": "Patented an early practical telephone and continued research in communications and aeronautics.",
+    "citations": [
+      { "title": "Britannica biography", "url": "https://www.britannica.com/biography/Alexander-Graham-Bell" }
+    ]
+  },
+  {
+    "slug": "georg-ohm",
+    "name": "Georg Ohm",
+    "birth_date": "1789-03-16",
+    "born": "1789",
+    "died": "1854",
+    "dates": "1789–1854",
+    "bio": "German physicist and mathematician who investigated electric circuits.",
+    "contribution": "Established Ohm's law, relating voltage, current, and resistance in an electrical conductor.",
+    "citations": [
+      { "title": "Britannica biography", "url": "https://www.britannica.com/biography/Georg-Ohm" }
+    ]
+  },
+  {
+    "slug": "rene-descartes",
+    "name": "René Descartes",
+    "birth_date": "1596-03-31",
+    "born": "1596",
+    "died": "1650",
+    "dates": "1596–1650",
+    "bio": "French philosopher, mathematician, and natural scientist whose work influenced modern mathematics and physics.",
+    "contribution": "Developed analytic geometry, linking algebra and geometry through the Cartesian coordinate system.",
+    "citations": [
+      { "title": "Britannica biography", "url": "https://www.britannica.com/biography/Rene-Descartes" }
+    ]
+  },
+  {
+    "slug": "william-harvey",
+    "name": "William Harvey",
+    "birth_date": "1578-04-01",
+    "born": "1578",
+    "died": "1657",
+    "dates": "1578–1657",
+    "bio": "English physician who used observation and experiment to study the human body.",
+    "contribution": "Demonstrated that the heart circulates blood through the body.",
+    "citations": [
+      { "title": "Britannica biography", "url": "https://www.britannica.com/biography/William-Harvey" }
+    ]
+  },
+  {
+    "slug": "leonardo-da-vinci",
+    "name": "Leonardo da Vinci",
+    "birth_date": "1452-04-15",
+    "born": "1452",
+    "died": "1519",
+    "dates": "1452–1519",
+    "bio": "Italian artist, engineer, and investigator of anatomy, mechanics, and the natural world.",
+    "contribution": "His notebooks recorded detailed observations and designs across anatomy, flight, engineering, and physics.",
+    "citations": [
+      { "title": "Britannica biography", "url": "https://www.britannica.com/biography/Leonardo-da-Vinci" }
+    ]
+  },
+  {
+    "slug": "max-planck",
+    "name": "Max Planck",
+    "birth_date": "1858-04-23",
+    "born": "1858",
+    "died": "1947",
+    "dates": "1858–1947",
+    "bio": "German theoretical physicist whose work helped begin quantum theory.",
+    "contribution": "Introduced the idea that energy is emitted in discrete quantities to explain black-body radiation.",
+    "citations": [
+      { "title": "Nobel Prize biography", "url": "https://www.nobelprize.org/prizes/physics/1918/planck/biographical/" }
+    ]
+  },
+  {
+    "slug": "santiago-ramon-y-cajal",
+    "name": "Santiago Ramón y Cajal",
+    "birth_date": "1852-05-01",
+    "born": "1852",
+    "died": "1934",
+    "dates": "1852–1934",
+    "bio": "Spanish neuroscientist whose microscopic studies revealed the organization of the nervous system.",
+    "contribution": "Established the neuron doctrine, showing that the nervous system is made of distinct cells.",
+    "citations": [
+      { "title": "Nobel Prize biography", "url": "https://www.nobelprize.org/prizes/medicine/1906/cajal/biographical/" }
+    ]
+  },
+  {
+    "slug": "richard-feynman",
+    "name": "Richard Feynman",
+    "birth_date": "1918-05-11",
+    "born": "1918",
+    "died": "1988",
+    "dates": "1918–1988",
+    "bio": "American theoretical physicist known for his work in quantum mechanics and engaging science teaching.",
+    "contribution": "Developed a path-integral formulation of quantum mechanics and tools for calculations in quantum electrodynamics.",
+    "citations": [
+      { "title": "Nobel Prize biography", "url": "https://www.nobelprize.org/prizes/physics/1965/feynman/biographical/" }
+    ]
+  },
+  {
+    "slug": "williamina-fleming",
+    "name": "Williamina Fleming",
+    "birth_date": "1857-05-15",
+    "born": "1857",
+    "died": "1911",
+    "dates": "1857–1911",
+    "bio": "Scottish-American astronomer who helped develop systematic methods for classifying stars.",
+    "contribution": "Catalogued stellar spectra and discovered the Horsehead Nebula while working at the Harvard Observatory.",
+    "citations": [
+      { "title": "Harvard College Observatory biography", "url": "https://www.cfa.harvard.edu/about/history/williamina-fleming" }
+    ]
+  },
+  {
+    "slug": "peter-higgs",
+    "name": "Peter Higgs",
+    "birth_date": "1929-05-29",
+    "born": "1929",
+    "died": "2024",
+    "dates": "1929–2024",
+    "bio": "British theoretical physicist whose work concerned the origin of mass in particle physics.",
+    "contribution": "Predicted a field associated with the Higgs boson, whose discovery confirmed a key part of the Standard Model.",
+    "citations": [
+      { "title": "Nobel Prize biography", "url": "https://www.nobelprize.org/prizes/physics/2013/higgs/biographical/" }
+    ]
+  },
+  {
+    "slug": "francis-crick",
+    "name": "Francis Crick",
+    "birth_date": "1916-06-08",
+    "born": "1916",
+    "died": "2004",
+    "dates": "1916–2004",
+    "bio": "British molecular biologist and physicist who helped uncover the structure of DNA.",
+    "contribution": "With James Watson and colleagues, helped establish the double-helix structure of DNA and later studied the genetic code.",
+    "citations": [
+      { "title": "Nobel Prize biography", "url": "https://www.nobelprize.org/prizes/medicine/1962/crick/biographical/" }
+    ]
+  },
+  {
+    "slug": "james-clerk-maxwell",
+    "name": "James Clerk Maxwell",
+    "birth_date": "1831-06-13",
+    "born": "1831",
+    "died": "1879",
+    "dates": "1831–1879",
+    "bio": "Scottish physicist whose theories unified electricity, magnetism, and light.",
+    "contribution": "Formulated Maxwell's equations, which describe classical electromagnetism.",
+    "citations": [
+      { "title": "Britannica biography", "url": "https://www.britannica.com/biography/James-Clerk-Maxwell" }
+    ]
+  },
+  {
+    "slug": "william-thomson",
+    "name": "William Thomson, Lord Kelvin",
+    "birth_date": "1824-06-26",
+    "born": "1824",
+    "died": "1907",
+    "dates": "1824–1907",
+    "bio": "Mathematical physicist and engineer whose work shaped thermodynamics and electrical science.",
+    "contribution": "Helped establish the absolute temperature scale, now called the kelvin scale.",
+    "citations": [
+      { "title": "Britannica biography", "url": "https://www.britannica.com/biography/William-Thomson-Baron-Kelvin" }
+    ]
+  },
+  {
+    "slug": "george-everest",
+    "name": "George Everest",
+    "birth_date": "1790-07-04",
+    "born": "1790",
+    "died": "1866",
+    "dates": "1790–1866",
+    "bio": "Welsh surveyor and geographer who led the Great Trigonometrical Survey of India.",
+    "contribution": "Advanced the precise surveying of the Indian subcontinent; Mount Everest was named in his honor.",
+    "citations": [
+      { "title": "Britannica biography", "url": "https://www.britannica.com/biography/George-Everest" }
+    ]
+  },
+  {
+    "slug": "nikola-tesla",
+    "name": "Nikola Tesla",
+    "birth_date": "1856-07-10",
+    "born": "1856",
+    "died": "1943",
+    "dates": "1856–1943",
+    "bio": "Serbian-American inventor and electrical engineer whose work advanced alternating-current power.",
+    "contribution": "Developed key alternating-current motor and power-transmission technologies.",
+    "citations": [
+      { "title": "Britannica biography", "url": "https://www.britannica.com/biography/Nikola-Tesla" }
+    ]
+  },
+  {
+    "slug": "robert-hooke",
+    "name": "Robert Hooke",
+    "birth_date": "1635-07-18",
+    "born": "1635",
+    "died": "1703",
+    "dates": "1635–1703",
+    "bio": "English natural philosopher and experimenter who made contributions to physics, biology, and architecture.",
+    "contribution": "Formulated Hooke's law of elasticity and used a microscope to describe cells in living material.",
+    "citations": [
+      { "title": "Britannica biography", "url": "https://www.britannica.com/biography/Robert-Hooke" }
+    ]
+  },
+  {
+    "slug": "gregor-mendel",
+    "name": "Gregor Mendel",
+    "birth_date": "1822-07-20",
+    "born": "1822",
+    "died": "1884",
+    "dates": "1822–1884",
+    "bio": "Moravian monk and scientist whose plant-breeding experiments helped establish genetics.",
+    "contribution": "Identified basic patterns of inheritance through experiments with pea plants.",
+    "citations": [
+      { "title": "Britannica biography", "url": "https://www.britannica.com/biography/Gregor-Mendel" }
+    ]
+  },
+  {
+    "slug": "ernst-mayr",
+    "name": "Ernst Mayr",
+    "birth_date": "1904-07-05",
+    "born": "1904",
+    "died": "2005",
+    "dates": "1904–2005",
+    "bio": "German-American evolutionary biologist and historian of science.",
+    "contribution": "Helped shape the modern synthesis of evolutionary biology and clarified the biological species concept.",
+    "citations": [
+      { "title": "Britannica biography", "url": "https://www.britannica.com/biography/Ernst-Mayr" }
+    ]
+  },
+  {
+    "slug": "alexander-fleming",
+    "name": "Alexander Fleming",
+    "birth_date": "1881-08-06",
+    "born": "1881",
+    "died": "1955",
+    "dates": "1881–1955",
+    "bio": "Scottish physician and microbiologist whose laboratory observations led to a major medical discovery.",
+    "contribution": "Discovered penicillin, opening the way to modern antibiotic treatment.",
+    "citations": [
+      { "title": "Nobel Prize biography", "url": "https://www.nobelprize.org/prizes/medicine/1945/fleming/biographical/" }
+    ]
+  },
+  {
+    "slug": "erwin-schrodinger",
+    "name": "Erwin Schrödinger",
+    "birth_date": "1887-08-12",
+    "born": "1887",
+    "died": "1961",
+    "dates": "1887–1961",
+    "bio": "Austrian theoretical physicist who made foundational contributions to quantum mechanics.",
+    "contribution": "Developed the wave equation that bears his name and describes quantum states.",
+    "citations": [
+      { "title": "Nobel Prize biography", "url": "https://www.nobelprize.org/prizes/physics/1933/schrodinger/biographical/" }
+    ]
+  },
+  {
+    "slug": "antoine-lavoisier",
+    "name": "Antoine Lavoisier",
+    "birth_date": "1743-08-26",
+    "born": "1743",
+    "died": "1794",
+    "dates": "1743–1794",
+    "bio": "French chemist whose precise experiments helped establish modern chemistry.",
+    "contribution": "Helped explain combustion through oxygen and formulated the law of conservation of mass in chemical reactions.",
+    "citations": [
+      { "title": "Britannica biography", "url": "https://www.britannica.com/biography/Antoine-Lavoisier" }
+    ]
+  },
+  {
+    "slug": "max-delbruck",
+    "name": "Max Delbrück",
+    "birth_date": "1906-09-04",
+    "born": "1906",
+    "died": "1981",
+    "dates": "1906–1981",
+    "bio": "German-American biophysicist who helped establish molecular biology as a research field.",
+    "contribution": "Used bacteriophages to investigate gene replication and genetic structure.",
+    "citations": [
+      { "title": "Nobel Prize biography", "url": "https://www.nobelprize.org/prizes/medicine/1969/delbruck/biographical/" }
+    ]
+  },
+  {
+    "slug": "arthur-compton",
+    "name": "Arthur Compton",
+    "birth_date": "1892-09-10",
+    "born": "1892",
+    "died": "1962",
+    "dates": "1892–1962",
+    "bio": "American physicist whose experiments studied the interaction of X-rays and matter.",
+    "contribution": "Discovered the Compton effect, showing that X-rays behave as particles carrying momentum.",
+    "citations": [
+      { "title": "Nobel Prize biography", "url": "https://www.nobelprize.org/prizes/physics/1927/compton/biographical/" }
+    ]
+  },
+  {
+    "slug": "niels-bohr",
+    "name": "Niels Bohr",
+    "birth_date": "1885-10-07",
+    "born": "1885",
+    "died": "1962",
+    "dates": "1885–1962",
+    "bio": "Danish physicist who contributed to atomic theory and the development of quantum mechanics.",
+    "contribution": "Proposed an influential model of the atom and helped develop the interpretation of quantum theory.",
+    "citations": [
+      { "title": "Nobel Prize biography", "url": "https://www.nobelprize.org/prizes/physics/1922/bohr/biographical/" }
+    ]
+  },
+  {
+    "slug": "enrico-fermi",
+    "name": "Enrico Fermi",
+    "birth_date": "1901-09-29",
+    "born": "1901",
+    "died": "1954",
+    "dates": "1901–1954",
+    "bio": "Italian-American physicist known for theoretical and experimental work in nuclear physics.",
+    "contribution": "Developed the first controlled, self-sustaining nuclear chain reaction and made major contributions to quantum statistics.",
+    "citations": [
+      { "title": "Nobel Prize biography", "url": "https://www.nobelprize.org/prizes/physics/1938/fermi/biographical/" }
+    ]
+  },
+  {
+    "slug": "subrahmanyan-chandrasekhar",
+    "name": "Subrahmanyan Chandrasekhar",
+    "birth_date": "1910-10-19",
+    "born": "1910",
+    "died": "1995",
+    "dates": "1910–1995",
+    "bio": "Indian-American astrophysicist whose work explained the structure and evolution of stars.",
+    "contribution": "Identified the Chandrasekhar limit, the maximum mass of a stable white dwarf star.",
+    "citations": [
+      { "title": "Nobel Prize biography", "url": "https://www.nobelprize.org/prizes/physics/1983/chandrasekhar/biographical/" }
+    ]
+  },
+  {
+    "slug": "james-chadwick",
+    "name": "James Chadwick",
+    "birth_date": "1891-10-20",
+    "born": "1891",
+    "died": "1974",
+    "dates": "1891–1974",
+    "bio": "English physicist whose experiments clarified the structure of the atomic nucleus.",
+    "contribution": "Discovered the neutron, a fundamental component of atomic nuclei.",
+    "citations": [
+      { "title": "Nobel Prize biography", "url": "https://www.nobelprize.org/prizes/physics/1935/chadwick/biographical/" }
+    ]
+  },
+  {
+    "slug": "alfred-nobel",
+    "name": "Alfred Nobel",
+    "birth_date": "1833-10-21",
+    "born": "1833",
+    "died": "1896",
+    "dates": "1833–1896",
+    "bio": "Swedish chemist, engineer, and inventor who held patents in several fields.",
+    "contribution": "Invented dynamite and established the Nobel Prizes through his will.",
+    "citations": [
+      { "title": "Nobel Prize biography", "url": "https://www.nobelprize.org/alfred-nobel/alfred-nobel-his-life-and-work/" }
+    ]
+  },
+  {
+    "slug": "pierre-gilles-de-gennes",
+    "name": "Pierre-Gilles de Gennes",
+    "birth_date": "1932-10-24",
+    "born": "1932",
+    "died": "2007",
+    "dates": "1932–2007",
+    "bio": "French physicist whose research connected ideas in condensed matter physics with soft materials.",
+    "contribution": "Advanced understanding of liquid crystals and polymers using concepts from phase transitions.",
+    "citations": [
+      { "title": "Nobel Prize biography", "url": "https://www.nobelprize.org/prizes/physics/1991/gennes/biographical/" }
+    ]
+  },
+  {
+    "slug": "carl-sagan",
+    "name": "Carl Sagan",
+    "birth_date": "1934-11-09",
+    "born": "1934",
+    "died": "1996",
+    "dates": "1934–1996",
+    "bio": "American astronomer and science communicator who studied planets and the possibility of life beyond Earth.",
+    "contribution": "Conducted influential planetary research and helped popularize astronomy for a broad audience.",
+    "citations": [
+      { "title": "Britannica biography", "url": "https://www.britannica.com/biography/Carl-Sagan" }
+    ]
+  },
+  {
+    "slug": "william-herschel",
+    "name": "William Herschel",
+    "birth_date": "1738-11-15",
+    "born": "1738",
+    "died": "1822",
+    "dates": "1738–1822",
+    "bio": "German-born British astronomer and telescope maker who surveyed the night sky.",
+    "contribution": "Discovered Uranus and infrared radiation, and catalogued thousands of celestial objects.",
+    "citations": [
+      { "title": "Britannica biography", "url": "https://www.britannica.com/biography/William-Herschel" }
+    ]
+  },
+  {
+    "slug": "edwin-hubble",
+    "name": "Edwin Hubble",
+    "birth_date": "1889-11-20",
+    "born": "1889",
+    "died": "1953",
+    "dates": "1889–1953",
+    "bio": "American astronomer whose observations transformed the study of galaxies and the expanding universe.",
+    "contribution": "Showed that galaxies exist beyond the Milky Way and found evidence that the universe is expanding.",
+    "citations": [
+      { "title": "Britannica biography", "url": "https://www.britannica.com/biography/Edwin-Hubble" }
+    ]
+  },
+  {
+    "slug": "christian-doppler",
+    "name": "Christian Doppler",
+    "birth_date": "1803-11-29",
+    "born": "1803",
+    "died": "1853",
+    "dates": "1803–1853",
+    "bio": "Austrian physicist and mathematician who studied the behavior of waves.",
+    "contribution": "Described the Doppler effect, the change in observed frequency caused by relative motion.",
+    "citations": [
+      { "title": "Britannica biography", "url": "https://www.britannica.com/biography/Christian-Doppler" }
+    ]
+  },
+  {
+    "slug": "werner-heisenberg",
+    "name": "Werner Heisenberg",
+    "birth_date": "1901-12-05",
+    "born": "1901",
+    "died": "1976",
+    "dates": "1901–1976",
+    "bio": "German theoretical physicist and a founder of quantum mechanics.",
+    "contribution": "Formulated the uncertainty principle, which sets fundamental limits on simultaneous measurements of certain properties.",
+    "citations": [
+      { "title": "Nobel Prize biography", "url": "https://www.nobelprize.org/prizes/physics/1932/heisenberg/biographical/" }
+    ]
+  },
+  {
+    "slug": "max-born",
+    "name": "Max Born",
+    "birth_date": "1882-12-11",
+    "born": "1882",
+    "died": "1970",
+    "dates": "1882–1970",
+    "bio": "German-British theoretical physicist whose work shaped the mathematical foundations of quantum mechanics.",
+    "contribution": "Introduced the probability interpretation of the quantum wave function.",
+    "citations": [
+      { "title": "Nobel Prize biography", "url": "https://www.nobelprize.org/prizes/physics/1954/born/biographical/" }
+    ]
+  },
+  {
+    "slug": "henri-becquerel",
+    "name": "Henri Becquerel",
+    "birth_date": "1852-12-15",
+    "born": "1852",
+    "died": "1908",
+    "dates": "1852–1908",
+    "bio": "French physicist whose experiments revealed spontaneous radiation from uranium salts.",
+    "contribution": "Discovered natural radioactivity, a finding that opened a new field of physics.",
+    "citations": [
+      { "title": "Nobel Prize biography", "url": "https://www.nobelprize.org/prizes/physics/1903/becquerel/biographical/" }
+    ]
+  },
+  {
+    "slug": "charles-babbage",
+    "name": "Charles Babbage",
+    "birth_date": "1791-12-26",
+    "born": "1791",
+    "died": "1871",
+    "dates": "1791–1871",
+    "bio": "English mathematician and inventor whose mechanical computing designs anticipated general-purpose computers.",
+    "contribution": "Designed the Difference Engine and Analytical Engine, foundational concepts in the history of computing.",
+    "citations": [
+      { "title": "Britannica biography", "url": "https://www.britannica.com/biography/Charles-Babbage" }
+    ]
   }
 ]
