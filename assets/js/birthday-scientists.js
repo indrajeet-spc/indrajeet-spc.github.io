@@ -31,7 +31,9 @@
   }
 
   function scientistPageUrl(slug) {
-    var url = new URL("scientist.html", window.location.href);
+    var currentUrl = new URL(window.location.href);
+    var basePath = currentUrl.pathname.endsWith("/") ? currentUrl.pathname : currentUrl.pathname.replace(/[^/]*$/, "");
+    var url = new URL("scientist.html", currentUrl.origin + basePath);
     url.searchParams.set("slug", slug);
     return url.toString();
   }
