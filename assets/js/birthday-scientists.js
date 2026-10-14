@@ -30,6 +30,14 @@
     });
   }
 
+  function scientistPageUrl(slug) {
+    var currentUrl = new URL(window.location.href);
+    var basePath = currentUrl.pathname.endsWith("/") ? currentUrl.pathname : currentUrl.pathname.replace(/[^/]*$/, "");
+    var url = new URL("scientist.html", currentUrl.origin + basePath);
+    url.searchParams.set("slug", slug);
+    return url.toString();
+  }
+
   var today = new Date();
   today.setHours(0, 0, 0, 0);
 
@@ -72,7 +80,7 @@
           day: "numeric"
         });
         var card = [
-          "<a class=\"scientist-card\" href=\"{{ '/scientist.html' | relative_url }}?slug=" + encodeURIComponent(scientist.slug) + "\">",
+          "<a class=\"scientist-card\" href=\"" + scientistPageUrl(scientist.slug) + "\">",
           scientist.image ? "<img class=\"birthday-scientist-photo\" src=\"" + escapeHtml(scientist.image) + "\" alt=\"Portrait of " + escapeHtml(scientist.name) + "\" loading=\"lazy\">" : "",
           "<h3>" + escapeHtml(scientist.name) + "</h3>",
           '<p class="birthday-date">' + (entry.offset === 0 ? "Birthday today: " : "Birthday: ") + dateLabel + "</p>",

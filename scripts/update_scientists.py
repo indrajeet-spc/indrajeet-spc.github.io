@@ -80,6 +80,10 @@ def make_scientist(binding):
     if not image:
         return None
 
+    contribution = (
+        f"{binding['personLabel']['value']} is a physicist whose work advanced the study of physics and scientific discovery."
+    )
+
     return {
         "qid": qid,
         "slug": f"wikidata-{qid.lower()}",
@@ -91,6 +95,7 @@ def make_scientist(binding):
         "field": "Physics",
         "image": image,
         "bio": bio,
+        "contribution": contribution,
         "citations": [
             {
                 "title": "Wikipedia biography",
