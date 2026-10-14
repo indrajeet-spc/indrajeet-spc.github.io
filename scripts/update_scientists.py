@@ -14,16 +14,18 @@ RESULT_LIMIT = 500
 
 def build_query():
     return f"""
-SELECT DISTINCT ?person ?personLabel ?birthDate ?deathDate ?description ?article ?image WHERE {{
+SELECT DISTINCT ?person ?personLabel ?birthDate ?deathDate ?description ?article ?image ?notableWork ?notableWorkLabel WHERE {{
   ?person wdt:P31 wd:Q5;
           wdt:P106 wd:Q169470;
           wdt:P569 ?birthDate;
           schema:description ?description;
           rdfs:label ?personLabel.
-  ?article schema:about ?person;
-           schema:isPartOf <https://en.wikipedia.org/>.
+  OPTIONAL {{ ?person wdt:P800 ?notableWork. }}
   OPTIONAL {{ ?person wdt:P18 ?image. }}
   OPTIONAL {{ ?person wdt:P570 ?deathDate. }}
+  ?article schema:about ?person;
+           schema:isPartOf <https://en.wikipedia.org/>.
+  SERVICE wikibase:label {{ bd:serviceParam wikibase:language "en". }}
   FILTER(LANG(?description) = "en")
   FILTER(LANG(?personLabel) = "en")
 }}
@@ -80,11 +82,13 @@ def make_scientist(binding):
     if not image:
         return None
 
-    contribution = (
-        f"{binding['personLabel']['value']} is a physicist whose work advanced the study of physics and scientific discovery."
-    )
+    notable_work = binding.get("notableWorkLabel", {}).get("value") or binding.get("notableWork", {}).get("value") or ""
+    if notable_work and not notable_work.startswith("http://") and not re.fullmatch(r"Q\d+", notable_work):
+        contribution = f"Notable work includes {notable_work}."
+    else:
+        contribution = ""
 
-    return {
+    scientist = {
         "qid": qid,
         "slug": f"wikidata-{qid.lower()}",
         "name": binding["personLabel"]["value"],
@@ -95,7 +99,6 @@ def make_scientist(binding):
         "field": "Physics",
         "image": image,
         "bio": bio,
-        "contribution": contribution,
         "citations": [
             {
                 "title": "Wikipedia biography",
@@ -107,6 +110,9 @@ def make_scientist(binding):
             },
         ],
     }
+    if contribution:
+        scientist["contribution"] = contribution
+    return scientist
 
 
 def merge_scientists(existing, bindings):
@@ -161,6 +167,7 @@ def main():
         scientist for scientist in (make_scientist(binding) for binding in bindings)
         if scientist is not None
     ]
+    scientists = unique_by_qid(scientists)
 
     DATA_PATH.write_text(
         json.dumps(scientists, indent=2, ensure_ascii=True) + "\n",
