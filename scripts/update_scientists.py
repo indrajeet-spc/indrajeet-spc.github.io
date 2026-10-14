@@ -122,11 +122,27 @@ def merge_scientists(existing, bindings):
     return added
 
 
+def load_scientists():
+    if not DATA_PATH.exists():
+        return []
+
+    try:
+        scientists = json.loads(DATA_PATH.read_text(encoding="utf-8"))
+    except json.JSONDecodeError:
+        print(f"Warning: {DATA_PATH} is not valid JSON. Starting from an empty list.")
+        return []
+
+    if not isinstance(scientists, list):
+        raise ValueError(f"{DATA_PATH} must contain a JSON array of scientists.")
+
+    return scientists
+
+
 def main():
     today = datetime.now(timezone.utc).date()
     bindings = fetch_results(build_query(today))
 
-    scientists = json.loads(DATA_PATH.read_text(encoding="utf-8"))
+    scientists = load_scientists()
     added = merge_scientists(scientists, bindings)
     if not added:
         print("No new scientist records found.")
