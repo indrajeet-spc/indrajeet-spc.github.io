@@ -41,7 +41,7 @@
     .then(function (scientists) {
       var upcoming = scientists
         .filter(function (scientist) {
-          return /^\d{4}-\d{2}-\d{2}$/.test(scientist.birth_date);
+          return scientist && scientist.field === "Physics" && scientist.image && /^\d{4}-\d{2}-\d{2}$/.test(scientist.birth_date) && /physicist|physics/i.test(scientist.bio || "");
         })
         .map(function (scientist) {
           var parts = scientist.birth_date.split("-").map(Number);

@@ -9,39 +9,21 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 DATA_PATH = ROOT / "data" / "scientists.json"
 QUERY_URL = "https://query.wikidata.org/sparql"
-WINDOW_DAYS = 14
-RESULT_LIMIT = 100
-OCCUPATION_IDS = ("Q901", "Q169470", "Q170790", "Q593644", "Q864503")
+RESULT_LIMIT = 500
 
 
-def build_query(start_date):
-    birthday_values = "\n".join(
-        f"  ({day.month} {day.day})"
-        for offset in range(WINDOW_DAYS)
-        for day in [start_date + timedelta(days=offset)]
-    )
-    occupation_values = " ".join(f"wd:{item}" for item in OCCUPATION_IDS)
+def build_query():
     return f"""
-SELECT DISTINCT ?person ?personLabel ?birthDate ?deathDate ?description ?article WHERE {{
-  VALUES ?occupation {{ {occupation_values} }}
-  VALUES (?month ?day) {{
-{birthday_values}
-  }}
+SELECT DISTINCT ?person ?personLabel ?birthDate ?deathDate ?description ?article ?image WHERE {{
   ?person wdt:P31 wd:Q5;
-          wdt:P106 ?occupation;
+          wdt:P106 wd:Q169470;
           wdt:P569 ?birthDate;
-          p:P569 ?birthStatement;
           schema:description ?description;
           rdfs:label ?personLabel.
-  ?birthStatement ps:P569 ?birthDate;
-                  psv:P569 ?birthDateValue.
-  ?birthDateValue wikibase:timeValue ?birthDate;
-                  wikibase:timePrecision ?birthPrecision.
   ?article schema:about ?person;
            schema:isPartOf <https://en.wikipedia.org/>.
+  OPTIONAL {{ ?person wdt:P18 ?image. }}
   OPTIONAL {{ ?person wdt:P570 ?deathDate. }}
-  FILTER(?birthPrecision >= 11)
-  FILTER(MONTH(?birthDate) = ?month && DAY(?birthDate) = ?day)
   FILTER(LANG(?description) = "en")
   FILTER(LANG(?personLabel) = "en")
 }}
@@ -78,10 +60,25 @@ def make_scientist(binding):
         raise ValueError(f"Unexpected Wikidata item ID: {qid}")
 
     birth_date = binding["birthDate"]["value"][:10]
-    parsed_birth_date = datetime.strptime(birth_date, "%Y-%m-%d").date()
+    if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", birth_date):
+        return None
+
+    try:
+        parsed_birth_date = datetime.strptime(birth_date, "%Y-%m-%d").date()
+    except ValueError:
+        return None
+
     death_date = binding.get("deathDate", {}).get("value", "")[:4]
     born = str(parsed_birth_date.year)
     dates = f"{born}–{death_date}" if death_date else born
+
+    image = binding.get("image", {}).get("value", "")
+    bio = binding["description"]["value"]
+    bio_lower = bio.lower()
+    if "physicist" not in bio_lower and "physics" not in bio_lower:
+        return None
+    if not image:
+        return None
 
     return {
         "qid": qid,
@@ -91,7 +88,9 @@ def make_scientist(binding):
         "born": born,
         "died": death_date,
         "dates": dates,
-        "bio": binding["description"]["value"],
+        "field": "Physics",
+        "image": image,
+        "bio": bio,
         "citations": [
             {
                 "title": "Wikipedia biography",
@@ -138,22 +137,31 @@ def load_scientists():
     return scientists
 
 
+def unique_by_qid(scientists):
+    seen = set()
+    result = []
+    for scientist in scientists:
+        qid = scientist.get("qid")
+        if qid and qid in seen:
+            continue
+        result.append(scientist)
+        if qid:
+            seen.add(qid)
+    return result
+
+
 def main():
-    today = datetime.now(timezone.utc).date()
-    bindings = fetch_results(build_query(today))
+    bindings = fetch_results(build_query())
+    scientists = [
+        scientist for scientist in (make_scientist(binding) for binding in bindings)
+        if scientist is not None
+    ]
 
-    scientists = load_scientists()
-    added = merge_scientists(scientists, bindings)
-    if not added:
-        print("No new scientist records found.")
-        return
-
-    scientists.extend(added)
     DATA_PATH.write_text(
         json.dumps(scientists, indent=2, ensure_ascii=True) + "\n",
         encoding="utf-8",
     )
-    print(f"Added {len(added)} scientist records.")
+    print(f"Saved {len(scientists)} physicist records.")
 
 
 if __name__ == "__main__":

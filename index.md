@@ -13,9 +13,9 @@ permalink: /
 </div>
 
 
-## Scientists with birthdays today and this week
+## Physicists with birthdays today and this week
 
-New scientist profiles are added daily from Wikidata. Highlights show birthdays today or within the next seven days, with biographies, contributions and sources where available.
+Photographed physicist profiles are refreshed from Wikidata. Highlights show birthdays today or within the next seven days, with biographies, contributions and sources where available.
 
 <div id="birthday-scientists" class="scientist-ribbon" data-scientists-url="{{ '/data/scientists.json' | relative_url }}" aria-live="polite">
   <p>Loading this week's scientist birthdays…</p>
