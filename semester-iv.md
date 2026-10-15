@@ -12,7 +12,7 @@ permalink: /semester-iv/
 Each Major paper carries 45 theory teaching hours and 3 theory credits, with a 30-hour practical component worth 1 credit.
 
 ### MJ-5: Indian Knowledge System: Physics in Ancient India
-<p><a href="{{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=19">Open the complete MJ-5 syllabus PDF (page 19)</a></p>
+<p><a href="{{ '/documents/physics-semester-iv.pdf' | relative_url }}">Open the complete Semester IV syllabus PDF</a></p>
 <div class="semester-topics">
   <div class="semester-topic-box">
     <strong>UNIT-I:</strong>
@@ -47,7 +47,7 @@ Each Major paper carries 45 theory teaching hours and 3 theory credits, with a 3
 </div>
 
 ### MJ-6: Heat and Thermodynamics
-<p><a href="{{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=22">Open the complete MJ-6 syllabus PDF (page 22)</a></p>
+<p><a href="{{ '/documents/physics-semester-iv.pdf' | relative_url }}">Open the complete Semester IV syllabus PDF</a></p>
 <div class="semester-topics">
   <div class="semester-topic-box">
     <strong>UNIT-I:</strong>
@@ -84,7 +84,7 @@ Each Major paper carries 45 theory teaching hours and 3 theory credits, with a 3
 </div>
 
 ### MJ-7: Semiconductor Devices
-<p><a href="{{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=25">Open the complete MJ-7 syllabus PDF (page 25)</a></p>
+<p><a href="{{ '/documents/physics-semester-iv.pdf' | relative_url }}">Open the complete Semester IV syllabus PDF</a></p>
 <div class="semester-topics">
   <div class="semester-topic-box">
     <strong>UNIT-I:</strong>

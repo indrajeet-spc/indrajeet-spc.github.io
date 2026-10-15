@@ -12,7 +12,7 @@ permalink: /semester-iii/
 Each Major paper carries 45 theory teaching hours and 3 theory credits, with a 30-hour practical component worth 1 credit.
 
 ### MJ-3: Electricity and Magnetism
-<p><a href="{{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=13">Open the complete MJ-3 syllabus PDF (page 13)</a></p>
+<p><a href="{{ '/documents/physics-semester-iii.pdf' | relative_url }}">Open the complete Semester III syllabus PDF</a></p>
 
 <div class="semester-topics">
   <div class="semester-topic-box">
@@ -54,7 +54,7 @@ Each Major paper carries 45 theory teaching hours and 3 theory credits, with a 3
 </div>
 
 ### MJ-4: Waves and Optics
-<p><a href="{{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=16">Open the complete MJ-4 syllabus PDF (page 16)</a></p>
+<p><a href="{{ '/documents/physics-semester-iii.pdf' | relative_url }}">Open the complete Semester III syllabus PDF</a></p>
 
 <div class="semester-topics">
   <div class="semester-topic-box">

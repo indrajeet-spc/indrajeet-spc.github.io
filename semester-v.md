@@ -12,7 +12,7 @@ permalink: /semester-v/
 Each Major paper carries 45 theory teaching hours and 3 theory credits, with a 30-hour practical component worth 1 credit.
 
 ### MJ-8: Electromagnetic Theory
-<p><a href="{{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=28">Open the complete MJ-8 syllabus PDF (page 28)</a></p>
+<p><a href="{{ '/documents/physics-semester-v.pdf' | relative_url }}">Open the complete Semester V syllabus PDF</a></p>
 <div class="semester-topics">
   <div class="semester-topic-box">
     <strong>UNIT-I:</strong>
@@ -49,7 +49,7 @@ Each Major paper carries 45 theory teaching hours and 3 theory credits, with a 3
 </div>
 
 ### MJ-9: Numerical Techniques and Programming
-<p><a href="{{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=31">Open the complete MJ-9 syllabus PDF (page 31)</a></p>
+<p><a href="{{ '/documents/physics-semester-v.pdf' | relative_url }}">Open the complete Semester V syllabus PDF</a></p>
 <div class="semester-topics">
   <div class="semester-topic-box">
     <strong>UNIT-I:</strong>
@@ -86,7 +86,7 @@ Each Major paper carries 45 theory teaching hours and 3 theory credits, with a 3
 </div>
 
 ### MJ-10: Classical Mechanics
-<p><a href="{{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=34">Open the complete MJ-10 syllabus PDF (page 34)</a></p>
+<p><a href="{{ '/documents/physics-semester-v.pdf' | relative_url }}">Open the complete Semester V syllabus PDF</a></p>
 <div class="semester-topics">
   <div class="semester-topic-box">
     <strong>UNIT-I:</strong>
@@ -121,7 +121,7 @@ Each Major paper carries 45 theory teaching hours and 3 theory credits, with a 3
 </div>
 
 ### MJ-11: Quantum Mechanics-I
-<p><a href="{{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=37">Open the complete MJ-11 syllabus PDF (page 37)</a></p>
+<p><a href="{{ '/documents/physics-semester-v.pdf' | relative_url }}">Open the complete Semester V syllabus PDF</a></p>
 <div class="semester-topics">
   <div class="semester-topic-box">
     <strong>UNIT-I:</strong>

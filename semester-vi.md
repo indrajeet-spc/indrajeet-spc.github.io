@@ -12,7 +12,7 @@ permalink: /semester-vi/
 Each Major paper carries 45 theory teaching hours and 3 theory credits, with a 30-hour practical component worth 1 credit.
 
 ### MJ-12: Modern Physics
-<p><a href="{{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=40">Open the complete MJ-12 syllabus PDF (page 40)</a></p>
+<p><a href="{{ '/documents/physics-semester-vi.pdf' | relative_url }}">Open the complete Semester VI syllabus PDF</a></p>
 <div class="semester-topics">
   <div class="semester-topic-box">
     <strong>UNIT-I:</strong>
@@ -49,7 +49,7 @@ Each Major paper carries 45 theory teaching hours and 3 theory credits, with a 3
 </div>
 
 ### MJ-13: Statistical Mechanics
-<p><a href="{{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=43">Open the complete MJ-13 syllabus PDF (page 43)</a></p>
+<p><a href="{{ '/documents/physics-semester-vi.pdf' | relative_url }}">Open the complete Semester VI syllabus PDF</a></p>
 <div class="semester-topics">
   <div class="semester-topic-box">
     <strong>UNIT-I:</strong>
@@ -83,7 +83,7 @@ Each Major paper carries 45 theory teaching hours and 3 theory credits, with a 3
 </div>
 
 ### MJ-14: Digital Electronics and Applications
-<p><a href="{{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=46">Open the complete MJ-14 syllabus PDF (page 46)</a></p>
+<p><a href="{{ '/documents/physics-semester-vi.pdf' | relative_url }}">Open the complete Semester VI syllabus PDF</a></p>
 <div class="semester-topics">
   <div class="semester-topic-box">
     <strong>UNIT-I:</strong>
@@ -118,7 +118,7 @@ Each Major paper carries 45 theory teaching hours and 3 theory credits, with a 3
 </div>
 
 ### MJ-15: Solid State Physics
-<p><a href="{{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=49">Open the complete MJ-15 syllabus PDF (page 49)</a></p>
+<p><a href="{{ '/documents/physics-semester-vi.pdf' | relative_url }}">Open the complete Semester VI syllabus PDF</a></p>
 <div class="semester-topics">
   <div class="semester-topic-box">
     <strong>UNIT-I:</strong>

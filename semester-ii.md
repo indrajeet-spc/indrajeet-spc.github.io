@@ -58,6 +58,6 @@ permalink: /semester-ii/
   </div>
 </div>
 
-> [View the complete MJ-2 syllabus in the university PDF (starts on page 10)]({{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=10).
+> [Download the Semester II syllabus PDF]({{ '/documents/physics-semester-ii.pdf' | relative_url }}).
 
 > For Semester II practical experiments, visit [Semester II Practical Physics]({{ '/semester-ii-practical/' | relative_url }}).

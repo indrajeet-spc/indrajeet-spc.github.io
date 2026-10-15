@@ -12,7 +12,7 @@ permalink: /semester-viii-practical/
 Each Major and Advanced Major practical carries 30 teaching hours and 1 credit. Each experiment links to the Semester VIII lecture-notes page.
 
 ### MJ-19: Nuclear and Particle Physics
-The complete practical syllabus is available in the [university PDF (page 63)]({{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=63).
+The complete practical syllabus is available in the [Semester VIII syllabus PDF]({{ '/documents/physics-semester-viii.pdf' | relative_url }}).
 <div class="semester-topics practical-topics">
     <div class="semester-topic-box">
     <strong>Experiment 1</strong>
@@ -49,7 +49,7 @@ The complete practical syllabus is available in the [university PDF (page 63)]({
 </div>
 
 ### AMJ-2: Classical Dynamics
-The complete practical syllabus is available in the [university PDF (page 72)]({{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=72).
+The complete practical syllabus is available in the [Semester VIII syllabus PDF]({{ '/documents/physics-semester-viii.pdf' | relative_url }}).
 <div class="semester-topics practical-topics">
     <div class="semester-topic-box">
     <strong>Experiment 1</strong>
@@ -78,7 +78,7 @@ The complete practical syllabus is available in the [university PDF (page 72)]({
 </div>
 
 ### AMJ-3: Advanced Statistical Mechanics
-The complete practical syllabus is available in the [university PDF (page 75)]({{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=75).
+The complete practical syllabus is available in the [Semester VIII syllabus PDF]({{ '/documents/physics-semester-viii.pdf' | relative_url }}).
 <div class="semester-topics practical-topics">
     <div class="semester-topic-box">
     <strong>Experiment 1</strong>

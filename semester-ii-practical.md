@@ -13,7 +13,7 @@ permalink: /semester-ii-practical/
 - **Practical:** 30 teaching hours
 - **Credits:** 1 practical
 
-Each experiment links to the Semester II lecture-notes page. The complete practical syllabus is available in the [university PDF (page 11)]({{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=11).
+Each experiment links to the Semester II lecture-notes page. The complete practical syllabus is available in the [Semester II syllabus PDF]({{ '/documents/physics-semester-ii.pdf' | relative_url }}).
 
 <div class="semester-topics practical-topics">
     <div class="semester-topic-box">

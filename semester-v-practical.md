@@ -12,7 +12,7 @@ permalink: /semester-v-practical/
 Each Major practical carries 30 teaching hours and 1 credit. Each experiment links to the Semester V lecture-notes page.
 
 ### MJ-8: Electromagnetic Theory
-The complete practical syllabus is available in the [university PDF (page 30)]({{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=30).
+The complete practical syllabus is available in the [Semester V syllabus PDF]({{ '/documents/physics-semester-v.pdf' | relative_url }}).
 <div class="semester-topics practical-topics">
     <div class="semester-topic-box">
     <strong>Experiment 1</strong>
@@ -41,7 +41,7 @@ The complete practical syllabus is available in the [university PDF (page 30)]({
 </div>
 
 ### MJ-9: Numerical Techniques and Programming
-The complete practical syllabus is available in the [university PDF (page 32)]({{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=32).
+The complete practical syllabus is available in the [Semester V syllabus PDF]({{ '/documents/physics-semester-v.pdf' | relative_url }}).
 <div class="semester-topics practical-topics">
     <div class="semester-topic-box">
     <strong>Experiment 1</strong>
@@ -106,7 +106,7 @@ The complete practical syllabus is available in the [university PDF (page 32)]({
 </div>
 
 ### MJ-10: Classical Mechanics
-The complete practical syllabus is available in the [university PDF (page 36)]({{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=36).
+The complete practical syllabus is available in the [Semester V syllabus PDF]({{ '/documents/physics-semester-v.pdf' | relative_url }}).
 <div class="semester-topics practical-topics">
     <div class="semester-topic-box">
     <strong>Experiment 1</strong>
@@ -139,7 +139,7 @@ The complete practical syllabus is available in the [university PDF (page 36)]({
 </div>
 
 ### MJ-11: Quantum Mechanics-I
-The complete practical syllabus is available in the [university PDF (page 39)]({{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=39).
+The complete practical syllabus is available in the [Semester V syllabus PDF]({{ '/documents/physics-semester-v.pdf' | relative_url }}).
 <div class="semester-topics practical-topics">
     <div class="semester-topic-box">
     <strong>Experiment 1</strong>

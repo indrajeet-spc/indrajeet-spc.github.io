@@ -13,7 +13,7 @@ permalink: /semester-i-practical/
 - **Practical:** 30 teaching hours
 - **Credits:** 1 practical
 
-Select an experiment below to open the Semester I lecture-notes page. The complete practical syllabus is available in the [university PDF (page 8)]({{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=8).
+Select an experiment below to open the Semester I lecture-notes page. The complete practical syllabus is available in the [Semester I syllabus PDF]({{ '/documents/physics-semester-i.pdf' | relative_url }}).
 
 > For Semester I theory topics, visit [Semester I Physics]({{ '/semester-i/' | relative_url }}).
 

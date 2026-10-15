@@ -12,7 +12,7 @@ permalink: /semester-vi-practical/
 Each Major practical carries 30 teaching hours and 1 credit. Each experiment links to the Semester VI lecture-notes page.
 
 ### MJ-12: Modern Physics
-The complete practical syllabus is available in the [university PDF (page 42)]({{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=42).
+The complete practical syllabus is available in the [Semester VI syllabus PDF]({{ '/documents/physics-semester-vi.pdf' | relative_url }}).
 <div class="semester-topics practical-topics">
     <div class="semester-topic-box">
     <strong>Experiment 1</strong>
@@ -49,7 +49,7 @@ The complete practical syllabus is available in the [university PDF (page 42)]({
 </div>
 
 ### MJ-13: Statistical Mechanics
-The complete practical syllabus is available in the [university PDF (page 45)]({{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=45).
+The complete practical syllabus is available in the [Semester VI syllabus PDF]({{ '/documents/physics-semester-vi.pdf' | relative_url }}).
 <div class="semester-topics practical-topics">
     <div class="semester-topic-box">
     <strong>Experiment 1</strong>
@@ -78,7 +78,7 @@ The complete practical syllabus is available in the [university PDF (page 45)]({
 </div>
 
 ### MJ-14: Digital Electronics and Applications
-The complete practical syllabus is available in the [university PDF (page 47)]({{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=47).
+The complete practical syllabus is available in the [Semester VI syllabus PDF]({{ '/documents/physics-semester-vi.pdf' | relative_url }}).
 <div class="semester-topics practical-topics">
     <div class="semester-topic-box">
     <strong>Experiment 1</strong>
@@ -107,7 +107,7 @@ The complete practical syllabus is available in the [university PDF (page 47)]({
 </div>
 
 ### MJ-15: Solid State Physics
-The complete practical syllabus is available in the [university PDF (page 51)]({{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=51).
+The complete practical syllabus is available in the [Semester VI syllabus PDF]({{ '/documents/physics-semester-vi.pdf' | relative_url }}).
 <div class="semester-topics practical-topics">
     <div class="semester-topic-box">
     <strong>Experiment 1</strong>

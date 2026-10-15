@@ -12,7 +12,7 @@ permalink: /semester-vii-practical/
 Each Major and Advanced Major practical carries 30 teaching hours and 1 credit. Each experiment links to the Semester VII lecture-notes page.
 
 ### MJ-16: Electrodynamics and Plasma Physics
-The complete practical syllabus is available in the [university PDF (page 53)]({{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=53).
+The complete practical syllabus is available in the [Semester VII syllabus PDF]({{ '/documents/physics-semester-vii.pdf' | relative_url }}).
 <div class="semester-topics practical-topics">
     <div class="semester-topic-box">
     <strong>Experiment 1</strong>
@@ -41,7 +41,7 @@ The complete practical syllabus is available in the [university PDF (page 53)]({
 </div>
 
 ### MJ-17: Mathematical Physics-II
-The complete practical syllabus is available in the [university PDF (page 56)]({{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=56).
+The complete practical syllabus is available in the [Semester VII syllabus PDF]({{ '/documents/physics-semester-vii.pdf' | relative_url }}).
 <div class="semester-topics practical-topics">
     <div class="semester-topic-box">
     <strong>Experiment 1</strong>
@@ -70,7 +70,7 @@ The complete practical syllabus is available in the [university PDF (page 56)]({
 </div>
 
 ### MJ-18: Quantum Mechanics-II
-The complete practical syllabus is available in the [university PDF (page 59)]({{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=59).
+The complete practical syllabus is available in the [Semester VII syllabus PDF]({{ '/documents/physics-semester-vii.pdf' | relative_url }}).
 <div class="semester-topics practical-topics">
     <div class="semester-topic-box">
     <strong>Experiment 1</strong>
@@ -99,7 +99,7 @@ The complete practical syllabus is available in the [university PDF (page 59)]({
 </div>
 
 ### AMJ-1: Advanced Quantum Mechanics
-The complete practical syllabus is available in the [university PDF (page 69)]({{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=69).
+The complete practical syllabus is available in the [Semester VII syllabus PDF]({{ '/documents/physics-semester-vii.pdf' | relative_url }}).
 <div class="semester-topics practical-topics">
     <div class="semester-topic-box">
     <strong>Experiment 1</strong>

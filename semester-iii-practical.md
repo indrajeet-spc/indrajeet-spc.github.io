@@ -12,7 +12,7 @@ permalink: /semester-iii-practical/
 Each Major practical carries 30 teaching hours and 1 credit. Each experiment links to the Semester III lecture-notes page.
 
 ### MJ-3: Electricity and Magnetism
-The complete practical syllabus is available in the [university PDF (page 14)]({{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=14).
+The complete practical syllabus is available in the [Semester III syllabus PDF]({{ '/documents/physics-semester-iii.pdf' | relative_url }}).
 
 <div class="semester-topics practical-topics">
     <div class="semester-topic-box">
@@ -42,7 +42,7 @@ The complete practical syllabus is available in the [university PDF (page 14)]({
 </div>
 
 ### MJ-4: Waves and Optics
-The complete practical syllabus is available in the [university PDF (page 18)]({{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=18).
+The complete practical syllabus is available in the [Semester III syllabus PDF]({{ '/documents/physics-semester-iii.pdf' | relative_url }}).
 
 <div class="semester-topics practical-topics">
     <div class="semester-topic-box">

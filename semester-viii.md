@@ -12,7 +12,7 @@ permalink: /semester-viii/
 Major and Advanced Major papers carry 45 theory teaching hours and 3 theory credits, with a 30-hour practical component worth 1 credit.
 
 ### MJ-19: Nuclear and Particle Physics
-<p><a href="{{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=61">Open the complete MJ-19 syllabus PDF (page 61)</a></p>
+<p><a href="{{ '/documents/physics-semester-viii.pdf' | relative_url }}">Open the complete Semester VIII syllabus PDF</a></p>
 <div class="semester-topics">
   <div class="semester-topic-box">
     <strong>UNIT-I:</strong>
@@ -51,7 +51,7 @@ Major and Advanced Major papers carry 45 theory teaching hours and 3 theory cred
 
 ### MJ-20: Dissertation
 The syllabus describes dissertation work and assessment rather than unit-wise theory topics.
-<p><a href="{{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=65">Open the complete MJ-20 syllabus PDF (page 65)</a></p>
+<p><a href="{{ '/documents/physics-semester-viii.pdf' | relative_url }}">Open the complete Semester VIII syllabus PDF</a></p>
 <div class="semester-topics">
   <div class="semester-topic-box">
     <strong>DISSERTATION:</strong>
@@ -66,7 +66,7 @@ The syllabus describes dissertation work and assessment rather than unit-wise th
 </div>
 
 ### AMJ-2: Classical Dynamics
-<p><a href="{{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=70">Open the complete AMJ-2 syllabus PDF (page 70)</a></p>
+<p><a href="{{ '/documents/physics-semester-viii.pdf' | relative_url }}">Open the complete Semester VIII syllabus PDF</a></p>
 <div class="semester-topics">
   <div class="semester-topic-box">
     <strong>UNIT-I:</strong>
@@ -99,7 +99,7 @@ The syllabus describes dissertation work and assessment rather than unit-wise th
 </div>
 
 ### AMJ-3: Advanced Statistical Mechanics
-<p><a href="{{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=73">Open the complete AMJ-3 syllabus PDF (page 73)</a></p>
+<p><a href="{{ '/documents/physics-semester-viii.pdf' | relative_url }}">Open the complete Semester VIII syllabus PDF</a></p>
 <div class="semester-topics">
   <div class="semester-topic-box">
     <strong>UNIT-I:</strong>
@@ -136,7 +136,7 @@ The syllabus describes dissertation work and assessment rather than unit-wise th
 
 ### RP/D-1: Research Project or Dissertation
 The research project carries 8 credits.
-<p><a href="{{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=78">Open the complete RP/D-1 syllabus PDF (page 78)</a></p>
+<p><a href="{{ '/documents/physics-semester-viii.pdf' | relative_url }}">Open the complete Semester VIII syllabus PDF</a></p>
 <div class="semester-topics">
   <div class="semester-topic-box">
     <strong>RP/D-1:</strong>
@@ -147,7 +147,6 @@ The research project carries 8 credits.
       <li><a href="https://indrajeet-spc.github.io/lecture-notes">Research design, methodology, data collection, analysis, and conclusions</a></li>
       <li><a href="https://indrajeet-spc.github.io/lecture-notes">Dissertation submission and evaluation: topic motivation, design, methodology, results, future scope, references, and research techniques</a></li>
     </ul>
-    <p><a href="{{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=78">View the RP/D-1 syllabus (PDF, starts on page 78)</a></p>
   </div>
 </div>
 

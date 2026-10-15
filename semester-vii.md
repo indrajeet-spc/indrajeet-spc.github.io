@@ -12,7 +12,7 @@ permalink: /semester-vii/
 Major and Advanced Major papers carry 45 theory teaching hours and 3 theory credits, with a 30-hour practical component worth 1 credit.
 
 ### MJ-16: Electrodynamics and Plasma Physics
-<p><a href="{{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=52">Open the complete MJ-16 syllabus PDF (page 52)</a></p>
+<p><a href="{{ '/documents/physics-semester-vii.pdf' | relative_url }}">Open the complete Semester VII syllabus PDF</a></p>
 <div class="semester-topics">
   <div class="semester-topic-box">
     <strong>UNIT-I:</strong>
@@ -45,7 +45,7 @@ Major and Advanced Major papers carry 45 theory teaching hours and 3 theory cred
 </div>
 
 ### MJ-17: Mathematical Physics-II
-<p><a href="{{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=55">Open the complete MJ-17 syllabus PDF (page 55)</a></p>
+<p><a href="{{ '/documents/physics-semester-vii.pdf' | relative_url }}">Open the complete Semester VII syllabus PDF</a></p>
 <div class="semester-topics">
   <div class="semester-topic-box">
     <strong>UNIT-I:</strong>
@@ -78,7 +78,7 @@ Major and Advanced Major papers carry 45 theory teaching hours and 3 theory cred
 </div>
 
 ### MJ-18: Quantum Mechanics-II
-<p><a href="{{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=58">Open the complete MJ-18 syllabus PDF (page 58)</a></p>
+<p><a href="{{ '/documents/physics-semester-vii.pdf' | relative_url }}">Open the complete Semester VII syllabus PDF</a></p>
 <div class="semester-topics">
   <div class="semester-topic-box">
     <strong>UNIT-I:</strong>
@@ -113,7 +113,7 @@ Major and Advanced Major papers carry 45 theory teaching hours and 3 theory cred
 </div>
 
 ### AMJ-1: Advanced Quantum Mechanics
-<p><a href="{{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=67">Open the complete AMJ-1 syllabus PDF (page 67)</a></p>
+<p><a href="{{ '/documents/physics-semester-vii.pdf' | relative_url }}">Open the complete Semester VII syllabus PDF</a></p>
 <div class="semester-topics">
   <div class="semester-topic-box">
     <strong>UNIT-I:</strong>
@@ -146,7 +146,7 @@ Major and Advanced Major papers carry 45 theory teaching hours and 3 theory cred
 
 ### RM-1: Research Methodology
 This paper carries 60 theory teaching hours and 4 theory credits.
-<p><a href="{{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=76">Open the complete RM-1 syllabus PDF (page 76)</a></p>
+<p><a href="{{ '/documents/physics-semester-vii.pdf' | relative_url }}">Open the complete Semester VII syllabus PDF</a></p>
 <div class="semester-topics">
   <div class="semester-topic-box">
     <strong>TOPIC-I:</strong>

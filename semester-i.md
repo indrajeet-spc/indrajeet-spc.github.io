@@ -13,6 +13,8 @@ permalink: /semester-i/
 - **Practical:** 30 teaching hours
 - **Credits:** 3 theory + 1 practical
 
+[**Download the Semester I syllabus PDF**]({{ '/documents/physics-semester-i.pdf' | relative_url }})
+
 > For Semester I practical experiments, visit [Semester I Practical Physics]({{ '/semester-i-practical/' | relative_url }}).
 
 <div class="semester-topics">

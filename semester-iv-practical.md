@@ -12,7 +12,7 @@ permalink: /semester-iv-practical/
 Each Major practical carries 30 teaching hours and 1 credit. Each experiment links to the Semester IV lecture-notes page.
 
 ### MJ-5: Indian Knowledge System: Physics in Ancient India
-The complete practical syllabus is available in the [university PDF (page 21)]({{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=21).
+The complete practical syllabus is available in the [Semester IV syllabus PDF]({{ '/documents/physics-semester-iv.pdf' | relative_url }}).
 <div class="semester-topics practical-topics">
     <div class="semester-topic-box">
     <strong>Experiment 1</strong>
@@ -49,7 +49,7 @@ The complete practical syllabus is available in the [university PDF (page 21)]({
 </div>
 
 ### MJ-6: Heat and Thermodynamics
-The complete practical syllabus is available in the [university PDF (page 24)]({{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=24).
+The complete practical syllabus is available in the [Semester IV syllabus PDF]({{ '/documents/physics-semester-iv.pdf' | relative_url }}).
 <div class="semester-topics practical-topics">
     <div class="semester-topic-box">
     <strong>Experiment 1</strong>
@@ -78,7 +78,7 @@ The complete practical syllabus is available in the [university PDF (page 24)]({
 </div>
 
 ### MJ-7: Semiconductor Devices
-The complete practical syllabus is available in the [university PDF (page 27)]({{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=27).
+The complete practical syllabus is available in the [Semester IV syllabus PDF]({{ '/documents/physics-semester-iv.pdf' | relative_url }}).
 <div class="semester-topics practical-topics">
     <div class="semester-topic-box">
     <strong>Experiment 1</strong>
