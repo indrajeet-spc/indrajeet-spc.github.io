@@ -7,8 +7,6 @@ subtitle: "Electromagnetic Theory"
 permalink: /mj-8/
 ---
 
-## MJ-8: Electromagnetic Theory
-
 Lecture content will be added here manually.
 
 

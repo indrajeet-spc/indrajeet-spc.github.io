@@ -7,8 +7,6 @@ subtitle: "Electricity and Magnetism"
 permalink: /mj-3/
 ---
 
-## MJ-3: Electricity and Magnetism
-
 Lecture content will be added here manually.
 
 

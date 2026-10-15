@@ -7,8 +7,6 @@ subtitle: "Numerical Techniques and Programming"
 permalink: /mj-9/
 ---
 
-## MJ-9: Numerical Techniques and Programming
-
 Lecture content will be added here manually.
 
 

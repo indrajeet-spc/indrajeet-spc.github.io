@@ -7,8 +7,6 @@ subtitle: "Mathematical Physics-I"
 permalink: /mj-2/
 ---
 
-## MJ-2: Mathematical Physics-I
-
 Lecture content will be added here manually.
 
 

@@ -7,8 +7,6 @@ subtitle: "Indian Knowledge System: Physics in Ancient India"
 permalink: /mj-5/
 ---
 
-## MJ-5: Indian Knowledge System: Physics in Ancient India
-
 Lecture content will be added here manually.
 
 

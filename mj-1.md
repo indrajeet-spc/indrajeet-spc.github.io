@@ -7,8 +7,6 @@ subtitle: "Mechanics and Properties of Matter"
 permalink: /mj-1/
 ---
 
-## MJ-1: Mechanics and Properties of Matter
-
 Lecture content will be added here manually.
 
 

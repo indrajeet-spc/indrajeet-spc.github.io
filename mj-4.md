@@ -7,8 +7,6 @@ subtitle: "Waves and Optics"
 permalink: /mj-4/
 ---
 
-## MJ-4: Waves and Optics
-
 Lecture content will be added here manually.
 
 

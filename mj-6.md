@@ -7,8 +7,6 @@ subtitle: "Heat and Thermodynamics"
 permalink: /mj-6/
 ---
 
-## MJ-6: Heat and Thermodynamics
-
 Lecture content will be added here manually.
 
 

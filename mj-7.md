@@ -7,8 +7,6 @@ subtitle: "Semiconductor Devices"
 permalink: /mj-7/
 ---
 
-## MJ-7: Semiconductor Devices
-
 Lecture content will be added here manually.
 
 

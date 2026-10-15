@@ -586,6 +586,11 @@ img {
     font-size: 2.6rem;
 }
 
+.mj-lecture-header h1 {
+    color: #ffffff;
+    font-size: 2.8rem;
+}
+
 .page-header p:not(.kicker) {
     margin-bottom: 0;
 
@@ -611,6 +616,20 @@ img {
 
 .prose h3 {
     margin-top: 30px;
+}
+
+.mj-lecture-notes h2 {
+    margin: 38px 0 18px;
+    padding-bottom: 8px;
+    border-bottom: 2px solid var(--accent);
+    color: var(--blue);
+    font-size: 1.7rem;
+}
+
+.mj-lecture-notes h3 {
+    margin: 24px 0 8px;
+    color: #356c2d;
+    font-size: 1.2rem;
 }
 
 .prose li {
