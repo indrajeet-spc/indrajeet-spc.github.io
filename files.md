@@ -17,9 +17,9 @@ Latest academic CV in PDF format.
 
 ## Course Syllabus
 
-Current course syllabus and academic documents.
+UG Physics Major and Research Curriculum (FYUGP).
 
-[**Download Course Syllabus →**]({{ '/documents/syllabus.pdf' | relative_url }})
+[**Download Physics MJ & RC syllabus →**]({{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }})
 
 ---
 
