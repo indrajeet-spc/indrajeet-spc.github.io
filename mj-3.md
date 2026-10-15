@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "MJ-3 Lecture Notes | Dr. Indrajeet Kumar"
+title: "MJ-3: Electricity and Magnetism | Dr. Indrajeet Kumar"
 heading: "MJ-3: Electricity and Magnetism"
 kicker: "MJ-3 LECTURE NOTES"
 subtitle: "Electricity and Magnetism"

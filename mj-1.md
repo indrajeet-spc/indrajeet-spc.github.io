@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "MJ-1 Lecture Notes | Dr. Indrajeet Kumar"
+title: "MJ-1: Mechanics and Properties of Matter | Dr. Indrajeet Kumar"
 heading: "MJ-1: Mechanics and Properties of Matter"
 kicker: "MJ-1 LECTURE NOTES"
 subtitle: "Mechanics and Properties of Matter"

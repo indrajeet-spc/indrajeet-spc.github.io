@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "MJ-7 Lecture Notes | Dr. Indrajeet Kumar"
+title: "MJ-7: Semiconductor Devices | Dr. Indrajeet Kumar"
 heading: "MJ-7: Semiconductor Devices"
 kicker: "MJ-7 LECTURE NOTES"
 subtitle: "Semiconductor Devices"

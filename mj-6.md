@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "MJ-6 Lecture Notes | Dr. Indrajeet Kumar"
+title: "MJ-6: Heat and Thermodynamics | Dr. Indrajeet Kumar"
 heading: "MJ-6: Heat and Thermodynamics"
 kicker: "MJ-6 LECTURE NOTES"
 subtitle: "Heat and Thermodynamics"

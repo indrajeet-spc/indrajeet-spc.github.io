@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "MJ-5 Lecture Notes | Dr. Indrajeet Kumar"
+title: "MJ-5: Indian Knowledge System: Physics in Ancient India | Dr. Indrajeet Kumar"
 heading: "MJ-5: Indian Knowledge System: Physics in Ancient India"
 kicker: "MJ-5 LECTURE NOTES"
 subtitle: "Indian Knowledge System: Physics in Ancient India"

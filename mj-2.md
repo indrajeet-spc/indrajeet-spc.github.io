@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "MJ-2 Lecture Notes | Dr. Indrajeet Kumar"
+title: "MJ-2: Mathematical Physics-I | Dr. Indrajeet Kumar"
 heading: "MJ-2: Mathematical Physics-I"
 kicker: "MJ-2 LECTURE NOTES"
 subtitle: "Mathematical Physics-I"

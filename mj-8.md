@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "MJ-8 Lecture Notes | Dr. Indrajeet Kumar"
+title: "MJ-8: Electromagnetic Theory | Dr. Indrajeet Kumar"
 heading: "MJ-8: Electromagnetic Theory"
 kicker: "MJ-8 LECTURE NOTES"
 subtitle: "Electromagnetic Theory"

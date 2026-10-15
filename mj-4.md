@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "MJ-4 Lecture Notes | Dr. Indrajeet Kumar"
+title: "MJ-4: Waves and Optics | Dr. Indrajeet Kumar"
 heading: "MJ-4: Waves and Optics"
 kicker: "MJ-4 LECTURE NOTES"
 subtitle: "Waves and Optics"

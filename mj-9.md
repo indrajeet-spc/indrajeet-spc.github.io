@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "MJ-9 Lecture Notes | Dr. Indrajeet Kumar"
+title: "MJ-9: Numerical Techniques and Programming | Dr. Indrajeet Kumar"
 heading: "MJ-9: Numerical Techniques and Programming"
 kicker: "MJ-9 LECTURE NOTES"
 subtitle: "Numerical Techniques and Programming"
