@@ -32,7 +32,7 @@ Each Major paper carries 45 theory teaching hours and 3 theory credits, with a 3
       <li><a href="https://indrajeet-spc.github.io/lecture-notes">Propagation in conductors, relaxation time, and skin depth</a></li>
       <li><a href="https://indrajeet-spc.github.io/lecture-notes">Interface boundary conditions and reflection and refraction at dielectric boundaries</a></li>
       <li><a href="https://indrajeet-spc.github.io/lecture-notes">Fresnel formulae, Brewster's law, and reflection and transmission coefficients</a></li>
-      <li><a href="https://indrajeet-spc.github.io/lecture-notes">Planar optical and dielectric waveguides; continuity conditions, total-reflection phase shift, eigenvalues, and guided-wave velocities</a></li>
+      <li><a href="https://indrajeet-spc.github.io/lecture-notes">Planar optical waveguides</a>, <a href="https://indrajeet-spc.github.io/lecture-notes">planar dielectric waveguides</a>, <a href="https://indrajeet-spc.github.io/lecture-notes">continuity conditions at interfaces</a>, <a href="https://indrajeet-spc.github.io/lecture-notes">phase shift on total reflection</a>, <a href="https://indrajeet-spc.github.io/lecture-notes">eigenvalue equations</a>, and <a href="https://indrajeet-spc.github.io/lecture-notes">phase and group velocities of guided waves</a></li>
       <li><a href="https://indrajeet-spc.github.io/lecture-notes">Waveguide field energy, power transmission, numerical aperture, and step- and graded-index single- and multimode fibres</a></li>
     </ul>
   </div>
