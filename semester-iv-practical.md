@@ -3,12 +3,63 @@ layout: default
 title: "Semester IV Practical Physics | Dr. Indrajeet Kumar"
 heading: "Semester IV Practical Physics"
 kicker: "SEMESTER IV"
-subtitle: "Laboratory work for MJ-4"
+subtitle: "MJ-5: Indian Knowledge System | MJ-6: Heat and Thermodynamics | MJ-7: Semiconductor Devices"
 permalink: /semester-iv-practical/
 ---
 
-## Semester IV Practical
+## Practical Experiments for Semester IV
 
-Detailed practical content for Semester IV will be available soon.
+Each Major practical carries 30 teaching hours and 1 credit. Each experiment links to the Semester IV lecture-notes page.
+
+### MJ-5: Indian Knowledge System: Physics in Ancient India
+The complete practical syllabus is available in the [university PDF (page 21)]({{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=21).
+<div class="semester-topics practical-topics">
+  <div class="semester-topic-box">
+    <strong>MJ-5 Experiments</strong>
+    <ul>
+      <li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Demonstrate sound vibration using tuning forks, analyze pitch and amplitude, and discuss Nada-Brahma.</a></li>
+      <li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Demonstrate a structured Nyaya-style inference (anumana) for a physical event.</a></li>
+      <li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Construct a basic Panchanga-based calendar noting tithis, nakshatras, and planetary conjunctions.</a></li>
+      <li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Analyze Sayana's Rigveda verse estimating the speed of light and compare it numerically with modern values.</a></li>
+      <li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Construct altars using Pythagorean triples as described in the Sulba Sutras.</a></li>
+      <li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Predict sunrise, sunset, or planet positions using simplified algorithms from Surya Siddhanta.</a></li>
+      <li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Derive sine and cosine values using Madhava's series and compare them with modern Taylor expansions.</a></li>
+      <li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Construct a simple ancient Indian timekeeping device using water flow.</a></li>
+    </ul>
+  </div>
+</div>
+
+### MJ-6: Heat and Thermodynamics
+The complete practical syllabus is available in the [university PDF (page 24)]({{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=24).
+<div class="semester-topics practical-topics">
+  <div class="semester-topic-box">
+    <strong>MJ-6 Experiments</strong>
+    <ul>
+      <li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Determine the thermal conductivity of copper using Searle's apparatus.</a></li>
+      <li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Determine the thermal conductivity of a bad conductor using Lee and Charlton's disc method.</a></li>
+      <li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Study thermoelectric emf variation with the temperature difference between the two thermocouple junctions.</a></li>
+      <li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Calibrate a thermocouple and determine an unknown temperature.</a></li>
+      <li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Determine the ratio of specific heats of a gas using Clement and Desormes' apparatus.</a></li>
+      <li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Determine the temperature coefficient of resistance of a wire material.</a></li>
+    </ul>
+  </div>
+</div>
+
+### MJ-7: Semiconductor Devices
+The complete practical syllabus is available in the [university PDF (page 27)]({{ '/documents/PHYSICS%20MJ%20%26%20RC.pdf' | relative_url }}#page=27).
+<div class="semester-topics practical-topics">
+  <div class="semester-topic-box">
+    <strong>MJ-7 Experiments</strong>
+    <ul>
+      <li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Study the V-I characteristics of a p-n junction diode and verify the diode equation.</a></li>
+      <li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Study the V-I characteristics of a Zener diode and its use as a voltage regulator.</a></li>
+      <li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Estimate the energy gap of a semiconductor using a p-n junction.</a></li>
+      <li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Study the characteristics of a bipolar junction transistor in common-emitter configuration.</a></li>
+      <li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Study the frequency response of voltage gain in an RC-coupled transistor amplifier.</a></li>
+      <li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Study the output and transfer characteristics of a JFET.</a></li>
+      <li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Design a common-source JFET amplifier and study its frequency response.</a></li>
+    </ul>
+  </div>
+</div>
 
 > For Semester IV theory topics, visit [Semester IV Physics]({{ '/semester-iv/' | relative_url }}).
