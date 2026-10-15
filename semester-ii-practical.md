@@ -18,33 +18,27 @@ Each experiment links to the Semester II lecture-notes page. The complete practi
 <div class="semester-topics practical-topics">
     <div class="semester-topic-box">
     <strong>Experiment 1</strong>
-    <span>Measure length or diameter using Vernier calipers.</span>
-    <ul><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Open experiment notes</a></li></ul>
+    <span><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Measure length or diameter using Vernier calipers.</a></span>
   </div>
   <div class="semester-topic-box">
     <strong>Experiment 2</strong>
-    <span>Measure thickness using a screw gauge and travelling microscope.</span>
-    <ul><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Open experiment notes</a></li></ul>
+    <span><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Measure thickness using a screw gauge and travelling microscope.</a></span>
   </div>
   <div class="semester-topic-box">
     <strong>Experiment 3</strong>
-    <span>Measure the thickness of thin transparent plates using a spherometer.</span>
-    <ul><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Open experiment notes</a></li></ul>
+    <span><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Measure the thickness of thin transparent plates using a spherometer.</a></span>
   </div>
   <div class="semester-topic-box">
     <strong>Experiment 4</strong>
-    <span>Determine radius of curvature using a spherometer.</span>
-    <ul><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Open experiment notes</a></li></ul>
+    <span><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Determine radius of curvature using a spherometer.</a></span>
   </div>
   <div class="semester-topic-box">
     <strong>Experiment 5</strong>
-    <span>Measure volume and density of a solid cylinder and a hollow cylinder (pipe) using Vernier calipers and a screw gauge.</span>
-    <ul><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Open experiment notes</a></li></ul>
+    <span><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Measure volume and density of a solid cylinder and a hollow cylinder (pipe) using Vernier calipers and a screw gauge.</a></span>
   </div>
   <div class="semester-topic-box">
     <strong>Experiment 6</strong>
-    <span>Use a multimeter to measure resistance, AC and DC voltage, DC current, and capacitance, and to check electrical fuses.</span>
-    <ul><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Open experiment notes</a></li></ul>
+    <span><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Use a multimeter to measure resistance, AC and DC voltage, DC current, and capacitance, and to check electrical fuses.</a></span>
   </div>
 </div>
 

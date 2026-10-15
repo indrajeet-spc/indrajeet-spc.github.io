@@ -16,43 +16,35 @@ The complete practical syllabus is available in the [university PDF (page 42)]({
 <div class="semester-topics practical-topics">
     <div class="semester-topic-box">
     <strong>Experiment 1</strong>
-    <span>Observe and measure hydrogen spectral lines and calculate the Rydberg constant.</span>
-    <ul><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Open experiment notes</a></li></ul>
+    <span><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Observe and measure hydrogen spectral lines and calculate the Rydberg constant.</a></span>
   </div>
   <div class="semester-topic-box">
     <strong>Experiment 2</strong>
-    <span>Resolve and measure the wavelength separation of the sodium D1 and D2 lines.</span>
-    <ul><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Open experiment notes</a></li></ul>
+    <span><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Resolve and measure the wavelength separation of the sodium D1 and D2 lines.</a></span>
   </div>
   <div class="semester-topic-box">
     <strong>Experiment 3</strong>
-    <span>Compare observed hydrogen or helium spectral lines with Bohr's theoretical predictions.</span>
-    <ul><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Open experiment notes</a></li></ul>
+    <span><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Compare observed hydrogen or helium spectral lines with Bohr's theoretical predictions.</a></span>
   </div>
   <div class="semester-topic-box">
     <strong>Experiment 4</strong>
-    <span>Observe spectral-line splitting in a magnetic field (Zeeman effect).</span>
-    <ul><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Open experiment notes</a></li></ul>
+    <span><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Observe spectral-line splitting in a magnetic field (Zeeman effect).</a></span>
   </div>
   <div class="semester-topic-box">
     <strong>Experiment 5</strong>
-    <span>Simulate rate equations for two- and three-level lasers and analyze their dynamics.</span>
-    <ul><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Open experiment notes</a></li></ul>
+    <span><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Simulate rate equations for two- and three-level lasers and analyze their dynamics.</a></span>
   </div>
   <div class="semester-topic-box">
     <strong>Experiment 6</strong>
-    <span>Determine rotational constants from microwave absorption spectra of diatomic molecules.</span>
-    <ul><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Open experiment notes</a></li></ul>
+    <span><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Determine rotational constants from microwave absorption spectra of diatomic molecules.</a></span>
   </div>
   <div class="semester-topic-box">
     <strong>Experiment 7</strong>
-    <span>Measure the spatial coherence and divergence of a laser beam.</span>
-    <ul><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Open experiment notes</a></li></ul>
+    <span><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Measure the spatial coherence and divergence of a laser beam.</a></span>
   </div>
   <div class="semester-topic-box">
     <strong>Experiment 8</strong>
-    <span>Numerically solve the radial and angular equations and analyze quantum numbers.</span>
-    <ul><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Open experiment notes</a></li></ul>
+    <span><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Numerically solve the radial and angular equations and analyze quantum numbers.</a></span>
   </div>
 </div>
 
@@ -61,33 +53,27 @@ The complete practical syllabus is available in the [university PDF (page 45)]({
 <div class="semester-topics practical-topics">
     <div class="semester-topic-box">
     <strong>Experiment 1</strong>
-    <span>Measure specific heats, verify the equipartition law, and explore its limitations.</span>
-    <ul><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Open experiment notes</a></li></ul>
+    <span><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Measure specific heats, verify the equipartition law, and explore its limitations.</a></span>
   </div>
   <div class="semester-topic-box">
     <strong>Experiment 2</strong>
-    <span>Computationally visualize distributions of microstates and macrostates.</span>
-    <ul><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Open experiment notes</a></li></ul>
+    <span><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Computationally visualize distributions of microstates and macrostates.</a></span>
   </div>
   <div class="semester-topic-box">
     <strong>Experiment 3</strong>
-    <span>Verify the Rayleigh-Jeans approximation in the classical limit.</span>
-    <ul><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Open experiment notes</a></li></ul>
+    <span><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Verify the Rayleigh-Jeans approximation in the classical limit.</a></span>
   </div>
   <div class="semester-topic-box">
     <strong>Experiment 4</strong>
-    <span>Estimate Fermi energy using thermionic-emission experiments.</span>
-    <ul><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Open experiment notes</a></li></ul>
+    <span><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Estimate Fermi energy using thermionic-emission experiments.</a></span>
   </div>
   <div class="semester-topic-box">
     <strong>Experiment 5</strong>
-    <span>Computationally visualize energy-state occupancy in a Fermi gas at different temperatures.</span>
-    <ul><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Open experiment notes</a></li></ul>
+    <span><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Computationally visualize energy-state occupancy in a Fermi gas at different temperatures.</a></span>
   </div>
   <div class="semester-topic-box">
     <strong>Experiment 6</strong>
-    <span>Analyze radiation-intensity distributions at different temperatures.</span>
-    <ul><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Open experiment notes</a></li></ul>
+    <span><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Analyze radiation-intensity distributions at different temperatures.</a></span>
   </div>
 </div>
 
@@ -96,33 +82,27 @@ The complete practical syllabus is available in the [university PDF (page 47)]({
 <div class="semester-topics practical-topics">
     <div class="semester-topic-box">
     <strong>Experiment 1</strong>
-    <span>Construct half and full adders using XOR and NAND gates and verify their operation.</span>
-    <ul><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Open experiment notes</a></li></ul>
+    <span><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Construct half and full adders using XOR and NAND gates and verify their operation.</a></span>
   </div>
   <div class="semester-topic-box">
     <strong>Experiment 2</strong>
-    <span>Verify truth tables of RS, JK, T, and D flip-flops using NAND and NOR gates.</span>
-    <ul><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Open experiment notes</a></li></ul>
+    <span><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Verify truth tables of RS, JK, T, and D flip-flops using NAND and NOR gates.</a></span>
   </div>
   <div class="semester-topic-box">
     <strong>Experiment 3</strong>
-    <span>Encode and decode characters using BCD and ASCII formats.</span>
-    <ul><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Open experiment notes</a></li></ul>
+    <span><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Encode and decode characters using BCD and ASCII formats.</a></span>
   </div>
   <div class="semester-topic-box">
     <strong>Experiment 4</strong>
-    <span>Write a program to convert numbers between binary, octal, decimal, and hexadecimal systems.</span>
-    <ul><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Open experiment notes</a></li></ul>
+    <span><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Write a program to convert numbers between binary, octal, decimal, and hexadecimal systems.</a></span>
   </div>
   <div class="semester-topic-box">
     <strong>Experiment 5</strong>
-    <span>Design and demonstrate data-shifting operations in a shift register.</span>
-    <ul><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Open experiment notes</a></li></ul>
+    <span><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Design and demonstrate data-shifting operations in a shift register.</a></span>
   </div>
   <div class="semester-topic-box">
     <strong>Experiment 6</strong>
-    <span>Implement Boolean expressions in SOP and POS forms using logic gates.</span>
-    <ul><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Open experiment notes</a></li></ul>
+    <span><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Implement Boolean expressions in SOP and POS forms using logic gates.</a></span>
   </div>
 </div>
 
@@ -131,33 +111,27 @@ The complete practical syllabus is available in the [university PDF (page 51)]({
 <div class="semester-topics practical-topics">
     <div class="semester-topic-box">
     <strong>Experiment 1</strong>
-    <span>Determine the Hall coefficient of a semiconductor sample.</span>
-    <ul><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Open experiment notes</a></li></ul>
+    <span><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Determine the Hall coefficient of a semiconductor sample.</a></span>
   </div>
   <div class="semester-topic-box">
     <strong>Experiment 2</strong>
-    <span>Determine the coupling coefficient of a piezoelectric crystal.</span>
-    <ul><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Open experiment notes</a></li></ul>
+    <span><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Determine the coupling coefficient of a piezoelectric crystal.</a></span>
   </div>
   <div class="semester-topic-box">
     <strong>Experiment 3</strong>
-    <span>Measure the dielectric constant of a dielectric material as a function of frequency.</span>
-    <ul><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Open experiment notes</a></li></ul>
+    <span><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Measure the dielectric constant of a dielectric material as a function of frequency.</a></span>
   </div>
   <div class="semester-topic-box">
     <strong>Experiment 4</strong>
-    <span>Measure diffraction angles for a known crystal and verify Bragg's law.</span>
-    <ul><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Open experiment notes</a></li></ul>
+    <span><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Measure diffraction angles for a known crystal and verify Bragg's law.</a></span>
   </div>
   <div class="semester-topic-box">
     <strong>Experiment 5</strong>
-    <span>Simulate phonon dispersion relations for monoatomic and diatomic chains.</span>
-    <ul><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Open experiment notes</a></li></ul>
+    <span><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Simulate phonon dispersion relations for monoatomic and diatomic chains.</a></span>
   </div>
   <div class="semester-topic-box">
     <strong>Experiment 6</strong>
-    <span>Estimate band-gap energy from thermally activated current in a p-n junction diode.</span>
-    <ul><li><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Open experiment notes</a></li></ul>
+    <span><a href="https://indrajeet-spc.github.io/lecture-notes" target="_blank" rel="noopener">Estimate band-gap energy from thermally activated current in a p-n junction diode.</a></span>
   </div>
 </div>
 

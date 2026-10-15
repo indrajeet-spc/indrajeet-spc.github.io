@@ -1238,6 +1238,15 @@ img {
     font-size: 0.9rem;
 }
 
+.semester-topic-box span a {
+    color: var(--blue);
+    text-decoration: underline;
+}
+
+.semester-topic-box span a:hover {
+    color: #356c2d;
+}
+
 .semester-topic-box ul {
     margin: 10px 0 0;
     padding-left: 18px;
