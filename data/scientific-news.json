@@ -41,91 +41,91 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-10-14T06:27:43.245474+00:00",
+  "updated_at": "2026-10-15T06:10:47.314183+00:00",
   "items": [
     {
-      "title": "China\u2019s AI research is booming. Where is it headed?",
-      "url": "https://www.nature.com/articles/d41586-026-03223-8",
+      "title": "NASA\u2019s Chandra Breaks Down \u2018Treble Clef\u2019s\u2019 Galaxy Cluster Collision",
+      "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/",
+      "source": "NASA News",
+      "date": "14 Oct 2026",
+      "abstract": "Astronomers have used NASA\u2019s Chandra X-ray Observatory to break down the cause of a remarkable formation of radio waves they have nicknamed the \u201cTreble Clef\u201d because its distinct shape strongly resembles the musical symbol. The researchers discovered the Treble Clef is likely caused by an outburst f..."
+    },
+    {
+      "title": "New chip-scale gyroscope measures rotation with unprecedented sensitivity",
+      "url": "https://phys.org/news/2026-10-chip-scale-gyroscope-rotation-unprecedented.html",
+      "source": "Phys.org",
+      "date": "14 Oct 2026",
+      "abstract": "Researchers have developed a chip-scale optical ring-laser gyroscope that can measure rotation as slow as 37 degrees per hour. This record sensitivity, approaching Earth's rotation rate of 15 degrees per hour, could eventually be useful for precision navigation and orientation systems, particularly..."
+    },
+    {
+      "title": "New framework links magnetic phase boundaries to string-like defects in spin ice",
+      "url": "https://phys.org/news/2026-10-framework-links-magnetic-phase-boundaries.html",
+      "source": "Phys.org",
+      "date": "14 Oct 2026",
+      "abstract": "A research team led by Haruki Watanabe, a professor in the Department of Physics and the Jockey Club Institute for Advanced Study (IAS) at The Hong Kong University of Science and Technology (HKUST), in collaboration with professor Yukitoshi Motome and graduate student Sena Watanabe from the Universi..."
+    },
+    {
+      "title": "Rare particle decays hint at deviations from Standard Model predictions",
+      "url": "https://phys.org/news/2026-10-rare-particle-decays-hint-deviations.html",
+      "source": "Phys.org",
+      "date": "14 Oct 2026",
+      "abstract": "Studying rare processes is part and parcel of particle physics, providing stringent tests of the Standard Model. At the recent International Conference on High Energy Physics (ICHEP), the CMS and LHCb collaborations presented their latest research into one such process: the transformation of a beaut..."
+    },
+    {
+      "title": "IBM executive warns of risk of quantum computing hacks",
+      "url": "https://phys.org/news/2026-10-ibm-quantum-hacks.html",
+      "source": "Phys.org",
+      "date": "14 Oct 2026",
+      "abstract": "Organizations are unprepared for the risks posed by quantum computing, IBM's Europe and Africa vice president Alessandro Curioni told AFP Wednesday, referring to the high-speed technology that could crack security encryptions and enable large-scale cyberattacks."
+    },
+    {
+      "title": "A tiny magnetic whirlpool could point to a new kind of ultra-efficient memory",
+      "url": "https://phys.org/news/2026-10-tiny-magnetic-whirlpool-kind-ultra.html",
+      "source": "Phys.org",
+      "date": "14 Oct 2026",
+      "abstract": "Every time a computer stores or erases information, it uses energy. The amount is tiny for a single operation, but those operations happen billions of times every second. For decades, scientists have wondered just how little energy a memory device could use before reaching the fundamental theoretica..."
+    },
+    {
+      "title": "Storing memory on a chip with flowing water",
+      "url": "https://phys.org/news/2026-10-memory-chip.html",
+      "source": "Phys.org",
+      "date": "14 Oct 2026",
+      "abstract": "Like the folds in crumpled sheets or the footprints on recently trodden sand, certain materials mark their histories. Now, Yale researchers show that networks of flowing water and other fluids can store their own memories\u2014similar to how a computer chip does\u2014an innovation that could steer robots and..."
+    },
+    {
+      "title": "Jamming the flow to enable memory in quantum materials",
+      "url": "https://phys.org/news/2026-10-enable-memory-quantum-materials.html",
+      "source": "Phys.org",
+      "date": "14 Oct 2026",
+      "abstract": "Understanding and controlling phase transitions are fundamental to physics and central to many technological revolutions. There is currently strong interest in materials with coupled structural and electronic phase transitions, where controlling the transition plasticity naturally yields built-in me..."
+    },
+    {
+      "title": "Catalytic transfer of carbon atoms enables spirofusion of C\u2013C \u03c3-bonds",
+      "url": "https://www.nature.com/articles/s41586-026-11242-8",
       "source": "Nature Journal",
       "date": "14 Oct 2026",
-      "abstract": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03223-8 Nature speaks to analysts and researchers about what it\u2019s like to work in AI in China."
+      "abstract": "Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11242-8 Catalytic transfer of carbon atoms enables spirofusion of C\u2013C \u03c3-bonds"
     },
     {
-      "title": "China\u2019s extraordinary rise in science and how it will change the world",
-      "url": "https://www.nature.com/articles/d41586-026-03222-9",
+      "title": "This is why butterflies are so hard to catch",
+      "url": "https://www.nature.com/articles/d41586-026-03301-x",
       "source": "Nature Journal",
       "date": "14 Oct 2026",
-      "abstract": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03222-9 The nation is on a trajectory to lead the world in science, a development that will reshape technological advancement, innovation and the balance of global power."
+      "abstract": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03301-x High-speed camera footage reveals the visual tricks butterflies use to evade predators."
     },
     {
-      "title": "Could meditation reveal an SU(3) symmetry shared by the observer and the universe?",
-      "url": "https://phys.org/news/2026-10-meditation-reveal-su3-symmetry-universe.html",
-      "source": "Phys.org",
-      "date": "13 Oct 2026",
-      "abstract": "You sit down to meditate. A conversation returns, then thoughts. You bring your attention back to the breath. Sometimes, after many such returns, the effort eases. Thoughts lose their urgency, while awareness remains clear. Less occupies the mind, yet the moment still feels whole."
-    },
-    {
-      "title": "Faster molecular simulations identify promising diamond defects for quantum computers and sensors",
-      "url": "https://phys.org/news/2026-10-faster-molecular-simulations-diamond-defects.html",
-      "source": "Phys.org",
-      "date": "13 Oct 2026",
-      "abstract": "A faster way of finding the best diamond-based materials for quantum computers has been developed by a researcher at the U.S. Department of Energy's (DOE) Princeton Plasma Physics Laboratory (PPPL). The new approach has already identified promising materials for practical quantum sensors and compute..."
-    },
-    {
-      "title": "Preserve research data for tomorrow\u2019s AI-enabled integrity checks",
-      "url": "https://www.nature.com/articles/d41586-026-03244-3",
+      "title": "Biomedical engineering is growing rapidly, but will it help patients?",
+      "url": "https://www.nature.com/articles/d41586-026-03202-z",
       "source": "Nature Journal",
-      "date": "13 Oct 2026",
-      "abstract": "Nature, Published online: 13 October 2026; doi:10.1038/d41586-026-03244-3 Preserve research data for tomorrow\u2019s AI-enabled integrity checks"
+      "date": "14 Oct 2026",
+      "abstract": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03202-z Assimilating the latest technology into health systems is a key challenge facing the field."
     },
     {
-      "title": "Atomic-scale spin sensing of a 2D d-wave altermagnet via helical tunneling",
-      "url": "https://www.nature.com/articles/s41586-026-11257-1",
+      "title": "Author Correction: Wafer-scale epitaxy growth of high-mobility p-type boron carbon nitride",
+      "url": "https://www.nature.com/articles/s41586-026-11267-z",
       "source": "Nature Journal",
-      "date": "13 Oct 2026",
-      "abstract": "Nature, Published online: 13 October 2026; doi:10.1038/s41586-026-11257-1 Atomic-scale spin sensing of a 2D d-wave altermagnet via helical tunneling"
-    },
-    {
-      "title": "Decentralized AI needs more evidence on energy use",
-      "url": "https://www.nature.com/articles/d41586-026-03245-2",
-      "source": "Nature Journal",
-      "date": "13 Oct 2026",
-      "abstract": "Nature, Published online: 13 October 2026; doi:10.1038/d41586-026-03245-2 Decentralized AI needs more evidence on energy use"
-    },
-    {
-      "title": "Selective, Catalytic Oxidation of Polyethylene Surfaces",
-      "url": "https://www.nature.com/articles/s41586-026-11255-3",
-      "source": "Nature Journal",
-      "date": "13 Oct 2026",
-      "abstract": "Nature, Published online: 13 October 2026; doi:10.1038/s41586-026-11255-3 Selective, Catalytic Oxidation of Polyethylene Surfaces"
-    },
-    {
-      "title": "Lead-tainted teeth reveal medieval mines\u2019 unequal toll",
-      "url": "https://www.nature.com/articles/d41586-026-03236-3",
-      "source": "Nature Journal",
-      "date": "13 Oct 2026",
-      "abstract": "Nature, Published online: 13 October 2026; doi:10.1038/d41586-026-03236-3 Burials in the United Kingdom\u2019s Peak District, one of Europe\u2019s largest lead-production regions in centuries past, hint at social inequality."
-    },
-    {
-      "title": "When microbes degrade plastic, where does it go?",
-      "url": "https://www.nature.com/articles/d41586-026-03246-1",
-      "source": "Nature Journal",
-      "date": "13 Oct 2026",
-      "abstract": "Nature, Published online: 13 October 2026; doi:10.1038/d41586-026-03246-1 When microbes degrade plastic, where does it go?"
-    },
-    {
-      "title": "A mysterious jelly seems to be left behind by toads",
-      "url": "https://www.nature.com/articles/d41586-026-02974-8",
-      "source": "Nature Journal",
-      "date": "13 Oct 2026",
-      "abstract": "Nature, Published online: 13 October 2026; doi:10.1038/d41586-026-02974-8 A scientist puzzles over the origins of a curious gelatinous substance, and the complexities of measuring time, in our weekly dip into Nature\u2019s archive."
-    },
-    {
-      "title": "Why not every global problem can be tackled by an IPCC-like organization",
-      "url": "https://www.nature.com/articles/d41586-026-03234-5",
-      "source": "Nature Journal",
-      "date": "13 Oct 2026",
-      "abstract": "Nature, Published online: 13 October 2026; doi:10.1038/d41586-026-03234-5 Why not every global problem can be tackled by an IPCC-like organization"
+      "date": "14 Oct 2026",
+      "abstract": "Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11267-z Author Correction: Wafer-scale epitaxy growth of high-mobility p-type boron carbon nitride"
     }
   ]
 }
