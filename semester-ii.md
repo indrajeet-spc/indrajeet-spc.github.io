@@ -22,17 +22,17 @@ permalink: /semester-ii/
       <li><a href="https://indrajeet-spc.github.io/lecture-notes">Vector differentiation: directional and normal derivatives</a></li>
       <li><a href="https://indrajeet-spc.github.io/lecture-notes">Gradient of a scalar field and its geometrical interpretation</a></li>
       <li><a href="https://indrajeet-spc.github.io/lecture-notes">Divergence and curl of a vector field and their physical interpretation</a></li>
-      <li><a href="https://indrajeet-spc.github.io/lecture-notes">Line, surface, and volume integrals</a></li>
+      <li><a href="https://indrajeet-spc.github.io/lecture-notes">Line</a>, <a href="https://indrajeet-spc.github.io/lecture-notes">surface</a>, and <a href="https://indrajeet-spc.github.io/lecture-notes">volume integrals</a></li>
       <li><a href="https://indrajeet-spc.github.io/lecture-notes">Gauss' divergence theorem and its applications</a></li>
       <li><a href="https://indrajeet-spc.github.io/lecture-notes">Green's and Stokes' theorems and their applications</a></li>
-      <li><a href="https://indrajeet-spc.github.io/lecture-notes">Gradient, divergence, curl, and Laplacian in Cartesian, spherical, and cylindrical coordinate systems</a></li>
+      <li><a href="https://indrajeet-spc.github.io/lecture-notes">Gradient</a>, <a href="https://indrajeet-spc.github.io/lecture-notes">divergence</a>, <a href="https://indrajeet-spc.github.io/lecture-notes">curl</a>, and <a href="https://indrajeet-spc.github.io/lecture-notes">Laplacian in Cartesian</a>, <a href="https://indrajeet-spc.github.io/lecture-notes">spherical</a>, and <a href="https://indrajeet-spc.github.io/lecture-notes">cylindrical coordinate systems</a></li>
     </ul>
   </div>
   <div class="semester-topic-box">
     <strong>UNIT-II:</strong>
     <span>Differential Equations (15 Lectures)</span>
     <ul>
-      <li><a href="https://indrajeet-spc.github.io/lecture-notes">First-order differential equations: homogeneous, non-homogeneous, exact, and inexact equations; integrating factors</a></li>
+      <li><a href="https://indrajeet-spc.github.io/lecture-notes">First-order differential equations: homogeneous</a>, <a href="https://indrajeet-spc.github.io/lecture-notes">non-homogeneous</a>, <a href="https://indrajeet-spc.github.io/lecture-notes">exact</a>, and <a href="https://indrajeet-spc.github.io/lecture-notes">inexact equations; integrating factors</a></li>
       <li><a href="https://indrajeet-spc.github.io/lecture-notes">Homogeneous equations with constant coefficients</a></li>
       <li><a href="https://indrajeet-spc.github.io/lecture-notes">Cauchy-Euler differential equation</a></li>
       <li><a href="https://indrajeet-spc.github.io/lecture-notes">Simultaneous first- and second-order differential equations</a></li>
@@ -46,14 +46,14 @@ permalink: /semester-ii/
     <strong>UNIT-III:</strong>
     <span>Complex Analysis (15 Lectures)</span>
     <ul>
-      <li><a href="https://indrajeet-spc.github.io/lecture-notes">Complex numbers, graphical representation, Euler's formula, De Moivre's theorem, and roots of complex numbers</a></li>
-      <li><a href="https://indrajeet-spc.github.io/lecture-notes">Functions of complex variables, analyticity, and Cauchy-Riemann equations</a></li>
+      <li><a href="https://indrajeet-spc.github.io/lecture-notes">Complex numbers</a>, <a href="https://indrajeet-spc.github.io/lecture-notes">graphical representation</a>, <a href="https://indrajeet-spc.github.io/lecture-notes">Euler's formula</a>, <a href="https://indrajeet-spc.github.io/lecture-notes">De Moivre's theorem</a>, and <a href="https://indrajeet-spc.github.io/lecture-notes">roots of complex numbers</a></li>
+      <li><a href="https://indrajeet-spc.github.io/lecture-notes">Functions of complex variables</a>, <a href="https://indrajeet-spc.github.io/lecture-notes">analyticity</a>, and <a href="https://indrajeet-spc.github.io/lecture-notes">Cauchy-Riemann equations</a></li>
       <li><a href="https://indrajeet-spc.github.io/lecture-notes">Examples of analytic functions</a></li>
-      <li><a href="https://indrajeet-spc.github.io/lecture-notes">Singularities: poles, removable and essential singularities, branch points, and branch cuts</a></li>
-      <li><a href="https://indrajeet-spc.github.io/lecture-notes">Complex integration, Cauchy-Goursat theorem, and Cauchy's inequality</a></li>
+      <li><a href="https://indrajeet-spc.github.io/lecture-notes">Singularities: poles</a>, <a href="https://indrajeet-spc.github.io/lecture-notes">removable and essential singularities</a>, <a href="https://indrajeet-spc.github.io/lecture-notes">branch points</a>, and <a href="https://indrajeet-spc.github.io/lecture-notes">branch cuts</a></li>
+      <li><a href="https://indrajeet-spc.github.io/lecture-notes">Complex integration</a>, <a href="https://indrajeet-spc.github.io/lecture-notes">Cauchy-Goursat theorem</a>, and <a href="https://indrajeet-spc.github.io/lecture-notes">Cauchy's inequality</a></li>
       <li><a href="https://indrajeet-spc.github.io/lecture-notes">Cauchy's integral formula and simply and multiply connected regions</a></li>
       <li><a href="https://indrajeet-spc.github.io/lecture-notes">Laurent and Taylor expansions</a></li>
-      <li><a href="https://indrajeet-spc.github.io/lecture-notes">Residues, residue theorem, and contour integration to evaluate definite integrals</a></li>
+      <li><a href="https://indrajeet-spc.github.io/lecture-notes">Residues</a>, <a href="https://indrajeet-spc.github.io/lecture-notes">residue theorem</a>, and <a href="https://indrajeet-spc.github.io/lecture-notes">contour integration to evaluate definite integrals</a></li>
     </ul>
   </div>
 </div>

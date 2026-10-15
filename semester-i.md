@@ -25,9 +25,9 @@ permalink: /semester-i/
       <li><a href="https://indrajeet-spc.github.io/lecture-notes">Hooke's law</a></li>
       <li><a href="https://indrajeet-spc.github.io/lecture-notes">Stress-strain diagram</a></li>
       <li><a href="https://indrajeet-spc.github.io/lecture-notes">Elastic moduli</a></li>
-      <li><a href="https://indrajeet-spc.github.io/lecture-notes">Poisson's ratio, including its expression in terms of elastic constants and relations between them</a></li>
-      <li><a href="https://indrajeet-spc.github.io/lecture-notes">Kinematics of moving fluids: viscous fluids, Poiseuille's equation for liquid flow through a capillary tube (with correction), flow of compressible fluid through a capillary tube, and Rankine's methods for measuring gas viscosity</a></li>
-      <li><a href="https://indrajeet-spc.github.io/lecture-notes">Surface tension, surface energy, angle of contact, expression for excess pressure, principle of virtual work, ripples, and gravity waves</a></li>
+      <li><a href="https://indrajeet-spc.github.io/lecture-notes">Poisson's ratio</a>, <a href="https://indrajeet-spc.github.io/lecture-notes">including its expression in terms of elastic constants and relations between them</a></li>
+      <li><a href="https://indrajeet-spc.github.io/lecture-notes">Kinematics of moving fluids: viscous fluids</a>, <a href="https://indrajeet-spc.github.io/lecture-notes">Poiseuille's equation for liquid flow through a capillary tube (with correction)</a>, <a href="https://indrajeet-spc.github.io/lecture-notes">flow of compressible fluid through a capillary tube</a>, and <a href="https://indrajeet-spc.github.io/lecture-notes">Rankine's methods for measuring gas viscosity</a></li>
+      <li><a href="https://indrajeet-spc.github.io/lecture-notes">Surface tension</a>, <a href="https://indrajeet-spc.github.io/lecture-notes">surface energy</a>, <a href="https://indrajeet-spc.github.io/lecture-notes">angle of contact</a>, <a href="https://indrajeet-spc.github.io/lecture-notes">expression for excess pressure</a>, <a href="https://indrajeet-spc.github.io/lecture-notes">principle of virtual work</a>, <a href="https://indrajeet-spc.github.io/lecture-notes">ripples</a>, and <a href="https://indrajeet-spc.github.io/lecture-notes">gravity waves</a></li>
     </ul>
   </div>
   <div class="semester-topic-box">
@@ -36,10 +36,10 @@ permalink: /semester-i/
     <ul>
       <li><a href="https://indrajeet-spc.github.io/lecture-notes">Motion of a particle under a central force field and conservation of angular momentum</a></li>
       <li><a href="https://indrajeet-spc.github.io/lecture-notes">Kepler's laws of planetary motion and their derivations</a></li>
-      <li><a href="https://indrajeet-spc.github.io/lecture-notes">Satellites in circular orbits and their applications, including centrifugal force</a></li>
-      <li><a href="https://indrajeet-spc.github.io/lecture-notes">Simple harmonic oscillations (SHM): differential equation of SHM and its solution; kinetic, potential, and total energy along with their time-average values</a></li>
-      <li><a href="https://indrajeet-spc.github.io/lecture-notes">Physical systems executing SHM: simple pendulum, compound pendulum, torsional pendulum, and LC circuit</a></li>
-      <li><a href="https://indrajeet-spc.github.io/lecture-notes">Damped and forced oscillations: resonance, sharpness of resonance, power dissipation, and quality factor</a></li>
+      <li><a href="https://indrajeet-spc.github.io/lecture-notes">Satellites in circular orbits and their applications</a>, <a href="https://indrajeet-spc.github.io/lecture-notes">including centrifugal force</a></li>
+      <li><a href="https://indrajeet-spc.github.io/lecture-notes">Simple harmonic oscillations (SHM): differential equation of SHM and its solution; kinetic</a>, <a href="https://indrajeet-spc.github.io/lecture-notes">potential</a>, and <a href="https://indrajeet-spc.github.io/lecture-notes">total energy along with their time-average values</a></li>
+      <li><a href="https://indrajeet-spc.github.io/lecture-notes">Physical systems executing SHM: simple pendulum</a>, <a href="https://indrajeet-spc.github.io/lecture-notes">compound pendulum</a>, <a href="https://indrajeet-spc.github.io/lecture-notes">torsional pendulum</a>, and <a href="https://indrajeet-spc.github.io/lecture-notes">LC circuit</a></li>
+      <li><a href="https://indrajeet-spc.github.io/lecture-notes">Damped and forced oscillations: resonance</a>, <a href="https://indrajeet-spc.github.io/lecture-notes">sharpness of resonance</a>, <a href="https://indrajeet-spc.github.io/lecture-notes">power dissipation</a>, and <a href="https://indrajeet-spc.github.io/lecture-notes">quality factor</a></li>
     </ul>
   </div>
   <div class="semester-topic-box">
@@ -49,8 +49,8 @@ permalink: /semester-i/
       <li><a href="https://indrajeet-spc.github.io/lecture-notes">Inertial and non-inertial frames</a></li>
       <li><a href="https://indrajeet-spc.github.io/lecture-notes">Michelson-Morley experiment and its outcome</a></li>
       <li><a href="https://indrajeet-spc.github.io/lecture-notes">Postulates of the special theory of relativity and Lorentz transformations</a></li>
-      <li><a href="https://indrajeet-spc.github.io/lecture-notes">Lorentz contraction, time dilation, simultaneity, and order of events</a></li>
-      <li><a href="https://indrajeet-spc.github.io/lecture-notes">Relativistic addition of velocities, variation of mass with velocity, massless particles, and mass-energy equivalence</a></li>
+      <li><a href="https://indrajeet-spc.github.io/lecture-notes">Lorentz contraction</a>, <a href="https://indrajeet-spc.github.io/lecture-notes">time dilation</a>, <a href="https://indrajeet-spc.github.io/lecture-notes">simultaneity</a>, and <a href="https://indrajeet-spc.github.io/lecture-notes">order of events</a></li>
+      <li><a href="https://indrajeet-spc.github.io/lecture-notes">Relativistic addition of velocities</a>, <a href="https://indrajeet-spc.github.io/lecture-notes">variation of mass with velocity</a>, <a href="https://indrajeet-spc.github.io/lecture-notes">massless particles</a>, and <a href="https://indrajeet-spc.github.io/lecture-notes">mass-energy equivalence</a></li>
       <li><a href="https://indrajeet-spc.github.io/lecture-notes">Relativistic Doppler effect</a></li>
     </ul>
   </div>
