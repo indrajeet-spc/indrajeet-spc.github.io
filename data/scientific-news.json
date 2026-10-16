@@ -41,91 +41,91 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-10-15T06:10:47.314183+00:00",
+  "updated_at": "2026-10-16T06:07:43.326336+00:00",
   "items": [
     {
-      "title": "NASA\u2019s Chandra Breaks Down \u2018Treble Clef\u2019s\u2019 Galaxy Cluster Collision",
-      "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/",
+      "title": "NASA Welcomes All Ages, Experience Levels for Space Apps Challenge",
+      "url": "https://science.nasa.gov/universe/nasa-welcomes-all-ages-experience-levels-for-space-apps-challenge/",
       "source": "NASA News",
-      "date": "14 Oct 2026",
-      "abstract": "Astronomers have used NASA\u2019s Chandra X-ray Observatory to break down the cause of a remarkable formation of radio waves they have nicknamed the \u201cTreble Clef\u201d because its distinct shape strongly resembles the musical symbol. The researchers discovered the Treble Clef is likely caused by an outburst f..."
+      "date": "15 Oct 2026",
+      "abstract": "Registration is open for the 2026 NASA Space Apps Challenge, a two-day global event on Saturday, Nov. 14 and Sunday, Nov. 15, where teams work to create solutions inspired by NASA\u2019s most ambitious exploration goals and making use of the agency\u2019s free and open data. The annual challenge, often called..."
     },
     {
-      "title": "New chip-scale gyroscope measures rotation with unprecedented sensitivity",
-      "url": "https://phys.org/news/2026-10-chip-scale-gyroscope-rotation-unprecedented.html",
+      "title": "New spectroscopy method enables direct comparisons of nuclear sizes across heavy elements",
+      "url": "https://phys.org/news/2026-10-spectroscopy-method-enables-comparisons-nuclear.html",
       "source": "Phys.org",
-      "date": "14 Oct 2026",
-      "abstract": "Researchers have developed a chip-scale optical ring-laser gyroscope that can measure rotation as slow as 37 degrees per hour. This record sensitivity, approaching Earth's rotation rate of 15 degrees per hour, could eventually be useful for precision navigation and orientation systems, particularly..."
+      "date": "15 Oct 2026",
+      "abstract": "The size of a nucleus (nuclear charge radius) is an important physical quantity that reflects the arrangement of protons and neutrons within the nucleus. Particularly in deformed nuclei, such as those of rare-earth elements, examining changes in the charge radius can deepen our understanding of nucl..."
     },
     {
-      "title": "New framework links magnetic phase boundaries to string-like defects in spin ice",
-      "url": "https://phys.org/news/2026-10-framework-links-magnetic-phase-boundaries.html",
+      "title": "Silicon qubits surpass 99.99% gate fidelity while operating three at once",
+      "url": "https://phys.org/news/2026-10-silicon-qubits-surpass-gate-fidelity.html",
       "source": "Phys.org",
-      "date": "14 Oct 2026",
-      "abstract": "A research team led by Haruki Watanabe, a professor in the Department of Physics and the Jockey Club Institute for Advanced Study (IAS) at The Hong Kong University of Science and Technology (HKUST), in collaboration with professor Yukitoshi Motome and graduate student Sena Watanabe from the Universi..."
+      "date": "15 Oct 2026",
+      "abstract": "Silicon spin qubits are a promising platform for building scalable quantum computers as they are compatible with the semiconductor manufacturing technologies used to produce today's computer chips. However, they have an important weakness: silicon spin qubits typically lose accuracy when several qub..."
     },
     {
-      "title": "Rare particle decays hint at deviations from Standard Model predictions",
-      "url": "https://phys.org/news/2026-10-rare-particle-decays-hint-deviations.html",
+      "title": "Quantum calculations reveal how spin defects lose energy",
+      "url": "https://phys.org/news/2026-10-quantum-reveal-defects-energy.html",
       "source": "Phys.org",
-      "date": "14 Oct 2026",
-      "abstract": "Studying rare processes is part and parcel of particle physics, providing stringent tests of the Standard Model. At the recent International Conference on High Energy Physics (ICHEP), the CMS and LHCb collaborations presented their latest research into one such process: the transformation of a beaut..."
+      "date": "15 Oct 2026",
+      "abstract": "When light hits a tiny defect embedded in a solid material like diamond or silicon carbide, it can kick the defect's electrons into an excited state. These spin defects have the potential to be used as stable, readable qubits for quantum technologies, for example, quantum sensing. But modeling the f..."
     },
     {
-      "title": "IBM executive warns of risk of quantum computing hacks",
-      "url": "https://phys.org/news/2026-10-ibm-quantum-hacks.html",
+      "title": "Quantum sensor could measure how Earth drags spacetime",
+      "url": "https://phys.org/news/2026-10-quantum-sensor-earth-spacetime.html",
       "source": "Phys.org",
-      "date": "14 Oct 2026",
-      "abstract": "Organizations are unprepared for the risks posed by quantum computing, IBM's Europe and Africa vice president Alessandro Curioni told AFP Wednesday, referring to the high-speed technology that could crack security encryptions and enable large-scale cyberattacks."
+      "date": "15 Oct 2026",
+      "abstract": "Einstein's theory of general relativity describes gravity as the bending of spacetime, a mathematical model that combines three-dimensional space and time into a single, four-dimensional continuum. The theory also predicts that a rotating object, such as Earth, slightly drags the surrounding spaceti..."
     },
     {
-      "title": "A tiny magnetic whirlpool could point to a new kind of ultra-efficient memory",
-      "url": "https://phys.org/news/2026-10-tiny-magnetic-whirlpool-kind-ultra.html",
-      "source": "Phys.org",
-      "date": "14 Oct 2026",
-      "abstract": "Every time a computer stores or erases information, it uses energy. The amount is tiny for a single operation, but those operations happen billions of times every second. For decades, scientists have wondered just how little energy a memory device could use before reaching the fundamental theoretica..."
-    },
-    {
-      "title": "Storing memory on a chip with flowing water",
-      "url": "https://phys.org/news/2026-10-memory-chip.html",
-      "source": "Phys.org",
-      "date": "14 Oct 2026",
-      "abstract": "Like the folds in crumpled sheets or the footprints on recently trodden sand, certain materials mark their histories. Now, Yale researchers show that networks of flowing water and other fluids can store their own memories\u2014similar to how a computer chip does\u2014an innovation that could steer robots and..."
-    },
-    {
-      "title": "Jamming the flow to enable memory in quantum materials",
-      "url": "https://phys.org/news/2026-10-enable-memory-quantum-materials.html",
-      "source": "Phys.org",
-      "date": "14 Oct 2026",
-      "abstract": "Understanding and controlling phase transitions are fundamental to physics and central to many technological revolutions. There is currently strong interest in materials with coupled structural and electronic phase transitions, where controlling the transition plasticity naturally yields built-in me..."
-    },
-    {
-      "title": "Catalytic transfer of carbon atoms enables spirofusion of C\u2013C \u03c3-bonds",
-      "url": "https://www.nature.com/articles/s41586-026-11242-8",
+      "title": "Is AI eroding PhD students\u2019 critical thinking and analysis skills?",
+      "url": "https://www.nature.com/articles/d41586-026-03178-w",
       "source": "Nature Journal",
-      "date": "14 Oct 2026",
-      "abstract": "Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11242-8 Catalytic transfer of carbon atoms enables spirofusion of C\u2013C \u03c3-bonds"
+      "date": "15 Oct 2026",
+      "abstract": "Nature, Published online: 15 October 2026; doi:10.1038/d41586-026-03178-w An expert panel debates the impact of artificial intelligence on doctoral programmes."
     },
     {
-      "title": "This is why butterflies are so hard to catch",
-      "url": "https://www.nature.com/articles/d41586-026-03301-x",
+      "title": "World\u2019s timekeepers upend how they adjust time to avoid catastrophic \u2018negative second\u2019",
+      "url": "https://www.nature.com/articles/d41586-026-03329-z",
       "source": "Nature Journal",
-      "date": "14 Oct 2026",
-      "abstract": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03301-x High-speed camera footage reveals the visual tricks butterflies use to evade predators."
+      "date": "15 Oct 2026",
+      "abstract": "Nature, Published online: 15 October 2026; doi:10.1038/d41586-026-03329-z Governments have voted to abolish the leap second immediately and replace it with a leap hour."
     },
     {
-      "title": "Biomedical engineering is growing rapidly, but will it help patients?",
-      "url": "https://www.nature.com/articles/d41586-026-03202-z",
+      "title": "Orangutan mothers arrange play dates for their babies",
+      "url": "https://www.nature.com/articles/d41586-026-03238-1",
       "source": "Nature Journal",
-      "date": "14 Oct 2026",
-      "abstract": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03202-z Assimilating the latest technology into health systems is a key challenge facing the field."
+      "date": "15 Oct 2026",
+      "abstract": "Nature, Published online: 15 October 2026; doi:10.1038/d41586-026-03238-1 Solitary primates spend energy and time travelling to patches of forest for get-togethers."
     },
     {
-      "title": "Author Correction: Wafer-scale epitaxy growth of high-mobility p-type boron carbon nitride",
-      "url": "https://www.nature.com/articles/s41586-026-11267-z",
+      "title": "Nearly half of reef-building corals face elevated relative risk of extinction",
+      "url": "https://www.nature.com/articles/s41586-026-11263-3",
       "source": "Nature Journal",
-      "date": "14 Oct 2026",
-      "abstract": "Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11267-z Author Correction: Wafer-scale epitaxy growth of high-mobility p-type boron carbon nitride"
+      "date": "15 Oct 2026",
+      "abstract": "Nature, Published online: 15 October 2026; doi:10.1038/s41586-026-11263-3 Nearly half of reef-building corals face elevated relative risk of extinction"
+    },
+    {
+      "title": "Give me the good news: four science stories to brighten your day",
+      "url": "https://www.nature.com/articles/d41586-026-03152-6",
+      "source": "Nature Journal",
+      "date": "15 Oct 2026",
+      "abstract": "Nature, Published online: 15 October 2026; doi:10.1038/d41586-026-03152-6 Drugs that can reverse multiple sclerosis in mice and a new species of penguin are just the beginning."
+    },
+    {
+      "title": "Margaret Hamilton obituary: computer scientist who pioneered software engineering and helped us get to the Moon",
+      "url": "https://www.nature.com/articles/d41586-026-03233-6",
+      "source": "Nature Journal",
+      "date": "15 Oct 2026",
+      "abstract": "Nature, Published online: 15 October 2026; doi:10.1038/d41586-026-03233-6 Programmer whose forward-thinking and reliable code helped to save the Apollo 11 mission."
+    },
+    {
+      "title": "ArXiv versus AI slop: will capping preprint submissions work?",
+      "url": "https://www.nature.com/articles/d41586-026-03194-w",
+      "source": "Nature Journal",
+      "date": "15 Oct 2026",
+      "abstract": "Nature, Published online: 15 October 2026; doi:10.1038/d41586-026-03194-w Major preprint platform tightens its rules to curb a surge of submissions, including those generated by artificial-intelligence tools."
     }
   ]
 }
