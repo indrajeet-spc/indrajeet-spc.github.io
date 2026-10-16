@@ -542,6 +542,67 @@ img {
     background: var(--accent);
 }
 
+.nav-teaching {
+    position: relative;
+}
+
+.teaching-nav-menu,
+.teaching-nav-submenu {
+    position: absolute;
+    z-index: 20;
+    display: none;
+    min-width: 190px;
+    padding: 6px;
+    border: 1px solid rgba(224, 173, 75, 0.35);
+    border-radius: 8px;
+    background: var(--navy);
+    box-shadow: 0 12px 28px rgba(0, 0, 0, 0.25);
+}
+
+.teaching-nav-menu {
+    top: 100%;
+    left: 0;
+}
+
+.nav-teaching:hover > .teaching-nav-menu,
+.nav-teaching:focus-within > .teaching-nav-menu,
+.teaching-nav-branch:hover > .teaching-nav-submenu,
+.teaching-nav-branch:focus-within > .teaching-nav-submenu {
+    display: block;
+}
+
+.teaching-nav-branch {
+    position: relative;
+}
+
+.teaching-nav-submenu {
+    top: -6px;
+    left: 100%;
+}
+
+.teaching-nav-menu a,
+.teaching-nav-submenu a {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 18px;
+    padding: 9px 11px;
+    border-radius: 5px;
+    color: #f2eee5;
+    font-size: 0.88rem;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+.teaching-nav-menu a:hover,
+.teaching-nav-menu a:focus-visible,
+.teaching-nav-submenu a:hover,
+.teaching-nav-submenu a:focus-visible {
+    color: #ffffff;
+    background: rgba(224, 173, 75, 0.2);
+    transform: none;
+}
+
 
 /* =========================================================
    INTERNAL PAGE HEADER
@@ -1761,6 +1822,27 @@ footer {
     .nav-links a {
         padding: 7px 8px;
         font-size: 0.8rem;
+    }
+
+    .teaching-nav-menu,
+    .teaching-nav-submenu {
+        position: static;
+        min-width: 0;
+        border: 0;
+        border-radius: 0;
+        background: transparent;
+        box-shadow: none;
+    }
+
+    .teaching-nav-submenu {
+        margin-left: 12px;
+        padding: 0 0 0 6px;
+        border-left: 1px solid rgba(224, 173, 75, 0.45);
+    }
+
+    .teaching-nav-menu a,
+    .teaching-nav-submenu a {
+        white-space: normal;
     }
 
     .two-column,
