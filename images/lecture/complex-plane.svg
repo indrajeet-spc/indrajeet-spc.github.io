@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 300" role="img" aria-labelledby="title desc">
+  <title id="title">Complex number shown in the complex plane</title>
+  <desc id="desc">The complex number z equals x plus i y. Its point is in the first quadrant, its distance from the origin is r, and its angle from the positive real axis is theta.</desc>
+  <rect width="620" height="300" rx="18" fill="#f8fafc"/>
+  <g font-family="Arial, sans-serif" fill="#16324f">
+    <text x="28" y="34" font-size="18" font-weight="700">A complex number is a point in the plane</text>
+  </g>
+  <g stroke="#16324f" stroke-width="2">
+    <line x1="95" y1="238" x2="540" y2="238"/>
+    <line x1="140" y1="268" x2="140" y2="62"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="15" fill="#16324f">
+    <text x="542" y="244">Re(z)</text>
+    <text x="148" y="67">Im(z)</text>
+    <text x="122" y="258">O</text>
+  </g>
+  <line x1="140" y1="238" x2="390" y2="108" stroke="#286b83" stroke-width="4"/>
+  <line x1="390" y1="108" x2="390" y2="238" stroke="#9ab0bc" stroke-width="2" stroke-dasharray="6 5"/>
+  <line x1="140" y1="238" x2="390" y2="238" stroke="#9ab0bc" stroke-width="2" stroke-dasharray="6 5"/>
+  <circle cx="390" cy="108" r="6" fill="#b44b37"/>
+  <path d="M 190 238 A 50 50 0 0 0 184 215" fill="none" stroke="#b57913" stroke-width="3"/>
+  <g font-family="Arial, sans-serif" font-size="16" fill="#16324f">
+    <text x="395" y="101">z = x + iy</text>
+    <text x="250" y="224">x</text>
+    <text x="400" y="180">y</text>
+    <text x="245" y="157" fill="#286b83">r = |z|</text>
+    <text x="195" y="230" fill="#b57913">θ</text>
+  </g>
+</svg>

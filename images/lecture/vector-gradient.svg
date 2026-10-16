@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 300" role="img" aria-labelledby="title desc">
+  <title id="title">Gradient perpendicular to scalar-field level curves</title>
+  <desc id="desc">Three nested level curves surround a point. At a marked point on the middle curve, the gradient arrow points outward and crosses the curve at a right angle.</desc>
+  <rect width="620" height="300" rx="18" fill="#f8fafc"/>
+  <g font-family="Arial, sans-serif" fill="#16324f">
+    <text x="28" y="34" font-size="18" font-weight="700">The gradient points across level curves</text>
+  </g>
+  <g fill="none" stroke="#7da4b5" stroke-width="2">
+    <ellipse cx="250" cy="170" rx="68" ry="46"/>
+    <ellipse cx="250" cy="170" rx="126" ry="85"/>
+    <ellipse cx="250" cy="170" rx="184" ry="124"/>
+  </g>
+  <g stroke="#16324f" stroke-width="2" fill="none">
+    <line x1="48" y1="170" x2="456" y2="170"/>
+    <line x1="250" y1="278" x2="250" y2="56"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="14" fill="#16324f">
+    <text x="462" y="175">x</text>
+    <text x="258" y="64">y</text>
+    <text x="265" y="187">O</text>
+    <text x="414" y="98">φ = constant</text>
+    <text x="414" y="122">level curves</text>
+  </g>
+  <circle cx="350" cy="102" r="5" fill="#b44b37"/>
+  <line x1="350" y1="102" x2="385" y2="50" stroke="#b44b37" stroke-width="4"/>
+  <polygon points="385,50 370,59 382,67" fill="#b44b37"/>
+  <text x="403" y="52" font-family="Arial, sans-serif" font-size="15" fill="#b44b37">∇φ</text>
+</svg>
