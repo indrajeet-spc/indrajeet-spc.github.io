@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 310" role="img" aria-labelledby="title desc">
+  <title id="title">Animated pendulum and its simple harmonic motion graph</title>
+  <desc id="desc">A pendulum swings gently about its equilibrium position. Beside it, a sinusoidal displacement graph marks the oscillating position.</desc>
+  <style>
+    .pendulum { transform-box: view-box; transform-origin: 190px 62px; animation: swing 2.4s ease-in-out infinite alternate; }
+    @keyframes swing { from { transform: rotate(-18deg); } to { transform: rotate(18deg); } }
+    @media (prefers-reduced-motion: reduce) {
+      .pendulum, .tracer-motion { animation: none; display: none; }
+      .pendulum { transform: rotate(18deg); }
+      .tracer { transform: translate(197px, 0); }
+    }
+  </style>
+  <rect width="760" height="310" rx="18" fill="#f8faf5"/>
+  <g font-family="Arial, sans-serif" fill="#16324f">
+    <text x="45" y="35" font-size="18" font-weight="700">A pendulum approximates SHM for small swings</text>
+    <text x="68" y="285" font-size="14">restoring acceleration points toward equilibrium</text>
+    <text x="440" y="90" font-size="15">displacement x</text>
+    <text x="671" y="246" font-size="14">time t</text>
+    <text x="619" y="125" font-size="13">+A</text>
+    <text x="619" y="240" font-size="13">−A</text>
+  </g>
+  <line x1="190" y1="62" x2="190" y2="240" stroke="#a4b4bd" stroke-width="2" stroke-dasharray="6 5"/>
+  <circle cx="190" cy="62" r="7" fill="#16324f"/>
+  <g class="pendulum">
+    <line x1="190" y1="62" x2="190" y2="206" stroke="#356c2d" stroke-width="4"/>
+    <circle cx="190" cy="207" r="19" fill="#d99b2b" stroke="#80560d" stroke-width="3"/>
+  </g>
+  <line x1="425" y1="145" x2="690" y2="145" stroke="#a4b4bd" stroke-width="1.5"/>
+  <line x1="425" y1="95" x2="425" y2="245" stroke="#16324f" stroke-width="1.5"/>
+  <path d="M425 145 C458 75 490 75 523 145 S589 215 622 145" fill="none" stroke="#356c2d" stroke-width="3"/>
+  <circle class="tracer" cx="425" cy="145" r="7" fill="#d99b2b" stroke="#80560d" stroke-width="2">
+    <animateMotion class="tracer-motion" dur="4.8s" repeatCount="indefinite" path="M0 0 C33 -70 65 -70 98 0 S164 70 197 0" calcMode="linear"/>
+  </circle>
+  <text x="163" y="258" fill="#16324f" font-family="Arial, sans-serif" font-size="13">equilibrium</text>
+</svg>

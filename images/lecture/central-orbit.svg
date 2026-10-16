@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" role="img" aria-labelledby="title desc">
+  <title id="title">Elliptical orbit under a central force</title>
+  <desc id="desc">An elliptical orbit has the attracting central body at one focus. The force points toward the focus and equal areas are swept in equal times.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto">
+      <path d="M0 0 8 4 0 8Z" fill="#356c2d"/>
+    </marker>
+  </defs>
+  <rect width="760" height="300" rx="18" fill="#f8faf5"/>
+  <ellipse cx="385" cy="157" rx="285" ry="112" fill="#edf4e9" stroke="#356c2d" stroke-width="3"/>
+  <path d="M137 109 Q160 72 197 77 L219 115Z" fill="#d99b2b" fill-opacity=".4" stroke="#b57913" stroke-width="2"/>
+  <path d="M627 116 Q654 142 638 173 L602 157Z" fill="#d99b2b" fill-opacity=".4" stroke="#b57913" stroke-width="2"/>
+  <circle cx="170" cy="157" r="16" fill="#e0ad4b" stroke="#80560d" stroke-width="2"/>
+  <circle cx="170" cy="157" r="5" fill="#80560d"/>
+  <circle cx="190" cy="103" r="9" fill="#356c2d"/>
+  <circle cx="635" cy="146" r="9" fill="#356c2d"/>
+  <g stroke="#356c2d" stroke-width="2.5" fill="none" marker-end="url(#arrow)">
+    <line x1="190" y1="103" x2="171" y2="125"/>
+    <line x1="635" y1="146" x2="606" y2="149"/>
+  </g>
+  <g font-family="Arial, sans-serif" fill="#16324f">
+    <text x="52" y="198" font-size="15">attracting centre (focus)</text>
+    <text x="205" y="91" font-size="14">nearby position</text>
+    <text x="553" y="211" font-size="14">distant position</text>
+    <text x="248" y="63" font-size="16" font-weight="700">equal shaded areas are swept in equal times</text>
+    <text x="204" y="137" font-size="13">central force</text>
+  </g>
+</svg>

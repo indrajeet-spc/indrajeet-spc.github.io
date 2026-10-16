@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 320" role="img" aria-labelledby="title desc">
+  <title id="title">Spacetime diagram and relativity of simultaneity</title>
+  <desc id="desc">A spacetime diagram shows light rays along the 45-degree light cone, a moving observer's worldline, and simultaneous-event lines with different slopes in two frames.</desc>
+  <rect width="760" height="320" rx="18" fill="#f8fafc"/>
+  <g font-family="Arial, sans-serif" fill="#16324f">
+    <text x="38" y="35" font-size="18" font-weight="700">Different inertial frames slice spacetime differently</text>
+  </g>
+  <g stroke="#16324f" stroke-width="2" fill="none">
+    <line x1="135" y1="266" x2="665" y2="266"/>
+    <line x1="400" y1="286" x2="400" y2="58"/>
+  </g>
+  <g stroke="#9ab0bc" stroke-width="2" stroke-dasharray="7 5">
+    <line x1="400" y1="266" x2="220" y2="86"/>
+    <line x1="400" y1="266" x2="580" y2="86"/>
+  </g>
+  <line x1="400" y1="266" x2="530" y2="76" stroke="#356c2d" stroke-width="3"/>
+  <line x1="168" y1="214" x2="632" y2="214" stroke="#d99b2b" stroke-width="3"/>
+  <line x1="215" y1="266" x2="585" y2="158" stroke="#80560d" stroke-width="3"/>
+  <circle cx="530" cy="76" r="6" fill="#356c2d"/>
+  <g font-family="Arial, sans-serif" font-size="14" fill="#16324f">
+    <text x="652" y="286">space x</text>
+    <text x="410" y="65">time ct</text>
+    <text x="555" y="94">moving observer</text>
+    <text x="451" y="122">light rays (45°)</text>
+    <text x="555" y="208" fill="#b57913">simultaneous in S</text>
+    <text x="526" y="165" fill="#80560d">simultaneous in S′</text>
+  </g>
+</svg>

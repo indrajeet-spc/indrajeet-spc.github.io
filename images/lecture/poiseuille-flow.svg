@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" role="img" aria-labelledby="title desc">
+  <title id="title">Laminar flow through a capillary</title>
+  <desc id="desc">Fluid flows from high pressure to low pressure through a narrow tube. The parabolic velocity profile is zero at the walls and greatest on the central axis.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto">
+      <path d="M0 0 8 4 0 8Z" fill="#356c2d"/>
+    </marker>
+    <linearGradient id="fluid" x2="0" y2="1">
+      <stop offset="0" stop-color="#c6e2e8"/>
+      <stop offset=".5" stop-color="#e7f4f4"/>
+      <stop offset="1" stop-color="#c6e2e8"/>
+    </linearGradient>
+  </defs>
+  <rect width="760" height="300" rx="18" fill="#f6fafc"/>
+  <g font-family="Arial, sans-serif" fill="#16324f">
+    <text x="36" y="38" font-size="18" font-weight="700">Pressure-driven laminar flow</text>
+    <text x="66" y="91" font-size="16">higher pressure p₁</text>
+    <text x="593" y="91" font-size="16">lower pressure p₂</text>
+    <text x="314" y="77" font-size="14">tube length L</text>
+    <text x="100" y="252" font-size="14">fluid at the wall is stationary</text>
+    <text x="482" y="252" font-size="14">fastest at the centre</text>
+  </g>
+  <rect x="70" y="112" width="620" height="108" rx="7" fill="url(#fluid)" stroke="#52758b" stroke-width="7"/>
+  <g fill="none" stroke="#356c2d" stroke-linecap="round">
+    <path d="M130 138 C225 138 315 138 420 138" stroke-width="2" marker-end="url(#arrow)"/>
+    <path d="M130 158 C245 158 355 158 520 158" stroke-width="3" marker-end="url(#arrow)"/>
+    <path d="M130 166 C280 166 430 166 622 166" stroke-width="5" marker-end="url(#arrow)"/>
+    <path d="M130 174 C245 174 355 174 520 174" stroke-width="3" marker-end="url(#arrow)"/>
+    <path d="M130 194 C225 194 315 194 420 194" stroke-width="2" marker-end="url(#arrow)"/>
+  </g>
+  <line x1="70" y1="166" x2="690" y2="166" stroke="#7d9aaa" stroke-width="1" stroke-dasharray="5 5"/>
+  <g fill="#d99b2b">
+    <circle cx="70" cy="166" r="7"/>
+    <circle cx="690" cy="166" r="7"/>
+  </g>
+  <g transform="translate(300 0)">
+    <line x1="0" y1="112" x2="0" y2="220" stroke="#16324f" stroke-width="1.5"/>
+    <path d="M4 116 Q61 166 4 216" fill="none" stroke="#b57913" stroke-width="4"/>
+    <line x1="13" y1="115" x2="13" y2="217" stroke="#16324f" stroke-width="1"/>
+    <text x="20" y="174" fill="#16324f" font-family="Arial, sans-serif" font-size="13">u(s)</text>
+  </g>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" role="img" aria-labelledby="title desc">
+  <title id="title">Stretching a wire and reading a stress-strain graph</title>
+  <desc id="desc">A wire lengthens by delta L when pulled by equal outward forces. A schematic stress-strain curve labels the linear elastic region and the onset of permanent deformation.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto">
+      <path d="M0 0 8 4 0 8Z" fill="#356c2d"/>
+    </marker>
+  </defs>
+  <rect width="760" height="300" rx="18" fill="#f6faf6"/>
+  <g font-family="Arial, sans-serif" fill="#16324f">
+    <text x="40" y="36" font-size="18" font-weight="700">Tension produces extension</text>
+    <text x="406" y="36" font-size="18" font-weight="700">Typical stress-strain curve</text>
+    <text x="54" y="88" font-size="15">Before loading</text>
+    <text x="54" y="190" font-size="15">Under tension</text>
+    <text x="113" y="114" font-size="14">length L</text>
+    <text x="113" y="216" font-size="14">length L + ΔL</text>
+    <text x="492" y="268" font-size="14">strain ε</text>
+    <text x="411" y="105" font-size="14">stress σ</text>
+    <text x="464" y="84" font-size="13" fill="#356c2d">elastic</text>
+    <text x="600" y="112" font-size="13" fill="#a44e37">plastic</text>
+    <text x="521" y="71" font-size="12">proportional limit</text>
+  </g>
+  <g stroke-linecap="round">
+    <line x1="86" y1="102" x2="308" y2="102" stroke="#6b8fae" stroke-width="12"/>
+    <line x1="86" y1="204" x2="308" y2="204" stroke="#356c2d" stroke-width="12"/>
+    <line x1="64" y1="204" x2="30" y2="204" stroke="#356c2d" stroke-width="3" marker-end="url(#arrow)"/>
+    <line x1="330" y1="204" x2="364" y2="204" stroke="#356c2d" stroke-width="3" marker-end="url(#arrow)"/>
+    <line x1="86" y1="235" x2="308" y2="235" stroke="#16324f" stroke-width="1.5"/>
+    <line x1="86" y1="229" x2="86" y2="241" stroke="#16324f" stroke-width="1.5"/>
+    <line x1="308" y1="229" x2="308" y2="241" stroke="#16324f" stroke-width="1.5"/>
+    <line x1="424" y1="242" x2="716" y2="242" stroke="#16324f" stroke-width="2" marker-end="url(#arrow)"/>
+    <line x1="424" y1="242" x2="424" y2="65" stroke="#16324f" stroke-width="2" marker-end="url(#arrow)"/>
+    <path d="M424 242 L535 94 C553 77 573 83 594 101 C628 130 664 96 687 119" fill="none" stroke="#356c2d" stroke-width="4"/>
+    <line x1="535" y1="94" x2="535" y2="242" stroke="#9aabb9" stroke-width="1.5" stroke-dasharray="5 5"/>
+    <line x1="521" y1="82" x2="541" y2="95" stroke="#16324f" stroke-width="1.5"/>
+  </g>
+  <circle cx="535" cy="94" r="5" fill="#d99b2b"/>
+</svg>

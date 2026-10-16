@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" role="img" aria-labelledby="title desc">
+  <title id="title">Surface tension and excess pressure in curved surfaces</title>
+  <desc id="desc">A liquid drop and a soap bubble show outward pressure arrows. A curved liquid surface has a pressure difference across the interface.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto">
+      <path d="M0 0 8 4 0 8Z" fill="#356c2d"/>
+    </marker>
+    <radialGradient id="drop" cx=".32" cy=".28">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#a8d4de"/>
+    </radialGradient>
+  </defs>
+  <rect width="760" height="300" rx="18" fill="#f6fafc"/>
+  <g font-family="Arial, sans-serif" fill="#16324f" text-anchor="middle">
+    <text x="190" y="38" font-size="18" font-weight="700">Liquid drop</text>
+    <text x="565" y="38" font-size="18" font-weight="700">Soap bubble</text>
+    <text x="190" y="278" font-size="15">Δp = 2T/r (one surface)</text>
+    <text x="565" y="278" font-size="15">Δp = 4T/r (two surfaces)</text>
+  </g>
+  <circle cx="190" cy="157" r="73" fill="url(#drop)" stroke="#356c2d" stroke-width="4"/>
+  <circle cx="565" cy="157" r="80" fill="#d7eef1" fill-opacity=".6" stroke="#356c2d" stroke-width="4"/>
+  <circle cx="565" cy="157" r="72" fill="none" stroke="#7caeb9" stroke-width="3"/>
+  <g stroke="#356c2d" stroke-width="2.5" fill="none" marker-end="url(#arrow)">
+    <line x1="190" y1="157" x2="190" y2="92"/>
+    <line x1="190" y1="157" x2="248" y2="128"/>
+    <line x1="190" y1="157" x2="190" y2="227"/>
+    <line x1="565" y1="157" x2="565" y2="86"/>
+    <line x1="565" y1="157" x2="628" y2="126"/>
+    <line x1="565" y1="157" x2="565" y2="231"/>
+  </g>
+  <g font-family="Arial, sans-serif" fill="#16324f" font-size="14">
+    <text x="199" y="119">r</text>
+    <text x="574" y="118">r</text>
+    <text x="125" y="83">inside pressure</text>
+    <text x="499" y="75">inside pressure</text>
+    <text x="281" y="170">outside</text>
+    <text x="659" y="170">outside</text>
+  </g>
+</svg>
