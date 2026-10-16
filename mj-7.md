@@ -91,7 +91,7 @@ Under forward bias, the p-side is connected to a higher potential than the n-sid
 <a id="topic-016-diode-characteristics"></a>
 ### diode characteristics
 
-The current-voltage relation of a diode is approximately <br>\[I = I_s\left(e^{qV/nkT} - 1\right),\]<br> where \\(I_s\\) is the saturation current and \\(n\\) is the ideality factor. In forward bias, current rises sharply after a threshold voltage; in reverse bias, the current remains small until breakdown. The I-V curve is the key characteristic used to design diode circuits.
+The current-voltage relation of a diode is approximately <br>\[I = I_s\left(e^{\frac{qV}{nkT}} - 1\right)\]<br> where \\(I_s\\) is the saturation current and \\(n\\) is the ideality factor. In forward bias, current rises sharply after a threshold voltage; in reverse bias, the current remains small until breakdown. The I-V curve is the key characteristic used to design diode circuits.
 
 <a id="topic-017-junction-capacitance"></a>
 ### Junction capacitance

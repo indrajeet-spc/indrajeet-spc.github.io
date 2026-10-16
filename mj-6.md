@@ -39,7 +39,7 @@ Real gases deviate from the ideal-gas law because molecules have finite size and
 <a id="topic-006-virial-equation"></a>
 ### virial equation
 
-The virial equation represents the equation of state as a power series in inverse volume or density: <br>\[\frac{PV}{RT} = 1 + \frac{B(T)}{V} + \frac{C(T)}{V^2}+\cdots.\]<br> The coefficients \\(B(T), C(T),\dots\\) are virial coefficients, describing deviations from ideality. They encode the effect of intermolecular forces and are increasingly important in dense gases and liquids.
+The virial equation represents the equation of state as a power series in inverse volume or density: <br>\[\frac{PV}{RT} = 1 + \frac{B(T)}{V} + \frac{C(T)}{V^2} + \cdots\]<br> The coefficients \\(B(T), C(T), \dots\\) are virial coefficients, describing deviations from ideality. They encode the effect of intermolecular forces and are increasingly important in dense gases and liquids.
 
 <a id="topic-007-critical-constants"></a>
 ### critical constants
@@ -54,14 +54,14 @@ The Boyle temperature is the temperature at which a real gas obeys Boyle's law o
 <a id="topic-009-van-der-waals-equation-of-state"></a>
 ### van der Waals equation of state
 
-The van der Waals equation, <br>\[\left(P + \frac{a}{V^2}\right)(V-b)=RT,\]<br> corrects the ideal gas law by accounting for finite molecular volume and intermolecular attraction. The parameter \\(b\\) reflects excluded volume, and \\(a\\) reflects cohesion. This equation captures many qualitative features of real gases, including condensation and critical behavior. It is a simple but powerful model for understanding non-ideal gas properties.
+The van der Waals equation, <br>\[\left(P + \frac{a}{V^2}\right)\left(V-b\right)=RT,\]<br> corrects the ideal gas law by accounting for finite molecular volume and intermolecular attraction. The parameter \\(b\\) reflects excluded volume, and \\(a\\) reflects cohesion. This equation captures many qualitative features of real gases, including condensation and critical behavior. It is a simple but powerful model for understanding non-ideal gas properties.
 
 ## UNIT-II: Laws of Thermodynamics and Applications (20 Lectures)
 
 <a id="topic-010-zeroth-and-first-laws-thermodynamic-variables"></a>
 ### Zeroth and first laws; thermodynamic variables
 
-The zeroth law introduces the idea of thermal equilibrium and temperature: if two systems are each in equilibrium with a third, then they are in equilibrium with one another. The first law is the conservation of energy in thermodynamic form: <br>\[\Delta U = Q - W.\]<br> Here \\(U\\) is internal energy, \\(Q\\) is heat added, and \\(W\\) is work done by the system. The thermodynamic variables include temperature, pressure, volume, entropy, internal energy, and chemical potential.
+The zeroth law introduces the idea of thermal equilibrium and temperature: if two systems are each in equilibrium with a third, then they are in equilibrium with one another. The first law is the conservation of energy in thermodynamic form: <br>\[\Delta U = Q - W\]<br> Here \\(U\\) is internal energy, \\(Q\\) is heat added, and \\(W\\) is work done by the system. The thermodynamic variables include temperature, pressure, volume, entropy, internal energy, and chemical potential.
 
 <a id="topic-011-equilibrium"></a>
 ### equilibrium
