@@ -24,7 +24,7 @@ Electric **flux** through a surface measures how much field passes through it:
 The vector area element points along the chosen surface normal. For a closed surface,
 the normal is outward. Gauss' law says the net outward flux equals enclosed charge
 divided by the permittivity of free space:
-<br>\\[\oiint_S\mathbf E\cdot d\mathbf A=\frac{Q_{\mathrm{enc}}}{\epsilon_0}\\]<br>
+<br>\\[\iint_{\partial V}\mathbf E\cdot d\mathbf A=\frac{Q_{\mathrm{enc}}}{\epsilon_0}\\]<br>
 In differential form,
 <br>\\[\nabla\cdot\mathbf E=\frac{\rho}{\epsilon_0}\\]<br>
 where \\(\rho\\) is volume charge density. The differential form applies locally;
@@ -258,7 +258,7 @@ anisotropic, or strongly interacting materials may not obey it accurately.
 ### Gauss' law in dielectrics
 
 Gauss' law for the displacement field uses **free** charge:
-<br>\\[\oiint_S\mathbf D\cdot d\mathbf A=Q_{f,\mathrm{enc}}\\]<br>
+<br>\\[\iint_{\partial V}\mathbf D\cdot d\mathbf A=Q_{f,\mathrm{enc}}\\]<br>
 In differential form, <br>\\[\nabla\cdot\mathbf D=\rho_f\,\text{.}\\]<br> For a flat interface,
 the normal component obeys
 <br>\\[D_{2\perp}-D_{1\perp}=\sigma_f\\]<br>
@@ -493,7 +493,7 @@ continuity equation expresses local conservation:
 <br>\\[\frac{\partial\rho}{\partial t}+\nabla\cdot\mathbf J=0\\]<br>
 If more current flows out of a small volume than flows in, the charge stored there
 decreases. Integrating over a fixed volume gives
-<br>\\[\frac{dQ_{\mathrm{inside}}}{dt}=-\oiint_S\mathbf J\cdot d\mathbf A\\]<br>
+<br>\\[\frac{dQ_{\mathrm{inside}}}{dt}=-\iint_{\partial V}\mathbf J\cdot d\mathbf A\\]<br>
 At a circuit junction in steady state, this becomes Kirchhoff's current law: total
 current entering equals total current leaving. The continuity equation is also a
 consistency requirement for Maxwell's equations.
