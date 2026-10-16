@@ -544,6 +544,8 @@ img {
 
 .nav-teaching {
     position: relative;
+    display: flex;
+    align-items: center;
 }
 
 .teaching-nav-menu,
