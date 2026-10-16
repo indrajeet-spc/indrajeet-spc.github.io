@@ -718,6 +718,13 @@ img {
     line-height: 1.55;
 }
 
+.mj-lecture-notes mjx-container[display="true"] {
+    max-width: 100%;
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding: 0.25em 0;
+}
+
 .prose li {
     margin: 7px 0;
 }

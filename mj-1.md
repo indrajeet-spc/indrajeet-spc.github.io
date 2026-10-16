@@ -9,17 +9,17 @@ permalink: /mj-1/
 
 These notes begin with everyday observations and build toward the equations. Read the
 definitions first, follow each derivation in order, and keep track of units. In this paper,
-`g` is the acceleration due to gravity, `rho` is mass per unit volume, and SI units are
+\\(g\\) is the acceleration due to gravity, \\(\rho\\) is mass per unit volume, and SI units are
 used unless stated otherwise.
 
 ### A few tools used throughout this paper
 
 - A **scalar** has size only (for example, mass or temperature); a **vector** has size
   and direction (for example, force or velocity).
-- A change is often written as `Delta x = x_final - x_initial`. A rate of change with
-  time is written `dx/dt`.
+- A change is often written as \\(\Delta x = x_{\mathrm{final}} - x_{\mathrm{initial}}\\). A rate of change with
+  time is written \\(\frac{dx}{dt}\\).
 - In an equation, both sides must have the same physical dimensions. For example,
-  force has units `kg m s^-2`, also called a newton (N).
+  force has units \\(\mathrm{kg\,m\,s^{-2}}\\), also called a newton (N).
 - A model is an approximation. Whenever we use one, we state its assumptions—for
   example, “small oscillations” or “steady flow.”
 
@@ -34,19 +34,19 @@ the changes to space and time described by special relativity.
 
 When a material is pulled or pushed, its particles shift slightly from their equilibrium
 positions. For a small deformation, the restoring force is proportional to the
-deformation: `F = -kx`. Here `k` is the stiffness and the minus sign says that the force
+deformation: \\(F = -kx\\). Here \\(k\\) is the stiffness and the minus sign says that the force
 points back toward equilibrium.
 
-For a uniform wire of original length `L` and cross-sectional area `A`, a tensile force
-`F` produces an extension `Delta L`. **Stress** is force per area, `sigma = F/A`;
-**longitudinal strain** is fractional extension, `epsilon = Delta L/L`. In the elastic
-range, `sigma = Y epsilon`, where `Y` is Young's modulus. The statement is valid only
+For a uniform wire of original length \\(L\\) and cross-sectional area \\(A\\), a tensile force
+\\(F\\) produces an extension \\(\Delta L\\). **Stress** is force per area, \\(\sigma = F/A\\);
+**longitudinal strain** is fractional extension, \\(\epsilon = \Delta L/L\\). In the elastic
+range, \\(\sigma = Y \epsilon\\), where \\(Y\\) is Young's modulus. The statement is valid only
 while the material returns to its original shape when unloaded. A spring is not
 necessary: this law describes the small-deformation behaviour of many solids.
 
-**Example.** A `1 m` wire extends `1 mm` under a load. Its strain is
-`0.001/1 = 0.001` (dimensionless). If the stress is `2 x 10^8 Pa`, then
-`Y = stress/strain = 2 x 10^11 Pa`.
+**Example.** A \\(1\,\mathrm{m}\\) wire extends \\(1 \mathrm{mm}\\) under a load. Its strain is
+\\(0.001/1 = 0.001\\) (dimensionless). If the stress is \\(2 \times 10^8 \mathrm{Pa}\\), then
+\\(Y = \frac{\text{stress}}{\text{strain}} = 2 \times 10^11 \mathrm{Pa}\\).
 
 <figure class="lecture-figure">
   <img src="{{ '/images/lecture/elasticity.svg' | relative_url }}" alt="A wire extending under equal outward forces alongside a typical stress-strain graph showing the elastic and plastic regions">
@@ -68,7 +68,7 @@ neck, and finally fracture. These are distinct points: the proportional limit ne
 equal the elastic limit.
 
 The area under the graph is work done per unit volume, because
-`work/volume = (force x extension)/(area x original length) = stress x strain`.
+\\(\frac{\text{work}}{\text{volume}} = (\text{force} \times \text{extension})/(\text{area} \times \text{original length}) = \text{stress} \times \text{strain}\\).
 This area is the elastic energy stored per volume when the loading and unloading path is
 reversible. Brittle materials fracture with little plastic deformation; ductile materials
 can stretch considerably first.
@@ -80,17 +80,17 @@ An **elastic modulus** measures how much stress is needed for a given strain. A 
 modulus means a stiffer material, not necessarily a stronger one. Three moduli describe
 three common deformations:
 
-- **Young's modulus**, `Y = longitudinal stress / longitudinal strain`, for stretching
+- **Young's modulus**, \\(Y = \frac{\text{longitudinal stress}}{\text{longitudinal strain}}\\), for stretching
   or compression.
-- **Bulk modulus**, `K = pressure increase / fractional volume decrease`
-  (`K = -Delta p/(Delta V/V)`), for uniform compression. The minus sign makes `K`
+- **Bulk modulus**, \\(K = \text{pressure increase} / \text{fractional volume decrease}\\)
+  (\\(K = -\Delta p/(\Delta V/V)\\)), for uniform compression. The minus sign makes \\(K\\)
   positive because volume decreases when pressure rises.
-- **Shear modulus**, `G = shear stress / shear strain`, for changing shape at nearly
+- **Shear modulus**, \\(G = \frac{\text{shear stress}}{\text{shear strain}}\\), for changing shape at nearly
   constant volume.
 
 All three moduli have units of pressure, pascal (Pa); strain itself has no units. For a
-wire, `Delta L = FL/(AY)`. This predicts that a longer or more heavily loaded wire
-stretches more, a thicker wire stretches less, and a material with larger `Y` stretches
+wire, \\(\Delta L = FL/(AY)\\). This predicts that a longer or more heavily loaded wire
+stretches more, a thicker wire stretches less, and a material with larger \\(Y\\) stretches
 less. These relations assume small deformations and uniform material properties.
 
 <a id="topic-004-poisson-s-ratio"></a>
@@ -99,33 +99,35 @@ less. These relations assume small deformations and uniform material properties.
 Stretching a rod makes it longer and, usually, slightly narrower. **Poisson's ratio**
 measures this sideways response:
 
-`nu = - (lateral strain)/(longitudinal strain)`
+\\[
+\nu = -\frac{\text{lateral strain}}{\text{longitudinal strain}}
+\\]
 
 The minus sign is conventional: ordinary materials contract sideways when stretched,
-so the two strains have opposite signs and `nu` is positive. For a rod stretched along
-`x`, lateral strain is the change in a transverse dimension divided by its original
+so the two strains have opposite signs and \\(\nu\\) is positive. For a rod stretched along
+\\(x\\), lateral strain is the change in a transverse dimension divided by its original
 dimension.
 
 For an isotropic, linearly elastic material (same properties in every direction), the
 elastic constants are related by
-`Y = 2G(1 + nu) = 3K(1 - 2nu)`. Thus
-`nu = Y/(2G) - 1 = (3K - Y)/(6K)`. These formulae follow from combining the normal
+\\(Y = 2G(1 + \nu) = 3K(1 - 2\nu)\\). Thus
+\\(\nu = Y/(2G) - 1 = (3K - Y)/(6K)\\). These formulae follow from combining the normal
 and shear responses of a small element under load. They are not independent
-measurements: measuring any two of `Y`, `G`, `K`, and `nu` determines the others.
-For stable ordinary isotropic solids, `-1 < nu < 1/2`; most familiar solids have a
+measurements: measuring any two of \\(Y\\), \\(G\\), \\(K\\), and \\(\nu\\) determines the others.
+For stable ordinary isotropic solids, \\(-1 < \nu < 1/2\\); most familiar solids have a
 positive value.
 
 <a id="topic-005-including-its-expression-in-terms-of-elastic-constants-and-r"></a>
 ### including its expression in terms of elastic constants and relations between them
 
 The previous topic's relations are useful in calculations. From
-`Y = 2G(1 + nu)`, we get `G = Y/[2(1 + nu)]`. From `Y = 3K(1 - 2nu)`, we get
-`K = Y/[3(1 - 2nu)]`. Combining these gives
-`Y = 9KG/(3K + G)` and `nu = (3K - 2G)/[2(3K + G)]`.
+\\(Y = 2G(1 + \nu)\\), we get \\(G = Y/[2(1 + \nu)]\\). From \\(Y = 3K(1 - 2\nu)\\), we get
+\\(K = Y/[3(1 - 2\nu)]\\). Combining these gives
+\\(Y = 9KG/(3K + G)\\) and \\(\nu = (3K - 2G)/[2(3K + G)]\\).
 
-**Worked example.** Suppose an isotropic solid has `Y = 200 GPa` and `nu = 0.25`.
-Then `G = 200/[2(1.25)] = 80 GPa`, and
-`K = 200/[3(0.5)] = 133.3 GPa`. The units remain GPa because the ratios and Poisson's
+**Worked example.** Suppose an isotropic solid has \\(Y = 200 \mathrm{GPa}\\) and \\(\nu = 0.25\\).
+Then \\(G = 200/[2(1.25)] = 80 \mathrm{GPa}\\), and
+\\(K = 200/[3(0.5)] = 133.3 \mathrm{GPa}\\). The units remain GPa because the ratios and Poisson's
 ratio are dimensionless.
 
 These identities rely on small-strain linear elasticity and isotropy. A crystal can
@@ -143,10 +145,10 @@ Flow is **steady** if the velocity at a fixed point does not change with time, a
 **laminar** if fluid layers slide smoothly past one another. In laminar flow through a
 pipe, fluid at the wall is nearly stationary while the central layers move faster. This
 friction between layers is **viscosity**. For a Newtonian fluid, shear stress is
-proportional to the velocity gradient: `tau = mu (du/dy)`, where `mu` is dynamic
-viscosity, in `Pa s`.
+proportional to the velocity gradient: \\(\tau = \mu (\frac{du}{dy})\\), where \\(\mu\\) is dynamic
+viscosity, in \\(\mathrm{Pa\,s}\\).
 
-For an incompressible fluid, conservation of mass gives `A1 v1 = A2 v2` in a pipe:
+For an incompressible fluid, conservation of mass gives \\(A_{1} v_{1} = A_{2} v_{2}\\) in a pipe:
 the fluid speeds up where the pipe narrows. Viscosity dissipates organized mechanical
 energy as heat, so pressure must drive a viscous flow. A key assumption in the
 capillary formulas that follow is fully developed laminar flow.
@@ -154,15 +156,15 @@ capillary formulas that follow is fully developed laminar flow.
 <a id="topic-007-poiseuille-s-equation-for-liquid-flow-through-a-capillary-tu"></a>
 ### Poiseuille's equation for liquid flow through a capillary tube (with correction)
 
-Consider a straight circular tube of radius `r` and length `L`. Let the pressure fall
-from `p1` to `p2` along it, and write `Delta p = p1 - p2`. For steady laminar flow, the
+Consider a straight circular tube of radius \\(r\\) and length \\(L\\). Let the pressure fall
+from \\(p_{1}\\) to \\(p_{2}\\) along it, and write \\(\Delta p = p_{1} - p_{2}\\). For steady laminar flow, the
 pressure force on a cylindrical layer balances the viscous shear at its surface. The
-result is a parabolic speed profile: `u(s) = Delta p (r^2 - s^2)/(4 mu L)`, where `s`
+result is a parabolic speed profile: \\(u(s) = \Delta p (r^2 - s^2)/(4 \mu L)\\), where \\(s\\)
 is distance from the tube's axis.
 
 Integrating this speed over concentric rings gives the volume flow per second:
-`Q = pi r^4 Delta p/(8 mu L)`. This is **Poiseuille's law**. It shows that flow is
-extremely sensitive to tube radius (`Q` varies as `r^4`), increases with pressure
+\\(Q = \pi r^4 \Delta p/(8 \mu L)\\). This is **Poiseuille's law**. It shows that flow is
+extremely sensitive to tube radius (\\(Q\\) varies as \\(r^4\\)), increases with pressure
 difference, and decreases with viscosity and length. Its assumptions are a rigid,
 circular, uniform tube; Newtonian incompressible fluid; no-slip at the wall; steady,
 laminar, fully developed flow.
@@ -187,10 +189,10 @@ ideal gas through a capillary. At each position the local flow follows the Poise
 relation, but the volume occupied by a given mass changes as pressure changes.
 
 Combining the local Poiseuille relation with mass conservation gives the mass flow rate
-`m_dot = pi r^4 (p1^2 - p2^2)/(16 mu L R_s T)`. Here `R_s` is the gas's specific gas
-constant in `J kg^-1 K^-1`, and `T` is absolute temperature in kelvin. If the volume
+\\(\dot{m} = \pi r^4 (p_{1}^2 - p_{2}^2)/(16 \mu L R_{\mathrm{s}} T)\\). Here \\(R_{\mathrm{s}}\\) is the gas's specific gas
+constant in \\(\mathrm{J\,kg^{-1}\,K^{-1}}\\), and \\(T\\) is absolute temperature in kelvin. If the volume
 flow is quoted at the inlet pressure, then
-`Q1 = pi r^4 (p1^2 - p2^2)/(16 mu L p1)`.
+\\(Q_{1} = \pi r^4 (p_{1}^2 - p_{2}^2)/(16 \mu L p_{1})\\).
 
 Pressures must be absolute, not gauge pressures. The result assumes ideal-gas
 behaviour, constant temperature and viscosity, and laminar flow. If the pressure drop
@@ -206,10 +208,10 @@ amount of gas passing in a known time. This is the capillary-flow idea associate
 Rankine's method in this syllabus.
 
 For an appreciable pressure drop, use the compressible-flow relation from the previous
-topic. For measured mass `m` collected in time `t`, set `m_dot = m/t` and rearrange:
-`mu = pi r^4 (p1^2 - p2^2)/(16 L R_s T m_dot)`. Every quantity on the right must be
+topic. For measured mass \\(m\\) collected in time \\(t\\), set \\(\dot{m} = m/t\\) and rearrange:
+\\(\mu = \pi r^4 (p_{1}^2 - p_{2}^2)/(16 L R_{\mathrm{s}} T \dot{m})\\). Every quantity on the right must be
 measured or known. The radius is particularly important: the inferred viscosity varies
-as `r^4`, so a small radius error can cause a large result error.
+as \\(r^4\\), so a small radius error can cause a large result error.
 
 Keep the gas at a known, stable temperature; measure absolute pressures; check for
 leaks; and ensure the flow is laminar and steady. Repeat measurements at different
@@ -221,70 +223,70 @@ temperature drift, entrance losses, or departure from laminar flow.
 
 At a liquid surface, molecules have fewer neighbouring liquid molecules above them
 than below them. The net effect is that the surface tends to shrink. **Surface tension**
-`T` (often written `gamma`) is the tangential force per unit length along a line in the
-surface: `T = F/l`. Its SI unit is `N m^-1`.
+\\(T\\) (often written \\(\gamma\\)) is the tangential force per unit length along a line in the
+surface: \\(T = F/l\\). Its SI unit is \\(\mathrm{N\,m^{-1}}\\).
 
 Equivalently, surface tension is energy needed to create unit area of new surface:
-`T = Delta E/Delta A`, in `J m^-2` (the units are equivalent). A small wire frame with
-a movable side of length `l` covered by a soap film has two surfaces, front and back.
-The film therefore pulls the movable side with force `F = 2Tl`, and work `F dx`
-increases area by `2l dx`, giving energy per area `T`.
+\\(T = \Delta E/\Delta A\\), in \\(\mathrm{J\,m^{-2}}\\) (the units are equivalent). A small wire frame with
+a movable side of length \\(l\\) covered by a soap film has two surfaces, front and back.
+The film therefore pulls the movable side with force \\(F = 2Tl\\), and work \\(F dx\\)
+increases area by \\(2l dx\\), giving energy per area \\(T\\).
 
 Surface tension explains why small droplets tend to be round and why a clean needle
 may rest on water without sinking, even though its material is denser than water.
-Surface-active substances such as soap change the value of `T`.
+Surface-active substances such as soap change the value of \\(T\\).
 
 <a id="topic-011-surface-energy"></a>
 ### surface energy
 
 Creating extra liquid surface requires work. If surface tension is uniform, increasing
-the surface area by `Delta A` changes surface energy by
-`Delta E = T Delta A`. This is why a freely suspended liquid drop tends to become
+the surface area by \\(\Delta A\\) changes surface energy by
+\\(\Delta E = T \Delta A\\). This is why a freely suspended liquid drop tends to become
 spherical: for a fixed volume, a sphere has the smallest surface area.
 
-A soap film has two surfaces, so increasing each by `Delta A` costs
-`Delta E = 2T Delta A`. In experiments, remember to count the number of interfaces.
-For example, pulling a wire a distance `x` on a rectangular soap film creates
-`2lx` of new area (two sides), and the work is `2Tlx`.
+A soap film has two surfaces, so increasing each by \\(\Delta A\\) costs
+\\(\Delta E = 2T \Delta A\\). In experiments, remember to count the number of interfaces.
+For example, pulling a wire a distance \\(x\\) on a rectangular soap film creates
+\\(2lx\\) of new area (two sides), and the work is \\(2Tlx\\).
 
 This energy viewpoint is equivalent to the force-per-length viewpoint. It is often
-easier to find a force from the change in energy: if a movable boundary shifts by `dx`,
-then `F dx = dE` for a quasistatic displacement.
+easier to find a force from the change in energy: if a movable boundary shifts by \\(dx\\),
+then \\(F dx = dE\\) for a quasistatic displacement.
 
 <a id="topic-012-angle-of-contact"></a>
 ### angle of contact
 
-The **angle of contact** `theta` is measured through the liquid between the solid
+The **angle of contact** \\(\theta\\) is measured through the liquid between the solid
 surface and the tangent to the liquid surface at the point where liquid, solid, and air
 meet. A small angle means the liquid wets the solid (water on clean glass); an angle
 greater than 90 degrees indicates poor wetting (water on a waxed surface).
 
-At equilibrium, horizontal surface forces balance. If `T_SA`, `T_SL`, and `T_LA` are
+At equilibrium, horizontal surface forces balance. If \\(T_{SA}\\), \\(T_{SL}\\), and \\(T_{LA}\\) are
 the solid-air, solid-liquid, and liquid-air surface tensions, respectively, then
-Young's equation is `T_SA = T_SL + T_LA cos(theta)`. The contact angle affects
-capillary rise: for a tube of radius `r`, liquid density `rho`, and vertical rise `h`,
-`h = 2 T_LA cos(theta)/(rho g r)`.
+Young's equation is \\(T_{SA} = T_{SL} + T_{LA} \cos(\theta)\\). The contact angle affects
+capillary rise: for a tube of radius \\(r\\), liquid density \\(\rho\\), and vertical rise \\(h\\),
+\\(h = 2 T_{LA} \cos(\theta)/(\rho g r)\\).
 
-When `theta < 90 degrees`, `cos(theta)` is positive and the liquid rises. When
-`theta > 90 degrees`, it is negative and the liquid level is depressed. The tube must
+When \\(\theta < 90 ^\circ\\), \\(\cos(\theta)\\) is positive and the liquid rises. When
+\\(\theta > 90 ^\circ\\), it is negative and the liquid level is depressed. The tube must
 be narrow for a large rise; this is why water can travel through fine soil pores.
 
 <a id="topic-013-expression-for-excess-pressure"></a>
 ### expression for excess pressure
 
 Curving a liquid surface creates a pressure difference across it. For two perpendicular
-principal radii of curvature `R1` and `R2`, the Young-Laplace relation is
-`Delta p = T(1/R1 + 1/R2)`, with the sign depending on which side is at higher
+principal radii of curvature \\(R_{1}\\) and \\(R_{2}\\), the Young-Laplace relation is
+\\(\Delta p = T(1/R_{1} + 1/R_{2})\\), with the sign depending on which side is at higher
 pressure.
 
-For a spherical liquid drop, `R1 = R2 = r`, so the pressure inside exceeds the outside
-pressure by `2T/r`. A soap bubble has both an inner and an outer surface, so its excess
-pressure is `4T/r`. A cylindrical liquid surface has one finite radius and one infinite
-radius, giving `T/r`.
+For a spherical liquid drop, \\(R_{1} = R_{2} = r\\), so the pressure inside exceeds the outside
+pressure by \\(2T/r\\). A soap bubble has both an inner and an outer surface, so its excess
+pressure is \\(4T/r\\). A cylindrical liquid surface has one finite radius and one infinite
+radius, giving \\(T/r\\).
 
 The smaller the radius, the larger the excess pressure. **Example:** if a water drop
-has radius `1 mm` and surface tension `0.072 N/m`, its excess pressure is
-`2(0.072)/(0.001) = 144 Pa`. Confusing a liquid drop with a soap bubble leads to a
+has radius \\(1 \mathrm{mm}\\) and surface tension \\(0.072 \mathrm{N\,m^{-1}}\\), its excess pressure is
+\\(2(0.072)/(0.001) = 144 \mathrm{Pa}\\). Confusing a liquid drop with a soap bubble leads to a
 factor-of-two error.
 
 <figure class="lecture-figure">
@@ -298,11 +300,11 @@ factor-of-two error.
 The **principle of virtual work** is a way to test mechanical equilibrium. Imagine an
 infinitesimal, hypothetical displacement (a virtual displacement) consistent with the
 constraints. If the system is in equilibrium, the total work by all applied forces for
-every allowed virtual displacement is zero: `sum(F_i . delta r_i) = 0`.
+every allowed virtual displacement is zero: \\(sum(F_i . \delta r_i) = 0\\).
 
 For a movable boundary of a liquid film, increasing area costs surface energy. A
-quasistatic virtual displacement `dx` changes the energy by `dE = T dA`; the opposing
-surface force must therefore do work `F dx = T dA`. This reproduces the surface-force
+quasistatic virtual displacement \\(dx\\) changes the energy by \\(dE = T dA\\); the opposing
+surface force must therefore do work \\(F dx = T dA\\). This reproduces the surface-force
 results without separately balancing every molecular force.
 
 Virtual does not mean the object actually moves. It is a calculation tool: choose a
@@ -317,10 +319,10 @@ moves up and down, while the disturbance—and its energy—travels outward. For
 amplitude waves on deep water, gravity and surface tension both act as restoring
 influences.
 
-Let `k = 2 pi/lambda` be the wave number and `omega = 2 pi f` the angular frequency.
-For a liquid of density `rho` and surface tension `T`, the deep-water dispersion
-relation is `omega^2 = gk + (T/rho) k^3`. The first term dominates long waves; the
-second dominates very short capillary ripples. Since phase speed is `omega/k`, different
+Let \\(k = 2 \pi/\lambda\\) be the wave number and \\(\omega = 2 \pi f\\) the angular frequency.
+For a liquid of density \\(\rho\\) and surface tension \\(T\\), the deep-water dispersion
+relation is \\(\omega^2 = gk + (T/\rho) k^3\\). The first term dominates long waves; the
+second dominates very short capillary ripples. Since phase speed is \\(\omega/k\\), different
 wavelengths generally travel at different speeds: the waves are dispersive.
 
 For water, gravity-capillary effects are comparable near a wavelength of a few
@@ -332,14 +334,14 @@ wavelength scale.
 ### gravity waves
 
 When the water is deep compared with the wavelength, the gravity-wave limit of the
-previous relation is `omega^2 = gk`, so `omega = sqrt(gk)` and the phase speed is
-`v_p = omega/k = sqrt(g/k)`. Long gravity waves therefore have a larger phase speed
-than short ones. For a layer of finite depth `h`, gravity and surface tension together
-give `omega^2 = (gk + T k^3/rho) tanh(kh)`.
+previous relation is \\(\omega^2 = gk\\), so \\(\omega = \sqrt{gk}\\) and the phase speed is
+\\(v_p = \omega/k = \sqrt{g/k}\\). Long gravity waves therefore have a larger phase speed
+than short ones. For a layer of finite depth \\(h\\), gravity and surface tension together
+give \\(\omega^2 = (gk + T k^3/\rho) \tanh(kh)\\).
 
-At small `kh` (shallow water), `tanh(kh)` is approximately `kh`, so pure gravity waves
-travel at approximately `sqrt(gh)`, nearly independent of wavelength. At large `kh`,
-`tanh(kh)` approaches one and the deep-water expression is recovered.
+At small \\(kh\\) (shallow water), \\(\tanh(kh)\\) is approximately \\(kh\\), so pure gravity waves
+travel at approximately \\(\sqrt{gh}\\), nearly independent of wavelength. At large \\(kh\\),
+\\(\tanh(kh)\\) approaches one and the deep-water expression is recovered.
 
 Ocean surface waves are not all simple sinusoidal gravity waves: depth, wind, breaking,
 and nonlinear effects can matter. The dispersion relations here describe small,
@@ -352,15 +354,15 @@ idealised waves and help explain how waves change speed as their wavelength chan
 ### Motion of a particle under a central force field and conservation of angular momentum
 
 For a central force, the force always points toward or away from a fixed centre and its
-magnitude depends only on distance `r`: `F = f(r) r_hat`. Gravity and the ideal
+magnitude depends only on distance \\(r\\): \\(F = f(r) \hat{\mathbf{r}}\\). Gravity and the ideal
 electrostatic force are examples. The torque about the centre is zero because force and
-position are parallel: `tau = r x F = 0`.
+position are parallel: \\(\tau = \mathbf{r} \times \mathbf{F} = 0\\).
 
-Newton's rotational law says `dL/dt = tau`, where angular momentum is
-`L = r x p`. Thus `dL/dt = 0`: angular momentum is conserved in both magnitude and
-direction. For a particle of mass `m` in plane polar coordinates,
-`L = m r^2 d(theta)/dt`. A constant `L` also means equal areas are swept out in equal
-times, because the area rate is `(1/2)r^2 d(theta)/dt = L/(2m)`.
+Newton's rotational law says \\(\frac{dL}{dt} = \tau\\), where angular momentum is
+\\(L = \mathbf{r} \times \mathbf{p}\\). Thus \\(\frac{dL}{dt} = 0\\): angular momentum is conserved in both magnitude and
+direction. For a particle of mass \\(m\\) in plane polar coordinates,
+\\(L = m r^2 d(\theta)/dt\\). A constant \\(L\\) also means equal areas are swept out in equal
+times, because the area rate is \\((1/2)r^2 d(\theta)/dt = L/(2m)\\).
 
 <figure class="lecture-figure">
   <img src="{{ '/images/lecture/central-orbit.svg' | relative_url }}" alt="An elliptical orbit with the attracting body at one focus, inward central-force arrows, and two shaded areas illustrating area swept over time">
@@ -375,46 +377,46 @@ energy is also conserved.
 ### Kepler's laws of planetary motion and their derivations
 
 Kepler described planetary motion; Newtonian gravity explains why the laws hold. A
-planet of mass `m` moving around a much heavier Sun of mass `M` feels
-`F = GMm/r^2` toward the Sun. The central-force result above immediately gives equal
+planet of mass \\(m\\) moving around a much heavier Sun of mass \\(M\\) feels
+\\(F = GMm/r^2\\) toward the Sun. The central-force result above immediately gives equal
 areas in equal times—Kepler's second law.
 
-The orbit shape can also be derived. Write `u = 1/r` and let
-`h = r^2 d(theta)/dt` be the angular momentum per unit mass, which is constant. The
+The orbit shape can also be derived. Write \\(u = 1/r\\) and let
+\\(h = r^2 d(\theta)/dt\\) be the angular momentum per unit mass, which is constant. The
 radial equation of motion under gravity becomes
-`d^2u/dtheta^2 + u = GM/h^2`. Its solution is
-`r = p/[1 + e cos(theta)]`, where `p = h^2/(GM)` and `e` is the eccentricity. This is
-a conic section with the Sun at a focus; a bound planetary orbit has `0 <= e < 1`, so
+\\(\frac{d^2u}{d\theta^2} + u = GM/h^2\\). Its solution is
+\\(r = p/[1 + e \cos(\theta)]\\), where \\(p = h^2/(GM)\\) and \\(e\\) is the eccentricity. This is
+a conic section with the Sun at a focus; a bound planetary orbit has \\(0 <= e < 1\\), so
 the path is an ellipse. This gives Kepler's first law.
 
 For a circular orbit, gravity supplies centripetal acceleration:
-`GMm/r^2 = mv^2/r`. Hence `v^2 = GM/r` and the period is `P = 2 pi r/v`. Substitution
-gives `P^2 = 4 pi^2 r^3/(GM)`, or `P^2 proportional to r^3`: Kepler's third law for
-circular orbits. For an ellipse with semi-major axis `a` and semi-minor axis `b`, the
-area is `pi ab`. Since areal velocity is `h/2`, one period is
-`P = 2 pi ab/h`. The orbit equation gives `h^2 = GM a(1 - e^2)` and
-`b = a sqrt(1 - e^2)`; substituting yields `P^2 = 4 pi^2 a^3/(GM)`. This is the
+\\(GMm/r^2 = mv^2/r\\). Hence \\(v^2 = GM/r\\) and the period is \\(P = 2 \pi r/v\\). Substitution
+gives \\(P^2 = 4 \pi^2 r^3/(GM)\\), or \\(P^2 \propto r^3\\): Kepler's third law for
+circular orbits. For an ellipse with semi-major axis \\(a\\) and semi-minor axis \\(b\\), the
+area is \\(\pi ab\\). Since areal velocity is \\(h/2\\), one period is
+\\(P = 2 \pi ab/h\\). The orbit equation gives \\(h^2 = GM a(1 - e^2)\\) and
+\\(b = a \sqrt{1 - e^2}\\); substituting yields \\(P^2 = 4 \pi^2 a^3/(GM)\\). This is the
 third law for elliptical as well as circular orbits.
 
 Kepler's first law says planets move in ellipses with the Sun at one focus. Their
 varying speed follows from conservation of angular momentum: a planet moves faster
 near the Sun and slower farther away. For two bodies of comparable mass, use the
-relative orbit and replace `M` in the period formula by `M + m`.
+relative orbit and replace \\(M\\) in the period formula by \\(M + m\\).
 
 <a id="topic-019-satellites-in-circular-orbits-and-their-applications"></a>
 ### Satellites in circular orbits and their applications
 
 An artificial satellite in a circular orbit is continually falling toward Earth, but its
-sideways speed makes it keep missing the surface. At orbital radius `r = R_E + h`,
+sideways speed makes it keep missing the surface. At orbital radius \\(r = R_E + h\\),
 gravity provides the required centripetal force:
-`GM_E m/r^2 = mv^2/r`. Therefore `v = sqrt(GM_E/r)` and
-`P = 2 pi sqrt(r^3/(GM_E))`. The satellite mass cancels: at the same radius, all
+\\(GM_E m/r^2 = mv^2/r\\). Therefore \\(v = \sqrt{GM_E/r}\\) and
+\\(P = 2 \pi \sqrt{r^3/(GM_E)}\\). The satellite mass cancels: at the same radius, all
 satellites have the same ideal orbital speed and period.
 
-The gravitational potential energy is `U = -GM_E m/r`, and the total energy of a
-circular orbit is `E = -GM_E m/(2r)`. A negative total energy means the satellite is
-bound. To escape from radius `r` in the ideal model, it needs speed
-`v_escape = sqrt(2GM_E/r)`, which is `sqrt(2)` times circular orbital speed there.
+The gravitational potential energy is \\(U = -GM_E m/r\\), and the total energy of a
+circular orbit is \\(E = -GM_E m/(2r)\\). A negative total energy means the satellite is
+bound. To escape from radius \\(r\\) in the ideal model, it needs speed
+\\(v_escape = \sqrt{2GM_E/r}\\), which is \\(\sqrt{2}\\) times circular orbital speed there.
 
 Applications include communications, weather observation, navigation, and Earth
 observation. Real orbits are affected by atmospheric drag, Earth's non-spherical shape,
@@ -428,8 +430,8 @@ rotating with a satellite is not inertial. From that rotating viewpoint, an obje
 to be pushed outward; to use Newton's laws in that frame we introduce the **centrifugal
 force**.
 
-For rotation at angular speed `omega`, a mass `m` at distance `r` experiences an
-outward centrifugal force of magnitude `m omega^2 r`. It is not an extra physical
+For rotation at angular speed \\(\omega\\), a mass \\(m\\) at distance \\(r\\) experiences an
+outward centrifugal force of magnitude \\(m \omega^2 r\\). It is not an extra physical
 interaction; it appears because the frame itself accelerates. The real inward force
 needed for circular motion is centripetal force, supplied here by gravity. In a circular
 orbit, the orbiting object is weightless in its own freely falling frame even though
@@ -444,18 +446,18 @@ balances it for an object at rest relative to that frame.
 
 An oscillation repeats around an equilibrium position. In **simple harmonic motion**
 (SHM), the acceleration is proportional to displacement and points toward equilibrium:
-`a = -omega^2 x`. Newton's law then gives the differential equation
-`d^2x/dt^2 + omega^2 x = 0`.
+\\(a = -\omega^2 x\\). Newton's law then gives the differential equation
+\\(\frac{d^2x}{dt^2} + \omega^2 x = 0\\).
 
-Its solution is `x(t) = A cos(omega t + phi)`. Here `A` is amplitude, `phi` is initial
-phase, angular frequency `omega` is in `rad/s`, and period is `T = 2 pi/omega`.
-Differentiating gives `v = -A omega sin(omega t + phi)` and
-`a = -A omega^2 cos(omega t + phi) = -omega^2 x`, confirming the equation.
+Its solution is \\(x(t) = A \cos(\omega t + \phi)\\). Here \\(A\\) is amplitude, \\(\phi\\) is initial
+phase, angular frequency \\(\omega\\) is in \\(\mathrm{rad\,s^{-1}}\\), and period is \\(T = 2 \pi/\omega\\).
+Differentiating gives \\(v = -A \omega \sin(\omega t + \phi)\\) and
+\\(a = -A \omega^2 \cos(\omega t + \phi) = -\omega^2 x\\), confirming the equation.
 
-**Example.** A mass on a spring has restoring force `F = -kx`. Newton's law gives
-`m d^2x/dt^2 = -kx`, so `omega = sqrt(k/m)` and
-`T = 2 pi sqrt(m/k)`. Doubling the mass increases the period by `sqrt(2)`; doubling
-the spring stiffness decreases it by `sqrt(2)`.
+**Example.** A mass on a spring has restoring force \\(F = -kx\\). Newton's law gives
+\\(m \frac{d^2x}{dt^2} = -kx\\), so \\(\omega = \sqrt{k/m}\\) and
+\\(T = 2 \pi \sqrt{m/k}\\). Doubling the mass increases the period by \\(\sqrt{2}\\); doubling
+the spring stiffness decreases it by \\(\sqrt{2}\\).
 
 <figure class="lecture-figure">
   <img src="{{ '/images/lecture/shm-pendulum.svg' | relative_url }}" alt="An animated small-angle pendulum swinging about equilibrium beside a sinusoidal displacement-time graph">
@@ -465,32 +467,32 @@ the spring stiffness decreases it by `sqrt(2)`.
 <a id="topic-022-potential"></a>
 ### potential
 
-For a spring with force `F = -kx`, potential energy is defined so that
-`F = -dU/dx`. Integrating gives `U = (1/2)kx^2` if zero potential energy is chosen
-at equilibrium. Since `k = m omega^2`, this is also
-`U = (1/2)m omega^2 x^2`.
+For a spring with force \\(F = -kx\\), potential energy is defined so that
+\\(F = -dU/dx\\). Integrating gives \\(U = (1/2)kx^2\\) if zero potential energy is chosen
+at equilibrium. Since \\(k = m \omega^2\\), this is also
+\\(U = (1/2)m \omega^2 x^2\\).
 
-At the turning points, speed is zero and displacement is `+A` or `-A`; all the
+At the turning points, speed is zero and displacement is \\(+A\\) or \\(-A\\); all the
 oscillator's mechanical energy is potential:
-`E = (1/2)m omega^2 A^2`. At equilibrium, displacement and spring potential energy
+\\(E = (1/2)m \omega^2 A^2\\). At equilibrium, displacement and spring potential energy
 are zero, so the energy is kinetic. Between these points the energy continuously
 changes form, while their sum stays constant if there is no damping.
 
 The same method works for any stable equilibrium: approximate its potential near the
-minimum by a parabola, `U(x) approximately U(0) + (1/2)kx^2`. Small motions then
+minimum by a parabola, \\(U(x) \approx U(0) + (1/2)kx^2\\). Small motions then
 behave like SHM.
 
 <a id="topic-023-total-energy-along-with-their-time-average-values"></a>
 ### total energy along with their time-average values
 
-The kinetic energy of an SHM oscillator is `K = (1/2)mv^2`. Using
-`v^2 = omega^2(A^2 - x^2)`, we get `K = (1/2)m omega^2(A^2 - x^2)`.
-The potential energy is `U = (1/2)m omega^2 x^2`, so `K + U` is the constant
-`(1/2)m omega^2 A^2`.
+The kinetic energy of an SHM oscillator is \\(K = (1/2)mv^2\\). Using
+\\(v^2 = \omega^2(A^2 - x^2)\\), we get \\(K = (1/2)m \omega^2(A^2 - x^2)\\).
+The potential energy is \\(U = (1/2)m \omega^2 x^2\\), so \\(K + U\\) is the constant
+\\((1/2)m \omega^2 A^2\\).
 
-Over a full cycle, `x = A cos(omega t + phi)`. The time average of `cos^2` over a
-cycle is `1/2`, so average potential energy is `E/2`; average kinetic energy is also
-`E/2`. The average displacement and average velocity over a full cycle are zero.
+Over a full cycle, \\(x = A \cos(\omega t + \phi)\\). The time average of \\(\cos^2\\) over a
+cycle is \\(1/2\\), so average potential energy is \\(E/2\\); average kinetic energy is also
+\\(E/2\\). The average displacement and average velocity over a full cycle are zero.
 
 These are time averages, not claims that kinetic and potential energy are equal at
 every instant. They are equal on average over complete cycles for ideal SHM.
@@ -498,47 +500,47 @@ every instant. They are equal on average over complete cycles for ideal SHM.
 <a id="topic-024-physical-systems-executing-shm-simple-pendulum"></a>
 ### Physical systems executing SHM: simple pendulum
 
-A simple pendulum is a small bob of mass `m` suspended by a light, inextensible string
-of length `l`. At angle `theta`, gravity has a tangential restoring component
-`-mg sin(theta)`. For small angles measured in radians, `sin(theta) approximately
-theta`; the torque equation becomes `m l^2 d^2theta/dt^2 = -mgl theta`.
+A simple pendulum is a small bob of mass \\(m\\) suspended by a light, inextensible string
+of length \\(l\\). At angle \\(\theta\\), gravity has a tangential restoring component
+\\(-mg \sin(\theta)\\). For small angles measured in radians, \\(\sin(\theta) \approx
+\theta\\); the torque equation becomes \\(m l^2 \frac{d^2\theta}{dt^2} = -mgl \theta\\).
 
-Thus `d^2theta/dt^2 + (g/l)theta = 0`, which is SHM with
-`omega = sqrt(g/l)` and `T = 2 pi sqrt(l/g)`. The bob's mass does not appear in the
+Thus \\(\frac{d^2\theta}{dt^2} + (g/l)\theta = 0\\), which is SHM with
+\\(\omega = \sqrt{g/l}\\) and \\(T = 2 \pi \sqrt{l/g}\\). The bob's mass does not appear in the
 period. A pendulum's period increases with length and decreases when gravitational
 acceleration is larger.
 
 The small-angle approximation is essential. Large swings are not exactly SHM and
-their period is slightly longer. **Example:** for `l = 1 m` and `g = 9.8 m/s^2`,
-`T approximately 2 pi/sqrt(9.8) = 2.01 s`.
+their period is slightly longer. **Example:** for \\(l = 1\,\mathrm{m}\\) and \\(g = 9.8 \mathrm{m\,s^{-2}}\\),
+\\(T \approx 2 \pi/\sqrt{9.8} = 2.01 s\\).
 
 <a id="topic-025-compound-pendulum"></a>
 ### compound pendulum
 
 Unlike a simple pendulum, a **compound (physical) pendulum** is a rigid body swinging
-about a fixed horizontal axis. Let its mass be `m`, the centre of mass be distance `d`
-from the pivot, and its moment of inertia about the pivot be `I`. Gravity gives torque
-`-mgd sin(theta)`. For small angles, `I d^2theta/dt^2 = -mgd theta`.
+about a fixed horizontal axis. Let its mass be \\(m\\), the centre of mass be distance \\(d\\)
+from the pivot, and its moment of inertia about the pivot be \\(I\\). Gravity gives torque
+\\(-mgd \sin(\theta)\\). For small angles, \\(I \frac{d^2\theta}{dt^2} = -mgd \theta\\).
 
-Therefore `omega = sqrt(mgd/I)` and `T = 2 pi sqrt(I/(mgd))`. By the parallel-axis
-theorem, `I = I_cm + md^2`, where `I_cm` is the moment of inertia about a parallel axis
+Therefore \\(\omega = \sqrt{mgd/I}\\) and \\(T = 2 \pi \sqrt{I/(mgd)}\\). By the parallel-axis
+theorem, \\(I = I_{\mathrm{cm}} + md^2\\), where \\(I_{\mathrm{cm}}\\) is the moment of inertia about a parallel axis
 through the centre of mass. The length of an equivalent simple pendulum is
-`l_eq = I/(md)`.
+\\(l_{\mathrm{eq}} = I/(md)\\).
 
 This formula assumes a rigid body, fixed pivot, and small oscillations. Moving the
-pivot changes both `I` and `d`, so the period changes.
+pivot changes both \\(I\\) and \\(d\\), so the period changes.
 
 <a id="topic-026-torsional-pendulum"></a>
 ### torsional pendulum
 
 In a torsional pendulum, a body is suspended by a thin wire. Twisting it through angle
-`theta` produces a restoring torque `tau = -kappa theta`, where `kappa` is the
-torsional constant of the wire. If the body has moment of inertia `I`, its rotational
-equation is `I d^2theta/dt^2 = -kappa theta`.
+\\(\theta\\) produces a restoring torque \\(\tau = -\kappa \theta\\), where \\(\kappa\\) is the
+torsional constant of the wire. If the body has moment of inertia \\(I\\), its rotational
+equation is \\(I \frac{d^2\theta}{dt^2} = -\kappa \theta\\).
 
-This is SHM with angular frequency `omega = sqrt(kappa/I)` and period
-`T = 2 pi sqrt(I/kappa)`. A larger moment of inertia makes oscillations slower; a
-stiffer wire (larger `kappa`) makes them faster. The units of `kappa` are `N m/rad`
+This is SHM with angular frequency \\(\omega = \sqrt{\kappa/I}\\) and period
+\\(T = 2 \pi \sqrt{I/\kappa}\\). A larger moment of inertia makes oscillations slower; a
+stiffer wire (larger \\(\kappa\\)) makes them faster. The units of \\(\kappa\\) are \\(\mathrm{N\,m\,rad^{-1}}\\)
 (radian is dimensionless in SI).
 
 The approximation assumes the wire twists elastically and torque is proportional to
@@ -547,15 +549,15 @@ angle. A torsion balance uses this principle to detect very small torques.
 <a id="topic-027-lc-circuit"></a>
 ### LC circuit
 
-An ideal LC circuit contains an inductor `L` and capacitor `C` with negligible
+An ideal LC circuit contains an inductor \\(L\\) and capacitor \\(C\\) with negligible
 resistance. A charged capacitor discharges through the inductor; magnetic energy builds
 up in the inductor, then drives current that charges the capacitor with the opposite
 polarity. Energy moves back and forth between electric and magnetic forms.
 
-If `q` is capacitor charge and `i = dq/dt`, Kirchhoff's voltage law gives
-`L d^2q/dt^2 + q/C = 0`. Hence the charge executes SHM with
-`omega = 1/sqrt(LC)` and `T = 2 pi sqrt(LC)`. Current is a quarter-cycle out of phase
-with charge. The stored energy is `q^2/(2C) + Li^2/2`, constant in the ideal circuit.
+If \\(q\\) is capacitor charge and \\(i = \frac{dq}{dt}\\), Kirchhoff's voltage law gives
+\\(L d^2q/dt^2 + q/C = 0\\). Hence the charge executes SHM with
+\\(\omega = 1/\sqrt{LC}\\) and \\(T = 2 \pi \sqrt{LC}\\). Current is a quarter-cycle out of phase
+with charge. The stored energy is \\(q^2/(2C) + Li^2/2\\), constant in the ideal circuit.
 
 Resistance in a real circuit dissipates energy, so the oscillations decay. The LC model
 is a useful first approximation when resistance is small.
@@ -563,16 +565,16 @@ is a useful first approximation when resistance is small.
 <a id="topic-028-damped-and-forced-oscillations-resonance"></a>
 ### Damped and forced oscillations: resonance
 
-Real oscillators lose energy. A common model is a restoring force `-kx` and a damping
-force proportional to velocity, `-b dx/dt`. With an external periodic drive
-`F0 cos(omega_d t)`, Newton's law gives
-`m x'' + b x' + kx = F0 cos(omega_d t)`.
+Real oscillators lose energy. A common model is a restoring force \\(-kx\\) and a damping
+force proportional to velocity, \\(-b \frac{dx}{dt}\\). With an external periodic drive
+\\(F_{0} \cos(\omega_d t)\\), Newton's law gives
+\\(m x'' + b x' + kx = F_{0} \cos(\omega_d t)\\).
 
-Without the drive, the amplitude decays approximately as `exp(-bt/(2m))` when damping
+Without the drive, the amplitude decays approximately as \\(\exp(-bt/(2m))\\) when damping
 is weak. With a drive, the system eventually oscillates at the **driving frequency**,
 not its natural frequency. Its steady amplitude is
-`A = (F0/m)/sqrt((omega_0^2 - omega_d^2)^2 + (b omega_d/m)^2)`,
-where `omega_0 = sqrt(k/m)`.
+\\(A = (F_{0}/m)/\sqrt{(\omega_0^2 - \omega_d^2)^2 + (b \omega_d/m)^2}\\),
+where \\(\omega_0 = \sqrt{k/m}\\).
 
 The amplitude is largest near resonance, when the driving frequency is close to the
 natural frequency. Damping limits the peak; without damping an ideal oscillator driven
@@ -587,10 +589,10 @@ the resonant frequency. A lightly damped oscillator has a tall, narrow peak and 
 sharply defined preferred frequency; a heavily damped oscillator has a lower, broader
 peak.
 
-For weak damping, let `Delta omega` be the bandwidth between the frequencies where
+For weak damping, let \\(\Delta \omega\\) be the bandwidth between the frequencies where
 the average power is half its maximum. The quality factor is approximately
-`Q = omega_0/Delta omega`. Larger `Q` means sharper resonance and slower energy loss.
-For the mass-spring-damper model, `Q = m omega_0/b` when damping is weak.
+\\(Q = \omega_0/\Delta \omega\\). Larger \\(Q\\) means sharper resonance and slower energy loss.
+For the mass-spring-damper model, \\(Q = m \omega_0/b\\) when damping is weak.
 
 Resonance is useful in selecting radio frequencies and in musical instruments, but
 large resonant amplitudes can damage structures. Real systems have damping and their
@@ -603,10 +605,10 @@ In a driven oscillator, energy supplied by the driving force is partly stored an
 returned each cycle, and partly dissipated by damping. The **average power** measures
 the net energy converted to heat or other irreversible forms per second.
 
-For `m x'' + b x' + kx = F0 cos(omega_d t)`, the steady velocity has amplitude
-`omega_d A` and lags the drive by a phase `delta`. Average input power is
-`P_avg = (1/2)F0 omega_d A sin(delta)`. Using the response amplitude, this can also be
-written `P_avg = (1/2)b omega_d^2 A^2`. The second form shows that the power supplied
+For \\(m x'' + b x' + kx = F_{0} \cos(\omega_d t)\\), the steady velocity has amplitude
+\\(\omega_d A\\) and lags the drive by a phase \\(\delta\\). Average input power is
+\\(P_{\mathrm{avg}} = (1/2)F_{0} \omega_d A \sin(\delta)\\). Using the response amplitude, this can also be
+written \\(P_{\mathrm{avg}} = (1/2)b \omega_d^2 A^2\\). The second form shows that the power supplied
 balances viscous dissipation.
 
 Power is greatest near resonance, where velocity and driving force are most nearly in
@@ -615,19 +617,19 @@ phase. Do not confuse stored energy (joules) with power (watts = joules per seco
 <a id="topic-031-quality-factor"></a>
 ### quality factor
 
-The **quality factor** `Q` compares energy stored with energy lost in one cycle:
-`Q = 2 pi x (energy stored)/(energy lost per cycle)`. A high-`Q` oscillator loses only
-a small fraction of its energy per cycle and rings for a long time. A low-`Q`
+The **quality factor** \\(Q\\) compares energy stored with energy lost in one cycle:
+\\(Q = 2 \pi x (\text{energy stored})/(\text{energy lost per cycle})\\). A high-\\(Q\\) oscillator loses only
+a small fraction of its energy per cycle and rings for a long time. A low-\\(Q\\)
 oscillator dies away quickly.
 
 For a weakly damped mass-spring oscillator,
-`Q = m omega_0/b = omega_0/(2 beta)`, where `beta = b/(2m)`. It is also approximately
-`omega_0/Delta omega`, the resonant frequency divided by the half-power bandwidth.
+\\(Q = m \omega_0/b = \omega_0/(2 \beta)\\), where \\(\beta = b/(2m)\\). It is also approximately
+\\(\omega_0/\Delta \omega\\), the resonant frequency divided by the half-power bandwidth.
 These definitions agree in the weak-damping limit; at strong damping the simple
 bandwidth approximation needs care.
 
-**Example.** If `omega_0 = 100 rad/s` and the half-power bandwidth is `5 rad/s`,
-`Q approximately 20`. This indicates a relatively sharp resonance.
+**Example.** If \\(\omega_0 = 100 \mathrm{rad\,s^{-1}}\\) and the half-power bandwidth is \\(5 \mathrm{rad\,s^{-1}}\\),
+\\(Q \approx 20\\). This indicates a relatively sharp resonance.
 
 
 ## UNIT-III: Special Theory of Relativity (15 Lectures)
@@ -643,7 +645,7 @@ mechanics.
 A frame that accelerates or rotates is **non-inertial**. In it, an object may appear
 to accelerate even when no real force explains that motion in the frame. We can still
 use Newton's laws if we introduce appropriate fictitious forces, such as centrifugal
-force in a rotating frame or `-m a_frame` in a linearly accelerating frame.
+force in a rotating frame or \\(-m a_{\mathrm{frame}}\\) in a linearly accelerating frame.
 
 In special relativity, inertial frames are central: the laws of physics have the same
 form in every inertial frame, and no inertial frame is privileged. Accelerated observers
@@ -674,18 +676,18 @@ fringe shift.
 Einstein's special theory of relativity starts with two postulates:
 
 1. The laws of physics are the same in all inertial frames.
-2. The speed of light in vacuum, `c`, has the same value for every inertial observer,
+2. The speed of light in vacuum, \\(c\\), has the same value for every inertial observer,
    independent of the motion of the source.
 
-Consider frame `S'` moving at speed `v` along the `x` direction relative to frame `S`,
-with their origins coinciding at `t = t' = 0`. Define
-`gamma = 1/sqrt(1 - v^2/c^2)`. The Lorentz transformations are
-`x' = gamma(x - vt)`, `t' = gamma(t - vx/c^2)`, with `y' = y` and `z' = z`.
-The inverse is obtained by replacing `v` with `-v`.
+Consider frame \\(S'\\) moving at speed \\(v\\) along the \\(x\\) direction relative to frame \\(S\\),
+with their origins coinciding at \\(t = t' = 0\\). Define
+\\(\gamma = 1/\sqrt{1 - v^2/c^2}\\). The Lorentz transformations are
+\\(x' = \gamma(x - vt)\\), \\(t' = \gamma(t - vx/c^2)\\), with \\(y' = y\\) and \\(z' = z\\).
+The inverse is obtained by replacing \\(v\\) with \\(-v\\).
 
 Unlike Galilean transformations, time depends on both position and time. For speeds
-much smaller than `c`, `gamma approximately 1` and `vx/c^2` is tiny, recovering the
-classical approximation `x' approximately x - vt`, `t' approximately t`.
+much smaller than \\(c\\), \\(\gamma \approx 1\\) and \\(vx/c^2\\) is tiny, recovering the
+classical approximation \\(x' \approx x - vt\\), \\(t' \approx t\\).
 
 <figure class="lecture-figure">
   <img src="{{ '/images/lecture/spacetime.svg' | relative_url }}" alt="A spacetime diagram with light rays at 45 degrees, a moving observer's worldline, and differently tilted simultaneity lines for frames S and S prime">
@@ -695,28 +697,28 @@ classical approximation `x' approximately x - vt`, `t' approximately t`.
 <a id="topic-035-lorentz-contraction"></a>
 ### Lorentz contraction
 
-Take a rod at rest in frame `S'`; its **proper length** is `L0 = x2' - x1'`, measured
-at the same time in that frame. An observer in frame `S`, where the rod moves along
-its length at speed `v`, must record both endpoints at the same `t`. Applying the
+Take a rod at rest in frame \\(S'\\); its **proper length** is \\(L_{0} = x_{2}' - x_{1}'\\), measured
+at the same time in that frame. An observer in frame \\(S\\), where the rod moves along
+its length at speed \\(v\\), must record both endpoints at the same \\(t\\). Applying the
 inverse Lorentz transformation to the two endpoint events gives
-`L = L0/gamma = L0 sqrt(1 - v^2/c^2)`.
+\\(L = L_{0}/\gamma = L_{0} \sqrt{1 - v^2/c^2}\\).
 
 This is **length contraction**. Only the dimension parallel to the relative motion
 contracts; perpendicular lengths do not. The rod is not being crushed in its own rest
 frame. Different observers measure different lengths because they select
 simultaneous endpoint events differently.
 
-**Example.** At `v = 0.6c`, `gamma = 1.25`. A rod of proper length `10 m` is measured
-as `8 m` by an observer relative to whom it moves along its length.
+**Example.** At \\(v = 0.6c\\), \\(\gamma = 1.25\\). A rod of proper length \\(10\,\mathrm{m}\\) is measured
+as \\(8\,\mathrm{m}\\) by an observer relative to whom it moves along its length.
 
 <a id="topic-036-time-dilation"></a>
 ### time dilation
 
-The **proper time** `Delta tau` is the time between two events measured by a clock
+The **proper time** \\(\Delta \tau\\) is the time between two events measured by a clock
 present at both events (so both occur at the same place in that clock's rest frame).
-If the clock moves at speed `v` relative to an observer, the observer measures a
+If the clock moves at speed \\(v\\) relative to an observer, the observer measures a
 longer interval:
-`Delta t = gamma Delta tau = Delta tau/sqrt(1 - v^2/c^2)`.
+\\(\Delta t = \gamma \Delta \tau = \Delta \tau/\sqrt{1 - v^2/c^2}\\).
 
 This is time dilation. It is not a clock mechanism running badly; it is a difference
 between time intervals measured in different inertial frames. It is reciprocal: each
@@ -724,9 +726,9 @@ inertial observer finds the other observer's moving clock runs slow, with no
 contradiction because comparisons of distant clocks also involve relativity of
 simultaneity.
 
-**Example.** A particle's proper lifetime is `2 microseconds`. At `v = 0.8c`,
-`gamma = 1/0.6 = 1.667`, so an observer in the laboratory measures about
-`3.33 microseconds`.
+**Example.** A particle's proper lifetime is \\(2 \mathrm{\mu s}\\). At \\(v = 0.8c\\),
+\\(\gamma = 1/0.6 = 1.667\\), so an observer in the laboratory measures about
+\\(3.33 \mathrm{\mu s}\\).
 
 <a id="topic-037-simultaneity"></a>
 ### simultaneity
@@ -737,9 +739,9 @@ usually seem simultaneous for everyone. Relativity changes this because deciding
 frames synchronise clocks differently.
 
 For two events, subtracting the Lorentz time transformation gives
-`Delta t' = gamma(Delta t - v Delta x/c^2)`. If `Delta t = 0` but `Delta x` is not
-zero, then generally `Delta t'` is not zero. Thus simultaneity is relative. Events at
-the same place (`Delta x = 0`) that are simultaneous in one frame remain simultaneous
+\\(\Delta t' = \gamma(\Delta t - v \Delta x/c^2)\\). If \\(\Delta t = 0\\) but \\(\Delta x\\) is not
+zero, then generally \\(\Delta t'\\) is not zero. Thus simultaneity is relative. Events at
+the same place (\\(\Delta x = 0\\)) that are simultaneous in one frame remain simultaneous
 in every inertial frame.
 
 This effect is essential to length contraction: to measure a moving rod's length, the
@@ -751,32 +753,32 @@ endpoint events are not simultaneous in the rod's rest frame.
 
 An **event** is specified by where and when something happens. The order of two events
 can be frame-independent or frame-dependent. From the Lorentz transformation,
-`Delta t' = gamma(Delta t - v Delta x/c^2)`.
+\\(\Delta t' = \gamma(\Delta t - v \Delta x/c^2)\\).
 
-If the separation is **timelike**, `c^2 Delta t^2 > Delta x^2`, all inertial observers
+If the separation is **timelike**, \\(c^2 \Delta t^2 > \Delta x^2\\), all inertial observers
 agree on which event came first; a signal travelling no faster than light could
-connect them. If it is **spacelike**, `c^2 Delta t^2 < Delta x^2`, their order can
+connect them. If it is **spacelike**, \\(c^2 \Delta t^2 < \Delta x^2\\), their order can
 reverse between frames, but neither event can cause the other without faster-than-light
-communication. If it is **lightlike**, `c^2 Delta t^2 = Delta x^2`, light can connect
+communication. If it is **lightlike**, \\(c^2 \Delta t^2 = \Delta x^2\\), light can connect
 the events and all observers agree on the light-speed causal relation.
 
 This causal structure prevents relativity from allowing an effect to precede its cause.
-The interval `c^2 Delta t^2 - Delta x^2` is invariant under Lorentz transformations.
+The interval \\(c^2 \Delta t^2 - \Delta x^2\\) is invariant under Lorentz transformations.
 
 <a id="topic-039-relativistic-addition-of-velocities"></a>
 ### Relativistic addition of velocities
 
 Velocity must transform consistently with the Lorentz transformations. If an object
-moves at speed `u` along `x` in frame `S`, and frame `S'` moves at speed `v` in the
-same direction, differentiating `x'` and `t'` gives
-`u' = (u - v)/(1 - uv/c^2)`. For velocities in opposite directions, keep signs
-consistent; the inverse formula is `u = (u' + v)/(1 + u'v/c^2)`.
+moves at speed \\(u\\) along \\(x\\) in frame \\(S\\), and frame \\(S'\\) moves at speed \\(v\\) in the
+same direction, differentiating \\(x'\\) and \\(t'\\) gives
+\\(u' = (u - v)/(1 - uv/c^2)\\). For velocities in opposite directions, keep signs
+consistent; the inverse formula is \\(u = (u' + v)/(1 + u'v/c^2)\\).
 
-This rule guarantees that combining two speeds less than `c` never produces a speed
-greater than `c`. For example, two same-direction speeds of `0.8c` and `0.8c` combine
-to `(1.6c)/(1 + 0.64) approximately 0.976c`, not `1.6c`.
+This rule guarantees that combining two speeds less than \\(c\\) never produces a speed
+greater than \\(c\\). For example, two same-direction speeds of \\(0.8c\\) and \\(0.8c\\) combine
+to \\((1.6c)/(1 + 0.64) \approx 0.976c\\), not \\(1.6c\\).
 
-When both speeds are much less than `c`, the denominator is nearly one and ordinary
+When both speeds are much less than \\(c\\), the denominator is nearly one and ordinary
 addition or subtraction is recovered. The simple formula is for motion along one
 straight line; perpendicular velocity components require the full transformation.
 
@@ -784,15 +786,15 @@ straight line; perpendicular velocity components require the full transformation
 ### variation of mass with velocity
 
 Older textbooks sometimes describe a “relativistic mass”
-`m_rel = gamma m0`, which increases with speed. Modern treatments usually keep
-**invariant (rest) mass** `m0` constant and say that momentum and energy increase:
-`p = gamma m0 v` and `E = gamma m0 c^2`. Here
-`gamma = 1/sqrt(1 - v^2/c^2)`.
+\\(m_{\mathrm{rel}} = \gamma m_{0}\\), which increases with speed. Modern treatments usually keep
+**invariant (rest) mass** \\(m_{0}\\) constant and say that momentum and energy increase:
+\\(p = \gamma m_{0} v\\) and \\(E = \gamma m_{0} c^2\\). Here
+\\(\gamma = 1/\sqrt{1 - v^2/c^2}\\).
 
-At low speed, `gamma approximately 1 + v^2/(2c^2)`. Therefore
-`E approximately m0 c^2 + (1/2)m0 v^2`: rest energy plus familiar Newtonian kinetic
+At low speed, \\(\gamma \approx 1 + v^2/(2c^2)\\). Therefore
+\\(E \approx m_{0} c^2 + (1/2)m_{0} v^2\\): rest energy plus familiar Newtonian kinetic
 energy. This limit explains why classical mechanics works so well at ordinary speeds.
-As `v` approaches `c`, `gamma` grows without bound, so accelerating an object with
+As \\(v\\) approaches \\(c\\), \\(\gamma\\) grows without bound, so accelerating an object with
 nonzero rest mass to light speed would require unlimited energy.
 
 The phrase “mass increases with velocity” refers to the older relativistic-mass
@@ -804,48 +806,48 @@ when reading older sources.
 
 Photons are particles of light. In modern physics a photon has zero invariant mass but
 nonzero energy and momentum. The relativistic energy-momentum relation is
-`E^2 = p^2 c^2 + m0^2 c^4`. For a photon (`m0 = 0`), this reduces to `E = pc`.
+\\(E^2 = p^2 c^2 + m_{0}^2 c^4\\). For a photon (\\(m_{0} = 0\\)), this reduces to \\(E = pc\\).
 
-A photon cannot be at rest: in vacuum it travels at speed `c`. Its energy is
-`E = h f`, where `h` is Planck's constant and `f` is frequency; its momentum is
-`p = h f/c = h/lambda`. Zero rest mass does not mean zero energy or zero gravitational
+A photon cannot be at rest: in vacuum it travels at speed \\(c\\). Its energy is
+\\(E = h f\\), where \\(h\\) is Planck's constant and \\(f\\) is frequency; its momentum is
+\\(p = h f/c = h/\lambda\\). Zero rest mass does not mean zero energy or zero gravitational
 effects. Light can transfer momentum, exert radiation pressure, and be deflected by
 gravity.
 
 Massless particles follow lightlike paths in spacetime. They are distinct from
-massive particles, whose speed is always less than `c` in every inertial frame.
+massive particles, whose speed is always less than \\(c\\) in every inertial frame.
 
 <a id="topic-042-mass-energy-equivalence"></a>
 ### mass-energy equivalence
 
-The energy of a body at rest is `E0 = m0 c^2`. A change in mass `Delta m` corresponds
-to a change in rest energy `Delta E = Delta m c^2`. This is **mass-energy
+The energy of a body at rest is \\(E_{0} = m_{0} c^2\\). A change in mass \\(\Delta m\\) corresponds
+to a change in rest energy \\(\Delta E = \Delta m c^2\\). This is **mass-energy
 equivalence**, not a rule that all an object's mass can automatically be converted
 into useful energy.
 
-For a moving object, total energy is `E = gamma m0 c^2`; kinetic energy is
-`K = (gamma - 1)m0 c^2`. At low speed this becomes `K approximately (1/2)m0 v^2`.
+For a moving object, total energy is \\(E = \gamma m_{0} c^2\\); kinetic energy is
+\\(K = (\gamma - 1)m_{0} c^2\\). At low speed this becomes \\(K \approx (1/2)m_{0} v^2\\).
 In nuclear reactions, the products can have a slightly smaller total rest mass than
 the reactants; the difference appears as kinetic energy and radiation.
 
-**Scale check.** One gram of mass corresponds to `0.001 x (3 x 10^8)^2 =
-9 x 10^13 J` of rest energy. The large value comes from squaring the speed of light.
+**Scale check.** One gram of mass corresponds to \\(0.001 \times (3 \times 10^8)^2 =
+9 \times 10^13 J\\) of rest energy. The large value comes from squaring the speed of light.
 In an isolated system, total energy and momentum are conserved together.
 
 <a id="topic-043-relativistic-doppler-effect"></a>
 ### Relativistic Doppler effect
 
 The **relativistic Doppler effect** is the change in observed light frequency caused
-by relative motion along the line of sight. Let `f0` be the frequency measured in the
-source's rest frame and `beta = v/c`, with `v > 0` denoting recession. For recession,
-`f_obs = f0 sqrt((1 - beta)/(1 + beta))`; for approach, the frequency is increased:
-`f_obs = f0 sqrt((1 + beta)/(1 - beta))`.
+by relative motion along the line of sight. Let \\(f_{0}\\) be the frequency measured in the
+source's rest frame and \\(\beta = v/c\\), with \\(v > 0\\) denoting recession. For recession,
+\\(f_{\mathrm{obs}} = f_{0} \sqrt{(1 - \beta)/(1 + \beta)}\\); for approach, the frequency is increased:
+\\(f_{\mathrm{obs}} = f_{0} \sqrt{(1 + \beta)/(1 - \beta)}\\).
 
-For small speeds, the fractional shift is approximately `Delta f/f0 = -v/c` for a
-receding source and `+v/c` for an approaching source. Redshift means lower observed
+For small speeds, the fractional shift is approximately \\(\Delta f/f_{0} = -v/c\\) for a
+receding source and \\(+v/c\\) for an approaching source. Redshift means lower observed
 frequency (longer wavelength); blueshift means higher frequency (shorter wavelength).
 
-**Example.** For a receding source at `0.1c`,
-`f_obs/f0 = sqrt(0.9/1.1) approximately 0.905`: the observed frequency is about
+**Example.** For a receding source at \\(0.1c\\),
+\\(f_{\mathrm{obs}}/f_{0} = \sqrt{0.9/1.1} \approx 0.905\\): the observed frequency is about
 9.5% lower. These formulas assume motion directly toward or away from the observer;
 transverse motion also has a relativistic Doppler shift.
