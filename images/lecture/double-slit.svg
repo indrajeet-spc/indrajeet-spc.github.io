@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 300" role="img" aria-labelledby="title desc">
+  <title id="title">Young double-slit interference</title>
+  <desc id="desc">A plane wave reaches two narrow slits. Circular wavelets from the slits overlap and form alternating bright and dark fringes on a distant screen.</desc>
+  <rect width="680" height="300" rx="18" fill="#f8fafc"/>
+  <text x="28" y="34" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#16324f">Interference from two coherent slits</text>
+  <line x1="150" y1="72" x2="150" y2="228" stroke="#16324f" stroke-width="10"/>
+  <line x1="150" y1="126" x2="150" y2="139" stroke="#f8fafc" stroke-width="12"/>
+  <line x1="150" y1="161" x2="150" y2="174" stroke="#f8fafc" stroke-width="12"/>
+  <g fill="none" stroke="#7da4b5" stroke-width="2">
+    <path d="M 96 110 Q 123 110 150 110"/>
+    <path d="M 96 128 Q 123 128 150 128"/>
+    <path d="M 96 146 Q 123 146 150 146"/>
+    <path d="M 96 164 Q 123 164 150 164"/>
+    <path d="M 96 182 Q 123 182 150 182"/>
+  </g>
+  <g fill="none" stroke="#286b83" stroke-width="2">
+    <circle cx="150" cy="132" r="28"/>
+    <circle cx="150" cy="132" r="52"/>
+    <circle cx="150" cy="132" r="76"/>
+    <circle cx="150" cy="168" r="28"/>
+    <circle cx="150" cy="168" r="52"/>
+    <circle cx="150" cy="168" r="76"/>
+  </g>
+  <line x1="440" y1="62" x2="440" y2="238" stroke="#16324f" stroke-width="4"/>
+  <g fill="#b57913">
+    <circle cx="440" cy="80" r="5"/><circle cx="440" cy="111" r="5"/><circle cx="440" cy="142" r="5"/>
+    <circle cx="440" cy="173" r="5"/><circle cx="440" cy="204" r="5"/><circle cx="440" cy="229" r="5"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="14" fill="#16324f">
+    <text x="65" y="248">incident wave</text>
+    <text x="115" y="96">two slits</text>
+    <text x="220" y="86">overlapping wavelets</text>
+    <text x="452" y="100">screen</text>
+    <text x="452" y="162">bright / dark fringes</text>
+  </g>
+</svg>

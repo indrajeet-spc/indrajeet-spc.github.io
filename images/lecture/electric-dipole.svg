@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300" role="img" aria-labelledby="title desc">
+  <title id="title">Electric dipole and its moment</title>
+  <desc id="desc">A negative charge and a positive charge are separated by distance d. The dipole moment vector points from the negative charge toward the positive charge; electric field lines leave the positive charge and end at the negative charge.</desc>
+  <rect width="640" height="300" rx="18" fill="#f8fafc"/>
+  <text x="28" y="34" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#16324f">Electric dipole: equal and opposite charges</text>
+  <g fill="none" stroke="#7da4b5" stroke-width="2">
+    <path d="M 380 150 C 475 150 472 70 320 66 C 168 62 165 150 220 150"/>
+    <path d="M 380 150 C 475 150 472 230 320 234 C 168 238 165 150 220 150"/>
+    <path d="M 380 150 C 460 150 432 112 320 108 C 252 106 230 130 220 150"/>
+    <path d="M 380 150 C 460 150 432 188 320 192 C 252 194 230 170 220 150"/>
+  </g>
+  <g fill="#286b83">
+    <polygon points="290,66 304,60 304,72"/>
+    <polygon points="290,234 304,228 304,240"/>
+    <polygon points="310,108 324,102 324,114"/>
+    <polygon points="310,192 324,186 324,198"/>
+  </g>
+  <circle cx="220" cy="150" r="23" fill="#286b83"/>
+  <circle cx="380" cy="150" r="23" fill="#b44b37"/>
+  <text x="212" y="157" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff">−</text>
+  <text x="373" y="157" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff">+</text>
+  <line x1="244" y1="202" x2="356" y2="202" stroke="#b57913" stroke-width="3"/>
+  <polygon points="356,202 344,196 344,208" fill="#b57913"/>
+  <text x="274" y="226" font-family="Arial, sans-serif" font-size="16" fill="#b57913">p = qd</text>
+  <line x1="220" y1="248" x2="380" y2="248" stroke="#16324f" stroke-width="1.5"/>
+  <line x1="220" y1="242" x2="220" y2="254" stroke="#16324f" stroke-width="1.5"/>
+  <line x1="380" y1="242" x2="380" y2="254" stroke="#16324f" stroke-width="1.5"/>
+  <text x="294" y="271" font-family="Arial, sans-serif" font-size="14" fill="#16324f">separation d</text>
+</svg>
