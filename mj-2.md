@@ -810,6 +810,9 @@ the arc contribution and singularities on the real axis before applying the theo
 
 These free courses provide additional lessons and practice problems:
 
+- [IGNOU eGyanKosh digital repository](https://egyankosh.ac.in/) - search for
+  mathematical physics, vector calculus, differential equations, or complex analysis
+  for related study material.
 - [MIT OpenCourseWare: Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)
 - [MIT OpenCourseWare: Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/)
 - [MIT OpenCourseWare: Complex Variables with Applications](https://ocw.mit.edu/courses/18-04-complex-variables-with-applications-spring-2018/)
