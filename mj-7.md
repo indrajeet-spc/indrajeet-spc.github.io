@@ -34,17 +34,17 @@ A direct band-gap semiconductor allows electronic transitions with minimal chang
 <a id="topic-005-carrier-concentration"></a>
 ### Carrier concentration
 
-Carrier concentration is the number of mobile electrons or holes per unit volume. For intrinsic semiconductors, \(n_i\) is the intrinsic carrier concentration. In extrinsic semiconductors, doping shifts the balance between electrons and holes. The concentration of carriers is often computed from the Fermi level and the density of states. This quantity directly influences conductivity and junction characteristics.
+Carrier concentration is the number of mobile electrons or holes per unit volume. For intrinsic semiconductors, \\(n_i\\) is the intrinsic carrier concentration. In extrinsic semiconductors, doping shifts the balance between electrons and holes. The concentration of carriers is often computed from the Fermi level and the density of states. This quantity directly influences conductivity and junction characteristics.
 
 <a id="topic-006-mobility"></a>
 ### mobility
 
-Carrier mobility \(\mu\) measures how quickly carriers drift in an electric field: \[v_d = \mu E.\] Mobilities depend on scattering mechanisms such as lattice vibrations, impurities, and defects. Higher mobility leads to larger current for a given electric field. Mobility is one of the central parameters in the design of semiconductor devices.
+Carrier mobility \\(\mu\\) measures how quickly carriers drift in an electric field: <br>\[v_d = \mu E.\]<br> Mobilities depend on scattering mechanisms such as lattice vibrations, impurities, and defects. Higher mobility leads to larger current for a given electric field. Mobility is one of the central parameters in the design of semiconductor devices.
 
 <a id="topic-007-equilibrium-electron-and-hole-concentrations"></a>
 ### equilibrium electron and hole concentrations
 
-Under thermal equilibrium, the electron and hole concentrations satisfy the mass action law: \[np = n_i^2.\] In n-type semiconductors, electrons are the majority carriers; in p-type semiconductors, holes are the majority carriers. The Fermi level moves toward the conduction band in n-type material and toward the valence band in p-type material. These concentrations determine current flow and junction properties.
+Under thermal equilibrium, the electron and hole concentrations satisfy the mass action law: <br>\[np = n_i^2.\]<br> In n-type semiconductors, electrons are the majority carriers; in p-type semiconductors, holes are the majority carriers. The Fermi level moves toward the conduction band in n-type material and toward the valence band in p-type material. These concentrations determine current flow and junction properties.
 
 <a id="topic-008-energy-bands"></a>
 ### Energy bands
@@ -64,7 +64,7 @@ The Fermi level is the energy at which the probability of occupation is 1/2 at f
 <a id="topic-011-fermi-dirac-distribution"></a>
 ### Fermi-Dirac distribution
 
-The probability that an electron occupies an energy level \(E\) is given by \[f(E)=\frac{1}{1+e^{(E-E_F)/kT}}.\] This distribution is fundamental in semiconductor statistics. It tells us how the occupation of states changes with temperature and how the conduction and valence bands are filled. The Fermi-Dirac function is central to the derivation of carrier concentrations and current mechanisms.
+The probability that an electron occupies an energy level \\(E\\) is given by <br>\[f(E)=\frac{1}{1+e^{(E-E_F)/kT}}.\]<br> This distribution is fundamental in semiconductor statistics. It tells us how the occupation of states changes with temperature and how the conduction and valence bands are filled. The Fermi-Dirac function is central to the derivation of carrier concentrations and current mechanisms.
 
 ## UNIT-II: p-n Junction Diodes and Applications (15 Lectures)
 
@@ -81,7 +81,7 @@ The depletion region is the space-charge region near the junction where mobile c
 <a id="topic-014-barrier-potential"></a>
 ### barrier potential
 
-The barrier potential arises from the electric field in the depletion region. It opposes further diffusion of majority carriers and yields a built-in potential \(V_{bi}\) across the junction. At equilibrium, the drift current due to the field balances the diffusion current. This built-in potential is the reason the p-n junction supports rectification and diode behavior.
+The barrier potential arises from the electric field in the depletion region. It opposes further diffusion of majority carriers and yields a built-in potential \\(V_{bi}\\) across the junction. At equilibrium, the drift current due to the field balances the diffusion current. This built-in potential is the reason the p-n junction supports rectification and diode behavior.
 
 <a id="topic-015-forward-and-reverse-bias"></a>
 ### forward and reverse bias
@@ -91,7 +91,7 @@ Under forward bias, the p-side is connected to a higher potential than the n-sid
 <a id="topic-016-diode-characteristics"></a>
 ### diode characteristics
 
-The current-voltage relation of a diode is approximately \[I = I_s\left(e^{qV/nkT} - 1\right),\] where \(I_s\) is the saturation current and \(n\) is the ideality factor. In forward bias, current rises sharply after a threshold voltage; in reverse bias, the current remains small until breakdown. The I-V curve is the key characteristic used to design diode circuits.
+The current-voltage relation of a diode is approximately <br>\[I = I_s\left(e^{qV/nkT} - 1\right),\]<br> where \\(I_s\\) is the saturation current and \\(n\\) is the ideality factor. In forward bias, current rises sharply after a threshold voltage; in reverse bias, the current remains small until breakdown. The I-V curve is the key characteristic used to design diode circuits.
 
 <a id="topic-017-junction-capacitance"></a>
 ### Junction capacitance
@@ -106,7 +106,7 @@ The diode current is caused by the diffusion of carriers across the junction and
 <a id="topic-019-static-and-dynamic-resistance"></a>
 ### static and dynamic resistance
 
-The static resistance is defined as \(R_{DC} = V/I\), while the dynamic or small-signal resistance is \[r_d = \frac{dV}{dI}.\] The latter is more relevant for AC analysis because it describes how the diode responds to small fluctuations around a bias point. These resistances help model the diode in circuit design and signal processing.
+The static resistance is defined as \\(R_{DC} = V/I\\), while the dynamic or small-signal resistance is <br>\[r_d = \frac{dV}{dI}.\]<br> The latter is more relevant for AC analysis because it describes how the diode responds to small fluctuations around a bias point. These resistances help model the diode in circuit design and signal processing.
 
 <a id="topic-020-half-wave"></a>
 ### Half-wave
@@ -193,7 +193,7 @@ In the common-emitter (CE) configuration, the emitter is common to both input an
 <a id="topic-036-cc-characteristics-and-current-gains"></a>
 ### CC characteristics and current gains
 
-The common-collector (CC) configuration, also called an emitter follower, has the collector terminal common to both input and output. It provides high input resistance and low output resistance, with voltage gain close to one. Current gain is large, and it is used as a buffer stage. The transistor current gains in different configurations are denoted by \(\alpha\), \(\beta\), and \(\gamma\), depending on the arrangement.
+The common-collector (CC) configuration, also called an emitter follower, has the collector terminal common to both input and output. It provides high input resistance and low output resistance, with voltage gain close to one. Current gain is large, and it is used as a buffer stage. The transistor current gains in different configurations are denoted by \\(\alpha\\), \\(\beta\\), and \\(\gamma\\), depending on the arrangement.
 
 <a id="topic-037-transistor-load-line-analysis"></a>
 ### Transistor load-line analysis
@@ -238,7 +238,7 @@ The JFET has transfer and output characteristics. The output characteristic show
 <a id="topic-045-parameters"></a>
 ### parameters
 
-JFET parameters include transconductance, drain resistance, and gate leakage current. Transconductance is a measure of how strongly the drain current responds to a small gate voltage change: \[g_m = \frac{\partial I_D}{\partial V_{GS}}.\] These parameters are used in equivalent-circuit models for small-signal analysis and design. They also allow us to compare JFETs with BJTs and MOSFETs.
+JFET parameters include transconductance, drain resistance, and gate leakage current. Transconductance is a measure of how strongly the drain current responds to a small gate voltage change: <br>\[g_m = \frac{\partial I_D}{\partial V_{GS}}.\]<br> These parameters are used in equivalent-circuit models for small-signal analysis and design. They also allow us to compare JFETs with BJTs and MOSFETs.
 
 <a id="topic-046-ideal-and-real-mos-capacitors"></a>
 ### Ideal and real MOS capacitors
@@ -248,7 +248,7 @@ A MOS capacitor consists of a metal-oxide-semiconductor sandwich, where the oxid
 <a id="topic-047-mosfet-threshold-voltage"></a>
 ### MOSFET threshold voltage
 
-The threshold voltage \(V_T\) is the gate voltage required to create an inversion layer in the channel. Below this voltage, the channel is depleted and current is minimal. Above threshold, the channel forms and current can flow. The threshold is controlled by gate material, oxide thickness, doping, and interface properties. It is a central design parameter for digital and analog circuits.
+The threshold voltage \\(V_T\\) is the gate voltage required to create an inversion layer in the channel. Below this voltage, the channel is depleted and current is minimal. Above threshold, the channel forms and current can flow. The threshold is controlled by gate material, oxide thickness, doping, and interface properties. It is a central design parameter for digital and analog circuits.
 
 <a id="topic-048-output-and-transfer-characteristics"></a>
 ### output and transfer characteristics
