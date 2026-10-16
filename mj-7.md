@@ -238,7 +238,7 @@ The JFET has transfer and output characteristics. The output characteristic show
 <a id="topic-045-parameters"></a>
 ### parameters
 
-JFET parameters include transconductance, drain resistance, and gate leakage current. Transconductance is a measure of how strongly the drain current responds to a small gate voltage change: <br>\[g_m = \frac{\partial I_D}{\partial V_{GS}}.\]<br> These parameters are used in equivalent-circuit models for small-signal analysis and design. They also allow us to compare JFETs with BJTs and MOSFETs.
+JFET parameters include transconductance, drain resistance, and gate leakage current. Transconductance is a measure of how strongly the drain current responds to a small gate voltage change: <br>\[g_m = \frac{\partial I_D}{\partial V_{GS}}\]<br> These parameters are used in equivalent-circuit models for small-signal analysis and design. They also allow us to compare JFETs with BJTs and MOSFETs.
 
 <a id="topic-046-ideal-and-real-mos-capacitors"></a>
 ### Ideal and real MOS capacitors
