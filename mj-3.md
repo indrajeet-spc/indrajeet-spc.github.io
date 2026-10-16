@@ -24,7 +24,7 @@ Electric **flux** through a surface measures how much field passes through it:
 The vector area element points along the chosen surface normal. For a closed surface,
 the normal is outward. Gauss' law says the net outward flux equals enclosed charge
 divided by the permittivity of free space:
-<br>\\[\iint_{\partial V}\mathbf E\cdot d\mathbf A=\frac{Q_{\mathrm{enc}}}{\epsilon_0}\\]<br>
+<br>\\[\iint_S\mathbf E\cdot d\mathbf A=\frac{Q_{\mathrm{enc}}}{\epsilon_0}\\]<br>
 In differential form,
 <br>\\[\nabla\cdot\mathbf E=\frac{\rho}{\epsilon_0}\\]<br>
 where \\(\rho\\) is volume charge density. The differential form applies locally;
