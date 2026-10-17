@@ -5,15 +5,17 @@
     .pendulum { transform-box: view-box; transform-origin: 190px 62px; animation: swing 4.8s linear infinite; }
     @keyframes swing {
       0%, 50%, 100% { transform: rotate(0); }
-      12.5%, 37.5% { transform: rotate(12.7deg); }
-      25% { transform: rotate(18deg); }
-      62.5%, 87.5% { transform: rotate(-12.7deg); }
-      75% { transform: rotate(-18deg); }
+      12.5%, 37.5% { transform: rotate(-12.7deg); }
+      25% { transform: rotate(-18deg); }
+      62.5%, 87.5% { transform: rotate(12.7deg); }
+      75% { transform: rotate(18deg); }
     }
     @media (prefers-reduced-motion: reduce) {
-      .pendulum, .tracer-motion { animation: none; display: none; }
-      .pendulum { transform: rotate(0); }
+      .pendulum { animation: none; transform: rotate(0); }
+      .tracer-motion { display: none; }
       .tracer { transform: translate(0, 0); }
+      :root.motion-enabled .pendulum { animation: swing 4.8s linear infinite; }
+      :root.motion-enabled .tracer-motion { display: inline; }
     }
   </style>
   <rect width="760" height="310" rx="18" fill="#f8faf5"/>

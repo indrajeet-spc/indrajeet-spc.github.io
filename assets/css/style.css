@@ -704,11 +704,51 @@ img {
     background: #ffffff;
 }
 
-.mj-lecture-notes .lecture-figure img {
+.mj-lecture-notes .lecture-figure img,
+.mj-lecture-notes .lecture-figure .shm-animation {
     display: block;
     width: 100%;
     height: auto;
     border-radius: 7px;
+}
+
+.mj-lecture-notes .lecture-figure .shm-animation {
+    aspect-ratio: 760 / 310;
+    border: 0;
+}
+
+.mj-lecture-notes .shm-animation-controls {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 10px 4px 2px;
+}
+
+.mj-lecture-notes .shm-animation-controls button {
+    padding: 7px 14px;
+    border: 1px solid var(--blue);
+    border-radius: 6px;
+    background: var(--blue);
+    color: #ffffff;
+    font: inherit;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.mj-lecture-notes .shm-animation-controls button:disabled {
+    opacity: 0.55;
+    cursor: not-allowed;
+}
+
+.mj-lecture-notes .shm-animation-controls button:focus-visible {
+    outline: 3px solid var(--accent);
+    outline-offset: 2px;
+}
+
+.mj-lecture-notes .shm-animation-controls [data-animation-status] {
+    color: var(--muted);
+    font-size: 0.9rem;
 }
 
 .mj-lecture-notes .lecture-figure figcaption {

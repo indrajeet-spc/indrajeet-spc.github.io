@@ -460,9 +460,17 @@ Differentiating gives <br>\\[v = -A \omega \sin(\omega t + \phi)\\]<br> and
 the spring stiffness decreases it by \\(\sqrt{2}\\).
 
 <figure class="lecture-figure">
-  <img src="{{ '/images/lecture/shm-pendulum.svg' | relative_url }}" alt="An animated small-angle pendulum swinging about equilibrium beside a sinusoidal displacement-time graph">
+  <object class="shm-animation" type="image/svg+xml" data="{{ '/images/lecture/shm-pendulum.svg' | relative_url }}" aria-label="An animated small-angle pendulum swinging about equilibrium beside a sinusoidal displacement-time graph">
+    <img src="{{ '/images/lecture/shm-pendulum.svg' | relative_url }}" alt="A small-angle pendulum at equilibrium beside a sinusoidal displacement-time graph">
+  </object>
+  <div class="shm-animation-controls" role="group" aria-label="SHM animation controls">
+    <button type="button" data-animation-action="pause" disabled>Pause</button>
+    <button type="button" data-animation-action="play" disabled>Play</button>
+    <span data-animation-status aria-live="polite">Loading animation controls...</span>
+  </div>
   <figcaption>The pendulum swings about equilibrium while the dot moves along the displacement-time curve. The small-angle approximation makes its motion simple harmonic.</figcaption>
 </figure>
+<script defer src="{{ '/assets/js/shm-animation-controls.js' | relative_url }}"></script>
 
 <a id="topic-022-potential"></a>
 ### potential
