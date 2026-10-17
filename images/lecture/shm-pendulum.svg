@@ -2,12 +2,18 @@
   <title id="title">Animated pendulum and its simple harmonic motion graph</title>
   <desc id="desc">A pendulum swings gently about its equilibrium position. Beside it, a sinusoidal displacement graph marks the oscillating position.</desc>
   <style>
-    .pendulum { transform-box: view-box; transform-origin: 190px 62px; animation: swing 2.4s ease-in-out infinite alternate; }
-    @keyframes swing { from { transform: rotate(-18deg); } to { transform: rotate(18deg); } }
+    .pendulum { transform-box: view-box; transform-origin: 190px 62px; animation: swing 4.8s linear infinite; }
+    @keyframes swing {
+      0%, 50%, 100% { transform: rotate(0); }
+      12.5%, 37.5% { transform: rotate(12.7deg); }
+      25% { transform: rotate(18deg); }
+      62.5%, 87.5% { transform: rotate(-12.7deg); }
+      75% { transform: rotate(-18deg); }
+    }
     @media (prefers-reduced-motion: reduce) {
       .pendulum, .tracer-motion { animation: none; display: none; }
-      .pendulum { transform: rotate(18deg); }
-      .tracer { transform: translate(197px, 0); }
+      .pendulum { transform: rotate(0); }
+      .tracer { transform: translate(0, 0); }
     }
   </style>
   <rect width="760" height="310" rx="18" fill="#f8faf5"/>
