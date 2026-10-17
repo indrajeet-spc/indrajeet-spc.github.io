@@ -41,91 +41,91 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-10-16T06:07:43.326336+00:00",
+  "updated_at": "2026-10-17T05:52:29.912996+00:00",
   "items": [
     {
-      "title": "NASA Welcomes All Ages, Experience Levels for Space Apps Challenge",
-      "url": "https://science.nasa.gov/universe/nasa-welcomes-all-ages-experience-levels-for-space-apps-challenge/",
-      "source": "NASA News",
-      "date": "15 Oct 2026",
-      "abstract": "Registration is open for the 2026 NASA Space Apps Challenge, a two-day global event on Saturday, Nov. 14 and Sunday, Nov. 15, where teams work to create solutions inspired by NASA\u2019s most ambitious exploration goals and making use of the agency\u2019s free and open data. The annual challenge, often called..."
-    },
-    {
-      "title": "New spectroscopy method enables direct comparisons of nuclear sizes across heavy elements",
-      "url": "https://phys.org/news/2026-10-spectroscopy-method-enables-comparisons-nuclear.html",
+      "title": "New high-frequency method boosts 2D material readout for next-gen quantum computers",
+      "url": "https://phys.org/news/2026-10-high-frequency-method-boosts-2d.html",
       "source": "Phys.org",
-      "date": "15 Oct 2026",
-      "abstract": "The size of a nucleus (nuclear charge radius) is an important physical quantity that reflects the arrangement of protons and neutrons within the nucleus. Particularly in deformed nuclei, such as those of rare-earth elements, examining changes in the charge radius can deepen our understanding of nucl..."
+      "date": "16 Oct 2026",
+      "abstract": "Quantum computers represent a next step in the fast-paced evolution of technology. Using quantum bits (qubits), they have the potential to run certain calculations exponentially faster than conventional computers. However, developing and fine-tuning quantum computers requires an enormous number of r..."
     },
     {
-      "title": "Silicon qubits surpass 99.99% gate fidelity while operating three at once",
-      "url": "https://phys.org/news/2026-10-silicon-qubits-surpass-gate-fidelity.html",
+      "title": "A highway instead of a racetrack: Strong coupling of light and sound in an optical fiber",
+      "url": "https://phys.org/news/2026-10-highway-racetrack-strong-coupling-optical.html",
       "source": "Phys.org",
-      "date": "15 Oct 2026",
-      "abstract": "Silicon spin qubits are a promising platform for building scalable quantum computers as they are compatible with the semiconductor manufacturing technologies used to produce today's computer chips. However, they have an important weakness: silicon spin qubits typically lose accuracy when several qub..."
+      "date": "16 Oct 2026",
+      "abstract": "For the first time, scientists have achieved strong coupling between light and long-lived acoustic vibrations in an optical fiber. Optical fibers are used in both classical telecommunications and quantum communication and could serve not only as connections between computing nodes but also as quantu..."
     },
     {
-      "title": "Quantum calculations reveal how spin defects lose energy",
-      "url": "https://phys.org/news/2026-10-quantum-reveal-defects-energy.html",
+      "title": "Infrared light overcomes mirror coating obstacle in gravitational wave detector upgrades",
+      "url": "https://phys.org/news/2026-10-infrared-mirror-coating-obstacle-gravitational.html",
       "source": "Phys.org",
-      "date": "15 Oct 2026",
-      "abstract": "When light hits a tiny defect embedded in a solid material like diamond or silicon carbide, it can kick the defect's electrons into an excited state. These spin defects have the potential to be used as stable, readable qubits for quantum technologies, for example, quantum sensing. But modeling the f..."
+      "date": "16 Oct 2026",
+      "abstract": "Researchers have developed and tested a new locking method for gravitational wave detectors that will advance the discovery of distant black holes and neutron stars colliding."
     },
     {
-      "title": "Quantum sensor could measure how Earth drags spacetime",
-      "url": "https://phys.org/news/2026-10-quantum-sensor-earth-spacetime.html",
+      "title": "Maxwell's demon learns to turn concealed information into usable energy for microscopic systems",
+      "url": "https://phys.org/news/2026-10-maxwell-demon-concealed-usable-energy.html",
       "source": "Phys.org",
-      "date": "15 Oct 2026",
-      "abstract": "Einstein's theory of general relativity describes gravity as the bending of spacetime, a mathematical model that combines three-dimensional space and time into a single, four-dimensional continuum. The theory also predicts that a rotating object, such as Earth, slightly drags the surrounding spaceti..."
+      "date": "16 Oct 2026",
+      "abstract": "Since its introduction more than 150 years ago, the thought-provoking idea of Maxwell's demon has profoundly shaped our understanding of the relationship between information and energy. Maxwell's demon is an imagined microscopic gatekeeper that exploits information at the microscopic scale to produc..."
     },
     {
-      "title": "Is AI eroding PhD students\u2019 critical thinking and analysis skills?",
-      "url": "https://www.nature.com/articles/d41586-026-03178-w",
-      "source": "Nature Journal",
-      "date": "15 Oct 2026",
-      "abstract": "Nature, Published online: 15 October 2026; doi:10.1038/d41586-026-03178-w An expert panel debates the impact of artificial intelligence on doctoral programmes."
+      "title": "Physics-guided AI reconstructs hidden patterns inside ultrathin magnets from external fields",
+      "url": "https://phys.org/news/2026-10-physics-ai-reconstructs-hidden-patterns.html",
+      "source": "Phys.org",
+      "date": "16 Oct 2026",
+      "abstract": "To build faster and more energy-efficient computers, researchers need to understand nanoscale magnetic materials. But looking inside these tiny magnets is surprisingly difficult: Modern microscopes only measure the magnetic field outside the material, not the magnetic pattern inside. Because many di..."
     },
     {
-      "title": "World\u2019s timekeepers upend how they adjust time to avoid catastrophic \u2018negative second\u2019",
-      "url": "https://www.nature.com/articles/d41586-026-03329-z",
-      "source": "Nature Journal",
-      "date": "15 Oct 2026",
-      "abstract": "Nature, Published online: 15 October 2026; doi:10.1038/d41586-026-03329-z Governments have voted to abolish the leap second immediately and replace it with a leap hour."
+      "title": "Solving the gallium anomaly: New calculation may explain neutrino shortfall without invoking new particles",
+      "url": "https://phys.org/news/2026-10-gallium-anomaly-neutrino-shortfall-invoking.html",
+      "source": "Phys.org",
+      "date": "16 Oct 2026",
+      "abstract": "Glimpses of the \"gallium anomaly\" were first seen in the mid-1990s, but it was first clearly discovered and stated in 2007 by neutrino physicist Carlo Giunti of Italy. The problem is simple to state but potentially very important: about 20% fewer electron neutrinos were seen to be captured by galliu..."
     },
     {
-      "title": "Orangutan mothers arrange play dates for their babies",
-      "url": "https://www.nature.com/articles/d41586-026-03238-1",
+      "title": "Briefing Chat: An invisible tattoo that appears under UV light \u2013 and then disappears",
+      "url": "https://www.nature.com/articles/d41586-026-03341-3",
       "source": "Nature Journal",
-      "date": "15 Oct 2026",
-      "abstract": "Nature, Published online: 15 October 2026; doi:10.1038/d41586-026-03238-1 Solitary primates spend energy and time travelling to patches of forest for get-togethers."
+      "date": "16 Oct 2026",
+      "abstract": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03341-3 Nature staff discuss a new ink that could be useful for medical tattooing \u2014 plus, an insight into why small dogs live longer than big ones."
     },
     {
-      "title": "Nearly half of reef-building corals face elevated relative risk of extinction",
-      "url": "https://www.nature.com/articles/s41586-026-11263-3",
+      "title": "The pianist who never played",
+      "url": "https://www.nature.com/articles/d41586-026-03112-0",
       "source": "Nature Journal",
-      "date": "15 Oct 2026",
-      "abstract": "Nature, Published online: 15 October 2026; doi:10.1038/s41586-026-11263-3 Nearly half of reef-building corals face elevated relative risk of extinction"
+      "date": "16 Oct 2026",
+      "abstract": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03112-0 A note to self."
     },
     {
-      "title": "Give me the good news: four science stories to brighten your day",
-      "url": "https://www.nature.com/articles/d41586-026-03152-6",
+      "title": "IceCube just won a Nobel prize. Protect astroparticle physics projects with the same potential",
+      "url": "https://www.nature.com/articles/d41586-026-03308-4",
       "source": "Nature Journal",
-      "date": "15 Oct 2026",
-      "abstract": "Nature, Published online: 15 October 2026; doi:10.1038/d41586-026-03152-6 Drugs that can reverse multiple sclerosis in mice and a new species of penguin are just the beginning."
+      "date": "16 Oct 2026",
+      "abstract": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03308-4 Building the Nobel-prizewinning neutrino experiment was a big risk. To continue its success, scientists \u2014 and funders \u2014 need to stay bold."
     },
     {
-      "title": "Margaret Hamilton obituary: computer scientist who pioneered software engineering and helped us get to the Moon",
-      "url": "https://www.nature.com/articles/d41586-026-03233-6",
+      "title": "Memory stays strong in old age when this brain enzyme is active",
+      "url": "https://www.nature.com/articles/d41586-026-03303-9",
       "source": "Nature Journal",
-      "date": "15 Oct 2026",
-      "abstract": "Nature, Published online: 15 October 2026; doi:10.1038/d41586-026-03233-6 Programmer whose forward-thinking and reliable code helped to save the Apollo 11 mission."
+      "date": "16 Oct 2026",
+      "abstract": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03303-9 Data from mouse brains and 13 human brains show a link between levels of a lipid-degrading enzyme and cognitive resilience."
     },
     {
-      "title": "ArXiv versus AI slop: will capping preprint submissions work?",
-      "url": "https://www.nature.com/articles/d41586-026-03194-w",
+      "title": "Unprecedented atlas explores mitochondria across the tree of life",
+      "url": "https://www.nature.com/articles/d41586-026-03195-9",
       "source": "Nature Journal",
-      "date": "15 Oct 2026",
-      "abstract": "Nature, Published online: 15 October 2026; doi:10.1038/d41586-026-03194-w Major preprint platform tightens its rules to curb a surge of submissions, including those generated by artificial-intelligence tools."
+      "date": "16 Oct 2026",
+      "abstract": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03195-9 The mitoproteomes of five parasites and a plant hold medical potential \u2014 and reignite the question of just when the mitochondrion evolved."
+    },
+    {
+      "title": "PhD students who write dissertation with AI less likely to stay in academia",
+      "url": "https://www.nature.com/articles/d41586-026-03253-2",
+      "source": "Nature Journal",
+      "date": "16 Oct 2026",
+      "abstract": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03253-2 US PhD graduates who used artificial intelligence were more likely to work in industry."
     }
   ]
 }
