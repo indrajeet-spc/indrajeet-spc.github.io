@@ -41,8 +41,22 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-10-17T05:52:29.912996+00:00",
+  "updated_at": "2026-10-18T06:19:45.663540+00:00",
   "items": [
+    {
+      "title": "Quantum magic state cleanup cuts errors 40-fold in first successful hardware test",
+      "url": "https://phys.org/news/2026-10-quantum-magic-state-cleanup-errors.html",
+      "source": "Phys.org",
+      "date": "17 Oct 2026",
+      "abstract": "Qubits, the quantum equivalent of digital bits, are fragile and prone to errors. That makes building reliable quantum computers extremely difficult. One fix has been to use traditional magic state distillation, which filters out flaws, but it is extremely resource-intensive."
+    },
+    {
+      "title": "NASA\u2019s Hubble Spies Spiral\u2019s Edge",
+      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/",
+      "source": "NASA News",
+      "date": "16 Oct 2026",
+      "abstract": "This NASA Hubble Space Telescope image features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove."
+    },
     {
       "title": "New high-frequency method boosts 2D material readout for next-gen quantum computers",
       "url": "https://phys.org/news/2026-10-high-frequency-method-boosts-2d.html",
@@ -112,20 +126,6 @@
       "source": "Nature Journal",
       "date": "16 Oct 2026",
       "abstract": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03303-9 Data from mouse brains and 13 human brains show a link between levels of a lipid-degrading enzyme and cognitive resilience."
-    },
-    {
-      "title": "Unprecedented atlas explores mitochondria across the tree of life",
-      "url": "https://www.nature.com/articles/d41586-026-03195-9",
-      "source": "Nature Journal",
-      "date": "16 Oct 2026",
-      "abstract": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03195-9 The mitoproteomes of five parasites and a plant hold medical potential \u2014 and reignite the question of just when the mitochondrion evolved."
-    },
-    {
-      "title": "PhD students who write dissertation with AI less likely to stay in academia",
-      "url": "https://www.nature.com/articles/d41586-026-03253-2",
-      "source": "Nature Journal",
-      "date": "16 Oct 2026",
-      "abstract": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03253-2 US PhD graduates who used artificial intelligence were more likely to work in industry."
     }
   ]
 }
