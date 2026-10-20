@@ -41,91 +41,91 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-10-19T06:30:57.673216+00:00",
+  "updated_at": "2026-10-20T06:18:19.203505+00:00",
   "items": [
     {
-      "title": "New monolithic ion trap opens quantum simulations to more researchers",
-      "url": "https://phys.org/news/2026-10-monolithic-ion-quantum-simulations.html",
+      "title": "Forgotten particle could answer mystery of why we exist, say physicists",
+      "url": "https://phys.org/news/2026-10-forgotten-particle-mystery-physicists.html",
       "source": "Phys.org",
-      "date": "18 Oct 2026",
-      "abstract": "Some quantum systems are so complex that even the most powerful supercomputers struggle to simulate their behavior. One solution is quantum simulation: building a controllable quantum system in the lab and tuning it to mimic the one researchers want to understand."
+      "date": "19 Oct 2026",
+      "abstract": "Scientists have unveiled a new theory on the birth of the cosmos, suggesting the early universe was shaped by an ancient particle that has been overlooked for decades."
     },
     {
-      "title": "Physicists prove a long-suspected quantum speed limit for thermalization",
-      "url": "https://phys.org/news/2026-10-physicists-quantum-limit-thermalization.html",
+      "title": "Normally forbidden emissions from graphene could expose quantum fluctuations in incoming light",
+      "url": "https://phys.org/news/2026-10-forbidden-emissions-graphene-expose-quantum.html",
       "source": "Phys.org",
-      "date": "18 Oct 2026",
-      "abstract": "Whether we are waiting for a car windshield to defrost in winter or a warm drink to cool down, how long it takes for an object to settle into a stable, even temperature within its environment (thermal equilibrium) depends on numerous factors. These can include surface area, the material properties o..."
+      "date": "19 Oct 2026",
+      "abstract": "Voltage fluctuations, light fluctuations, temperature fluctuations\u2014any fluctuations are troublesome and thus undesirable. They don't just cause discomfort; in engineering and medical applications, they affect the accuracy of measurements or introduce errors in controls. Even at the minute level of q..."
     },
     {
-      "title": "Scientists who discovered a third form of magnetism win major physics prize",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261017230035.htm",
-      "source": "ScienceDaily",
-      "date": "18 Oct 2026",
-      "abstract": "Physicists have uncovered a hidden third form of magnetism that challenges more than 100 years of established physics. Called altermagnetism, the discovery could transform future computing and electronics while opening an entirely new frontier in quantum research."
-    },
-    {
-      "title": "Quantum magic state cleanup cuts errors 40-fold in first successful hardware test",
-      "url": "https://phys.org/news/2026-10-quantum-magic-state-cleanup-errors.html",
-      "source": "Phys.org",
-      "date": "17 Oct 2026",
-      "abstract": "Qubits, the quantum equivalent of digital bits, are fragile and prone to errors. That makes building reliable quantum computers extremely difficult. One fix has been to use traditional magic state distillation, which filters out flaws, but it is extremely resource-intensive."
-    },
-    {
-      "title": "New high-frequency method boosts 2D material readout for next-gen quantum computers",
-      "url": "https://phys.org/news/2026-10-high-frequency-method-boosts-2d.html",
-      "source": "Phys.org",
-      "date": "16 Oct 2026",
-      "abstract": "Quantum computers represent a next step in the fast-paced evolution of technology. Using quantum bits (qubits), they have the potential to run certain calculations exponentially faster than conventional computers. However, developing and fine-tuning quantum computers requires an enormous number of r..."
-    },
-    {
-      "title": "A highway instead of a racetrack: Strong coupling of light and sound in an optical fiber",
-      "url": "https://phys.org/news/2026-10-highway-racetrack-strong-coupling-optical.html",
-      "source": "Phys.org",
-      "date": "16 Oct 2026",
-      "abstract": "For the first time, scientists have achieved strong coupling between light and long-lived acoustic vibrations in an optical fiber. Optical fibers are used in both classical telecommunications and quantum communication and could serve not only as connections between computing nodes but also as quantu..."
-    },
-    {
-      "title": "Infrared light overcomes mirror coating obstacle in gravitational wave detector upgrades",
-      "url": "https://phys.org/news/2026-10-infrared-mirror-coating-obstacle-gravitational.html",
-      "source": "Phys.org",
-      "date": "16 Oct 2026",
-      "abstract": "Researchers have developed and tested a new locking method for gravitational wave detectors that will advance the discovery of distant black holes and neutron stars colliding."
-    },
-    {
-      "title": "Maxwell's demon learns to turn concealed information into usable energy for microscopic systems",
-      "url": "https://phys.org/news/2026-10-maxwell-demon-concealed-usable-energy.html",
-      "source": "Phys.org",
-      "date": "16 Oct 2026",
-      "abstract": "Since its introduction more than 150 years ago, the thought-provoking idea of Maxwell's demon has profoundly shaped our understanding of the relationship between information and energy. Maxwell's demon is an imagined microscopic gatekeeper that exploits information at the microscopic scale to produc..."
-    },
-    {
-      "title": "Physics-guided AI reconstructs hidden patterns inside ultrathin magnets from external fields",
-      "url": "https://phys.org/news/2026-10-physics-ai-reconstructs-hidden-patterns.html",
-      "source": "Phys.org",
-      "date": "16 Oct 2026",
-      "abstract": "To build faster and more energy-efficient computers, researchers need to understand nanoscale magnetic materials. But looking inside these tiny magnets is surprisingly difficult: Modern microscopes only measure the magnetic field outside the material, not the magnetic pattern inside. Because many di..."
-    },
-    {
-      "title": "Solving the gallium anomaly: New calculation may explain neutrino shortfall without invoking new particles",
-      "url": "https://phys.org/news/2026-10-gallium-anomaly-neutrino-shortfall-invoking.html",
-      "source": "Phys.org",
-      "date": "16 Oct 2026",
-      "abstract": "Glimpses of the \"gallium anomaly\" were first seen in the mid-1990s, but it was first clearly discovered and stated in 2007 by neutrino physicist Carlo Giunti of Italy. The problem is simple to state but potentially very important: about 20% fewer electron neutrinos were seen to be captured by galliu..."
-    },
-    {
-      "title": "Briefing Chat: An invisible tattoo that appears under UV light \u2013 and then disappears",
-      "url": "https://www.nature.com/articles/d41586-026-03341-3",
+      "title": "Toxic chemicals in fentanyl revealed by speedy technique",
+      "url": "https://www.nature.com/articles/d41586-026-03317-3",
       "source": "Nature Journal",
-      "date": "16 Oct 2026",
-      "abstract": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03341-3 Nature staff discuss a new ink that could be useful for medical tattooing \u2014 plus, an insight into why small dogs live longer than big ones."
+      "date": "19 Oct 2026",
+      "abstract": "Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03317-3 Chemical fingerprinting charts the rises and declines of specific adulterants in illicit supplies of the drug."
     },
     {
-      "title": "The pianist who never played",
-      "url": "https://www.nature.com/articles/d41586-026-03112-0",
+      "title": "Light and mirrors move large quantum computers closer to reality",
+      "url": "https://www.nature.com/articles/d41586-026-03237-2",
       "source": "Nature Journal",
-      "date": "16 Oct 2026",
-      "abstract": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03112-0 A note to self."
+      "date": "19 Oct 2026",
+      "abstract": "Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03237-2 Scientists improve photon-collecting device that could be used to connect multiple quantum-computing arrays."
+    },
+    {
+      "title": "Audio long read: How to stay smart in the age of AI \u2014 the science of critical thinking",
+      "url": "https://www.nature.com/articles/d41586-026-03228-3",
+      "source": "Nature Journal",
+      "date": "19 Oct 2026",
+      "abstract": "Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03228-3 Although worries are growing about AI's potential to blunt reasoning skills, research has uncovered ways to keep the brain sharp."
+    },
+    {
+      "title": "US government probe into postdoc visas worries scientists",
+      "url": "https://www.nature.com/articles/d41586-026-03345-z",
+      "source": "Nature Journal",
+      "date": "19 Oct 2026",
+      "abstract": "Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03345-z The administration says that the universities being investigated are using the visas to undercut wages for US nationals, but researchers say that restricting international applications could harm science."
+    },
+    {
+      "title": "Microdosing LSD shows some cognitive benefits \u2014 but only for women",
+      "url": "https://www.nature.com/articles/d41586-026-03265-y",
+      "source": "Nature Journal",
+      "date": "19 Oct 2026",
+      "abstract": "Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03265-y Different effects of low-dose psychedelics on sustained attention in women and men deserve further investigation."
+    },
+    {
+      "title": "How pregnancy reshapes the brain throughout life",
+      "url": "https://www.nature.com/articles/d41586-026-03312-8",
+      "source": "Nature Journal",
+      "date": "19 Oct 2026",
+      "abstract": "Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03312-8 Neuroscience is mapping changes in the brain during pregnancy. What they mean for future health is yet to be pinned down."
+    },
+    {
+      "title": "Climate scientists face deluge of public-records requests about fossil-fuel studies",
+      "url": "https://www.nature.com/articles/d41586-026-03275-w",
+      "source": "Nature Journal",
+      "date": "19 Oct 2026",
+      "abstract": "Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03275-w A Nature investigation identified more than 30 requests since 2024 to US universities in a campaign questioning climate attribution science."
+    },
+    {
+      "title": "\u2018Fiercely stubborn\u2019: the US scientists continuing their research amid funding cuts",
+      "url": "https://www.nature.com/articles/d41586-026-03315-5",
+      "source": "Nature Journal",
+      "date": "19 Oct 2026",
+      "abstract": "Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03315-5 Researchers working on climate change, diversity, transgender health and international aid have turned to lawsuits, private donors and alternative topics to keep their projects going."
+    },
+    {
+      "title": "Experienced researchers \u2018disrupt\u2019 less than rookie scientists \u2014 but their ideas last",
+      "url": "https://www.nature.com/articles/d41586-026-03339-x",
+      "source": "Nature Journal",
+      "date": "19 Oct 2026",
+      "abstract": "Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03339-x Researchers have found a link between a scientist\u2019s experience and and whether their ideas have a lasting influence."
+    },
+    {
+      "title": "Three reasons why AI is not conscious and perhaps never will be",
+      "url": "https://www.nature.com/articles/d41586-026-03313-7",
+      "source": "Nature Journal",
+      "date": "19 Oct 2026",
+      "abstract": "Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03313-7 Large language models can mimic thought and feeling with uncanny skill. But evidence from neuroscience suggests that intelligence alone is not enough for subjective experience."
     }
   ]
 }
