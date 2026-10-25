@@ -41,8 +41,22 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-10-24T06:10:38.664826+00:00",
+  "updated_at": "2026-10-25T06:31:20.972766+00:00",
   "items": [
+    {
+      "title": "Single X-ray pulse reveals plasma nanostructures across scales with one camera",
+      "url": "https://phys.org/news/2026-10-ray-pulse-reveals-plasma-nanostructures.html",
+      "source": "Phys.org",
+      "date": "24 Oct 2026",
+      "abstract": "Understanding instabilities and turbulence in plasmas is one of the key challenges across a wide range of plasma research fields, including nuclear fusion, astrophysics and laser-plasma physics. In plasmas, slight disturbances can grow due to instabilities, and energy is transferred between structur..."
+    },
+    {
+      "title": "'One-positron cyclotron' could test a key prediction of the Standard Model",
+      "url": "https://phys.org/news/2026-10-positron-cyclotron-key-standard.html",
+      "source": "Phys.org",
+      "date": "24 Oct 2026",
+      "abstract": "The positron is the antimatter counterpart of the electron, identical in mass but carrying an equal and opposite electric charge. Like the electron, it also behaves like a tiny bar magnet, and according to a key prediction of the Standard Model of particle physics, its magnetic moment should be exac..."
+    },
     {
       "title": "What makes glass good at conducting heat? Sound holds the key",
       "url": "https://phys.org/news/2026-10-glass-good-key.html",
@@ -112,20 +126,6 @@
       "source": "Nature Journal",
       "date": "23 Oct 2026",
       "abstract": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03417-0 Long-awaited results from phase III trial show huge benefits for treatment-resistant melanoma."
-    },
-    {
-      "title": "I\u2019m expected to work excessive hours in the lab. Should I speak up about my disability?",
-      "url": "https://www.nature.com/articles/d41586-026-02582-6",
-      "source": "Nature Journal",
-      "date": "23 Oct 2026",
-      "abstract": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-02582-6 What can a researcher in an overworked laboratory do to take care of themselves and their lab-mates, and how should they navigate medical disclosure?"
-    },
-    {
-      "title": "Physics-aware neural networks enable robust and full atomic structure determination via low-dose atomic electron tomography",
-      "url": "https://www.nature.com/articles/s41524-026-02363-9",
-      "source": "Nature Physics",
-      "date": "23 Oct 2026",
-      "abstract": "Abstract unavailable. Open the full article for details."
     }
   ]
 }
