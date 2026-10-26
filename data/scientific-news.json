@@ -41,8 +41,15 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-10-25T06:31:20.972766+00:00",
+  "updated_at": "2026-10-26T06:41:31.857812+00:00",
   "items": [
+    {
+      "title": "ctDNA clearance and outcomes for resectable lung cancer from NeoCOAST-2",
+      "url": "https://www.nature.com/articles/s41586-026-11328-3",
+      "source": "Nature Journal",
+      "date": "25 Oct 2026",
+      "abstract": "Nature, Published online: 25 October 2026; doi:10.1038/s41586-026-11328-3 ctDNA clearance and outcomes for resectable lung cancer from NeoCOAST-2"
+    },
     {
       "title": "Single X-ray pulse reveals plasma nanostructures across scales with one camera",
       "url": "https://phys.org/news/2026-10-ray-pulse-reveals-plasma-nanostructures.html",
@@ -119,13 +126,6 @@
       "source": "Nature Journal",
       "date": "23 Oct 2026",
       "abstract": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03108-w Fighting fit."
-    },
-    {
-      "title": "Moderna mRNA vaccine almost halves the risk of skin cancer returning",
-      "url": "https://www.nature.com/articles/d41586-026-03417-0",
-      "source": "Nature Journal",
-      "date": "23 Oct 2026",
-      "abstract": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03417-0 Long-awaited results from phase III trial show huge benefits for treatment-resistant melanoma."
     }
   ]
 }
