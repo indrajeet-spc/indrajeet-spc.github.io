@@ -41,91 +41,91 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-10-27T06:35:07.036089+00:00",
+  "updated_at": "2026-10-28T07:05:36.618159+00:00",
   "items": [
     {
-      "title": "Physicists reveal new paradigm for fiber growth in neurodegenerative diseases",
-      "url": "https://phys.org/news/2026-10-physicists-reveal-paradigm-fiber-growth.html",
+      "title": "Decoding the loopy physics of hula hooping with high-tech earthquake sensors",
+      "url": "https://phys.org/news/2026-10-decoding-loopy-physics-hula-hooping.html",
       "source": "Phys.org",
-      "date": "26 Oct 2026",
-      "abstract": "Some proteins that are linked to neurodegenerative diseases can form both liquid droplets and amyloid fibers. But how are these two states connected, and where do the fibers grow? Leiden physicists Liru Feng and Louise Jawerth have discovered a counter-intuitive mechanism."
+      "date": "27 Oct 2026",
+      "abstract": "Hula hooping may be literal child's play, but as it turns out, the physics behind the gym-class staple is so complicated that scientists have spent decades trying to understand how the hula hoop defies gravity."
     },
     {
-      "title": "Nerve activity initiates autoimmune hair loss",
-      "url": "https://www.nature.com/articles/d41586-026-03258-x",
-      "source": "Nature Journal",
-      "date": "26 Oct 2026",
-      "abstract": "Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03258-x Understanding the triggers of autoimmunity might lead to better therapies, with hair loss among the conditions for which underpinning factors have come to light."
-    },
-    {
-      "title": "Women might have invented language \u2014 but not alone",
-      "url": "https://www.nature.com/articles/d41586-026-03392-6",
-      "source": "Nature Journal",
-      "date": "26 Oct 2026",
-      "abstract": "Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03392-6 An eloquent analysis of the origins of human speech suggests that social cohesion, not conflict, drove our use of words."
-    },
-    {
-      "title": "Are salaries getting worse? Many scientists think so",
-      "url": "https://www.nature.com/articles/d41586-026-03398-0",
-      "source": "Nature Journal",
-      "date": "26 Oct 2026",
-      "abstract": "Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03398-0 Nature\u2019s survey of almost 4,000 researchers shows that you\u2019re not alone if you struggle to make ends meet or your last pay rise is a distant memory."
-    },
-    {
-      "title": "Can science make your dog live longer? Longevity craze comes to pets",
-      "url": "https://www.nature.com/articles/d41586-026-03447-8",
-      "source": "Nature Journal",
-      "date": "26 Oct 2026",
-      "abstract": "Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03447-8 The emerging science \u2014 and industry \u2014 of animal longevity is attracting interest from companies and academics alike."
-    },
-    {
-      "title": "Glimpsing archaeal microbes on the move",
-      "url": "https://www.nature.com/articles/d41586-026-03259-w",
-      "source": "Nature Journal",
-      "date": "26 Oct 2026",
-      "abstract": "Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03259-w How and when did cells gain the ability to crawl? Live imaging of cells from close relatives of early eukaryotes fills in a major gap in the understanding of cellular evolution."
-    },
-    {
-      "title": "Evolutionary \u2018game-changer\u2019: weird armoured amphibian lived in ancient seas",
-      "url": "https://www.nature.com/articles/d41586-026-03440-1",
-      "source": "Nature Journal",
-      "date": "26 Oct 2026",
-      "abstract": "Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03440-1 The creature\u2019s armour cladding probably enabled it to tolerate the salty seas of the Late Triassic."
-    },
-    {
-      "title": "The Selfish Gene , 50 years on \u2014 it\u2019s time for an update",
-      "url": "https://www.nature.com/articles/d41586-026-03393-5",
-      "source": "Nature Journal",
-      "date": "26 Oct 2026",
-      "abstract": "Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03393-5 A focus on the gene alone has become outdated. Books that capture the complexity of life deserve centre stage."
-    },
-    {
-      "title": "Mentoring a lab colleague? Share your \u2018CV of failures\u2019 with them",
-      "url": "https://www.nature.com/articles/d41586-026-03410-7",
-      "source": "Nature Journal",
-      "date": "26 Oct 2026",
-      "abstract": "Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03410-7 Melanie Stefan became a \u2018poster child of failure\u2019 after writing an article about it. Now she urges senior colleagues to be more open about career setbacks."
-    },
-    {
-      "title": "Brazil election: many scientists relieved as Lula wins surprise victory",
-      "url": "https://www.nature.com/articles/d41586-026-03446-9",
-      "source": "Nature Journal",
-      "date": "26 Oct 2026",
-      "abstract": "Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03446-9 Scientific organizations in Brazil had rallied around the incumbent president, who defied expectations to defeat his opponent in a run-off."
-    },
-    {
-      "title": "ctDNA clearance and outcomes for resectable lung cancer from NeoCOAST-2",
-      "url": "https://www.nature.com/articles/s41586-026-11328-3",
-      "source": "Nature Journal",
-      "date": "25 Oct 2026",
-      "abstract": "Nature, Published online: 25 October 2026; doi:10.1038/s41586-026-11328-3 ctDNA clearance and outcomes for resectable lung cancer from NeoCOAST-2"
-    },
-    {
-      "title": "Single X-ray pulse reveals plasma nanostructures across scales with one camera",
-      "url": "https://phys.org/news/2026-10-ray-pulse-reveals-plasma-nanostructures.html",
+      "title": "Identical vesicles, different behaviors: Model reveals how spontaneous asymmetry gives rise to lifelike behavior",
+      "url": "https://phys.org/news/2026-10-identical-vesicles-behaviors-reveals-spontaneous.html",
       "source": "Phys.org",
-      "date": "24 Oct 2026",
-      "abstract": "Understanding instabilities and turbulence in plasmas is one of the key challenges across a wide range of plasma research fields, including nuclear fusion, astrophysics and laser-plasma physics. In plasmas, slight disturbances can grow due to instabilities, and energy is transferred between structur..."
+      "date": "27 Oct 2026",
+      "abstract": "In nonreciprocal active matter, agents act differently on each other, seemingly in violation of Newton's third law. This principle can result in various active matter traits, such as self-propulsion, molecular regulation and collective motion."
+    },
+    {
+      "title": "SPINE: A machine-learning program is on the trail of ghost particles",
+      "url": "https://phys.org/news/2026-10-spine-machine-trail-ghost-particles.html",
+      "source": "Phys.org",
+      "date": "27 Oct 2026",
+      "abstract": "Neutrinos are among the most abundant particles in the universe, but they are also among the most elusive. Nearly massless, they are produced by nuclear reactions in the sun, exploding stars, particle accelerators and even the decay of radioactive elements on Earth. They interact so weakly with ordi..."
+    },
+    {
+      "title": "Radio waves drive a fusion plasma current that could help reactors run continuously",
+      "url": "https://phys.org/news/2026-10-radio-fusion-plasma-current-reactors.html",
+      "source": "Phys.org",
+      "date": "27 Oct 2026",
+      "abstract": "For the first time, a team of physicists in the U.S. has clearly demonstrated a \"helicon current drive\" in a nuclear fusion experiment. Led by Jeff Lestz at General Atomics, San Diego, the team took advantage of the latest advances in tokamak technology to show that radio waves steered to travel aro..."
+    },
+    {
+      "title": "The Nobel prize in economic science has a serious gender problem",
+      "url": "https://www.nature.com/articles/d41586-026-03404-5",
+      "source": "Nature Journal",
+      "date": "27 Oct 2026",
+      "abstract": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03404-5 The Nobel prize in economic science has a serious gender problem"
+    },
+    {
+      "title": "Methane emissions remain flat even as biggest US oil region opens the tap",
+      "url": "https://www.nature.com/articles/d41586-026-03388-2",
+      "source": "Nature Journal",
+      "date": "27 Oct 2026",
+      "abstract": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03388-2 Output of the greenhouse gas from the Permian Basin has remained near constant over a period during which oil and gas production tripled."
+    },
+    {
+      "title": "AI-hallucinated citations should be treated as research misconduct",
+      "url": "https://www.nature.com/articles/d41586-026-03407-2",
+      "source": "Nature Journal",
+      "date": "27 Oct 2026",
+      "abstract": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03407-2 AI-hallucinated citations should be treated as research misconduct"
+    },
+    {
+      "title": "Short-term academic visits to China could sustain ties",
+      "url": "https://www.nature.com/articles/d41586-026-03405-4",
+      "source": "Nature Journal",
+      "date": "27 Oct 2026",
+      "abstract": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03405-4 Short-term academic visits to China could sustain ties"
+    },
+    {
+      "title": "Making \u2018mind pictures\u2019 takes mental effort",
+      "url": "https://www.nature.com/articles/d41586-026-03276-9",
+      "source": "Nature Journal",
+      "date": "27 Oct 2026",
+      "abstract": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03276-9 How forming internal imagery is amusing but tiring, and the worry induced by lists of chemicals in foods, in this week\u2019s pick from the Nature archive."
+    },
+    {
+      "title": "Author Correction: A chemical defence against phage infection",
+      "url": "https://www.nature.com/articles/s41586-026-11302-z",
+      "source": "Nature Journal",
+      "date": "27 Oct 2026",
+      "abstract": "Nature, Published online: 27 October 2026; doi:10.1038/s41586-026-11302-z Author Correction: A chemical defence against phage infection"
+    },
+    {
+      "title": "AI watermarking efforts must encourage independent public scrutiny",
+      "url": "https://www.nature.com/articles/d41586-026-03406-3",
+      "source": "Nature Journal",
+      "date": "27 Oct 2026",
+      "abstract": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03406-3 AI watermarking efforts must encourage independent public scrutiny"
+    },
+    {
+      "title": "Barn owls\u2019 ancestors made a transatlantic flight",
+      "url": "https://www.nature.com/articles/d41586-026-03385-5",
+      "source": "Nature Journal",
+      "date": "27 Oct 2026",
+      "abstract": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03385-5 Genomic analysis shows that the owls spread from Eurasia to the Caribbean, then colonized the rest of the Western Hemisphere."
     }
   ]
 }
