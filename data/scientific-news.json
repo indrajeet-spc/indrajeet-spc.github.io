@@ -41,91 +41,91 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-10-28T07:05:36.618159+00:00",
+  "updated_at": "2026-10-29T07:27:54.693650+00:00",
   "items": [
     {
-      "title": "Decoding the loopy physics of hula hooping with high-tech earthquake sensors",
-      "url": "https://phys.org/news/2026-10-decoding-loopy-physics-hula-hooping.html",
+      "title": "Scientists just broke a textbook rule of physics",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261027063713.htm",
+      "source": "ScienceDaily",
+      "date": "29 Oct 2026",
+      "abstract": "Scientists have defied a long-standing rule of laser physics by generating X-rays with much higher energies than conventional theory predicts. The surprising discovery reveals how two electrons working together can overcome a previously accepted limit, opening new possibilities for quantum research."
+    },
+    {
+      "title": "Slow-motion electron camera reveals light-driven quantum jumps in graphene",
+      "url": "https://phys.org/news/2026-10-motion-electron-camera-reveals-driven.html",
       "source": "Phys.org",
-      "date": "27 Oct 2026",
-      "abstract": "Hula hooping may be literal child's play, but as it turns out, the physics behind the gym-class staple is so complicated that scientists have spent decades trying to understand how the hula hoop defies gravity."
+      "date": "28 Oct 2026",
+      "abstract": "Using a new slow-motion electron camera, physicists from Regensburg, Marburg and J\u00fclich revealed how intense electric fields drive electrons in graphene, causing them to jump across energy gaps in a seemingly paradoxical manner. This was made possible by a novel combination of laser technology and e..."
     },
     {
-      "title": "Identical vesicles, different behaviors: Model reveals how spontaneous asymmetry gives rise to lifelike behavior",
-      "url": "https://phys.org/news/2026-10-identical-vesicles-behaviors-reveals-spontaneous.html",
+      "title": "Can gravitational fields break and reconnect? Einstein's equations suggest they can",
+      "url": "https://phys.org/news/2026-10-gravitational-fields-reconnect-einstein-equations.html",
       "source": "Phys.org",
-      "date": "27 Oct 2026",
-      "abstract": "In nonreciprocal active matter, agents act differently on each other, seemingly in violation of Newton's third law. This principle can result in various active matter traits, such as self-propulsion, molecular regulation and collective motion."
+      "date": "28 Oct 2026",
+      "abstract": "More than a century after Einstein first devised the equations that describe gravity, physicists are still finding new ways of interpreting them. Luca Comisso, an associate research scientist in Columbia University's departments of Astronomy and Physics and the Columbia Astrophysics Laboratory, and..."
     },
     {
-      "title": "SPINE: A machine-learning program is on the trail of ghost particles",
-      "url": "https://phys.org/news/2026-10-spine-machine-trail-ghost-particles.html",
+      "title": "Against all expectations, researchers control the magnetic core of a single atom",
+      "url": "https://phys.org/news/2026-10-magnetic-core-atom.html",
       "source": "Phys.org",
-      "date": "27 Oct 2026",
-      "abstract": "Neutrinos are among the most abundant particles in the universe, but they are also among the most elusive. Nearly massless, they are produced by nuclear reactions in the sun, exploding stars, particle accelerators and even the decay of radioactive elements on Earth. They interact so weakly with ordi..."
+      "date": "28 Oct 2026",
+      "abstract": "Researchers at Delft University of Technology (the Netherlands) have succeeded in controlling the magnetism in the nucleus of a single atom with radio waves. This came as a surprise: until now, physicists believed that this nuclear spin could not be manipulated directly. The discovery could open up..."
     },
     {
-      "title": "Radio waves drive a fusion plasma current that could help reactors run continuously",
-      "url": "https://phys.org/news/2026-10-radio-fusion-plasma-current-reactors.html",
+      "title": "Sound-levitated particles reveal how static charge builds up",
+      "url": "https://phys.org/news/2026-10-levitated-particles-reveal-static.html",
       "source": "Phys.org",
-      "date": "27 Oct 2026",
-      "abstract": "For the first time, a team of physicists in the U.S. has clearly demonstrated a \"helicon current drive\" in a nuclear fusion experiment. Led by Jeff Lestz at General Atomics, San Diego, the team took advantage of the latest advances in tokamak technology to show that radio waves steered to travel aro..."
+      "date": "28 Oct 2026",
+      "abstract": "When two objects touch and then separate, they can swap tiny amounts of electric charge, even if they are made from exactly the same material. This 'triboelectric effect' is the source of everyday static electricity, but it is still poorly understood in large samples of powder, where vast numbers of..."
     },
     {
-      "title": "The Nobel prize in economic science has a serious gender problem",
-      "url": "https://www.nature.com/articles/d41586-026-03404-5",
+      "title": "Switchable Chlorine Atom Transfer Radical Reactions",
+      "url": "https://www.nature.com/articles/s41586-026-11348-z",
       "source": "Nature Journal",
-      "date": "27 Oct 2026",
-      "abstract": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03404-5 The Nobel prize in economic science has a serious gender problem"
+      "date": "28 Oct 2026",
+      "abstract": "Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11348-z Switchable Chlorine Atom Transfer Radical Reactions"
     },
     {
-      "title": "Methane emissions remain flat even as biggest US oil region opens the tap",
-      "url": "https://www.nature.com/articles/d41586-026-03388-2",
+      "title": "Back-to-monomer depolymerization of silicones by deoxygenative chlorination",
+      "url": "https://www.nature.com/articles/s41586-026-11335-4",
       "source": "Nature Journal",
-      "date": "27 Oct 2026",
-      "abstract": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03388-2 Output of the greenhouse gas from the Permian Basin has remained near constant over a period during which oil and gas production tripled."
+      "date": "28 Oct 2026",
+      "abstract": "Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11335-4 Back-to-monomer depolymerization of silicones by deoxygenative chlorination"
     },
     {
-      "title": "AI-hallucinated citations should be treated as research misconduct",
-      "url": "https://www.nature.com/articles/d41586-026-03407-2",
+      "title": "Why did ancient humans avoid this lush paradise",
+      "url": "https://www.nature.com/articles/d41586-026-03486-1",
       "source": "Nature Journal",
-      "date": "27 Oct 2026",
-      "abstract": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03407-2 AI-hallucinated citations should be treated as research misconduct"
+      "date": "28 Oct 2026",
+      "abstract": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03486-1 A new expedition into the Rub\u2019 al Khali desert finds no evidence of ancient human settlement."
     },
     {
-      "title": "Short-term academic visits to China could sustain ties",
-      "url": "https://www.nature.com/articles/d41586-026-03405-4",
+      "title": "This Arabian desert was once a lush paradise. Why did ancient humans avoid it?",
+      "url": "https://www.nature.com/articles/d41586-026-03484-3",
       "source": "Nature Journal",
-      "date": "27 Oct 2026",
-      "abstract": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03405-4 Short-term academic visits to China could sustain ties"
+      "date": "28 Oct 2026",
+      "abstract": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03484-3 Expedition revealed that water wasn\u2019t enough for human settlement \u2014 plus, proposals to block sunlight get serious."
     },
     {
-      "title": "Making \u2018mind pictures\u2019 takes mental effort",
-      "url": "https://www.nature.com/articles/d41586-026-03276-9",
+      "title": "Accounting of Africa\u2019s water reveals a management gap",
+      "url": "https://www.nature.com/articles/d41586-026-03260-3",
       "source": "Nature Journal",
-      "date": "27 Oct 2026",
-      "abstract": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03276-9 How forming internal imagery is amusing but tiring, and the worry induced by lists of chemicals in foods, in this week\u2019s pick from the Nature archive."
+      "date": "28 Oct 2026",
+      "abstract": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03260-3 A map of Africa\u2019s water demand reveals that the scarcity of water is only part of the problem facing the continent \u2014 management is a separate challenge."
     },
     {
-      "title": "Author Correction: A chemical defence against phage infection",
-      "url": "https://www.nature.com/articles/s41586-026-11302-z",
+      "title": "The brain liquidates billions of mutant neurons around the time we\u2019re born",
+      "url": "https://www.nature.com/articles/d41586-026-03444-x",
       "source": "Nature Journal",
-      "date": "27 Oct 2026",
-      "abstract": "Nature, Published online: 27 October 2026; doi:10.1038/s41586-026-11302-z Author Correction: A chemical defence against phage infection"
+      "date": "28 Oct 2026",
+      "abstract": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03444-x Faulty neurons can contribute to various neurological conditions, but researchers have uncovered a system that might clean them up."
     },
     {
-      "title": "AI watermarking efforts must encourage independent public scrutiny",
-      "url": "https://www.nature.com/articles/d41586-026-03406-3",
+      "title": "Tethered to stone: how rock and water availability shaped early desert occupation",
+      "url": "https://www.nature.com/articles/d41586-026-03263-0",
       "source": "Nature Journal",
-      "date": "27 Oct 2026",
-      "abstract": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03406-3 AI watermarking efforts must encourage independent public scrutiny"
-    },
-    {
-      "title": "Barn owls\u2019 ancestors made a transatlantic flight",
-      "url": "https://www.nature.com/articles/d41586-026-03385-5",
-      "source": "Nature Journal",
-      "date": "27 Oct 2026",
-      "abstract": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03385-5 Genomic analysis shows that the owls spread from Eurasia to the Caribbean, then colonized the rest of the Western Hemisphere."
+      "date": "28 Oct 2026",
+      "abstract": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03263-0 Fresh water in deserts often points to sites with signs of early humans and stone tools. But, in Arabia\u2019s Rub\u2019 al Khali region, water alone does not predict occupation."
     }
   ]
 }

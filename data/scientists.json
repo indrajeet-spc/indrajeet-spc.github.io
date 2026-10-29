@@ -1,5 +1,28 @@
 [
   {
+    "qid": "Q57564",
+    "slug": "wikidata-q57564",
+    "name": "Carl David Tolm\u00e9 Runge",
+    "birth_date": "1856-08-30",
+    "born": "1856",
+    "died": "1927",
+    "dates": "1856\u20131927",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Voit%20202%20Karl%20Runge.jpg",
+    "bio": "German mathematician and physicist (1856\u20131927)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Carl_Runge"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q57564"
+      }
+    ],
+    "contribution": "Notable work includes Schumann\u2013Runge bands."
+  },
+  {
     "qid": "Q65092",
     "slug": "wikidata-q65092",
     "name": "Rolf-Dieter Heuer",
@@ -22,27 +45,72 @@
     ]
   },
   {
-    "qid": "Q937",
-    "slug": "wikidata-q937",
-    "name": "Albert Einstein",
-    "birth_date": "1879-03-14",
-    "born": "1879",
-    "died": "1955",
-    "dates": "1879\u20131955",
+    "qid": "Q60024",
+    "slug": "wikidata-q60024",
+    "name": "Hermann von Helmholtz",
+    "birth_date": "1821-08-31",
+    "born": "1821",
+    "died": "1894",
+    "dates": "1821\u20131894",
     "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Einstein%20Head%20cleaned.jpg",
-    "bio": "German-born theoretical physicist (1879\u20131955)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hermann%20von%20Helmholtz.jpg",
+    "bio": "German physicist and physiologist (1821-1894)",
     "citations": [
       {
         "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Albert_Einstein"
+        "url": "https://en.wikipedia.org/wiki/Hermann_von_Helmholtz"
       },
       {
         "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q937"
+        "url": "http://www.wikidata.org/entity/Q60024"
       }
     ],
-    "contribution": "Notable work includes photoelectric effect."
+    "contribution": "Notable work includes specific Helmholtz energy."
+  },
+  {
+    "qid": "Q58868",
+    "slug": "wikidata-q58868",
+    "name": "Johann Wilhelm Ritter",
+    "birth_date": "1776-12-16",
+    "born": "1776",
+    "died": "1810",
+    "dates": "1776\u20131810",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Johann%20Wilhelm%20Ritter.jpg",
+    "bio": "German chemist, physicist and philosopher",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Johann_Wilhelm_Ritter"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q58868"
+      }
+    ]
+  },
+  {
+    "qid": "Q58978",
+    "slug": "wikidata-q58978",
+    "name": "Max Born",
+    "birth_date": "1882-12-11",
+    "born": "1882",
+    "died": "1970",
+    "dates": "1882\u20131970",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Max%20Born.jpg",
+    "bio": "German-Jewish physicist and mathematician (1882\u20131970)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Max_Born"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q58978"
+      }
+    ],
+    "contribution": "Notable work includes Born-Oppenheimer approximation."
   },
   {
     "qid": "Q410",
@@ -68,140 +136,93 @@
     "contribution": "Notable work includes Cosmos: A Personal Voyage."
   },
   {
-    "qid": "Q124236",
-    "slug": "wikidata-q124236",
-    "name": "Paul Scherrer",
-    "birth_date": "1890-02-03",
-    "born": "1890",
-    "died": "1969",
-    "dates": "1890\u20131969",
+    "qid": "Q57561",
+    "slug": "wikidata-q57561",
+    "name": "Julius Pl\u00fccker",
+    "birth_date": "1801-07-16",
+    "born": "1801",
+    "died": "1868",
+    "dates": "1801\u20131868",
     "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ETH-BIB-Scherrer%2C%20Paul%20%281890-1969%29-Portr%2006809%20%28cropped%29.tif",
-    "bio": "Swiss physicist (1890-1969)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Julius%20Pl%C3%BCcker%201856.jpg",
+    "bio": "German mathematician and physicist (1801-1868)",
     "citations": [
       {
         "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Paul_Scherrer"
+        "url": "https://en.wikipedia.org/wiki/Julius_Pl%C3%BCcker"
       },
       {
         "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q124236"
+        "url": "http://www.wikidata.org/entity/Q57561"
+      }
+    ],
+    "contribution": "Notable work includes Pl\u00fccker matrix."
+  },
+  {
+    "qid": "Q60052",
+    "slug": "wikidata-q60052",
+    "name": "Gustav Kirchhoff",
+    "birth_date": "1824-03-12",
+    "born": "1824",
+    "died": "1887",
+    "dates": "1824\u20131887",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Robert%20Kirchhoff.jpg",
+    "bio": "German physicist (1824\u20131887)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Gustav_Kirchhoff"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q60052"
       }
     ]
   },
   {
-    "qid": "Q128823",
-    "slug": "wikidata-q128823",
-    "name": "John Ambrose Fleming",
-    "birth_date": "1849-11-29",
-    "born": "1849",
-    "died": "1945",
-    "dates": "1849\u20131945",
+    "qid": "Q213779",
+    "slug": "wikidata-q213779",
+    "name": "Gustav Karsten",
+    "birth_date": "1820-11-24",
+    "born": "1820",
+    "died": "1900",
+    "dates": "1820\u20131900",
     "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Ambrose%20Fleming%201890.png",
-    "bio": "English electrical engineer and physicist (1849-1945)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Karsten%201878%20by%20Friedrich%20Wilhelm%20Graupenstein.jpg",
+    "bio": "German mineralogist and physicist (1820-1900)",
     "citations": [
       {
         "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/John_Ambrose_Fleming"
+        "url": "https://en.wikipedia.org/wiki/Gustav_Karsten"
       },
       {
         "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q128823"
+        "url": "http://www.wikidata.org/entity/Q213779"
       }
     ]
   },
   {
-    "qid": "Q535748",
-    "slug": "wikidata-q535748",
-    "name": "Hendrik Casimir",
-    "birth_date": "1909-07-15",
-    "born": "1909",
-    "died": "2000",
-    "dates": "1909\u20132000",
+    "qid": "Q252142",
+    "slug": "wikidata-q252142",
+    "name": "\u00c1nyos Jedlik",
+    "birth_date": "1800-01-11",
+    "born": "1800",
+    "died": "1895",
+    "dates": "1800\u20131895",
     "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hendrik%20Casimir%20%281958%29.jpg",
-    "bio": "Dutch physicist (1909\u20132000)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jedlik%20%C3%81nyos%20Rusz.jpg",
+    "bio": "Hungarian physicist and Roman Catholic priest",
     "citations": [
       {
         "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Hendrik_Casimir"
+        "url": "https://en.wikipedia.org/wiki/%C3%81nyos_Jedlik"
       },
       {
         "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q535748"
+        "url": "http://www.wikidata.org/entity/Q252142"
       }
-    ],
-    "contribution": "Notable work includes Casimir effect."
-  },
-  {
-    "qid": "Q77078",
-    "slug": "wikidata-q77078",
-    "name": "Arnold Sommerfeld",
-    "birth_date": "1868-12-05",
-    "born": "1868",
-    "died": "1951",
-    "dates": "1868\u20131951",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Arnold%20Sommerfeld.jpg",
-    "bio": "German physicist (1868-1951)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Arnold_Sommerfeld"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q77078"
-      }
-    ],
-    "contribution": "Notable work includes Lectures on Theoretical Physics."
-  },
-  {
-    "qid": "Q535733",
-    "slug": "wikidata-q535733",
-    "name": "Paul Davies",
-    "birth_date": "1946-04-22",
-    "born": "1946",
-    "died": "",
-    "dates": "1946",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Davies%202016.jpg",
-    "bio": "British physicist (1946-)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Paul_Davies"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q535733"
-      }
-    ],
-    "contribution": "Notable work includes astrobiology."
-  },
-  {
-    "qid": "Q675",
-    "slug": "wikidata-q675",
-    "name": "Andr\u00e9-Marie Amp\u00e8re",
-    "birth_date": "1775-01-20",
-    "born": "1775",
-    "died": "1836",
-    "dates": "1775\u20131836",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ampere%20portrait%20at%20the%20Musee%20Poleymieux.jpg",
-    "bio": "French physicist and mathematician (1775\u20131836)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Andr%C3%A9-Marie_Amp%C3%A8re"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q675"
-      }
-    ],
-    "contribution": "Notable work includes Memoir on the Mathematical Theory of Electrodynamic Phenomena, Uniquely Deduced from Experience."
+    ]
   },
   {
     "qid": "Q71035",
@@ -226,46 +247,90 @@
     ]
   },
   {
-    "qid": "Q123975",
-    "slug": "wikidata-q123975",
-    "name": "Michel Mayor",
-    "birth_date": "1942-01-12",
-    "born": "1942",
-    "died": "",
-    "dates": "1942",
+    "qid": "Q60264",
+    "slug": "wikidata-q60264",
+    "name": "Heinrich Barkhausen",
+    "birth_date": "1881-12-02",
+    "born": "1881",
+    "died": "1956",
+    "dates": "1881\u20131956",
     "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michel%20Mayor%20ESA20824331%20%28cropped%29.jpeg",
-    "bio": "Swiss astrophysicist & Nobel laureate of Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stamp%20Heinrich%20Barkhausen.jpg",
+    "bio": "German physicist (1881-1956)",
     "citations": [
       {
         "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Michel_Mayor"
+        "url": "https://en.wikipedia.org/wiki/Heinrich_Barkhausen"
       },
       {
         "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q123975"
+        "url": "http://www.wikidata.org/entity/Q60264"
       }
     ]
   },
   {
-    "qid": "Q127234",
-    "slug": "wikidata-q127234",
-    "name": "Albert Abraham Michelson",
-    "birth_date": "1852-12-19",
-    "born": "1852",
-    "died": "1931",
-    "dates": "1852\u20131931",
+    "qid": "Q60066",
+    "slug": "wikidata-q60066",
+    "name": "Gerhard Ertl",
+    "birth_date": "1936-10-10",
+    "born": "1936",
+    "died": "",
+    "dates": "1936",
     "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Abraham%20Michelson2.jpg",
-    "bio": "American physicist (1852\u20131931)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Prof%20Ertl-Portrait.jpg",
+    "bio": "German physicist",
     "citations": [
       {
         "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Albert_A._Michelson"
+        "url": "https://en.wikipedia.org/wiki/Gerhard_Ertl"
       },
       {
         "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q127234"
+        "url": "http://www.wikidata.org/entity/Q60066"
+      }
+    ]
+  },
+  {
+    "qid": "Q210719",
+    "slug": "wikidata-q210719",
+    "name": "Auguste Piccard",
+    "birth_date": "1884-01-28",
+    "born": "1884",
+    "died": "1962",
+    "dates": "1884\u20131962",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20102-13738%2C%20Auguste%20Piccard.jpg",
+    "bio": "Swiss physicist (1884\u20131962)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Auguste_Piccard"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q210719"
+      }
+    ]
+  },
+  {
+    "qid": "Q213783",
+    "slug": "wikidata-q213783",
+    "name": "Franz Josef Gerstner",
+    "birth_date": "1756-02-22",
+    "born": "1756",
+    "died": "1832",
+    "dates": "1756\u20131832",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Franz%20Joseph%20Gerstner%20%281756%E2%80%931832%29%20%28cropped%29.jpg",
+    "bio": "Czech physicist and mathematician",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Franz_Josef_Gerstner"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q213783"
       }
     ]
   },
@@ -292,93 +357,27 @@
     ]
   },
   {
-    "qid": "Q127944",
-    "slug": "wikidata-q127944",
-    "name": "Arthur Holly Compton",
-    "birth_date": "1892-09-10",
-    "born": "1892",
-    "died": "1962",
-    "dates": "1892\u20131962",
+    "qid": "Q59478",
+    "slug": "wikidata-q59478",
+    "name": "George Gamow",
+    "birth_date": "1904-03-04",
+    "born": "1904",
+    "died": "1968",
+    "dates": "1904\u20131968",
     "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arthur%20Compton%201927.jpg",
-    "bio": "American physicist (1892\u20131962)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%A0%BC%C2%B7%E5%AE%89%C2%B7%E4%BC%BD%E8%8E%AB%E5%A4%AB.jpg",
+    "bio": "Russian-American theoretical physicist and cosmologist (1904\u20131968)",
     "citations": [
       {
         "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Arthur_Compton"
+        "url": "https://en.wikipedia.org/wiki/George_Gamow"
       },
       {
         "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q127944"
+        "url": "http://www.wikidata.org/entity/Q59478"
       }
     ],
-    "contribution": "Notable work includes Compton effect."
-  },
-  {
-    "qid": "Q126378",
-    "slug": "wikidata-q126378",
-    "name": "Elsa Neumann",
-    "birth_date": "1872-08-23",
-    "born": "1872",
-    "died": "1902",
-    "dates": "1872\u20131902",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Promotion%20neumann%201899.JPG",
-    "bio": "German physicist (1872-1902)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Elsa_Neumann"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q126378"
-      }
-    ]
-  },
-  {
-    "qid": "Q124588",
-    "slug": "wikidata-q124588",
-    "name": "Markus Fierz",
-    "birth_date": "1912-06-20",
-    "born": "1912",
-    "died": "2006",
-    "dates": "1912\u20132006",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ETH-BIB-Fierz%2C%20Markus%20E.%20%281912-2006%29-Portr%2013107.tif",
-    "bio": "Swiss physicist (1912-2006)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Markus_Fierz"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q124588"
-      }
-    ]
-  },
-  {
-    "qid": "Q124850",
-    "slug": "wikidata-q124850",
-    "name": "Emil Rupp",
-    "birth_date": "1898-07-01",
-    "born": "1898",
-    "died": "1979",
-    "dates": "1898\u20131979",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Emil%20Rupp%201964.jpg",
-    "bio": "German nuclear physicist (1898\u20131979)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Emil_Rupp"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q124850"
-      }
-    ]
+    "contribution": "Notable work includes cosmic microwave background."
   },
   {
     "qid": "Q64631",
@@ -399,6 +398,28 @@
       {
         "title": "Wikidata record",
         "url": "http://www.wikidata.org/entity/Q64631"
+      }
+    ]
+  },
+  {
+    "qid": "Q65350",
+    "slug": "wikidata-q65350",
+    "name": "Carl Friedrich von Weizs\u00e4cker",
+    "birth_date": "1912-06-28",
+    "born": "1912",
+    "died": "2007",
+    "dates": "1912\u20132007",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Friedrich%20von%20Weizsaecker.jpg",
+    "bio": "German physicist (1912\u20132007)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Carl_Friedrich_von_Weizs%C3%A4cker"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q65350"
       }
     ]
   },
@@ -425,24 +446,24 @@
     ]
   },
   {
-    "qid": "Q77580",
-    "slug": "wikidata-q77580",
-    "name": "Carl Hellmuth Hertz",
-    "birth_date": "1920-10-15",
-    "born": "1920",
-    "died": "1990",
-    "dates": "1920\u20131990",
+    "qid": "Q57475",
+    "slug": "wikidata-q57475",
+    "name": "Klaus Fuchs",
+    "birth_date": "1911-12-29",
+    "born": "1911",
+    "died": "1988",
+    "dates": "1911\u20131988",
     "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hellmuth%20Hertz%201920-1990%20Swedish%20German%20Professor.jpg",
-    "bio": "German physicist (1920\u20131990)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Klaus%20Fuchs%20-%20police%20photograph.jpg",
+    "bio": "German-born British theoretical physicist and atomic spy (1911-1988)",
     "citations": [
       {
         "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Carl_Hellmuth_Hertz"
+        "url": "https://en.wikipedia.org/wiki/Klaus_Fuchs"
       },
       {
         "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q77580"
+        "url": "http://www.wikidata.org/entity/Q57475"
       }
     ]
   },
@@ -492,50 +513,6 @@
     ]
   },
   {
-    "qid": "Q77287",
-    "slug": "wikidata-q77287",
-    "name": "Arthur R. von Hippel",
-    "birth_date": "1898-11-19",
-    "born": "1898",
-    "died": "2003",
-    "dates": "1898\u20132003",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arthur%20von%20Hippel%20Tech%20Review%20cropped.png",
-    "bio": "German physicist (1898\u20132003)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Arthur_R._von_Hippel"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q77287"
-      }
-    ]
-  },
-  {
-    "qid": "Q949",
-    "slug": "wikidata-q949",
-    "name": "John Bardeen",
-    "birth_date": "1908-05-23",
-    "born": "1908",
-    "died": "1991",
-    "dates": "1908\u20131991",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bardeen.jpg",
-    "bio": "American physicist and engineer (1908\u20131991)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/John_Bardeen"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q949"
-      }
-    ]
-  },
-  {
     "qid": "Q64511",
     "slug": "wikidata-q64511",
     "name": "Adolfas Jucys",
@@ -580,70 +557,71 @@
     ]
   },
   {
-    "qid": "Q124128",
-    "slug": "wikidata-q124128",
-    "name": "Raoul Pictet",
-    "birth_date": "1846-04-04",
-    "born": "1846",
-    "died": "1929",
-    "dates": "1846\u20131929",
+    "qid": "Q57805",
+    "slug": "wikidata-q57805",
+    "name": "Friedrich Paschen",
+    "birth_date": "1865-01-22",
+    "born": "1865",
+    "died": "1947",
+    "dates": "1865\u20131947",
     "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pictet%20Raoul.jpg",
-    "bio": "Swiss physicist (1846-1929)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich%20Paschen%20Physiker.jpg",
+    "bio": "German physicist (1865\u20131947)",
     "citations": [
       {
         "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Raoul_Pictet"
+        "url": "https://en.wikipedia.org/wiki/Friedrich_Paschen"
       },
       {
         "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q124128"
+        "url": "http://www.wikidata.org/entity/Q57805"
       }
     ]
   },
   {
-    "qid": "Q77729",
-    "slug": "wikidata-q77729",
-    "name": "Ursula Franklin",
-    "birth_date": "1921-09-16",
-    "born": "1921",
-    "died": "2016",
-    "dates": "1921\u20132016",
+    "qid": "Q64188",
+    "slug": "wikidata-q64188",
+    "name": "Roy J. Glauber",
+    "birth_date": "1925-09-01",
+    "born": "1925",
+    "died": "2018",
+    "dates": "1925\u20132018",
     "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ursula%20Franklin%20at%20book%20launch%20crop.jpg",
-    "bio": "Canadian metallurgist, research physicist, author, and educator (1921\u20132016)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Roy%20Glauber.jpg",
+    "bio": "American theoretical physicist (1925\u20132018)",
     "citations": [
       {
         "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Ursula_Franklin"
+        "url": "https://en.wikipedia.org/wiki/Roy_J._Glauber"
       },
       {
         "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q77729"
+        "url": "http://www.wikidata.org/entity/Q64188"
       }
     ]
   },
   {
-    "qid": "Q124079",
-    "slug": "wikidata-q124079",
-    "name": "Walther Ritz",
-    "birth_date": "1878-02-22",
-    "born": "1878",
-    "died": "1909",
-    "dates": "1878\u20131909",
+    "qid": "Q57938",
+    "slug": "wikidata-q57938",
+    "name": "Fritz London",
+    "birth_date": "1900-03-07",
+    "born": "1900",
+    "died": "1954",
+    "dates": "1900\u20131954",
     "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Walther%20Ritz.jpg",
-    "bio": "Swiss physicist (1878-1909)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/London%2CFritz%201928%20M%C3%BCnchen.jpg",
+    "bio": "German-American physicist (1900-1954)",
     "citations": [
       {
         "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Walther_Ritz"
+        "url": "https://en.wikipedia.org/wiki/Fritz_London"
       },
       {
         "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q124079"
+        "url": "http://www.wikidata.org/entity/Q57938"
       }
-    ]
+    ],
+    "contribution": "Notable work includes London dispersion force."
   },
   {
     "qid": "Q64980",
@@ -664,6 +642,28 @@
       {
         "title": "Wikidata record",
         "url": "http://www.wikidata.org/entity/Q64980"
+      }
+    ]
+  },
+  {
+    "qid": "Q214378",
+    "slug": "wikidata-q214378",
+    "name": "Georg Simon Kl\u00fcgel",
+    "birth_date": "1739-08-19",
+    "born": "1739",
+    "died": "1812",
+    "dates": "1739\u20131812",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Georg%20Simon%20Kl%C3%BCgel%20%281739-1812%29.jpg",
+    "bio": "German mathematician and physicist",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Georg_Simon_Kl%C3%BCgel"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q214378"
       }
     ]
   },
@@ -690,118 +690,6 @@
     ]
   },
   {
-    "qid": "Q680",
-    "slug": "wikidata-q680",
-    "name": "Alessandro Volta",
-    "birth_date": "1745-02-18",
-    "born": "1745",
-    "died": "1827",
-    "dates": "1745\u20131827",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alessandro%20Volta.jpeg",
-    "bio": "Italian chemist and physicist (1745\u20131827)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Alessandro_Volta"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q680"
-      }
-    ]
-  },
-  {
-    "qid": "Q536500",
-    "slug": "wikidata-q536500",
-    "name": "Joseph Larmor",
-    "birth_date": "1857-07-11",
-    "born": "1857",
-    "died": "1942",
-    "dates": "1857\u20131942",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Larmor.jpeg",
-    "bio": "Irish physicist and mathematician (1857-1942)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Joseph_Larmor"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q536500"
-      }
-    ],
-    "contribution": "Notable work includes Larmor formula."
-  },
-  {
-    "qid": "Q535860",
-    "slug": "wikidata-q535860",
-    "name": "Edwin Hall",
-    "birth_date": "1855-11-07",
-    "born": "1855",
-    "died": "1938",
-    "dates": "1855\u20131938",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PSM%20V64%20D380%20Edwin%20H%20Hall.png",
-    "bio": "American physicist (1855\u20131938)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Edwin_Hall"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q535860"
-      }
-    ]
-  },
-  {
-    "qid": "Q125728",
-    "slug": "wikidata-q125728",
-    "name": "Konrad Osterwalder",
-    "birth_date": "1942-06-03",
-    "born": "1942",
-    "died": "2025",
-    "dates": "1942\u20132025",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Opening%20%2810035245605%29.jpg",
-    "bio": "Swiss mathematician and physicist. Ex-Rector, United Nations University and Under Secretary-General of the United Nations",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Konrad_Osterwalder"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q125728"
-      }
-    ]
-  },
-  {
-    "qid": "Q77736",
-    "slug": "wikidata-q77736",
-    "name": "Alexander Meissner",
-    "birth_date": "1883-09-14",
-    "born": "1883",
-    "died": "1958",
-    "dates": "1883\u20131958",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexander%20Meissner%20plaque.jpg",
-    "bio": "Austrian engineer and physicist (1883\u20131958)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Alexander_Meissner"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q77736"
-      }
-    ],
-    "contribution": "Notable work includes Armstrong oscillator."
-  },
-  {
     "qid": "Q71220",
     "slug": "wikidata-q71220",
     "name": "Herwig Schopper",
@@ -824,24 +712,46 @@
     ]
   },
   {
-    "qid": "Q77920",
-    "slug": "wikidata-q77920",
-    "name": "Alfred Land\u00e9",
-    "birth_date": "1888-12-13",
-    "born": "1888",
-    "died": "1976",
-    "dates": "1888\u20131976",
+    "qid": "Q60287",
+    "slug": "wikidata-q60287",
+    "name": "Walter Heitler",
+    "birth_date": "1904-01-02",
+    "born": "1904",
+    "died": "1981",
+    "dates": "1904\u20131981",
     "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20lande%201940.png",
-    "bio": "American physicist (1888-1976)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Heitler%2CWalter%201937.jpg",
+    "bio": "physicist (1904-1981)",
     "citations": [
       {
         "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Alfred_Land%C3%A9"
+        "url": "https://en.wikipedia.org/wiki/Walter_Heitler"
       },
       {
         "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q77920"
+        "url": "http://www.wikidata.org/entity/Q60287"
+      }
+    ]
+  },
+  {
+    "qid": "Q213579",
+    "slug": "wikidata-q213579",
+    "name": "Ernst Chladni",
+    "birth_date": "1756-11-30",
+    "born": "1756",
+    "died": "1827",
+    "dates": "1756\u20131827",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Echladni.jpg",
+    "bio": "German physicist, mathematician and musician (1756 \u2013 1827)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Ernst_Chladni"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q213579"
       }
     ]
   },
@@ -868,138 +778,338 @@
     ]
   },
   {
-    "qid": "Q124081",
-    "slug": "wikidata-q124081",
-    "name": "Robert Emden",
-    "birth_date": "1862-03-04",
-    "born": "1862",
+    "qid": "Q65825",
+    "slug": "wikidata-q65825",
+    "name": "Richard Mollier",
+    "birth_date": "1863-11-30",
+    "born": "1863",
+    "died": "1935",
+    "dates": "1863\u20131935",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Richard%20Mollier%20%281%29.jpg",
+    "bio": "German physicist (1863\u20131935)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Richard_Mollier"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q65825"
+      }
+    ]
+  },
+  {
+    "qid": "Q937",
+    "slug": "wikidata-q937",
+    "name": "Albert Einstein",
+    "birth_date": "1879-03-14",
+    "born": "1879",
+    "died": "1955",
+    "dates": "1879\u20131955",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Einstein%20Head%20cleaned.jpg",
+    "bio": "German-born theoretical physicist (1879\u20131955)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Albert_Einstein"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q937"
+      }
+    ],
+    "contribution": "Notable work includes unified field theory."
+  },
+  {
+    "qid": "Q71022",
+    "slug": "wikidata-q71022",
+    "name": "Ernst Ruska",
+    "birth_date": "1906-12-25",
+    "born": "1906",
+    "died": "1988",
+    "dates": "1906\u20131988",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ernst%20Ruska%20Electron%20Microscope%20-%20Deutsches%20Museum%20-%20Munich-edit.jpg",
+    "bio": "German physicist (1906\u20131988)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Ernst_Ruska"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q71022"
+      }
+    ]
+  },
+  {
+    "qid": "Q73011",
+    "slug": "wikidata-q73011",
+    "name": "Johann Gottlieb N\u00f6rremberg",
+    "birth_date": "1787-08-11",
+    "born": "1787",
+    "died": "1862",
+    "dates": "1787\u20131862",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Johann%20Gottlieb%20N%C3%B6rrenberg%20-%20Kauernde%20Aphrodite%20%28Daguerreotypie%201839%29.jpg",
+    "bio": "German physicist (1787-1862)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Johann_Gottlieb_N%C3%B6rrenberg"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q73011"
+      }
+    ]
+  },
+  {
+    "qid": "Q215022",
+    "slug": "wikidata-q215022",
+    "name": "Arthur Eddington",
+    "birth_date": "1882-12-28",
+    "born": "1882",
+    "died": "1944",
+    "dates": "1882\u20131944",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arthur%20Stanley%20Eddington.jpg",
+    "bio": "British astrophysicist (1882-1944)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Arthur_Eddington"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q215022"
+      }
+    ],
+    "contribution": "Notable work includes Classical unified field theories."
+  },
+  {
+    "qid": "Q216814",
+    "slug": "wikidata-q216814",
+    "name": "Hippolyte Fizeau",
+    "birth_date": "1819-09-23",
+    "born": "1819",
+    "died": "1896",
+    "dates": "1819\u20131896",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hippolyte%20Fizeau.jpg",
+    "bio": "French physicist (1819\u20131896)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Hippolyte_Fizeau"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q216814"
+      }
+    ]
+  },
+  {
+    "qid": "Q68510",
+    "slug": "wikidata-q68510",
+    "name": "Max Steenbeck",
+    "birth_date": "1904-03-21",
+    "born": "1904",
+    "died": "1981",
+    "dates": "1904\u20131981",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20183-J0312-0025-001%2C%20Berlin%2C%2022.%20DDR-Staatsratsitzung.jpg",
+    "bio": "German physicist (1904\u20131981)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Max_Steenbeck"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q68510"
+      }
+    ]
+  },
+  {
+    "qid": "Q68533",
+    "slug": "wikidata-q68533",
+    "name": "Arthur Korn",
+    "birth_date": "1870-05-20",
+    "born": "1870",
+    "died": "1945",
+    "dates": "1870\u20131945",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arthur%20Korn.jpg",
+    "bio": "German physicist and mathematician (1870\u20131945)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Arthur_Korn"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q68533"
+      }
+    ]
+  },
+  {
+    "qid": "Q215973",
+    "slug": "wikidata-q215973",
+    "name": "Lothar Wolfgang Nordheim",
+    "birth_date": "1899-11-07",
+    "born": "1899",
+    "died": "1985",
+    "dates": "1899\u20131985",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nordheim%2CLothar%201963%20Kopenhagen.jpg",
+    "bio": "German-American physicist",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Lothar_Nordheim"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q215973"
+      }
+    ]
+  },
+  {
+    "qid": "Q73058",
+    "slug": "wikidata-q73058",
+    "name": "Willard Boyle",
+    "birth_date": "1924-08-19",
+    "born": "1924",
+    "died": "2011",
+    "dates": "1924\u20132011",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nobel%20Prize%202009-Press%20Conference%20KVA-23.jpg",
+    "bio": "Canadian physicist and inventor (1924\u20132011)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Willard_Boyle"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q73058"
+      }
+    ]
+  },
+  {
+    "qid": "Q60347",
+    "slug": "wikidata-q60347",
+    "name": "Walter H. Schottky",
+    "birth_date": "1886-07-23",
+    "born": "1886",
+    "died": "1976",
+    "dates": "1886\u20131976",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Walter%20Hermann%20Schottky%20%281886-1976%29.jpg",
+    "bio": "German physicist (1886\u20131976)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Walter_Schottky"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q60347"
+      }
+    ]
+  },
+  {
+    "qid": "Q71023",
+    "slug": "wikidata-q71023",
+    "name": "Alfred Kastler",
+    "birth_date": "1902-05-03",
+    "born": "1902",
+    "died": "1984",
+    "dates": "1902\u20131984",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kastler.jpg",
+    "bio": "French physicist (1902\u20131984)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Alfred_Kastler"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q71023"
+      }
+    ],
+    "contribution": "Notable work includes optical pumping."
+  },
+  {
+    "qid": "Q218889",
+    "slug": "wikidata-q218889",
+    "name": "Zolt\u00e1n Lajos Bay",
+    "birth_date": "1900-07-24",
+    "born": "1900",
+    "died": "1992",
+    "dates": "1900\u20131992",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zolt%C3%A1n%20Bay%20%281900-1992%29%20Hungarian%20physicist.jpg",
+    "bio": "Hungarian physicist (1900\u20131992)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Zolt%C3%A1n_Lajos_Bay"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q218889"
+      }
+    ]
+  },
+  {
+    "qid": "Q216812",
+    "slug": "wikidata-q216812",
+    "name": "Vito Volterra",
+    "birth_date": "1860-05-03",
+    "born": "1860",
     "died": "1940",
-    "dates": "1862\u20131940",
+    "dates": "1860\u20131940",
     "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lovis%20Corinth%20Portr%C3%A4t%20Prof.%20Robert%20Emden%201895.jpg",
-    "bio": "Swiss astrophysicist (1862-1940)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vito%20Volterra.jpg",
+    "bio": "Italian mathematician and mathematical physicist (1860-1940)",
     "citations": [
       {
         "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Robert_Emden"
+        "url": "https://en.wikipedia.org/wiki/Vito_Volterra"
       },
       {
         "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q124081"
-      }
-    ]
-  },
-  {
-    "qid": "Q997",
-    "slug": "wikidata-q997",
-    "name": "Andrei Sakharov",
-    "birth_date": "1921-05-21",
-    "born": "1921",
-    "died": "1989",
-    "dates": "1921\u20131989",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RIAN%20archive%2025981%20Academician%20Sakharov.jpg",
-    "bio": "Soviet nuclear physicist and human rights activist (1921\u20131989)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Andrei_Sakharov"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q997"
-      }
-    ]
-  },
-  {
-    "qid": "Q131729",
-    "slug": "wikidata-q131729",
-    "name": "William Lawrence Bragg",
-    "birth_date": "1890-03-31",
-    "born": "1890",
-    "died": "1971",
-    "dates": "1890\u20131971",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wl-bragg.jpg",
-    "bio": "Australian-born British physicist and X-ray crystallographer",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Lawrence_Bragg"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q131729"
+        "url": "http://www.wikidata.org/entity/Q216812"
       }
     ],
-    "contribution": "Notable work includes X-ray diffraction."
+    "contribution": "Notable work includes Lotka\u2013Volterra equations."
   },
   {
-    "qid": "Q123984",
-    "slug": "wikidata-q123984",
-    "name": "Johann III Bernoulli",
-    "birth_date": "1744-11-04",
-    "born": "1744",
-    "died": "1807",
-    "dates": "1744\u20131807",
+    "qid": "Q73060",
+    "slug": "wikidata-q73060",
+    "name": "Wilhelm Hallwachs",
+    "birth_date": "1859-07-09",
+    "born": "1859",
+    "died": "1922",
+    "dates": "1859\u20131922",
     "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Johann%28III%29%20Bernoulli.jpeg",
-    "bio": "Swiss mathematician and physicist (1744-1807)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Sterl%20-%20Wilhelm%20Hallwachs%201907.jpg",
+    "bio": "physicist, photoelectric effect (1859-1922)",
     "citations": [
       {
         "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Johann_III_Bernoulli"
+        "url": "https://en.wikipedia.org/wiki/Wilhelm_Hallwachs"
       },
       {
         "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q123984"
+        "url": "http://www.wikidata.org/entity/Q73060"
       }
     ]
-  },
-  {
-    "qid": "Q77542",
-    "slug": "wikidata-q77542",
-    "name": "Walther Kossel",
-    "birth_date": "1888-01-04",
-    "born": "1888",
-    "died": "1956",
-    "dates": "1888\u20131956",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kossel%2CWalther%201928.jpg",
-    "bio": "German physicist (1888-1956)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Walther_Kossel"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q77542"
-      }
-    ]
-  },
-  {
-    "qid": "Q536469",
-    "slug": "wikidata-q536469",
-    "name": "George FitzGerald",
-    "birth_date": "1851-08-03",
-    "born": "1851",
-    "died": "1901",
-    "dates": "1851\u20131901",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PSM%20V63%20D476%20George%20Francis%20FitzGerald.png",
-    "bio": "Irish physicist (1851\u20131901)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/George_Francis_FitzGerald"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q536469"
-      }
-    ],
-    "contribution": "Notable work includes length contraction."
   },
   {
     "qid": "Q65705",
@@ -1024,68 +1134,68 @@
     ]
   },
   {
-    "qid": "Q546848",
-    "slug": "wikidata-q546848",
-    "name": "Robert Aymar",
-    "birth_date": "1936-03-23",
-    "born": "1936",
-    "died": "2024",
-    "dates": "1936\u20132024",
+    "qid": "Q73167",
+    "slug": "wikidata-q73167",
+    "name": "Karl Emil von Schafh\u00e4utl",
+    "birth_date": "1803-02-16",
+    "born": "1803",
+    "died": "1890",
+    "dates": "1803\u20131890",
     "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Aymar%202006.jpg",
-    "bio": "French physicist (1936\u20132024)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Emil%20von%20Schafh%C3%A4utl%20-%20Wissenschaftler.jpg",
+    "bio": "German physicist, geologist, librarian and musicologist (1803-1890)",
     "citations": [
       {
         "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Robert_Aymar"
+        "url": "https://en.wikipedia.org/wiki/Karl_Emil_von_Schafh%C3%A4utl"
       },
       {
         "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q546848"
+        "url": "http://www.wikidata.org/entity/Q73167"
       }
     ]
   },
   {
-    "qid": "Q523702",
-    "slug": "wikidata-q523702",
-    "name": "Radu B\u0103lescu",
-    "birth_date": "1932-07-18",
-    "born": "1932",
-    "died": "2006",
-    "dates": "1932\u20132006",
+    "qid": "Q72852",
+    "slug": "wikidata-q72852",
+    "name": "Eugen von Lommel",
+    "birth_date": "1837-03-19",
+    "born": "1837",
+    "died": "1899",
+    "dates": "1837\u20131899",
     "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Radu%20Balescu.jpg",
-    "bio": "Romanian-Belgian plasma physicist and university teacher (1932\u20132006)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Eugen%20von%20Lommel%201900%20Jahresbericht%20der%20Deutschen%20Mathematiker-Vereinigung.png",
+    "bio": "German physicist (1837-1899)",
     "citations": [
       {
         "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Radu_B%C4%83lescu"
+        "url": "https://en.wikipedia.org/wiki/Eugen_von_Lommel"
       },
       {
         "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q523702"
+        "url": "http://www.wikidata.org/entity/Q72852"
       }
     ]
   },
   {
-    "qid": "Q526401",
-    "slug": "wikidata-q526401",
-    "name": "C\u00e9cile DeWitt-Morette",
-    "birth_date": "1922-12-21",
-    "born": "1922",
-    "died": "2017",
-    "dates": "1922\u20132017",
+    "qid": "Q66885",
+    "slug": "wikidata-q66885",
+    "name": "Otto Lummer",
+    "birth_date": "1860-07-17",
+    "born": "1860",
+    "died": "1925",
+    "dates": "1860\u20131925",
     "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A9cile%20DeWitt-Morette%20%28cropped%29.png",
-    "bio": "French mathematician and physicist (1922-2017)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Foto%2C%20Portr%C3%A4t%2C%20Otto%20Richard%20Lummer%20-%20Humboldt-Universit%C3%A4t%20zu%20Berlin.png",
+    "bio": "German physicist (1860\u20131925)",
     "citations": [
       {
         "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/C%C3%A9cile_DeWitt-Morette"
+        "url": "https://en.wikipedia.org/wiki/Otto_Lummer"
       },
       {
         "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q526401"
+        "url": "http://www.wikidata.org/entity/Q66885"
       }
     ]
   },
@@ -1112,49 +1222,136 @@
     ]
   },
   {
-    "qid": "Q77282",
-    "slug": "wikidata-q77282",
-    "name": "Carl Hermann",
-    "birth_date": "1898-06-17",
-    "born": "1898",
-    "died": "1961",
-    "dates": "1898\u20131961",
+    "qid": "Q215226",
+    "slug": "wikidata-q215226",
+    "name": "Martin Deutsch",
+    "birth_date": "1917-01-29",
+    "born": "1917",
+    "died": "2002",
+    "dates": "1917\u20132002",
     "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20H.%20Hermann%2C%20Nazi%20jail%2C%20Halle%20an%20der%20Saale%2C%20Germany.jpg",
-    "bio": "German physicist (1898-1961)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Deutsch-martin.jpg",
+    "bio": "Austrian-American physicist",
     "citations": [
       {
         "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Carl_H._Hermann"
+        "url": "https://en.wikipedia.org/wiki/Martin_Deutsch"
       },
       {
         "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q77282"
+        "url": "http://www.wikidata.org/entity/Q215226"
       }
     ]
   },
   {
-    "qid": "Q1290",
-    "slug": "wikidata-q1290",
-    "name": "Blaise Pascal",
-    "birth_date": "1623-06-19",
-    "born": "1623",
-    "died": "1662",
-    "dates": "1623\u20131662",
+    "qid": "Q67020",
+    "slug": "wikidata-q67020",
+    "name": "Gustav Mie",
+    "birth_date": "1868-09-29",
+    "born": "1868",
+    "died": "1957",
+    "dates": "1868\u20131957",
     "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Blaise%20Pascal%20Versailles.JPG",
-    "bio": "French mathematician, physicist, inventor, writer, and Christian philosopher (1623-1662)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/GustavMie.gif",
+    "bio": "German physicist (1868-1957)",
     "citations": [
       {
         "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Blaise_Pascal"
+        "url": "https://en.wikipedia.org/wiki/Gustav_Mie"
       },
       {
         "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q1290"
+        "url": "http://www.wikidata.org/entity/Q67020"
       }
-    ],
-    "contribution": "Notable work includes Trait\u00e9 des Sinus du Quart de Cercle."
+    ]
+  },
+  {
+    "qid": "Q68488",
+    "slug": "wikidata-q68488",
+    "name": "G\u00fcnther Landgraf",
+    "birth_date": "1928-09-14",
+    "born": "1928",
+    "died": "2006",
+    "dates": "1928\u20132006",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Guenther%20Landgraf.jpg",
+    "bio": "German physicist (1928\u20132006)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/G%C3%BCnther_Landgraf"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q68488"
+      }
+    ]
+  },
+  {
+    "qid": "Q73170",
+    "slug": "wikidata-q73170",
+    "name": "Hans Geitel",
+    "birth_date": "1855-07-16",
+    "born": "1855",
+    "died": "1923",
+    "dates": "1855\u20131923",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Geitel%20Hans-Friedrich%20Wolfenb%C3%BCttel%20Gro%C3%9FeSchule%20%282a%29.jpg",
+    "bio": "German physicist (1855-1923)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Hans_Geitel"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q73170"
+      }
+    ]
+  },
+  {
+    "qid": "Q71665",
+    "slug": "wikidata-q71665",
+    "name": "Heinz Haber",
+    "birth_date": "1913-05-15",
+    "born": "1913",
+    "died": "1990",
+    "dates": "1913\u20131990",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Haber%20Braun.jpg",
+    "bio": "German physicist (1913\u20131990)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Heinz_Haber"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q71665"
+      }
+    ]
+  },
+  {
+    "qid": "Q66527",
+    "slug": "wikidata-q66527",
+    "name": "August Toepler",
+    "birth_date": "1836-09-07",
+    "born": "1836",
+    "died": "1912",
+    "dates": "1836\u20131912",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DD-PhysikC-Toepler-Relief.jpg",
+    "bio": "German physicist (1836\u20131912)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/August_Toepler"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q66527"
+      }
+    ]
   },
   {
     "qid": "Q66183",
@@ -1201,447 +1398,112 @@
     ]
   },
   {
-    "qid": "Q1585",
-    "slug": "wikidata-q1585",
-    "name": "Georg Simon Ohm",
-    "birth_date": "1789-03-16",
-    "born": "1789",
-    "died": "1854",
-    "dates": "1789\u20131854",
+    "qid": "Q60428",
+    "slug": "wikidata-q60428",
+    "name": "Johann Wilhelm Hittorf",
+    "birth_date": "1824-03-27",
+    "born": "1824",
+    "died": "1914",
+    "dates": "1824\u20131914",
     "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Georg%20Simon%20Ohm%20%281789-1854%29.jpg",
-    "bio": "German physicist and mathematician",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hittorf%20portrait%20from%20Festschrift%201904%20%28cropped%29.jpg",
+    "bio": "German physicist (1824\u20131914)",
     "citations": [
       {
         "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Georg_Ohm"
+        "url": "https://en.wikipedia.org/wiki/Johann_Wilhelm_Hittorf"
       },
       {
         "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q1585"
-      }
-    ],
-    "contribution": "Notable work includes Ohm's law."
-  },
-  {
-    "qid": "Q1589",
-    "slug": "wikidata-q1589",
-    "name": "Luigi Galvani",
-    "birth_date": "1737-09-09",
-    "born": "1737",
-    "died": "1798",
-    "dates": "1737\u20131798",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Luigi%20Galvani%2C%20oil-painting.jpg",
-    "bio": "Italian physician, physicist, and philosopher",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Luigi_Galvani"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q1589"
+        "url": "http://www.wikidata.org/entity/Q60428"
       }
     ]
   },
   {
-    "qid": "Q131721",
-    "slug": "wikidata-q131721",
-    "name": "Johannes Diderik van der Waals",
-    "birth_date": "1837-11-23",
-    "born": "1837",
-    "died": "1923",
-    "dates": "1837\u20131923",
+    "qid": "Q73363",
+    "slug": "wikidata-q73363",
+    "name": "Ewald Wollny",
+    "birth_date": "1846-03-20",
+    "born": "1846",
+    "died": "1901",
+    "dates": "1846\u20131901",
     "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Van%20der%20Waals.jpg",
-    "bio": "Dutch physicist (1837\u20131923)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ewald%20Wollny.jpg",
+    "bio": "German agricultural physicist (1846\u20131901)",
     "citations": [
       {
         "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Johannes_Diderik_van_der_Waals"
+        "url": "https://en.wikipedia.org/wiki/Ewald_Wollny"
       },
       {
         "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q131721"
-      }
-    ],
-    "contribution": "Notable work includes van der Waals radius."
-  },
-  {
-    "qid": "Q65350",
-    "slug": "wikidata-q65350",
-    "name": "Carl Friedrich von Weizs\u00e4cker",
-    "birth_date": "1912-06-28",
-    "born": "1912",
-    "died": "2007",
-    "dates": "1912\u20132007",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Friedrich%20von%20Weizsaecker.jpg",
-    "bio": "German physicist (1912\u20132007)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Carl_Friedrich_von_Weizs%C3%A4cker"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q65350"
+        "url": "http://www.wikidata.org/entity/Q73363"
       }
     ]
   },
   {
-    "qid": "Q77957",
-    "slug": "wikidata-q77957",
-    "name": "G\u00fcnter Nimtz",
-    "birth_date": "1936-09-22",
-    "born": "1936",
+    "qid": "Q68516",
+    "slug": "wikidata-q68516",
+    "name": "Fritz Houtermans",
+    "birth_date": "1903-01-22",
+    "born": "1903",
+    "died": "1966",
+    "dates": "1903\u20131966",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fritz-Houtermans1927.jpg",
+    "bio": "physicist (1903-1966)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Fritz_Houtermans"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q68516"
+      }
+    ]
+  },
+  {
+    "qid": "Q74301",
+    "slug": "wikidata-q74301",
+    "name": "Hans Joachim Schellnhuber",
+    "birth_date": "1950-06-07",
+    "born": "1950",
     "died": "",
-    "dates": "1936",
+    "dates": "1950",
     "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Demomirror.jpg",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Schellnhuber.jpg",
     "bio": "German physicist",
     "citations": [
       {
         "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/G%C3%BCnter_Nimtz"
+        "url": "https://en.wikipedia.org/wiki/Hans_Joachim_Schellnhuber"
       },
       {
         "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q77957"
+        "url": "http://www.wikidata.org/entity/Q74301"
       }
     ]
   },
   {
-    "qid": "Q4517",
-    "slug": "wikidata-q4517",
-    "name": "Bernard Katz",
-    "birth_date": "1911-03-26",
-    "born": "1911",
-    "died": "2003",
-    "dates": "1911\u20132003",
+    "qid": "Q71574",
+    "slug": "wikidata-q71574",
+    "name": "Paul Richard Heinrich Blasius",
+    "birth_date": "1883-08-09",
+    "born": "1883",
+    "died": "1970",
+    "dates": "1883\u20131970",
     "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/37.%20Tagung%201987%20Mediziner%20Sir%20Bernard%20Katz%20-%20W134Nr.125421a1%20-%20Willy%20Pragher%20%28cropped%29.jpg",
-    "bio": "German-British biophysicist (1911\u20132003)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Heinrich%20Blasius.%20Fr%C3%BChe%20Zeit%20an%20der%20Ingenieurschule.png",
+    "bio": "German physicist (1883\u20131970)",
     "citations": [
       {
         "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Bernard_Katz"
+        "url": "https://en.wikipedia.org/wiki/Paul_Richard_Heinrich_Blasius"
       },
       {
         "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q4517"
-      }
-    ]
-  },
-  {
-    "qid": "Q124894",
-    "slug": "wikidata-q124894",
-    "name": "Auguste Arthur De la Rive",
-    "birth_date": "1801-10-09",
-    "born": "1801",
-    "died": "1873",
-    "dates": "1801\u20131873",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Auguste%20Arthur%20de%20la%20Rive.jpg",
-    "bio": "Swiss physicist and politician (1801-1873)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Auguste_Arthur_De_la_Rive"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q124894"
-      }
-    ]
-  },
-  {
-    "qid": "Q547276",
-    "slug": "wikidata-q547276",
-    "name": "Jacques-Ars\u00e8ne d'Arsonval",
-    "birth_date": "1851-06-08",
-    "born": "1851",
-    "died": "1940",
-    "dates": "1851\u20131940",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Professeur%20d%27Arsonval%20-%20btv1b532700718.jpg",
-    "bio": "French physicist and physician (1851\u20131940)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Jacques-Ars%C3%A8ne_d%27Arsonval"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q547276"
-      }
-    ]
-  },
-  {
-    "qid": "Q526271",
-    "slug": "wikidata-q526271",
-    "name": "Per-Olov L\u00f6wdin",
-    "birth_date": "1916-10-28",
-    "born": "1916",
-    "died": "2000",
-    "dates": "1916\u20132000",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Per-Olov%20L%C3%B6wdin.jpg",
-    "bio": "Swedish physicist (1916-2000)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Per-Olov_L%C3%B6wdin"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q526271"
-      }
-    ]
-  },
-  {
-    "qid": "Q531898",
-    "slug": "wikidata-q531898",
-    "name": "Paul Ulrich Villard",
-    "birth_date": "1860-09-28",
-    "born": "1860",
-    "died": "1934",
-    "dates": "1860\u20131934",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Villard.jpg",
-    "bio": "French chemist and physicist (1860\u20131934)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Paul_Ulrich_Villard"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q531898"
-      }
-    ],
-    "contribution": "Notable work includes gamma ray."
-  },
-  {
-    "qid": "Q130975",
-    "slug": "wikidata-q130975",
-    "name": "Robert Andrews Millikan",
-    "birth_date": "1868-03-22",
-    "born": "1868",
-    "died": "1953",
-    "dates": "1868\u20131953",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Andrews%20Millikan%201920s.jpg",
-    "bio": "American physicist (1868\u20131953)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Robert_Millikan"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q130975"
-      }
-    ]
-  },
-  {
-    "qid": "Q77279",
-    "slug": "wikidata-q77279",
-    "name": "Rudolph Koenig",
-    "birth_date": "1832-11-26",
-    "born": "1832",
-    "died": "1901",
-    "dates": "1832\u20131901",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PSM%20V37%20D448%20Rudolph%20Koenig.jpg",
-    "bio": "German physicist (1832\u20131901)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Rudolph_Koenig"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q77279"
-      }
-    ]
-  },
-  {
-    "qid": "Q130113",
-    "slug": "wikidata-q130113",
-    "name": "Robert Hofstadter",
-    "birth_date": "1915-02-05",
-    "born": "1915",
-    "died": "1990",
-    "dates": "1915\u20131990",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Hofstadter.jpg",
-    "bio": "American physicist and Nobel laureate (1915-1990)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Robert_Hofstadter"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q130113"
-      }
-    ]
-  },
-  {
-    "qid": "Q77953",
-    "slug": "wikidata-q77953",
-    "name": "Eduard Gr\u00fcneisen",
-    "birth_date": "1877-05-26",
-    "born": "1877",
-    "died": "1949",
-    "dates": "1877\u20131949",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Eduard%20Gr%C3%BCneisen%20cropped%20from%20Solvay%20conference%201913%20photo.jpg",
-    "bio": "German physicist; co-eponym of Mie-Gr\u00fcneisen equation of state (1877\u20131949)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Eduard_Gr%C3%BCneisen"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q77953"
-      }
-    ]
-  },
-  {
-    "qid": "Q527322",
-    "slug": "wikidata-q527322",
-    "name": "Harry Swinney",
-    "birth_date": "1939-04-10",
-    "born": "1939",
-    "died": "2026",
-    "dates": "1939\u20132026",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Harry%20Swinney%201957%20Yearbook%20Photo%20%28cropped%29.jpg",
-    "bio": "American physicist (1939 - 2026)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Harry_Swinney"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q527322"
-      }
-    ]
-  },
-  {
-    "qid": "Q124301",
-    "slug": "wikidata-q124301",
-    "name": "Martin Gutzwiller",
-    "birth_date": "1925-10-12",
-    "born": "1925",
-    "died": "2014",
-    "dates": "1925\u20132014",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MGutzwiller.jpg",
-    "bio": "Swiss physicist (1925-2014)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Martin_Gutzwiller"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q124301"
-      }
-    ]
-  },
-  {
-    "qid": "Q78849",
-    "slug": "wikidata-q78849",
-    "name": "Friedrich Hasen\u00f6hrl",
-    "birth_date": "1874-11-30",
-    "born": "1874",
-    "died": "1915",
-    "dates": "1874\u20131915",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hasenoehrl.jpg",
-    "bio": "Austrian physicist (1874\u20131915)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Friedrich_Hasen%C3%B6hrl"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q78849"
-      }
-    ],
-    "contribution": "Notable work includes black body."
-  },
-  {
-    "qid": "Q6722",
-    "slug": "wikidata-q6722",
-    "name": "Carl Friedrich Gauss",
-    "birth_date": "1777-04-30",
-    "born": "1777",
-    "died": "1855",
-    "dates": "1777\u20131855",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Friedrich%20Gauss.jpg",
-    "bio": "German mathematician and physicist (1777\u20131855)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q6722"
-      }
-    ],
-    "contribution": "Notable work includes Disquisitiones Arithmeticae."
-  },
-  {
-    "qid": "Q68556",
-    "slug": "wikidata-q68556",
-    "name": "Heinrich Kayser",
-    "birth_date": "1853-03-16",
-    "born": "1853",
-    "died": "1940",
-    "dates": "1853\u20131940",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Heinrich%20Kayser.jpg",
-    "bio": "German physicist (1853\u20131940)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Heinrich_Kayser"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q68556"
-      }
-    ]
-  },
-  {
-    "qid": "Q540379",
-    "slug": "wikidata-q540379",
-    "name": "Michael Foale",
-    "birth_date": "1957-01-06",
-    "born": "1957",
-    "died": "",
-    "dates": "1957",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Foale.jpg",
-    "bio": "British-American astrophysicist and former NASA astronaut",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Michael_Foale"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q540379"
+        "url": "http://www.wikidata.org/entity/Q71574"
       }
     ]
   },
@@ -1649,10 +1511,10 @@
     "qid": "Q67170",
     "slug": "wikidata-q67170",
     "name": "Gottfried Osann",
-    "birth_date": "1797-01-01",
-    "born": "1797",
+    "birth_date": "1796-10-26",
+    "born": "1796",
     "died": "1866",
-    "dates": "1797\u20131866",
+    "dates": "1796\u20131866",
     "field": "Physics",
     "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gottfried%20Osann%201823.png",
     "bio": "German chemist and physicist (1797\u20131866)",
@@ -1668,803 +1530,48 @@
     ]
   },
   {
-    "qid": "Q65825",
-    "slug": "wikidata-q65825",
-    "name": "Richard Mollier",
-    "birth_date": "1863-11-30",
-    "born": "1863",
-    "died": "1935",
-    "dates": "1863\u20131935",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Richard%20Mollier%20%281%29.jpg",
-    "bio": "German physicist (1863\u20131935)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Richard_Mollier"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q65825"
-      }
-    ]
-  },
-  {
-    "qid": "Q133222",
-    "slug": "wikidata-q133222",
-    "name": "Clinton Davisson",
-    "birth_date": "1881-10-22",
-    "born": "1881",
-    "died": "1958",
-    "dates": "1881\u20131958",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Clinton%20Davisson.jpg",
-    "bio": "American physicist (1881-1958)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Clinton_Davisson"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q133222"
-      }
-    ]
-  },
-  {
-    "qid": "Q543682",
-    "slug": "wikidata-q543682",
-    "name": "David Deutsch",
-    "birth_date": "1953-05-18",
-    "born": "1953",
-    "died": "",
-    "dates": "1953",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Deutsch.jpg",
-    "bio": "British physicist",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/David_Deutsch"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q543682"
-      }
-    ],
-    "contribution": "Notable work includes The Beginning of Infinity."
-  },
-  {
-    "qid": "Q78392",
-    "slug": "wikidata-q78392",
-    "name": "Wilhelm Holtz",
-    "birth_date": "1836-10-15",
+    "qid": "Q73479",
+    "slug": "wikidata-q73479",
+    "name": "Arthur von Oettingen",
+    "birth_date": "1836-04-09",
     "born": "1836",
-    "died": "1913",
-    "dates": "1836\u20131913",
+    "died": "1920",
+    "dates": "1836\u20131920",
     "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/BildWilhelmHoltz.jpg",
-    "bio": "German physicist (1836\u20131913)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arthur%20von%20Oettingen2.jpg",
+    "bio": "Baltic German physicist and music theorist (1836\u20131920)",
     "citations": [
       {
         "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Wilhelm_Holtz"
+        "url": "https://en.wikipedia.org/wiki/Arthur_von_Oettingen"
       },
       {
         "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q78392"
+        "url": "http://www.wikidata.org/entity/Q73479"
       }
     ]
   },
   {
-    "qid": "Q528491",
-    "slug": "wikidata-q528491",
-    "name": "Deborah Berebichez",
-    "birth_date": "1972-02-13",
-    "born": "1972",
-    "died": "",
-    "dates": "1972",
+    "qid": "Q74345",
+    "slug": "wikidata-q74345",
+    "name": "Daniel Gralath",
+    "birth_date": "1708-05-30",
+    "born": "1708",
+    "died": "1767",
+    "dates": "1708\u20131767",
     "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Outrageous%20Acts%20of%20Thinking-Berebichez%20-%20NECSS%202015.JPG",
-    "bio": "Mexican physicist",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Gralath.jpg",
+    "bio": "18th century physicist and mayor of Gdansk",
     "citations": [
       {
         "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Deborah_Berebichez"
+        "url": "https://en.wikipedia.org/wiki/Daniel_Gralath"
       },
       {
         "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q528491"
+        "url": "http://www.wikidata.org/entity/Q74345"
       }
     ]
-  },
-  {
-    "qid": "Q545809",
-    "slug": "wikidata-q545809",
-    "name": "Bruria Kaufman",
-    "birth_date": "1918-08-21",
-    "born": "1918",
-    "died": "2010",
-    "dates": "1918\u20132010",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bruria%20Kaufman.jpg",
-    "bio": "physicist (1918\u20132010)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Bruria_Kaufman"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q545809"
-      }
-    ]
-  },
-  {
-    "qid": "Q68976",
-    "slug": "wikidata-q68976",
-    "name": "Christian Gottlieb Kratzenstein",
-    "birth_date": "1723-01-30",
-    "born": "1723",
-    "died": "1795",
-    "dates": "1723\u20131795",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Christian%20Gottlieb%20Kratzenstein.jpg",
-    "bio": "German physicist",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Christian_Gottlieb_Kratzenstein"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q68976"
-      }
-    ]
-  },
-  {
-    "qid": "Q77995",
-    "slug": "wikidata-q77995",
-    "name": "Eberhard Umbach",
-    "birth_date": "1948-04-12",
-    "born": "1948",
-    "died": "",
-    "dates": "1948",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Prof.%20Eberhard%20Umbach%202012.JPG",
-    "bio": "physicist",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Eberhard_Umbach"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q77995"
-      }
-    ]
-  },
-  {
-    "qid": "Q547674",
-    "slug": "wikidata-q547674",
-    "name": "George Zweig",
-    "birth_date": "1937-05-30",
-    "born": "1937",
-    "died": "",
-    "dates": "1937",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20Zweig%20%283x4%20cropped%29.jpg",
-    "bio": "American physicist",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/George_Zweig"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q547674"
-      }
-    ]
-  },
-  {
-    "qid": "Q153210",
-    "slug": "wikidata-q153210",
-    "name": "Jack Steinberger",
-    "birth_date": "1921-05-25",
-    "born": "1921",
-    "died": "2020",
-    "dates": "1921\u20132020",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jack-Steinberger-2008.JPG",
-    "bio": "German-American physicist, Nobel laureate (1921-2020)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Jack_Steinberger"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q153210"
-      }
-    ]
-  },
-  {
-    "qid": "Q6733",
-    "slug": "wikidata-q6733",
-    "name": "Edward Teller",
-    "birth_date": "1908-01-15",
-    "born": "1908",
-    "died": "2003",
-    "dates": "1908\u20132003",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/EdwardTeller1958.jpg",
-    "bio": "Hungarian-American Jewish nuclear physicist (1908\u20132003)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Edward_Teller"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q6733"
-      }
-    ]
-  },
-  {
-    "qid": "Q133846",
-    "slug": "wikidata-q133846",
-    "name": "George Paget Thomson",
-    "birth_date": "1892-05-03",
-    "born": "1892",
-    "died": "1975",
-    "dates": "1892\u20131975",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20Paget%20Thomson.jpg",
-    "bio": "English physicist (1892\u20131975)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/George_Paget_Thomson"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q133846"
-      }
-    ]
-  },
-  {
-    "qid": "Q529477",
-    "slug": "wikidata-q529477",
-    "name": "Margaret Eliza Maltby",
-    "birth_date": "1860-12-10",
-    "born": "1860",
-    "died": "1944",
-    "dates": "1860\u20131944",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SIA-SIA2008-5785%20%28retuschiert%29.jpg",
-    "bio": "American physicist (1860\u20131944)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Margaret_Eliza_Maltby"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q529477"
-      }
-    ]
-  },
-  {
-    "qid": "Q66885",
-    "slug": "wikidata-q66885",
-    "name": "Otto Lummer",
-    "birth_date": "1860-07-17",
-    "born": "1860",
-    "died": "1925",
-    "dates": "1860\u20131925",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Foto%2C%20Portr%C3%A4t%2C%20Otto%20Richard%20Lummer%20-%20Humboldt-Universit%C3%A4t%20zu%20Berlin.png",
-    "bio": "German physicist (1860\u20131925)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Otto_Lummer"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q66885"
-      }
-    ]
-  },
-  {
-    "qid": "Q78510",
-    "slug": "wikidata-q78510",
-    "name": "Walter Kohn",
-    "birth_date": "1923-03-09",
-    "born": "1923",
-    "died": "2016",
-    "dates": "1923\u20132016",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/WalterKohnGraz21042006%201.jpg",
-    "bio": "American physicist (1923\u20132016)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Walter_Kohn"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q78510"
-      }
-    ],
-    "contribution": "Notable work includes density functional theory."
-  },
-  {
-    "qid": "Q540176",
-    "slug": "wikidata-q540176",
-    "name": "Johann Georg Tralles",
-    "birth_date": "1763-10-15",
-    "born": "1763",
-    "died": "1822",
-    "dates": "1763\u20131822",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Johann-georg-tralles.jpg",
-    "bio": "German mathematician and physicist (1763-1822)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Johann_Georg_Tralles"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q540176"
-      }
-    ]
-  },
-  {
-    "qid": "Q67765",
-    "slug": "wikidata-q67765",
-    "name": "Manuel Cardona Castro",
-    "birth_date": "1934-09-07",
-    "born": "1934",
-    "died": "2014",
-    "dates": "1934\u20132014",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Manuel%20Cardona.jpg",
-    "bio": "Spanish physicist (1934\u20132014)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Manuel_Cardona"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q67765"
-      }
-    ]
-  },
-  {
-    "qid": "Q78503",
-    "slug": "wikidata-q78503",
-    "name": "Hermann Oberth",
-    "birth_date": "1894-06-25",
-    "born": "1894",
-    "died": "1989",
-    "dates": "1894\u20131989",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hermann%20Oberth%201950s.jpg",
-    "bio": "Austro-Hungarian-born German physicist and rocketry pioneer (1894-1989)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Hermann_Oberth"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q78503"
-      }
-    ]
-  },
-  {
-    "qid": "Q67020",
-    "slug": "wikidata-q67020",
-    "name": "Gustav Mie",
-    "birth_date": "1868-09-29",
-    "born": "1868",
-    "died": "1957",
-    "dates": "1868\u20131957",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/GustavMie.gif",
-    "bio": "German physicist (1868-1957)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Gustav_Mie"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q67020"
-      }
-    ]
-  },
-  {
-    "qid": "Q78318",
-    "slug": "wikidata-q78318",
-    "name": "Hajo Meyer",
-    "birth_date": "1924-08-12",
-    "born": "1924",
-    "died": "2014",
-    "dates": "1924\u20132014",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hajo%20Meyer%20-%202011.jpg",
-    "bio": "German-Dutch physicist and political activist",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Hajo_Meyer"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q78318"
-      }
-    ]
-  },
-  {
-    "qid": "Q547394",
-    "slug": "wikidata-q547394",
-    "name": "Robert Mills",
-    "birth_date": "1928-04-15",
-    "born": "1928",
-    "died": "1999",
-    "dates": "1928\u20131999",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Laurence%20Mills%20%28cropped%29.jpg",
-    "bio": "American physicist, co-author of the Yang-Mills theory",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Robert_Mills_(physicist)"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q547394"
-      }
-    ]
-  },
-  {
-    "qid": "Q7085",
-    "slug": "wikidata-q7085",
-    "name": "Niels Bohr",
-    "birth_date": "1885-10-07",
-    "born": "1885",
-    "died": "1962",
-    "dates": "1885\u20131962",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Niels%20Bohr.jpg",
-    "bio": "Danish physicist (1885\u20131962)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Niels_Bohr"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q7085"
-      }
-    ],
-    "contribution": "Notable work includes correspondence principle."
-  },
-  {
-    "qid": "Q78097",
-    "slug": "wikidata-q78097",
-    "name": "Heinrich Welker",
-    "birth_date": "1912-09-09",
-    "born": "1912",
-    "died": "1981",
-    "dates": "1912\u20131981",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Heinrich%20Welker.jpg",
-    "bio": "German quantum physicist (1912\u20131981)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Heinrich_Welker"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q78097"
-      }
-    ]
-  },
-  {
-    "qid": "Q78096",
-    "slug": "wikidata-q78096",
-    "name": "Carl Ramsauer",
-    "birth_date": "1879-02-06",
-    "born": "1879",
-    "died": "1955",
-    "dates": "1879\u20131955",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20102-05559%2C%20Carl%20Wilhelm%20Ramsauer.jpg",
-    "bio": "German physicist (1879\u20131955)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Carl_Ramsauer"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q78096"
-      }
-    ]
-  },
-  {
-    "qid": "Q132537",
-    "slug": "wikidata-q132537",
-    "name": "J. Robert Oppenheimer",
-    "birth_date": "1904-04-22",
-    "born": "1904",
-    "died": "1967",
-    "dates": "1904\u20131967",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Oppenheimer%20%28cropped%29.jpg",
-    "bio": "American theoretical physicist (1904\u20131967)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/J._Robert_Oppenheimer"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q132537"
-      }
-    ],
-    "contribution": "Notable work includes nuclear bomb."
-  },
-  {
-    "qid": "Q66527",
-    "slug": "wikidata-q66527",
-    "name": "August Toepler",
-    "birth_date": "1836-09-07",
-    "born": "1836",
-    "died": "1912",
-    "dates": "1836\u20131912",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DD-PhysikC-Toepler-Relief.jpg",
-    "bio": "German physicist (1836\u20131912)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/August_Toepler"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q66527"
-      }
-    ]
-  },
-  {
-    "qid": "Q529277",
-    "slug": "wikidata-q529277",
-    "name": "Renata Kallosh",
-    "birth_date": "1943-01-16",
-    "born": "1943",
-    "died": "",
-    "dates": "1943",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Renata%20Kallosh%202017.jpg",
-    "bio": "theoretical physicist",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Renata_Kallosh"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q529277"
-      }
-    ]
-  },
-  {
-    "qid": "Q67801",
-    "slug": "wikidata-q67801",
-    "name": "Ferdinand Kurlbaum",
-    "birth_date": "1857-10-04",
-    "born": "1857",
-    "died": "1927",
-    "dates": "1857\u20131927",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rudolf%20D%C3%BChrkoop%20-%20Ferdinand%20Kurlbaum%20%281907%29%20%28KTHzB.jpg",
-    "bio": "German physicist (1857-1927)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Ferdinand_Kurlbaum"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q67801"
-      }
-    ]
-  },
-  {
-    "qid": "Q541895",
-    "slug": "wikidata-q541895",
-    "name": "Marian Smoluchowski",
-    "birth_date": "1872-05-28",
-    "born": "1872",
-    "died": "1917",
-    "dates": "1872\u20131917",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marian%20Smoluchowski%20%28106197299%29%20%28cropped%29.jpg",
-    "bio": "Polish physicist (1872\u20131917)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Marian_Smoluchowski"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q541895"
-      }
-    ],
-    "contribution": "Notable work includes Einstein relation."
-  },
-  {
-    "qid": "Q78212",
-    "slug": "wikidata-q78212",
-    "name": "Wilhelm von Beetz",
-    "birth_date": "1822-03-27",
-    "born": "1822",
-    "died": "1886",
-    "dates": "1822\u20131886",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Beetz%20Wilhelm%20von%201a.jpg",
-    "bio": "German physicist (1822-1886)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Wilhelm_von_Beetz"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q78212"
-      }
-    ]
-  },
-  {
-    "qid": "Q7103",
-    "slug": "wikidata-q7103",
-    "name": "Sophie Germain",
-    "birth_date": "1776-04-01",
-    "born": "1776",
-    "died": "1831",
-    "dates": "1776\u20131831",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Germain%20-%20%C5%92uvres%20philosophiques%2C%201896%20%28Illustration%20page%204%29.jpg",
-    "bio": "French mathematician, physicist, and philosopher (1776-1831)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Sophie_Germain"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q7103"
-      }
-    ],
-    "contribution": "Notable work includes Sophie Germain's theorem."
-  },
-  {
-    "qid": "Q545142",
-    "slug": "wikidata-q545142",
-    "name": "Nima Arkani-Hamed",
-    "birth_date": "1972-04-05",
-    "born": "1972",
-    "died": "",
-    "dates": "1972",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nima%20Arkani-Hamed%20at%20Harvard.jpg",
-    "bio": "American-Canadian physicist",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Nima_Arkani-Hamed"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q545142"
-      }
-    ]
-  },
-  {
-    "qid": "Q133232",
-    "slug": "wikidata-q133232",
-    "name": "Gabriel Lippmann",
-    "birth_date": "1845-08-16",
-    "born": "1845",
-    "died": "1921",
-    "dates": "1845\u20131921",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gabriel%20Lippmann2.jpg",
-    "bio": "Luxembourgish physicist nationalized French (1845-1921)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Gabriel_Lippmann"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q133232"
-      }
-    ]
-  },
-  {
-    "qid": "Q537705",
-    "slug": "wikidata-q537705",
-    "name": "Milton S. Plesset",
-    "birth_date": "1908-02-07",
-    "born": "1908",
-    "died": "1991",
-    "dates": "1908\u20131991",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Plesset%2CMilton%201963%20Kopenhagen.jpg",
-    "bio": "American physicist (1908\u20131991)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Milton_S._Plesset"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q537705"
-      }
-    ]
-  },
-  {
-    "qid": "Q153201",
-    "slug": "wikidata-q153201",
-    "name": "John Robert Schrieffer",
-    "birth_date": "1931-05-31",
-    "born": "1931",
-    "died": "2019",
-    "dates": "1931\u20132019",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Robert%20Schrieffer%201972.jpg",
-    "bio": "American physicist (1931-2019)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/John_Robert_Schrieffer"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q153201"
-      }
-    ]
-  },
-  {
-    "qid": "Q79000",
-    "slug": "wikidata-q79000",
-    "name": "Pieter Zeeman",
-    "birth_date": "1865-05-25",
-    "born": "1865",
-    "died": "1943",
-    "dates": "1865\u20131943",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Zeeman.jpg",
-    "bio": "Dutch physicist (1865\u20131943)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Pieter_Zeeman"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q79000"
-      }
-    ],
-    "contribution": "Notable work includes Zeeman effect."
   },
   {
     "qid": "Q66308",
@@ -2485,6 +1592,50 @@
       {
         "title": "Wikidata record",
         "url": "http://www.wikidata.org/entity/Q66308"
+      }
+    ]
+  },
+  {
+    "qid": "Q73918",
+    "slug": "wikidata-q73918",
+    "name": "Gunther O. Hofmann",
+    "birth_date": "1957-05-22",
+    "born": "1957",
+    "died": "",
+    "dates": "1957",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gunther%20Olaf%20Hofmann%20%282009%29.jpg",
+    "bio": "German surgeon, biophysicist and professor",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Gunther_O._Hofmann"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q73918"
+      }
+    ]
+  },
+  {
+    "qid": "Q215965",
+    "slug": "wikidata-q215965",
+    "name": "Johann Tobias Mayer",
+    "birth_date": "1752-05-05",
+    "born": "1752",
+    "died": "1830",
+    "dates": "1752\u20131830",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Johann%20Tobias%20Mayer.png",
+    "bio": "German physicist",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Johann_Tobias_Mayer"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q215965"
       }
     ]
   },
@@ -2511,362 +1662,467 @@
     ]
   },
   {
-    "qid": "Q538399",
-    "slug": "wikidata-q538399",
-    "name": "Gerard K. O'Neill",
-    "birth_date": "1927-02-06",
-    "born": "1927",
-    "died": "1992",
-    "dates": "1927\u20131992",
+    "qid": "Q60429",
+    "slug": "wikidata-q60429",
+    "name": "Chandrasekhara Venkata Raman",
+    "birth_date": "1888-11-07",
+    "born": "1888",
+    "died": "1970",
+    "dates": "1888\u20131970",
     "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerard%20Kitchen%20ONeill.GIF",
-    "bio": "American physicist and futurologist (1927\u20131992)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20CV%20Raman.JPG",
+    "bio": "Indian physicist (1888\u20131970)",
     "citations": [
       {
         "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Gerard_K._O%27Neill"
+        "url": "https://en.wikipedia.org/wiki/C._V._Raman"
       },
       {
         "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q538399"
+        "url": "http://www.wikidata.org/entity/Q60429"
       }
     ],
-    "contribution": "Notable work includes The High Frontier: Human Colonies in Space."
+    "contribution": "Notable work includes Raman scattering."
   },
   {
-    "qid": "Q541652",
-    "slug": "wikidata-q541652",
-    "name": "Laura Bassi",
-    "birth_date": "1711-10-29",
-    "born": "1711",
-    "died": "1778",
-    "dates": "1711\u20131778",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Laura%20Bassi%20-%20Carlo%20Vandi.jpg",
-    "bio": "Italian physicist (1711-1778)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Laura_Bassi"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q541652"
-      }
-    ],
-    "contribution": "Notable work includes On air compression."
-  },
-  {
-    "qid": "Q546175",
-    "slug": "wikidata-q546175",
-    "name": "Gordon Gould",
-    "birth_date": "1920-07-17",
-    "born": "1920",
-    "died": "2005",
-    "dates": "1920\u20132005",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gordongould2%20%28cropped%29.JPG",
-    "bio": "American physicist and inventor (1920\u20132005)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Gordon_Gould"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q546175"
-      }
-    ]
-  },
-  {
-    "qid": "Q544659",
-    "slug": "wikidata-q544659",
-    "name": "Edward Leamington Nichols",
-    "birth_date": "1854-09-14",
-    "born": "1854",
-    "died": "1937",
-    "dates": "1854\u20131937",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Leamington%20Nichols.jpg",
-    "bio": "American physicist (1854\u20131937)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Edward_Leamington_Nichols"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q544659"
-      }
-    ]
-  },
-  {
-    "qid": "Q71022",
-    "slug": "wikidata-q71022",
-    "name": "Ernst Ruska",
-    "birth_date": "1906-12-25",
-    "born": "1906",
-    "died": "1988",
-    "dates": "1906\u20131988",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ernst%20Ruska%20Electron%20Microscope%20-%20Deutsches%20Museum%20-%20Munich-edit.jpg",
-    "bio": "German physicist (1906\u20131988)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Ernst_Ruska"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q71022"
-      }
-    ]
-  },
-  {
-    "qid": "Q148109",
-    "slug": "wikidata-q148109",
-    "name": "Subrahmanyan Chandrasekhar",
-    "birth_date": "1910-10-19",
-    "born": "1910",
-    "died": "1995",
-    "dates": "1910\u20131995",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Subrahmanyan%20Chandrasekhar.jpg",
-    "bio": "Indian-American astrophysicist",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q148109"
-      }
-    ],
-    "contribution": "Notable work includes Chandrasekhar limit."
-  },
-  {
-    "qid": "Q155907",
-    "slug": "wikidata-q155907",
-    "name": "Sir George Stokes, 1st Baronet",
-    "birth_date": "1819-08-13",
-    "born": "1819",
-    "died": "1903",
-    "dates": "1819\u20131903",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20Gabriel%20Stokes%2C%20ante%201903%20-%20Accademia%20delle%20Scienze%20di%20Torino%200155%20B.jpg",
-    "bio": "Irish mathematician and physicist (1819\u20131903)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Sir_George_Stokes,_1st_Baronet"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q155907"
-      }
-    ],
-    "contribution": "Notable work includes Stokes parameters."
-  },
-  {
-    "qid": "Q83297",
-    "slug": "wikidata-q83297",
-    "name": "John William Strutt",
-    "birth_date": "1842-11-12",
-    "born": "1842",
-    "died": "1919",
-    "dates": "1842\u20131919",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Strutt.jpg",
-    "bio": "English physicist (1842\u20131919)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/John_William_Strutt,_3rd_Baron_Rayleigh"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q83297"
-      }
-    ],
-    "contribution": "Notable work includes Rayleigh\u2013Jeans law."
-  },
-  {
-    "qid": "Q151833",
-    "slug": "wikidata-q151833",
-    "name": "Robert Brout",
-    "birth_date": "1928-06-14",
+    "qid": "Q234888",
+    "slug": "wikidata-q234888",
+    "name": "Vera Rubin",
+    "birth_date": "1928-07-23",
     "born": "1928",
-    "died": "2011",
-    "dates": "1928\u20132011",
+    "died": "2016",
+    "dates": "1928\u20132016",
     "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Brout.jpg",
-    "bio": "American physicist (1928-2011)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vera%20Rubin%20with%20antique%20globes.jpg",
+    "bio": "American astronomer and physicist (1928-2016)",
     "citations": [
       {
         "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Robert_Brout"
+        "url": "https://en.wikipedia.org/wiki/Vera_Rubin"
       },
       {
         "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q151833"
+        "url": "http://www.wikidata.org/entity/Q234888"
       }
     ]
   },
   {
-    "qid": "Q68510",
-    "slug": "wikidata-q68510",
-    "name": "Max Steenbeck",
-    "birth_date": "1904-03-21",
-    "born": "1904",
-    "died": "1981",
-    "dates": "1904\u20131981",
+    "qid": "Q218021",
+    "slug": "wikidata-q218021",
+    "name": "Ukichiro Nakaya",
+    "birth_date": "1900-07-04",
+    "born": "1900",
+    "died": "1962",
+    "dates": "1900\u20131962",
     "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20183-J0312-0025-001%2C%20Berlin%2C%2022.%20DDR-Staatsratsitzung.jpg",
-    "bio": "German physicist (1904\u20131981)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nakaya%20Ukichiro%20in%201946.jpg",
+    "bio": "Japanese physicist and science essayist known for his work in glaciology and low-temperature sciences (1900-1962)",
     "citations": [
       {
         "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Max_Steenbeck"
+        "url": "https://en.wikipedia.org/wiki/Ukichiro_Nakaya"
       },
       {
         "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q68510"
+        "url": "http://www.wikidata.org/entity/Q218021"
       }
     ]
   },
   {
-    "qid": "Q154345",
-    "slug": "wikidata-q154345",
-    "name": "Oliver Heaviside",
-    "birth_date": "1850-05-18",
-    "born": "1850",
-    "died": "1925",
-    "dates": "1850\u20131925",
+    "qid": "Q215479",
+    "slug": "wikidata-q215479",
+    "name": "Johann Schweigger",
+    "birth_date": "1779-04-08",
+    "born": "1779",
+    "died": "1857",
+    "dates": "1779\u20131857",
     "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Oliver%20Heaviside2.jpg",
-    "bio": "electrical engineer, mathematician and physicist (1850\u20131925)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Johann%20Salomo%20Christoph%20Schweigger.gif",
+    "bio": "German chemist, physicist, and professor",
     "citations": [
       {
         "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Oliver_Heaviside"
+        "url": "https://en.wikipedia.org/wiki/Johann_Schweigger"
       },
       {
         "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q154345"
+        "url": "http://www.wikidata.org/entity/Q215479"
+      }
+    ]
+  },
+  {
+    "qid": "Q68556",
+    "slug": "wikidata-q68556",
+    "name": "Heinrich Kayser",
+    "birth_date": "1817-01-01",
+    "born": "1817",
+    "died": "1910",
+    "dates": "1817\u20131910",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Heinrich%20Kayser.jpg",
+    "bio": "German physicist (1853\u20131940)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Heinrich_Kayser"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q68556"
+      }
+    ]
+  },
+  {
+    "qid": "Q91401",
+    "slug": "wikidata-q91401",
+    "name": "Martin Wagenschein",
+    "birth_date": "1896-12-03",
+    "born": "1896",
+    "died": "1988",
+    "dates": "1896\u20131988",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Wagenschein%201983%20in%20Darmstadt%20beim%20Lehrstueck%20Pascals%20Barometer%20%28Dieter%20Hermann%29.jpg",
+    "bio": "German physicist and educator (1896-1988)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Martin_Wagenschein"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q91401"
+      }
+    ]
+  },
+  {
+    "qid": "Q219982",
+    "slug": "wikidata-q219982",
+    "name": "Joseph Rotblat",
+    "birth_date": "1908-11-04",
+    "born": "1908",
+    "died": "2005",
+    "dates": "1908\u20132005",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Rotblat%20close-up%20%28cropped%29.jpg",
+    "bio": "Polish-born British-naturalised physicist",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Joseph_Rotblat"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q219982"
+      }
+    ]
+  },
+  {
+    "qid": "Q71013",
+    "slug": "wikidata-q71013",
+    "name": "Theodor W. H\u00e4nsch",
+    "birth_date": "1941-10-30",
+    "born": "1941",
+    "died": "",
+    "dates": "1941",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Theodor%20W%20Haensch.jpg",
+    "bio": "German physicist and nobel laureate (born 1941)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Theodor_W._H%C3%A4nsch"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q71013"
+      }
+    ]
+  },
+  {
+    "qid": "Q90579",
+    "slug": "wikidata-q90579",
+    "name": "Hans Heinrich Euler",
+    "birth_date": "1909-10-06",
+    "born": "1909",
+    "died": "1941",
+    "dates": "1909\u20131941",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Euler%2CHans%201937.jpg",
+    "bio": "German physicist (1909\u20131941)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Hans_Heinrich_Euler"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q90579"
+      }
+    ]
+  },
+  {
+    "qid": "Q67765",
+    "slug": "wikidata-q67765",
+    "name": "Manuel Cardona Castro",
+    "birth_date": "1934-09-07",
+    "born": "1934",
+    "died": "2014",
+    "dates": "1934\u20132014",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Manuel%20Cardona.jpg",
+    "bio": "Spanish physicist (1934\u20132014)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Manuel_Cardona"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q67765"
+      }
+    ]
+  },
+  {
+    "qid": "Q90587",
+    "slug": "wikidata-q90587",
+    "name": "Johann Nikuradse",
+    "birth_date": "1894-11-20",
+    "born": "1894",
+    "died": "1979",
+    "dates": "1894\u20131979",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nikuradse-1934.jpg",
+    "bio": "German physicist (1894\u20131979)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Johann_Nikuradse"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q90587"
+      }
+    ]
+  },
+  {
+    "qid": "Q675",
+    "slug": "wikidata-q675",
+    "name": "Andr\u00e9-Marie Amp\u00e8re",
+    "birth_date": "1775-01-20",
+    "born": "1775",
+    "died": "1836",
+    "dates": "1775\u20131836",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ampere%20portrait%20at%20the%20Musee%20Poleymieux.jpg",
+    "bio": "French physicist and mathematician (1775\u20131836)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Andr%C3%A9-Marie_Amp%C3%A8re"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q675"
       }
     ],
-    "contribution": "Notable work includes Kennelly-Heaviside layer."
+    "contribution": "Notable work includes Memoir on the Mathematical Theory of Electrodynamic Phenomena, Uniquely Deduced from Experience."
   },
   {
-    "qid": "Q153185",
-    "slug": "wikidata-q153185",
-    "name": "Joseph Louis Gay-Lussac",
-    "birth_date": "1778-12-06",
-    "born": "1778",
-    "died": "1850",
-    "dates": "1778\u20131850",
+    "qid": "Q71016",
+    "slug": "wikidata-q71016",
+    "name": "Herbert Kroemer",
+    "birth_date": "1928-08-25",
+    "born": "1928",
+    "died": "2024",
+    "dates": "1928\u20132024",
     "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gaylussac.jpg",
-    "bio": "French chemist and physicist (1778\u20131850)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Herbert%20Kroemer%20%28cropped%29.jpg",
+    "bio": "German-American physics (1928\u20132024)",
     "citations": [
       {
         "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Joseph_Louis_Gay-Lussac"
+        "url": "https://en.wikipedia.org/wiki/Herbert_Kroemer"
       },
       {
         "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q153185"
-      }
-    ],
-    "contribution": "Notable work includes Charles's law."
-  },
-  {
-    "qid": "Q7504",
-    "slug": "wikidata-q7504",
-    "name": "Ir\u00e8ne Joliot-Curie",
-    "birth_date": "1897-09-12",
-    "born": "1897",
-    "died": "1956",
-    "dates": "1897\u20131956",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joliot-curie.jpg",
-    "bio": "French chemist and physicist (1897\u20131956)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Ir%C3%A8ne_Joliot-Curie"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q7504"
+        "url": "http://www.wikidata.org/entity/Q71016"
       }
     ]
   },
   {
-    "qid": "Q68533",
-    "slug": "wikidata-q68533",
-    "name": "Arthur Korn",
-    "birth_date": "1870-05-20",
-    "born": "1870",
-    "died": "1945",
-    "dates": "1870\u20131945",
+    "qid": "Q67801",
+    "slug": "wikidata-q67801",
+    "name": "Ferdinand Kurlbaum",
+    "birth_date": "1857-10-04",
+    "born": "1857",
+    "died": "1927",
+    "dates": "1857\u20131927",
     "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arthur%20Korn.jpg",
-    "bio": "German physicist and mathematician (1870\u20131945)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rudolf%20D%C3%BChrkoop%20-%20Ferdinand%20Kurlbaum%20%281907%29%20%28KTHzB.jpg",
+    "bio": "German physicist (1857-1927)",
     "citations": [
       {
         "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Arthur_Korn"
+        "url": "https://en.wikipedia.org/wiki/Ferdinand_Kurlbaum"
       },
       {
         "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q68533"
+        "url": "http://www.wikidata.org/entity/Q67801"
       }
     ]
   },
   {
-    "qid": "Q544338",
-    "slug": "wikidata-q544338",
-    "name": "Ralph H. Fowler",
-    "birth_date": "1889-01-17",
-    "born": "1889",
-    "died": "1944",
-    "dates": "1889\u20131944",
+    "qid": "Q68976",
+    "slug": "wikidata-q68976",
+    "name": "Christian Gottlieb Kratzenstein",
+    "birth_date": "1723-01-30",
+    "born": "1723",
+    "died": "1795",
+    "dates": "1723\u20131795",
     "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ralph%20H.%20Fowler.jpg",
-    "bio": "English physicist (1889-1944)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Christian%20Gottlieb%20Kratzenstein.jpg",
+    "bio": "German physicist",
     "citations": [
       {
         "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Ralph_Fowler"
+        "url": "https://en.wikipedia.org/wiki/Christian_Gottlieb_Kratzenstein"
       },
       {
         "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q544338"
+        "url": "http://www.wikidata.org/entity/Q68976"
       }
-    ],
-    "contribution": "Notable work includes white dwarf."
+    ]
   },
   {
-    "qid": "Q550262",
-    "slug": "wikidata-q550262",
-    "name": "Galileo Ferraris",
-    "birth_date": "1847-10-30",
-    "born": "1847",
-    "died": "1897",
-    "dates": "1847\u20131897",
+    "qid": "Q233974",
+    "slug": "wikidata-q233974",
+    "name": "Jocelyn Bell Burnell",
+    "birth_date": "1943-07-15",
+    "born": "1943",
+    "died": "",
+    "dates": "1943",
     "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Galileo%20Ferraris.jpg",
-    "bio": "Italian engineer and physicist (1847-1897)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jocelyn%20Bell%20Burnell%20in%20Manchester%202026.MP.jpg",
+    "bio": "British astrophysicist (born 1943)",
     "citations": [
       {
         "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Galileo_Ferraris"
+        "url": "https://en.wikipedia.org/wiki/Jocelyn_Bell_Burnell"
       },
       {
         "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q550262"
+        "url": "http://www.wikidata.org/entity/Q233974"
+      }
+    ]
+  },
+  {
+    "qid": "Q71024",
+    "slug": "wikidata-q71024",
+    "name": "Klaus von Klitzing",
+    "birth_date": "1943-06-28",
+    "born": "1943",
+    "died": "",
+    "dates": "1943",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Klaus%20von%20Klitzing%202015.jpg",
+    "bio": "German physicist",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Klaus_von_Klitzing"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q71024"
+      }
+    ]
+  },
+  {
+    "qid": "Q233355",
+    "slug": "wikidata-q233355",
+    "name": "Robert S. Mulliken",
+    "birth_date": "1896-06-07",
+    "born": "1896",
+    "died": "1986",
+    "dates": "1896\u20131986",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mulliken%2CRobert%201929%20Chicago.jpg",
+    "bio": "American physicist, chemist and botanical collector (1896 - 1986)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Robert_S._Mulliken"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q233355"
+      }
+    ],
+    "contribution": "Notable work includes molecular orbital theory."
+  },
+  {
+    "qid": "Q91391",
+    "slug": "wikidata-q91391",
+    "name": "Erich Regener",
+    "birth_date": "1881-11-12",
+    "born": "1881",
+    "died": "1955",
+    "dates": "1881\u20131955",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Erich%20Regener.jpg",
+    "bio": "German physicist (1881-1955)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Erich_Regener"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q91391"
+      }
+    ]
+  },
+  {
+    "qid": "Q91169",
+    "slug": "wikidata-q91169",
+    "name": "Heinz Maier-Leibnitz",
+    "birth_date": "1911-03-28",
+    "born": "1911",
+    "died": "2000",
+    "dates": "1911\u20132000",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20B%20145%20Bild-F041738-0006%2C%20Prof.%20Heinz%20Maier-Leibnitz.jpg",
+    "bio": "German physicist (1911\u20132000)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Heinz_Maier-Leibnitz"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q91169"
+      }
+    ]
+  },
+  {
+    "qid": "Q90525",
+    "slug": "wikidata-q90525",
+    "name": "Salomon Kalischer",
+    "birth_date": "1845-10-08",
+    "born": "1845",
+    "died": "1924",
+    "dates": "1845\u20131924",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Salomon%20Kalischer.jpg",
+    "bio": "German physicist and composer (1845\u20131924)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Salomon_Kalischer"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q90525"
       }
     ]
   },
@@ -2893,227 +2149,69 @@
     ]
   },
   {
-    "qid": "Q71023",
-    "slug": "wikidata-q71023",
-    "name": "Alfred Kastler",
-    "birth_date": "1902-05-03",
-    "born": "1902",
-    "died": "1984",
-    "dates": "1902\u20131984",
+    "qid": "Q60579",
+    "slug": "wikidata-q60579",
+    "name": "Moritz von Jacobi",
+    "birth_date": "1801-09-21",
+    "born": "1801",
+    "died": "1874",
+    "dates": "1801\u20131874",
     "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kastler.jpg",
-    "bio": "French physicist (1902\u20131984)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Moritz%20Hermann%20von%20Jacobi%201856%20%281%29.jpg",
+    "bio": "German-Russian engineer and physicist (1801\u20131874)",
     "citations": [
       {
         "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Alfred_Kastler"
+        "url": "https://en.wikipedia.org/wiki/Moritz_von_Jacobi"
       },
       {
         "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q71023"
+        "url": "http://www.wikidata.org/entity/Q60579"
       }
     ],
-    "contribution": "Notable work includes optical pumping."
+    "contribution": "Notable work includes electric motor."
   },
   {
-    "qid": "Q7409",
-    "slug": "wikidata-q7409",
-    "name": "Hertha Sponer",
-    "birth_date": "1895-09-01",
-    "born": "1895",
-    "died": "1968",
-    "dates": "1895\u20131968",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hertha%20Sponer%201913.jpg",
-    "bio": "German physicist and chemist (1895\u20131968)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Hertha_Sponer"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q7409"
-      }
-    ],
-    "contribution": "Notable work includes Birge\u2013Sponer method."
-  },
-  {
-    "qid": "Q154325",
-    "slug": "wikidata-q154325",
-    "name": "Emil Lenz",
-    "birth_date": "1804-02-24",
-    "born": "1804",
-    "died": "1865",
-    "dates": "1804\u20131865",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Emil%20Lenz.jpg",
-    "bio": "Baltic German physicist (1804-1865)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Emil_Lenz"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q154325"
-      }
-    ],
-    "contribution": "Notable work includes Lenz's law."
-  },
-  {
-    "qid": "Q151861",
-    "slug": "wikidata-q151861",
-    "name": "Don L. Anderson",
-    "birth_date": "1933-03-05",
-    "born": "1933",
-    "died": "2014",
-    "dates": "1933\u20132014",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Don%20L.%20Anderson%20portrait%20photo.jpg",
-    "bio": "American geophysicist (1933-2014)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Don_L._Anderson"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q151861"
-      }
-    ]
-  },
-  {
-    "qid": "Q545097",
-    "slug": "wikidata-q545097",
-    "name": "Bryce DeWitt",
-    "birth_date": "1923-01-08",
-    "born": "1923",
+    "qid": "Q91062",
+    "slug": "wikidata-q91062",
+    "name": "Walter Masing",
+    "birth_date": "1915-06-09",
+    "born": "1915",
     "died": "2004",
-    "dates": "1923\u20132004",
+    "dates": "1915\u20132004",
     "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cecile%20DeWitt%20and%20Bryce%20DeWitt.png",
-    "bio": "American physicist (1923\u20132004)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Masing%2C%20Walter%20%281975%29.jpg",
+    "bio": "German physicist (1915-2004)",
     "citations": [
       {
         "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Bryce_DeWitt"
+        "url": "https://en.wikipedia.org/wiki/Walter_Masing"
       },
       {
         "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q545097"
+        "url": "http://www.wikidata.org/entity/Q91062"
       }
     ]
   },
   {
-    "qid": "Q80884",
-    "slug": "wikidata-q80884",
-    "name": "James Chadwick",
-    "birth_date": "1891-10-20",
-    "born": "1891",
-    "died": "1974",
-    "dates": "1891\u20131974",
+    "qid": "Q60815",
+    "slug": "wikidata-q60815",
+    "name": "Brian Greene",
+    "birth_date": "1963-02-09",
+    "born": "1963",
+    "died": "",
+    "dates": "1963",
     "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Chadwick.jpg",
-    "bio": "English physicist (1891-1974), who discovered the neutron in 1932",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Greene%2C%20February%2028%2C%202014%20%28cropped%29.jpg",
+    "bio": "American physicist",
     "citations": [
       {
         "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/James_Chadwick"
+        "url": "https://en.wikipedia.org/wiki/Brian_Greene"
       },
       {
         "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q80884"
-      }
-    ]
-  },
-  {
-    "qid": "Q550798",
-    "slug": "wikidata-q550798",
-    "name": "John Canton",
-    "birth_date": "1718-08-11",
-    "born": "1718",
-    "died": "1772",
-    "dates": "1718\u20131772",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Canton%20from%20NPG.jpg",
-    "bio": "British physicist",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/John_Canton"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q550798"
-      }
-    ]
-  },
-  {
-    "qid": "Q134085",
-    "slug": "wikidata-q134085",
-    "name": "Jean-Baptiste Perrin",
-    "birth_date": "1870-09-30",
-    "born": "1870",
-    "died": "1942",
-    "dates": "1870\u20131942",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Perrin%201926.jpg",
-    "bio": "French physicist (1870\u20131942)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Jean_Perrin"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q134085"
-      }
-    ],
-    "contribution": "Notable work includes Les Atomes."
-  },
-  {
-    "qid": "Q7286",
-    "slug": "wikidata-q7286",
-    "name": "\u00c9milie du Ch\u00e2telet",
-    "birth_date": "1706-12-17",
-    "born": "1706",
-    "died": "1749",
-    "dates": "1706\u20131749",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Tonnelier%20de%20Breteuil%2C%20Emilie.jpg",
-    "bio": "Era chin\u00e1 physicist, and author (1706-1749)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/%C3%89milie_du_Ch%C3%A2telet"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q7286"
-      }
-    ],
-    "contribution": "Notable work includes Institutions de Physique."
-  },
-  {
-    "qid": "Q552857",
-    "slug": "wikidata-q552857",
-    "name": "Jacques Babinet",
-    "birth_date": "1794-03-05",
-    "born": "1794",
-    "died": "1872",
-    "dates": "1794\u20131872",
-    "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20de%20Jacques%20Babinet%20%281794-1872%29%2C%20%28physicien%2C%20membre%20de%20l%27Institut%29%2C%20PH46675%20%281%20of%202%29.jpg",
-    "bio": "French physicist, mathematician and astronomer (1794\u20131872)",
-    "citations": [
-      {
-        "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Jacques_Babinet"
-      },
-      {
-        "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q552857"
+        "url": "http://www.wikidata.org/entity/Q60815"
       }
     ]
   },
@@ -3140,25 +2238,290 @@
     ]
   },
   {
-    "qid": "Q78520",
-    "slug": "wikidata-q78520",
-    "name": "Victor Francis Hess",
-    "birth_date": "1883-06-24",
-    "born": "1883",
-    "died": "1964",
-    "dates": "1883\u20131964",
+    "qid": "Q90352",
+    "slug": "wikidata-q90352",
+    "name": "Hertha Wambacher",
+    "birth_date": "1903-03-09",
+    "born": "1903",
+    "died": "1950",
+    "dates": "1903\u20131950",
     "field": "Physics",
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hess.jpg",
-    "bio": "Austrian physicist and Nobel prize laureate (1883-1964)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hertha-Wambacher.jpg",
+    "bio": "Austrian physicist (1903-1950)",
     "citations": [
       {
         "title": "Wikipedia biography",
-        "url": "https://en.wikipedia.org/wiki/Victor_Hess"
+        "url": "https://en.wikipedia.org/wiki/Hertha_Wambacher"
       },
       {
         "title": "Wikidata record",
-        "url": "http://www.wikidata.org/entity/Q78520"
+        "url": "http://www.wikidata.org/entity/Q90352"
       }
     ]
+  },
+  {
+    "qid": "Q241822",
+    "slug": "wikidata-q241822",
+    "name": "Marguerite Perey",
+    "birth_date": "1909-10-19",
+    "born": "1909",
+    "died": "1975",
+    "dates": "1909\u20131975",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marguerite%20Perey%20-%20portrait.jpg",
+    "bio": "French physicist (1909\u20131975)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Marguerite_Perey"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q241822"
+      }
+    ]
+  },
+  {
+    "qid": "Q223542",
+    "slug": "wikidata-q223542",
+    "name": "Allan McLeod Cormack",
+    "birth_date": "1924-02-23",
+    "born": "1924",
+    "died": "1998",
+    "dates": "1924\u20131998",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/34.%20Tagung%201984%20Mediziner%3B%20Verabschiedung%20H.-H.%20Kunckel%2C%20Allen%20Cormack%20-%20W134Nr.123006%20-%20Willy%20Pragher%20%28cropped%29.jpg",
+    "bio": "American physicist (1924-1998)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Allan_MacLeod_Cormack"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q223542"
+      }
+    ]
+  },
+  {
+    "qid": "Q75088",
+    "slug": "wikidata-q75088",
+    "name": "Johann Friedrich Benzenberg",
+    "birth_date": "1777-05-05",
+    "born": "1777",
+    "died": "1846",
+    "dates": "1777\u20131846",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Johann%20Friedrich%20Benzenberg.jpg",
+    "bio": "German physicist, astronomer, and university teacher (1777\u20131846)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Johann_Benzenberg"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q75088"
+      }
+    ]
+  },
+  {
+    "qid": "Q76474",
+    "slug": "wikidata-q76474",
+    "name": "Walther Bothe",
+    "birth_date": "1891-01-08",
+    "born": "1891",
+    "died": "1957",
+    "dates": "1891\u20131957",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bothe.jpg",
+    "bio": "German physicist, mathematician and chemist (1891\u20131957)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Walther_Bothe"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q76474"
+      }
+    ]
+  },
+  {
+    "qid": "Q61771",
+    "slug": "wikidata-q61771",
+    "name": "Emil Wiechert",
+    "birth_date": "1861-12-26",
+    "born": "1861",
+    "died": "1928",
+    "dates": "1861\u20131928",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Emil%20Wiechert.jpg",
+    "bio": "German geophysicist and seismologist (1861-1928)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Emil_Wiechert"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q61771"
+      }
+    ]
+  },
+  {
+    "qid": "Q90697",
+    "slug": "wikidata-q90697",
+    "name": "Georg Joos",
+    "birth_date": "1894-05-25",
+    "born": "1894",
+    "died": "1959",
+    "dates": "1894\u20131959",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/OMO%2022%207.jpg",
+    "bio": "German physicist (1894\u20131959)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Georg_Joos"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q90697"
+      }
+    ]
+  },
+  {
+    "qid": "Q70996",
+    "slug": "wikidata-q70996",
+    "name": "Georg von Arco",
+    "birth_date": "1869-08-30",
+    "born": "1869",
+    "died": "1940",
+    "dates": "1869\u20131940",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20102-12242%2C%20Georg%20Graf%20von%20Arco.jpg",
+    "bio": "German physicist (1869\u20131940)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Georg_von_Arco"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q70996"
+      }
+    ]
+  },
+  {
+    "qid": "Q70841",
+    "slug": "wikidata-q70841",
+    "name": "Winfried Otto Schumann",
+    "birth_date": "1888-05-20",
+    "born": "1888",
+    "died": "1974",
+    "dates": "1888\u20131974",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Winfried%20Otto%20Schumann.jpeg",
+    "bio": "German geophysicist (1888-1974)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Winfried_Otto_Schumann"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q70841"
+      }
+    ]
+  },
+  {
+    "qid": "Q76462",
+    "slug": "wikidata-q76462",
+    "name": "Wolfgang Ketterle",
+    "birth_date": "1957-10-21",
+    "born": "1957",
+    "died": "",
+    "dates": "1957",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ketterle.jpg",
+    "bio": "German physicist",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Wolfgang_Ketterle"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q76462"
+      }
+    ]
+  },
+  {
+    "qid": "Q91443",
+    "slug": "wikidata-q91443",
+    "name": "Rudolf Kippenhahn",
+    "birth_date": "1926-05-24",
+    "born": "1926",
+    "died": "2020",
+    "dates": "1926\u20132020",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rudolf%20Kippenhahn-1996%201.jpg",
+    "bio": "German astrophysicist (1926\u20132020)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Rudolf_Kippenhahn"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q91443"
+      }
+    ]
+  },
+  {
+    "qid": "Q76373",
+    "slug": "wikidata-q76373",
+    "name": "George E. Smith",
+    "birth_date": "1930-05-10",
+    "born": "1930",
+    "died": "2025",
+    "dates": "1930\u20132025",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nobel%20Prize%202009-Press%20Conference%20KVA-27.jpg",
+    "bio": "Nobel prize winning American physicist",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/George_E._Smith"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q76373"
+      }
+    ]
+  },
+  {
+    "qid": "Q76323",
+    "slug": "wikidata-q76323",
+    "name": "Alfred Wegener",
+    "birth_date": "1880-11-01",
+    "born": "1880",
+    "died": "1930",
+    "dates": "1880\u20131930",
+    "field": "Physics",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Wegener%20ca.1924-30.jpg",
+    "bio": "German climatologist and geophysicist (1880\u20131930)",
+    "citations": [
+      {
+        "title": "Wikipedia biography",
+        "url": "https://en.wikipedia.org/wiki/Alfred_Wegener"
+      },
+      {
+        "title": "Wikidata record",
+        "url": "http://www.wikidata.org/entity/Q76323"
+      }
+    ],
+    "contribution": "Notable work includes The Origin of continents and oceans."
   }
 ]
