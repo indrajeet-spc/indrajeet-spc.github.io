@@ -41,14 +41,63 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-10-29T07:27:54.693650+00:00",
+  "updated_at": "2026-10-30T07:30:53.143070+00:00",
   "items": [
+    {
+      "title": "NASA-funded Study Details One of Oldest Mars Meteorites Ever Found",
+      "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/",
+      "source": "NASA News",
+      "date": "29 Oct 2026",
+      "abstract": "When a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from. Not until NASA-funded scientists age-dated its minerals did they realize the nearly 2-pound (800-gram) rock was a piece of Mars that formed more than 4.1 billion years ago, making..."
+    },
+    {
+      "title": "Electrical guardrails for charge carriers: A new approach to harness graphene for solar cells",
+      "url": "https://phys.org/news/2026-10-electrical-guardrails-carriers-approach-harness.html",
+      "source": "Phys.org",
+      "date": "29 Oct 2026",
+      "abstract": "Graphene is a single layer of carbon atoms in which electrons can move with high mobility, making it promising for high-speed electronic components. Yet it is not very efficient at converting light into electricity. While light absorbed by graphene does excite electrons, leaving behind positively ch..."
+    },
+    {
+      "title": "How the quantum vacuum perturbs atoms, could shrink black holes and may have helped form galaxies",
+      "url": "https://phys.org/news/2026-10-quantum-vacuum-perturbs-atoms-black.html",
+      "source": "Phys.org",
+      "date": "29 Oct 2026",
+      "abstract": "The word \"vacuum\" may conjure the image of empty space. Maybe you think of a region far outside the solar system without planets, debris, gas clouds or light. According to quantum theory, however, a vacuum is never truly empty. Quantum mechanics extends the Heisenberg uncertainty principle\u2014which sta..."
+    },
+    {
+      "title": "Electrical signals reveal hidden magnetic information in altermagnets for first time",
+      "url": "https://phys.org/news/2026-10-electrical-reveal-hidden-magnetic-altermagnets.html",
+      "source": "Phys.org",
+      "date": "29 Oct 2026",
+      "abstract": "Researchers have experimentally demonstrated, for the first time, that it is possible to obtain from an altermagnet a spin current that can transport magnetic information. This result is supported by the theoretical model of electron transport developed by the CFM group. Altermagnets are a new class..."
+    },
     {
       "title": "Scientists just broke a textbook rule of physics",
       "url": "https://www.sciencedaily.com/releases/2026/10/261027063713.htm",
       "source": "ScienceDaily",
       "date": "29 Oct 2026",
       "abstract": "Scientists have defied a long-standing rule of laser physics by generating X-rays with much higher energies than conventional theory predicts. The surprising discovery reveals how two electrons working together can overcome a previously accepted limit, opening new possibilities for quantum research."
+    },
+    {
+      "title": "Even stupendous black holes can\u2019t explain dark matter",
+      "url": "https://www.nature.com/articles/d41586-026-03386-4",
+      "source": "Nature Journal",
+      "date": "29 Oct 2026",
+      "abstract": "Nature, Published online: 29 October 2026; doi:10.1038/d41586-026-03386-4 The theoretical objects would have left a larger imprint on cosmic radiation if they were a source of the invisible force pulling together the galaxies."
+    },
+    {
+      "title": "How the US mid-term elections could shake up science",
+      "url": "https://www.nature.com/articles/d41586-026-03479-0",
+      "source": "Nature Journal",
+      "date": "29 Oct 2026",
+      "abstract": "Nature, Published online: 29 October 2026; doi:10.1038/d41586-026-03479-0 A Democratic victory in Congress could halt the Trump administration\u2019s controversial grant-review plan and curb some of its funding actions."
+    },
+    {
+      "title": "A Caputo fractional physics-informed neural network for Lorenz chaotic systems",
+      "url": "https://www.nature.com/articles/s41598-026-71823-5",
+      "source": "Nature Physics",
+      "date": "29 Oct 2026",
+      "abstract": "Abstract unavailable. Open the full article for details."
     },
     {
       "title": "Slow-motion electron camera reveals light-driven quantum jumps in graphene",
@@ -77,55 +126,6 @@
       "source": "Phys.org",
       "date": "28 Oct 2026",
       "abstract": "When two objects touch and then separate, they can swap tiny amounts of electric charge, even if they are made from exactly the same material. This 'triboelectric effect' is the source of everyday static electricity, but it is still poorly understood in large samples of powder, where vast numbers of..."
-    },
-    {
-      "title": "Switchable Chlorine Atom Transfer Radical Reactions",
-      "url": "https://www.nature.com/articles/s41586-026-11348-z",
-      "source": "Nature Journal",
-      "date": "28 Oct 2026",
-      "abstract": "Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11348-z Switchable Chlorine Atom Transfer Radical Reactions"
-    },
-    {
-      "title": "Back-to-monomer depolymerization of silicones by deoxygenative chlorination",
-      "url": "https://www.nature.com/articles/s41586-026-11335-4",
-      "source": "Nature Journal",
-      "date": "28 Oct 2026",
-      "abstract": "Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11335-4 Back-to-monomer depolymerization of silicones by deoxygenative chlorination"
-    },
-    {
-      "title": "Why did ancient humans avoid this lush paradise",
-      "url": "https://www.nature.com/articles/d41586-026-03486-1",
-      "source": "Nature Journal",
-      "date": "28 Oct 2026",
-      "abstract": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03486-1 A new expedition into the Rub\u2019 al Khali desert finds no evidence of ancient human settlement."
-    },
-    {
-      "title": "This Arabian desert was once a lush paradise. Why did ancient humans avoid it?",
-      "url": "https://www.nature.com/articles/d41586-026-03484-3",
-      "source": "Nature Journal",
-      "date": "28 Oct 2026",
-      "abstract": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03484-3 Expedition revealed that water wasn\u2019t enough for human settlement \u2014 plus, proposals to block sunlight get serious."
-    },
-    {
-      "title": "Accounting of Africa\u2019s water reveals a management gap",
-      "url": "https://www.nature.com/articles/d41586-026-03260-3",
-      "source": "Nature Journal",
-      "date": "28 Oct 2026",
-      "abstract": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03260-3 A map of Africa\u2019s water demand reveals that the scarcity of water is only part of the problem facing the continent \u2014 management is a separate challenge."
-    },
-    {
-      "title": "The brain liquidates billions of mutant neurons around the time we\u2019re born",
-      "url": "https://www.nature.com/articles/d41586-026-03444-x",
-      "source": "Nature Journal",
-      "date": "28 Oct 2026",
-      "abstract": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03444-x Faulty neurons can contribute to various neurological conditions, but researchers have uncovered a system that might clean them up."
-    },
-    {
-      "title": "Tethered to stone: how rock and water availability shaped early desert occupation",
-      "url": "https://www.nature.com/articles/d41586-026-03263-0",
-      "source": "Nature Journal",
-      "date": "28 Oct 2026",
-      "abstract": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03263-0 Fresh water in deserts often points to sites with signs of early humans and stone tools. But, in Arabia\u2019s Rub\u2019 al Khali region, water alone does not predict occupation."
     }
   ]
 }
