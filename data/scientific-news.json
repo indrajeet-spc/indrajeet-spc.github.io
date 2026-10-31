@@ -41,14 +41,84 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-10-30T07:30:53.143070+00:00",
+  "updated_at": "2026-10-31T07:17:45.785847+00:00",
   "items": [
     {
-      "title": "NASA-funded Study Details One of Oldest Mars Meteorites Ever Found",
-      "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/",
+      "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
+      "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
       "source": "NASA News",
-      "date": "29 Oct 2026",
-      "abstract": "When a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from. Not until NASA-funded scientists age-dated its minerals did they realize the nearly 2-pound (800-gram) rock was a piece of Mars that formed more than 4.1 billion years ago, making..."
+      "date": "30 Oct 2026",
+      "abstract": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency\u2019s Hubble Space Telescope."
+    },
+    {
+      "title": "How a 'tropical' shortcut could help particle collider experiments",
+      "url": "https://phys.org/news/2026-10-tropical-shortcut-particle-collider.html",
+      "source": "Phys.org",
+      "date": "30 Oct 2026",
+      "abstract": "Particle accelerators are expensive. Not just to build or to run, but also to predict the outcome of measurements obtained from them."
+    },
+    {
+      "title": "Unusual quantum states in six-layer graphene offer clues to superconductivity",
+      "url": "https://phys.org/news/2026-10-unusual-quantum-states-layer-graphene.html",
+      "source": "Phys.org",
+      "date": "30 Oct 2026",
+      "abstract": "Graphene, a material consisting of a sheet of carbon atoms arranged in a honeycomb pattern, has proved promising for various technological applications. Materials in which several layers of graphene are stacked together can exhibit different advantageous properties."
+    },
+    {
+      "title": "Briefing Chat: Dog years: could longevity science extend your pets' lives?",
+      "url": "https://www.nature.com/articles/d41586-026-03553-7",
+      "source": "Nature Journal",
+      "date": "30 Oct 2026",
+      "abstract": "Nature, Published online: 30 October 2026; doi:10.1038/d41586-026-03553-7 Nature staff discuss the emerging field of pet longevity \u2014 plus, a researcher decides not to care about their student reviews. Are they wrong?"
+    },
+    {
+      "title": "Author Correction: Rh 3+ stabilized in KRh@MFI catalyses regioselective hydroformylation",
+      "url": "https://www.nature.com/articles/s41586-026-11337-2",
+      "source": "Nature Journal",
+      "date": "30 Oct 2026",
+      "abstract": "Nature, Published online: 30 October 2026; doi:10.1038/s41586-026-11337-2 Author Correction: Rh 3+ stabilized in KRh@MFI catalyses regioselective hydroformylation"
+    },
+    {
+      "title": "Patrick Stewart dies: how Captain Picard inspired today\u2019s science leaders",
+      "url": "https://www.nature.com/articles/d41586-026-03543-9",
+      "source": "Nature Journal",
+      "date": "30 Oct 2026",
+      "abstract": "Nature, Published online: 30 October 2026; doi:10.1038/d41586-026-03543-9 Researchers say his portrayal of the Star Trek character represented curiosity, thoughtfulness and an effort to understand others."
+    },
+    {
+      "title": "Somewhere over the transcontinental burrito tunnel",
+      "url": "https://www.nature.com/articles/d41586-026-03368-6",
+      "source": "Nature Journal",
+      "date": "30 Oct 2026",
+      "abstract": "Nature, Published online: 30 October 2026; doi:10.1038/d41586-026-03368-6 Pipe dreams."
+    },
+    {
+      "title": "I built the UK government\u2019s metascience unit \u2014 here\u2019s what countries need to know",
+      "url": "https://www.nature.com/articles/d41586-026-03502-4",
+      "source": "Nature Journal",
+      "date": "30 Oct 2026",
+      "abstract": "Nature, Published online: 30 October 2026; doi:10.1038/d41586-026-03502-4 To find evidence-backed ways to improve grant-funding processes, metascientists need freedom and money to experiment, as well as leaders who are willing to make change."
+    },
+    {
+      "title": "Record-breaking retraction: scholarly publisher pulls 1,400 conference papers on one day",
+      "url": "https://www.nature.com/articles/d41586-026-03455-8",
+      "source": "Nature Journal",
+      "date": "30 Oct 2026",
+      "abstract": "Nature, Published online: 30 October 2026; doi:10.1038/d41586-026-03455-8 Announcement by IEEE follows publication of a study showing the retracted papers are linked to paper mills."
+    },
+    {
+      "title": "Are dinosaur fossils hogging top journals? Analysis sparks debate over \u2018charismatic\u2019 finds",
+      "url": "https://www.nature.com/articles/d41586-026-03512-2",
+      "source": "Nature Journal",
+      "date": "30 Oct 2026",
+      "abstract": "Nature, Published online: 30 October 2026; doi:10.1038/d41586-026-03512-2 Fossils of dinosaurs, mammals and other glamorous species are over-represented in high-profile titles, suggests a study of thousands of palaeontology papers."
+    },
+    {
+      "title": "Ferroelectric-substrate coupling modulates hydrovoltaic droplet-induced electrical signals on graphene",
+      "url": "https://www.nature.com/articles/s41598-026-77181-6",
+      "source": "Nature Physics",
+      "date": "30 Oct 2026",
+      "abstract": "Abstract unavailable. Open the full article for details."
     },
     {
       "title": "Electrical guardrails for charge carriers: A new approach to harness graphene for solar cells",
@@ -56,76 +126,6 @@
       "source": "Phys.org",
       "date": "29 Oct 2026",
       "abstract": "Graphene is a single layer of carbon atoms in which electrons can move with high mobility, making it promising for high-speed electronic components. Yet it is not very efficient at converting light into electricity. While light absorbed by graphene does excite electrons, leaving behind positively ch..."
-    },
-    {
-      "title": "How the quantum vacuum perturbs atoms, could shrink black holes and may have helped form galaxies",
-      "url": "https://phys.org/news/2026-10-quantum-vacuum-perturbs-atoms-black.html",
-      "source": "Phys.org",
-      "date": "29 Oct 2026",
-      "abstract": "The word \"vacuum\" may conjure the image of empty space. Maybe you think of a region far outside the solar system without planets, debris, gas clouds or light. According to quantum theory, however, a vacuum is never truly empty. Quantum mechanics extends the Heisenberg uncertainty principle\u2014which sta..."
-    },
-    {
-      "title": "Electrical signals reveal hidden magnetic information in altermagnets for first time",
-      "url": "https://phys.org/news/2026-10-electrical-reveal-hidden-magnetic-altermagnets.html",
-      "source": "Phys.org",
-      "date": "29 Oct 2026",
-      "abstract": "Researchers have experimentally demonstrated, for the first time, that it is possible to obtain from an altermagnet a spin current that can transport magnetic information. This result is supported by the theoretical model of electron transport developed by the CFM group. Altermagnets are a new class..."
-    },
-    {
-      "title": "Scientists just broke a textbook rule of physics",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261027063713.htm",
-      "source": "ScienceDaily",
-      "date": "29 Oct 2026",
-      "abstract": "Scientists have defied a long-standing rule of laser physics by generating X-rays with much higher energies than conventional theory predicts. The surprising discovery reveals how two electrons working together can overcome a previously accepted limit, opening new possibilities for quantum research."
-    },
-    {
-      "title": "Even stupendous black holes can\u2019t explain dark matter",
-      "url": "https://www.nature.com/articles/d41586-026-03386-4",
-      "source": "Nature Journal",
-      "date": "29 Oct 2026",
-      "abstract": "Nature, Published online: 29 October 2026; doi:10.1038/d41586-026-03386-4 The theoretical objects would have left a larger imprint on cosmic radiation if they were a source of the invisible force pulling together the galaxies."
-    },
-    {
-      "title": "How the US mid-term elections could shake up science",
-      "url": "https://www.nature.com/articles/d41586-026-03479-0",
-      "source": "Nature Journal",
-      "date": "29 Oct 2026",
-      "abstract": "Nature, Published online: 29 October 2026; doi:10.1038/d41586-026-03479-0 A Democratic victory in Congress could halt the Trump administration\u2019s controversial grant-review plan and curb some of its funding actions."
-    },
-    {
-      "title": "A Caputo fractional physics-informed neural network for Lorenz chaotic systems",
-      "url": "https://www.nature.com/articles/s41598-026-71823-5",
-      "source": "Nature Physics",
-      "date": "29 Oct 2026",
-      "abstract": "Abstract unavailable. Open the full article for details."
-    },
-    {
-      "title": "Slow-motion electron camera reveals light-driven quantum jumps in graphene",
-      "url": "https://phys.org/news/2026-10-motion-electron-camera-reveals-driven.html",
-      "source": "Phys.org",
-      "date": "28 Oct 2026",
-      "abstract": "Using a new slow-motion electron camera, physicists from Regensburg, Marburg and J\u00fclich revealed how intense electric fields drive electrons in graphene, causing them to jump across energy gaps in a seemingly paradoxical manner. This was made possible by a novel combination of laser technology and e..."
-    },
-    {
-      "title": "Can gravitational fields break and reconnect? Einstein's equations suggest they can",
-      "url": "https://phys.org/news/2026-10-gravitational-fields-reconnect-einstein-equations.html",
-      "source": "Phys.org",
-      "date": "28 Oct 2026",
-      "abstract": "More than a century after Einstein first devised the equations that describe gravity, physicists are still finding new ways of interpreting them. Luca Comisso, an associate research scientist in Columbia University's departments of Astronomy and Physics and the Columbia Astrophysics Laboratory, and..."
-    },
-    {
-      "title": "Against all expectations, researchers control the magnetic core of a single atom",
-      "url": "https://phys.org/news/2026-10-magnetic-core-atom.html",
-      "source": "Phys.org",
-      "date": "28 Oct 2026",
-      "abstract": "Researchers at Delft University of Technology (the Netherlands) have succeeded in controlling the magnetism in the nucleus of a single atom with radio waves. This came as a surprise: until now, physicists believed that this nuclear spin could not be manipulated directly. The discovery could open up..."
-    },
-    {
-      "title": "Sound-levitated particles reveal how static charge builds up",
-      "url": "https://phys.org/news/2026-10-levitated-particles-reveal-static.html",
-      "source": "Phys.org",
-      "date": "28 Oct 2026",
-      "abstract": "When two objects touch and then separate, they can swap tiny amounts of electric charge, even if they are made from exactly the same material. This 'triboelectric effect' is the source of everyday static electricity, but it is still poorly understood in large samples of powder, where vast numbers of..."
     }
   ]
 }
