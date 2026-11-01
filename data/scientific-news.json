@@ -41,14 +41,28 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-10-31T07:17:45.785847+00:00",
+  "updated_at": "2026-11-01T07:51:17.890805+00:00",
   "items": [
     {
-      "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
-      "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
-      "source": "NASA News",
-      "date": "30 Oct 2026",
-      "abstract": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency\u2019s Hubble Space Telescope."
+      "title": "Four superconducting cables link two large quantum processors into one",
+      "url": "https://phys.org/news/2026-10-superconducting-cables-link-large-quantum.html",
+      "source": "Phys.org",
+      "date": "31 Oct 2026",
+      "abstract": "As quantum computers grow more ambitious, many researchers believe the best way forward is to build them in multiple interconnected parts. In these modular designs, separate quantum processors are linked so they can work together as one larger machine. For this to happen, however, connections must c..."
+    },
+    {
+      "title": "Scientists smash oxygen nuclei to recreate matter from the Big Bang",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261030002935.htm",
+      "source": "ScienceDaily",
+      "date": "31 Oct 2026",
+      "abstract": "Scientists have recreated a primordial state of matter from the dawn of the universe by colliding oxygen nuclei at nearly the speed of light. The surprising results show that this exotic substance can form in smaller, lower-energy collisions than previously demonstrated, challenging the known bounda..."
+    },
+    {
+      "title": "Frequency-dependent electrical characteristic reconstruction with physics-based evaluation for interface-state analysis in CeO\u2082NPs-doped GQD...",
+      "url": "https://www.nature.com/articles/s41598-026-75903-4",
+      "source": "Nature Physics",
+      "date": "31 Oct 2026",
+      "abstract": "Abstract unavailable. Open the full article for details."
     },
     {
       "title": "How a 'tropical' shortcut could help particle collider experiments",
@@ -112,20 +126,6 @@
       "source": "Nature Journal",
       "date": "30 Oct 2026",
       "abstract": "Nature, Published online: 30 October 2026; doi:10.1038/d41586-026-03512-2 Fossils of dinosaurs, mammals and other glamorous species are over-represented in high-profile titles, suggests a study of thousands of palaeontology papers."
-    },
-    {
-      "title": "Ferroelectric-substrate coupling modulates hydrovoltaic droplet-induced electrical signals on graphene",
-      "url": "https://www.nature.com/articles/s41598-026-77181-6",
-      "source": "Nature Physics",
-      "date": "30 Oct 2026",
-      "abstract": "Abstract unavailable. Open the full article for details."
-    },
-    {
-      "title": "Electrical guardrails for charge carriers: A new approach to harness graphene for solar cells",
-      "url": "https://phys.org/news/2026-10-electrical-guardrails-carriers-approach-harness.html",
-      "source": "Phys.org",
-      "date": "29 Oct 2026",
-      "abstract": "Graphene is a single layer of carbon atoms in which electrons can move with high mobility, making it promising for high-speed electronic components. Yet it is not very efficient at converting light into electricity. While light absorbed by graphene does excite electrons, leaving behind positively ch..."
     }
   ]
 }
