@@ -41,8 +41,15 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-11-01T07:51:17.890805+00:00",
+  "updated_at": "2026-11-02T07:57:02.909935+00:00",
   "items": [
+    {
+      "title": "Measles made a stealthy return as another virus took the spotlight",
+      "url": "https://www.nature.com/articles/d41586-026-03387-3",
+      "source": "Nature Journal",
+      "date": "02 Nov 2026",
+      "abstract": "Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03387-3 Vaccination rates dropped after the COVID-19 pandemic disrupted public-health programmes and their funding."
+    },
     {
       "title": "Four superconducting cables link two large quantum processors into one",
       "url": "https://phys.org/news/2026-10-superconducting-cables-link-large-quantum.html",
@@ -63,6 +70,13 @@
       "source": "Nature Physics",
       "date": "31 Oct 2026",
       "abstract": "Abstract unavailable. Open the full article for details."
+    },
+    {
+      "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
+      "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
+      "source": "NASA News",
+      "date": "30 Oct 2026",
+      "abstract": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency\u2019s Hubble Space Telescope."
     },
     {
       "title": "How a 'tropical' shortcut could help particle collider experiments",
@@ -112,20 +126,6 @@
       "source": "Nature Journal",
       "date": "30 Oct 2026",
       "abstract": "Nature, Published online: 30 October 2026; doi:10.1038/d41586-026-03502-4 To find evidence-backed ways to improve grant-funding processes, metascientists need freedom and money to experiment, as well as leaders who are willing to make change."
-    },
-    {
-      "title": "Record-breaking retraction: scholarly publisher pulls 1,400 conference papers on one day",
-      "url": "https://www.nature.com/articles/d41586-026-03455-8",
-      "source": "Nature Journal",
-      "date": "30 Oct 2026",
-      "abstract": "Nature, Published online: 30 October 2026; doi:10.1038/d41586-026-03455-8 Announcement by IEEE follows publication of a study showing the retracted papers are linked to paper mills."
-    },
-    {
-      "title": "Are dinosaur fossils hogging top journals? Analysis sparks debate over \u2018charismatic\u2019 finds",
-      "url": "https://www.nature.com/articles/d41586-026-03512-2",
-      "source": "Nature Journal",
-      "date": "30 Oct 2026",
-      "abstract": "Nature, Published online: 30 October 2026; doi:10.1038/d41586-026-03512-2 Fossils of dinosaurs, mammals and other glamorous species are over-represented in high-profile titles, suggests a study of thousands of palaeontology papers."
     }
   ]
 }
