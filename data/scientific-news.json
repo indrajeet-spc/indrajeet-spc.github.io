@@ -41,8 +41,36 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-11-02T07:57:02.909935+00:00",
+  "updated_at": "2026-11-03T08:17:24.032623+00:00",
   "items": [
+    {
+      "title": "Chinese PhD students in clinical medicine can graduate without a thesis \u2014 more degrees to follow",
+      "url": "https://www.nature.com/articles/d41586-026-03480-7",
+      "source": "Nature Journal",
+      "date": "03 Nov 2026",
+      "abstract": "Nature, Published online: 03 November 2026; doi:10.1038/d41586-026-03480-7 This expands the country's \u2018practical PhD\u2019 programme beyond engineering students."
+    },
+    {
+      "title": "NASA\u2019s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies",
+      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/",
+      "source": "NASA News",
+      "date": "02 Nov 2026",
+      "abstract": "NASA\u2019s Hubble studied 37 nearby dwarf galaxies and found that much of the oxygen they expected to see is missing."
+    },
+    {
+      "title": "Experiment supports theoretical foundation for potentially more error-resistant quantum computing",
+      "url": "https://phys.org/news/2026-11-theoretical-foundation-potentially-error-resistant.html",
+      "source": "Phys.org",
+      "date": "02 Nov 2026",
+      "abstract": "One approach to making information storage in quantum computing less prone to errors is known as topological quantum computing. It relies on special quantum states that are expected to be more resistant to local disturbances."
+    },
+    {
+      "title": "Author Correction: mTORC1 drives cell-autonomous astrocyte reactivity in tuberous sclerosis",
+      "url": "https://www.nature.com/articles/s41586-026-11350-5",
+      "source": "Nature Journal",
+      "date": "02 Nov 2026",
+      "abstract": "Nature, Published online: 02 November 2026; doi:10.1038/s41586-026-11350-5 Author Correction: mTORC1 drives cell-autonomous astrocyte reactivity in tuberous sclerosis"
+    },
     {
       "title": "Measles made a stealthy return as another virus took the spotlight",
       "url": "https://www.nature.com/articles/d41586-026-03387-3",
@@ -51,81 +79,53 @@
       "abstract": "Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03387-3 Vaccination rates dropped after the COVID-19 pandemic disrupted public-health programmes and their funding."
     },
     {
-      "title": "Four superconducting cables link two large quantum processors into one",
-      "url": "https://phys.org/news/2026-10-superconducting-cables-link-large-quantum.html",
-      "source": "Phys.org",
-      "date": "31 Oct 2026",
-      "abstract": "As quantum computers grow more ambitious, many researchers believe the best way forward is to build them in multiple interconnected parts. In these modular designs, separate quantum processors are linked so they can work together as one larger machine. For this to happen, however, connections must c..."
-    },
-    {
-      "title": "Scientists smash oxygen nuclei to recreate matter from the Big Bang",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261030002935.htm",
-      "source": "ScienceDaily",
-      "date": "31 Oct 2026",
-      "abstract": "Scientists have recreated a primordial state of matter from the dawn of the universe by colliding oxygen nuclei at nearly the speed of light. The surprising results show that this exotic substance can form in smaller, lower-energy collisions than previously demonstrated, challenging the known bounda..."
-    },
-    {
-      "title": "Frequency-dependent electrical characteristic reconstruction with physics-based evaluation for interface-state analysis in CeO\u2082NPs-doped GQD...",
-      "url": "https://www.nature.com/articles/s41598-026-75903-4",
-      "source": "Nature Physics",
-      "date": "31 Oct 2026",
-      "abstract": "Abstract unavailable. Open the full article for details."
-    },
-    {
-      "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
-      "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
-      "source": "NASA News",
-      "date": "30 Oct 2026",
-      "abstract": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency\u2019s Hubble Space Telescope."
-    },
-    {
-      "title": "How a 'tropical' shortcut could help particle collider experiments",
-      "url": "https://phys.org/news/2026-10-tropical-shortcut-particle-collider.html",
-      "source": "Phys.org",
-      "date": "30 Oct 2026",
-      "abstract": "Particle accelerators are expensive. Not just to build or to run, but also to predict the outcome of measurements obtained from them."
-    },
-    {
-      "title": "Unusual quantum states in six-layer graphene offer clues to superconductivity",
-      "url": "https://phys.org/news/2026-10-unusual-quantum-states-layer-graphene.html",
-      "source": "Phys.org",
-      "date": "30 Oct 2026",
-      "abstract": "Graphene, a material consisting of a sheet of carbon atoms arranged in a honeycomb pattern, has proved promising for various technological applications. Materials in which several layers of graphene are stacked together can exhibit different advantageous properties."
-    },
-    {
-      "title": "Briefing Chat: Dog years: could longevity science extend your pets' lives?",
-      "url": "https://www.nature.com/articles/d41586-026-03553-7",
+      "title": "Earth\u2019s resources sustain humanity \u2014 but they come at a high price",
+      "url": "https://www.nature.com/articles/d41586-026-03506-0",
       "source": "Nature Journal",
-      "date": "30 Oct 2026",
-      "abstract": "Nature, Published online: 30 October 2026; doi:10.1038/d41586-026-03553-7 Nature staff discuss the emerging field of pet longevity \u2014 plus, a researcher decides not to care about their student reviews. Are they wrong?"
+      "date": "02 Nov 2026",
+      "abstract": "Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03506-0 Two books explore the damage caused by our unsustainable extraction of raw materials."
     },
     {
-      "title": "Author Correction: Rh 3+ stabilized in KRh@MFI catalyses regioselective hydroformylation",
-      "url": "https://www.nature.com/articles/s41586-026-11337-2",
+      "title": "What tech entrepreneurs can teach scientists about failure",
+      "url": "https://www.nature.com/articles/d41586-026-03485-2",
       "source": "Nature Journal",
-      "date": "30 Oct 2026",
-      "abstract": "Nature, Published online: 30 October 2026; doi:10.1038/s41586-026-11337-2 Author Correction: Rh 3+ stabilized in KRh@MFI catalyses regioselective hydroformylation"
+      "date": "02 Nov 2026",
+      "abstract": "Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03485-2 Start-up founders routinely talk about their failed companies. Academia could learn from them, says Mary Ryan."
     },
     {
-      "title": "Patrick Stewart dies: how Captain Picard inspired today\u2019s science leaders",
-      "url": "https://www.nature.com/articles/d41586-026-03543-9",
+      "title": "Iranian scientists in the United States face major upheaval",
+      "url": "https://www.nature.com/articles/d41586-026-03346-y",
       "source": "Nature Journal",
-      "date": "30 Oct 2026",
-      "abstract": "Nature, Published online: 30 October 2026; doi:10.1038/d41586-026-03543-9 Researchers say his portrayal of the Star Trek character represented curiosity, thoughtfulness and an effort to understand others."
+      "date": "02 Nov 2026",
+      "abstract": "Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03346-y Pressures due to the continuing US\u2013Iran conflict are mounting as early-career researchers endure frozen immigration status, employment limbo and families caught in the war."
     },
     {
-      "title": "Somewhere over the transcontinental burrito tunnel",
-      "url": "https://www.nature.com/articles/d41586-026-03368-6",
+      "title": "Five overlooked steps to identify new epidemics, fast",
+      "url": "https://www.nature.com/articles/d41586-026-03509-x",
       "source": "Nature Journal",
-      "date": "30 Oct 2026",
-      "abstract": "Nature, Published online: 30 October 2026; doi:10.1038/d41586-026-03368-6 Pipe dreams."
+      "date": "02 Nov 2026",
+      "abstract": "Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03509-x Current measures to track emerging epidemics have a key limitation: they don\u2019t work if the disease causes unusual or unexpected symptoms."
     },
     {
-      "title": "I built the UK government\u2019s metascience unit \u2014 here\u2019s what countries need to know",
-      "url": "https://www.nature.com/articles/d41586-026-03502-4",
+      "title": "Meet Neuropixels: how probes that track hundreds of brain cells at once are revolutionizing neuroscience",
+      "url": "https://www.nature.com/articles/d41586-026-03511-3",
       "source": "Nature Journal",
-      "date": "30 Oct 2026",
-      "abstract": "Nature, Published online: 30 October 2026; doi:10.1038/d41586-026-03502-4 To find evidence-backed ways to improve grant-funding processes, metascientists need freedom and money to experiment, as well as leaders who are willing to make change."
+      "date": "02 Nov 2026",
+      "abstract": "Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03511-3 From rodents to humans, tools that enable large-scale, single-cell neuronal recordings are exposing the inner workings of the brain."
+    },
+    {
+      "title": "In Indonesia, PhD students blow the whistle on bad supervision",
+      "url": "https://www.nature.com/articles/d41586-026-02465-w",
+      "source": "Nature Journal",
+      "date": "02 Nov 2026",
+      "abstract": "Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-02465-w The nation plans to boost the number of doctoral candidates, but some early-career researchers warn of systemic challenges, including poor-quality supervision."
+    },
+    {
+      "title": "How researchers debunked \u2018race science\u2019: \u2018a triumph of scientific self-correction\u2019",
+      "url": "https://www.nature.com/articles/d41586-026-03507-z",
+      "source": "Nature Journal",
+      "date": "02 Nov 2026",
+      "abstract": "Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03507-z An account of how nineteenth-century studies aiming to find a biological basis for human races were dismantled by good scientific practices \u2014 although their effects are still felt today."
     }
   ]
 }
