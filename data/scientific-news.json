@@ -41,14 +41,70 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-11-05T08:12:04.910811+00:00",
+  "updated_at": "2026-11-06T08:15:21.559734+00:00",
   "items": [
+    {
+      "title": "Hubble Learns Galactic History From Stars",
+      "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/",
+      "source": "NASA News",
+      "date": "05 Nov 2026",
+      "abstract": "This Hubble image features the sparkling collection of stars named Messier 30 (M30), also called NGC 7099."
+    },
+    {
+      "title": "Pinning down the structure of quark-gluon plasma, the universe's first fluid",
+      "url": "https://phys.org/news/2026-11-pinning-quark-gluon-plasma-universe.html",
+      "source": "Phys.org",
+      "date": "05 Nov 2026",
+      "abstract": "In the first fraction of a second following the Big Bang, matter existed as a trillion-degree plasma of quarks and gluons\u2014subatomic particles that zinged around at close to the speed of light. This roiling soup lasted for just a few microseconds before the particles coalesced into more stable proton..."
+    },
+    {
+      "title": "How palm orientation shapes spin characteristics in volleyball jump serves",
+      "url": "https://phys.org/news/2026-11-palm-characteristics-volleyball.html",
+      "source": "Phys.org",
+      "date": "05 Nov 2026",
+      "abstract": "A new biomechanical study has uncovered how elite volleyball players control ball spin during jump serves, offering fresh scientific insight into one of the sport's most decisive offensive skills."
+    },
+    {
+      "title": "After 40 years of searching, physicists find evidence for an ultrarare particle decay",
+      "url": "https://phys.org/news/2026-11-years-physicists-evidence-ultrarare-particle.html",
+      "source": "Phys.org",
+      "date": "05 Nov 2026",
+      "abstract": "Physicists at CERN report that they've detected evidence of a rare meson particle decay (B\u2070\u2192 \u00b5\u207a\u00b5\u207b) that occurs when the meson's beauty quark annihilates with a down-type quark. The pair decays into a muon and antimuon, which are particles similar to electrons. Because evidence for this decay helps t..."
+    },
+    {
+      "title": "When Einstein's gravitational waves meet Newton's tides",
+      "url": "https://phys.org/news/2026-11-einstein-gravitational-newton-tides.html",
+      "source": "Phys.org",
+      "date": "05 Nov 2026",
+      "abstract": "Newton's theory of gravity has described the tides accurately for centuries. But could a tiny trace of Einstein's general relativity also be hidden in them? In a new study, a mathematician at Freie Universit\u00e4t Berlin has outlined how a targeted approach could be used to search for effects of this na..."
+    },
     {
       "title": "A new route to calculating gluon production in proton\u2013nucleus collisions",
       "url": "https://phys.org/news/2026-11-route-gluon-production-protonnucleus-collisions.html",
       "source": "Phys.org",
       "date": "05 Nov 2026",
       "abstract": "In the theoretical study of proton-nucleus collisions, the colliding projectiles can be described as streams of color charges moving along their respective trajectories. These color charges couple to gluons, which then produce the particles that are observed in the final state (gluons and quarks, wh..."
+    },
+    {
+      "title": "Opportunistically Detecting Signs of Hypertension on a Consumer Smartwatch",
+      "url": "https://www.nature.com/articles/s41586-026-11336-3",
+      "source": "Nature Journal",
+      "date": "05 Nov 2026",
+      "abstract": "Nature, Published online: 05 November 2026; doi:10.1038/s41586-026-11336-3 Opportunistically Detecting Signs of Hypertension on a Consumer Smartwatch"
+    },
+    {
+      "title": "Hydrogen Derivatives Enable Cost-Effective Carbon Neutrality in China",
+      "url": "https://www.nature.com/articles/s41586-026-11351-4",
+      "source": "Nature Journal",
+      "date": "05 Nov 2026",
+      "abstract": "Nature, Published online: 05 November 2026; doi:10.1038/s41586-026-11351-4 Hydrogen Derivatives Enable Cost-Effective Carbon Neutrality in China"
+    },
+    {
+      "title": "The surprising reason women in academia do more parenting than men",
+      "url": "https://www.nature.com/articles/d41586-026-03568-0",
+      "source": "Nature Journal",
+      "date": "05 Nov 2026",
+      "abstract": "Nature, Published online: 05 November 2026; doi:10.1038/d41586-026-03568-0 Policies designed to keep women in the workforce could be entrenching gendered parenting roles."
     },
     {
       "title": "New research uncovers chiral topological phases in metals without structural order",
@@ -70,62 +126,6 @@
       "source": "Phys.org",
       "date": "04 Nov 2026",
       "abstract": "Are the laws of physics truly the same everywhere in the universe? This fundamental principle, known as Lorentz invariance, lies at the heart of Einstein's theory of relativity. Yet some theories that seek to reconcile gravity with quantum physics suggest that it might not always hold. To investigat..."
-    },
-    {
-      "title": "Spider snooze stages",
-      "url": "https://www.nature.com/articles/d41586-026-03487-0",
-      "source": "Nature Journal",
-      "date": "04 Nov 2026",
-      "abstract": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03487-0 How similar are vertebrate and invertebrate sleeping behaviours? An analysis of spiders offers insights about how sleep evolved."
-    },
-    {
-      "title": "Why not to wait even a few minutes before fleeing a tsunami",
-      "url": "https://www.nature.com/articles/d41586-026-03539-5",
-      "source": "Nature Journal",
-      "date": "04 Nov 2026",
-      "abstract": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03539-5 Simulation shows that hesitating can be the difference between making it to safety and not."
-    },
-    {
-      "title": "Toothbrush zaps bacteria with electricity made when bristles move",
-      "url": "https://www.nature.com/articles/d41586-026-03586-y",
-      "source": "Nature Journal",
-      "date": "04 Nov 2026",
-      "abstract": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03586-y Innovative polymer could give the manual toothbrush its first radical redesign in more than 1,000 years."
-    },
-    {
-      "title": "First-of-its-kind planetary wreckage holds clues to our Solar System\u2019s fate",
-      "url": "https://www.nature.com/articles/d41586-026-03537-7",
-      "source": "Nature Journal",
-      "date": "04 Nov 2026",
-      "abstract": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03537-7 Astronomers spot an unprecedented double disk of debris around a dead star."
-    },
-    {
-      "title": "A guide to Nature Index tables",
-      "url": "https://www.nature.com/articles/d41586-026-03344-0",
-      "source": "Nature Journal",
-      "date": "04 Nov 2026",
-      "abstract": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03344-0 Information on the methodology used in the ranking for the 2026 Nature Spotlight: Neuroscience."
-    },
-    {
-      "title": "Ancient DNA charts spread of Celtic and Germanic languages",
-      "url": "https://www.nature.com/articles/d41586-026-03582-2",
-      "source": "Nature Journal",
-      "date": "04 Nov 2026",
-      "abstract": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03582-2 Genomes from thousands of ancient individuals show how migrations helped shape Celtic and Germanic languages \u2014 plus, how the brain may regulate emotions differently than we thought."
-    },
-    {
-      "title": "Carbon radical generation by irreversible metal-to-ligand charge transfer",
-      "url": "https://www.nature.com/articles/s41586-026-11368-9",
-      "source": "Nature Journal",
-      "date": "04 Nov 2026",
-      "abstract": "Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11368-9 Carbon radical generation by irreversible metal-to-ligand charge transfer"
-    },
-    {
-      "title": "Parkinson\u2019s: beyond the brain",
-      "url": "https://www.nature.com/articles/d41586-026-03173-1",
-      "source": "Nature Journal",
-      "date": "04 Nov 2026",
-      "abstract": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03173-1 Parkinson\u2019s disease might develop in the gut before reaching the brain, and the environment could have a crucial role in triggering the disease."
     }
   ]
 }
