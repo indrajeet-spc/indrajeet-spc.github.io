@@ -41,8 +41,22 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-11-07T07:31:54.133529+00:00",
+  "updated_at": "2026-11-08T07:43:10.363572+00:00",
   "items": [
+    {
+      "title": "Two paths, one flux: Trapped ions simulate Aharonov\u2013Bohm interference in a lattice gauge theory",
+      "url": "https://phys.org/news/2026-11-paths-flux-ions-simulate-aharonovbohm.html",
+      "source": "Phys.org",
+      "date": "07 Nov 2026",
+      "abstract": "In a new Nature Physics study, researchers demonstrated the Aharonov-Bohm effect in a quantum simulation of a lattice gauge theory using a hybrid trapped-ion quantum computer."
+    },
+    {
+      "title": "Fractional quantum Hall states and oscillatory Landau charge squeezing in Bernal tetralayer graphene",
+      "url": "https://www.nature.com/articles/s41467-026-79149-6",
+      "source": "Nature Physics",
+      "date": "07 Nov 2026",
+      "abstract": "Abstract unavailable. Open the full article for details."
+    },
     {
       "title": "Quantum gas microscope reveals individual atoms in first tunable three-component Hubbard system",
       "url": "https://phys.org/news/2026-11-quantum-gas-microscope-reveals-individual.html",
@@ -112,20 +126,6 @@
       "source": "Nature Journal",
       "date": "06 Nov 2026",
       "abstract": "Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03622-x Artificial intelligence could take the field into new territory, but researchers must create the rules and institutions that keep humans at its centre."
-    },
-    {
-      "title": "ESC (DC) 2",
-      "url": "https://www.nature.com/articles/d41586-026-03450-z",
-      "source": "Nature Journal",
-      "date": "06 Nov 2026",
-      "abstract": "Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03450-z Security issues."
-    },
-    {
-      "title": "The palaeo cave art that hid in plain sight for 26,000 years",
-      "url": "https://www.nature.com/articles/d41586-026-03585-z",
-      "source": "Nature Journal",
-      "date": "06 Nov 2026",
-      "abstract": "Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03585-z Hundreds of engravings were spotted in a widely visited cave \u2014 some include signs of animation."
     }
   ]
 }
