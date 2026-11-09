@@ -41,8 +41,29 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-11-08T07:43:10.363572+00:00",
+  "updated_at": "2026-11-09T08:23:39.669895+00:00",
   "items": [
+    {
+      "title": "COP31 kicks off as planet faces imminent overshoot of 1.5\u00b0C climate target",
+      "url": "https://www.nature.com/articles/d41586-026-03631-w",
+      "source": "Nature Journal",
+      "date": "09 Nov 2026",
+      "abstract": "Nature, Published online: 09 November 2026; doi:10.1038/d41586-026-03631-w Scientists say governments must commit to carbon dioxide removal if world is to bring temperatures back down to safer limits."
+    },
+    {
+      "title": "High-accuracy graphene quantum Hall array resistance standards based on wye-delta transformation",
+      "url": "https://www.nature.com/articles/s41699-026-00749-3",
+      "source": "Nature Physics",
+      "date": "09 Nov 2026",
+      "abstract": "Abstract unavailable. Open the full article for details."
+    },
+    {
+      "title": "Thermal transport and crystallisation in octadecane composites with porous framework coatings and graphene",
+      "url": "https://www.nature.com/articles/s41598-026-78034-y",
+      "source": "Nature Physics",
+      "date": "08 Nov 2026",
+      "abstract": "Abstract unavailable. Open the full article for details."
+    },
     {
       "title": "Two paths, one flux: Trapped ions simulate Aharonov\u2013Bohm interference in a lattice gauge theory",
       "url": "https://phys.org/news/2026-11-paths-flux-ions-simulate-aharonovbohm.html",
@@ -105,27 +126,6 @@
       "source": "Nature Journal",
       "date": "06 Nov 2026",
       "abstract": "Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03442-z A reviewer can earn US$200 through XSci\u2019s scheme if they deliver their work within five days."
-    },
-    {
-      "title": "In Vivo CRISPR Base Editing of ANGPTL3 for Durable Lipid Lowering",
-      "url": "https://www.nature.com/articles/s41586-026-11233-9",
-      "source": "Nature Journal",
-      "date": "06 Nov 2026",
-      "abstract": "Nature, Published online: 06 November 2026; doi:10.1038/s41586-026-11233-9 In Vivo CRISPR Base Editing of ANGPTL3 for Durable Lipid Lowering"
-    },
-    {
-      "title": "These AI agents design your perfect robot-powered lab \u2014 and run it for you",
-      "url": "https://www.nature.com/articles/d41586-026-03587-x",
-      "source": "Nature Journal",
-      "date": "06 Nov 2026",
-      "abstract": "Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03587-x A team of artificial-intelligence agents simulates a laboratory of robots and instruments to ensure that the physical workspace functions smoothly and then directs that workspace\u2019s operations."
-    },
-    {
-      "title": "\u2018Mathematics is more than a mechanical process\u2019 \u2014 why I think the field will survive OpenAI\u2019s disruption",
-      "url": "https://www.nature.com/articles/d41586-026-03622-x",
-      "source": "Nature Journal",
-      "date": "06 Nov 2026",
-      "abstract": "Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03622-x Artificial intelligence could take the field into new territory, but researchers must create the rules and institutions that keep humans at its centre."
     }
   ]
 }
