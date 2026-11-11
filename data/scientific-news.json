@@ -41,8 +41,43 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-11-10T08:39:43.800843+00:00",
+  "updated_at": "2026-11-11T07:59:54.882584+00:00",
   "items": [
+    {
+      "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
+      "source": "NASA News",
+      "date": "10 Nov 2026",
+      "abstract": "Launched nearly 50 years ago in 1977, NASA\u2019s Voyager 1 on Wednesday, Nov. 18 will have traveled one light-day from Earth, which is more than 16 billion miles (25.9 billion kilometers). Voyager 1 is the most distant human-made object, and any light from Earth would take 24 hours to reach the spacecra..."
+    },
+    {
+      "title": "Repeatable laser measurements reveal 'forbidden' vibrations in single molecules without destroying them",
+      "url": "https://phys.org/news/2026-11-laser-reveal-forbidden-vibrations-molecules.html",
+      "source": "Phys.org",
+      "date": "10 Nov 2026",
+      "abstract": "The possibility of controlling \"forbidden\" excitations of vibrations in molecules could form the basis of extremely accurate clocks, quantum bits and precise tests of the fundamental laws of physics. Researchers at the University of Basel have now identified and controlled such \"forbidden\" transitio..."
+    },
+    {
+      "title": "LHC collaboration presents first result in the hunt for 'quirks'",
+      "url": "https://phys.org/news/2026-11-lhc-collaboration-result-quirks.html",
+      "source": "Phys.org",
+      "date": "10 Nov 2026",
+      "abstract": "An international collaboration of physicists has presented its first results in its search for hypothetical particles that could help to explain the vast disparity between the strength of gravity and the three fundamental forces described by the Standard Model. Following three years of data collecti..."
+    },
+    {
+      "title": "World's most sensitive lab-based axion search presents its first results",
+      "url": "https://phys.org/news/2026-11-world-sensitive-lab-based-axion.html",
+      "source": "Phys.org",
+      "date": "10 Nov 2026",
+      "abstract": "Physicists at the ALPS II collaboration have reported the first results from the Any-Light-Particle-Search (ALPS) II experiment: the most sensitive instrument of its kind in the search for hypothetical \"axions.\" Headed by Axel Lindner at the DESY Research Centre in Germany, the collaboration found n..."
+    },
+    {
+      "title": "Quantum could solve AI energy drain, says tech founder",
+      "url": "https://phys.org/news/2026-11-quantum-ai-energy-tech-founder.html",
+      "source": "Phys.org",
+      "date": "10 Nov 2026",
+      "abstract": "Quantum computers could curb the vast energy demands of artificial intelligence data centers with their ability to run complex calculations, one of the tech's pioneers told AFP."
+    },
     {
       "title": "Light-pulse pairs reveal the femtosecond decay of an inner-shell hole in xenon atoms",
       "url": "https://phys.org/news/2026-11-pulse-pairs-reveal-femtosecond-decay.html",
@@ -51,81 +86,46 @@
       "abstract": "Researchers at the UVSOR Synchrotron Facility (Institute for Molecular Science, Japan) and partner institutions have observed the decay of a xenon 4d core hole, an inner-shell vacancy, directly in the time domain. They used pairs of phase-coherent extreme ultraviolet pulses from a synchrotron to mak..."
     },
     {
-      "title": "NASA\u2019s Chandra Finds Source of Star\u2019s Mysterious Outbursts",
-      "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/",
-      "source": "NASA News",
-      "date": "09 Nov 2026",
-      "abstract": "Using NASA\u2019s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star. A new study, published Monday in the latest issue of The Astrophysical Journal, details the discovery of a previously hidden companion object that keeps pulling mate..."
-    },
-    {
-      "title": "Quantum interference keeps two atoms bound despite enough energy to break apart",
-      "url": "https://phys.org/news/2026-11-quantum-atoms-bound-energy.html",
-      "source": "Phys.org",
-      "date": "09 Nov 2026",
-      "abstract": "How can something remain intact when it should naturally break apart? This question has been addressed by researchers at RPTU. Their work has led to the experimental observation of an unusual quantum state in which two atoms remain bound together even though they possess enough energy to separate. T..."
-    },
-    {
-      "title": "The fastest levitated spinning magnet ever made might help physicists search for dark matter",
-      "url": "https://phys.org/news/2026-11-fastest-levitated-magnet-physicists-dark.html",
-      "source": "Phys.org",
-      "date": "09 Nov 2026",
-      "abstract": "Tiny levitated magnets are able to avoid contact friction, making them useful for detecting extremely weak forces and magnetic fields and acting as ultralow-noise quantum sensors and precision measurement tools. Combining levitation with extreme cold further reduces unwanted motion that can make fai..."
-    },
-    {
-      "title": "He spent a year on \u2018Mars\u2019: NASA science officer emerges from mock mission",
-      "url": "https://www.nature.com/articles/d41586-026-03588-w",
+      "title": "PhD funding mechanisms should protect the right to disagree with supervisors",
+      "url": "https://www.nature.com/articles/d41586-026-03645-4",
       "source": "Nature Journal",
-      "date": "09 Nov 2026",
-      "abstract": "Nature, Published online: 09 November 2026; doi:10.1038/d41586-026-03588-w Engineer Matthew Montgomery, who just finished a 378-day simulated Mars mission, talks about what it was like to be out of contact with the rest of humanity for a two-week blackout."
+      "date": "10 Nov 2026",
+      "abstract": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03645-4 PhD funding mechanisms should protect the right to disagree with supervisors"
     },
     {
-      "title": "The super El Ni\u00f1o is more than a climate shock \u2013 it\u2019s a health one, too",
-      "url": "https://www.nature.com/articles/d41586-026-03628-5",
+      "title": "A practically perfect plesiosaur",
+      "url": "https://www.nature.com/articles/d41586-026-03278-7",
       "source": "Nature Journal",
-      "date": "09 Nov 2026",
-      "abstract": "Nature, Published online: 09 November 2026; doi:10.1038/d41586-026-03628-5 Food shortages and disease outbreaks are to be expected and need to be addressed together."
+      "date": "10 Nov 2026",
+      "abstract": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03278-7 A very well preserved ancient marine reptile and a Latin poem that describes an optical phenomenon, in this week\u2019s pick from the Nature archive."
     },
     {
-      "title": "How to make failure your friend and teacher in science",
-      "url": "https://www.nature.com/articles/d41586-026-03654-3",
+      "title": "Chile\u2019s postdoc rules risk driving talent away",
+      "url": "https://www.nature.com/articles/d41586-026-03643-6",
       "source": "Nature Journal",
-      "date": "09 Nov 2026",
-      "abstract": "Nature, Published online: 09 November 2026; doi:10.1038/d41586-026-03654-3 Apprentices develop expertise after doing monotonous tasks repeatedly and learning from their mistakes. Scientists are no different, argues Ruth Morgan."
+      "date": "10 Nov 2026",
+      "abstract": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03643-6 Chile\u2019s postdoc rules risk driving talent away"
     },
     {
-      "title": "Carlo Rovelli says fundamental physics is overrated",
-      "url": "https://www.nature.com/articles/d41586-026-03626-7",
+      "title": "Students need AI-free spaces to learn core skills",
+      "url": "https://www.nature.com/articles/d41586-026-03644-5",
       "source": "Nature Journal",
-      "date": "09 Nov 2026",
-      "abstract": "Nature, Published online: 09 November 2026; doi:10.1038/d41586-026-03626-7 The theoretical physicist unpacks the need for more humility in science and whether artificial intelligence could ever become conscious."
+      "date": "10 Nov 2026",
+      "abstract": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03644-5 Students need AI-free spaces to learn core skills"
     },
     {
-      "title": "COP31 kicks off as planet faces imminent overshoot of 1.5 \u00b0C climate target",
-      "url": "https://www.nature.com/articles/d41586-026-03631-w",
+      "title": "Why your physics project needs an anthropologist",
+      "url": "https://www.nature.com/articles/d41586-026-03623-w",
       "source": "Nature Journal",
-      "date": "09 Nov 2026",
-      "abstract": "Nature, Published online: 09 November 2026; doi:10.1038/d41586-026-03631-w Scientists say governments must commit to carbon dioxide removal if world is to bring temperatures back down to safer limits."
+      "date": "10 Nov 2026",
+      "abstract": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03623-w Picking a site for an observatory should be about more than science. Humanities scholars have a crucial role in responsible siting."
     },
     {
-      "title": "Author Correction: Histone H3 trimethylation at lysine 36 guides m 6 A RNA modification co-transcriptionally",
-      "url": "https://www.nature.com/articles/s41586-026-11375-w",
+      "title": "California votes to give record $8.4 billion to medical research",
+      "url": "https://www.nature.com/articles/d41586-026-03635-6",
       "source": "Nature Journal",
-      "date": "09 Nov 2026",
-      "abstract": "Nature, Published online: 09 November 2026; doi:10.1038/s41586-026-11375-w Author Correction: Histone H3 trimethylation at lysine 36 guides m 6 A RNA modification co-transcriptionally"
-    },
-    {
-      "title": "AI has transformed maths \u2014 this is how we got here",
-      "url": "https://www.nature.com/articles/d41586-026-03627-6",
-      "source": "Nature Journal",
-      "date": "09 Nov 2026",
-      "abstract": "Nature, Published online: 09 November 2026; doi:10.1038/d41586-026-03627-6 The story of how maths came to run the world, and created the artificial-intelligence models that might surpass human mathematicians."
-    },
-    {
-      "title": "How academic freedom is changing around the world \u2014 by the numbers",
-      "url": "https://www.nature.com/articles/d41586-026-02998-0",
-      "source": "Nature Journal",
-      "date": "09 Nov 2026",
-      "abstract": "Nature, Published online: 09 November 2026; doi:10.1038/d41586-026-02998-0 Nature reports on five countries where academic freedom has either plummeted or soared in recent years."
+      "date": "10 Nov 2026",
+      "abstract": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03635-6 The cash infusion, earmarked for immunology studies, is the largest ever for science authorized by a US public vote \u2014 but it has drawn criticism."
     }
   ]
 }
