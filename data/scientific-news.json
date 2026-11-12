@@ -41,91 +41,91 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-11-11T07:59:54.882584+00:00",
+  "updated_at": "2026-11-12T08:39:23.095709+00:00",
   "items": [
     {
-      "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
+      "title": "Curiosity Blog, Sols 5063-5069 Rocks and Chips",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/",
       "source": "NASA News",
-      "date": "10 Nov 2026",
-      "abstract": "Launched nearly 50 years ago in 1977, NASA\u2019s Voyager 1 on Wednesday, Nov. 18 will have traveled one light-day from Earth, which is more than 16 billion miles (25.9 billion kilometers). Voyager 1 is the most distant human-made object, and any light from Earth would take 24 hours to reach the spacecra..."
+      "date": "12 Nov 2026",
+      "abstract": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Nov. 6, 2026 This week Curiosity has been completing its drill campaign at the \u201cNazca\u201d drill hole. This is an area characterized by bedrock containing disk-shaped (or in a liberal interpretati..."
     },
     {
-      "title": "Repeatable laser measurements reveal 'forbidden' vibrations in single molecules without destroying them",
-      "url": "https://phys.org/news/2026-11-laser-reveal-forbidden-vibrations-molecules.html",
+      "title": "Adaptive structural fusion for dielectric constant prediction using physics-guided graph neural networks",
+      "url": "https://www.nature.com/articles/s41598-026-78263-1",
+      "source": "Nature Physics",
+      "date": "12 Nov 2026",
+      "abstract": "Abstract unavailable. Open the full article for details."
+    },
+    {
+      "title": "New algorithm improves phase readout for space-based gravitational wave detection",
+      "url": "https://phys.org/news/2026-11-algorithm-phase-readout-space-based.html",
       "source": "Phys.org",
-      "date": "10 Nov 2026",
-      "abstract": "The possibility of controlling \"forbidden\" excitations of vibrations in molecules could form the basis of extremely accurate clocks, quantum bits and precise tests of the fundamental laws of physics. Researchers at the University of Basel have now identified and controlled such \"forbidden\" transitio..."
+      "date": "11 Nov 2026",
+      "abstract": "In a study published in Optics Communications, a research group led by Yu Tao from the Changchun Institute of Optics, Fine Mechanics and Physics (CIOMP) of the Chinese Academy of Sciences proposed a new analytical phase readout algorithm for deep frequency modulation interferometry (DFMI)."
     },
     {
-      "title": "LHC collaboration presents first result in the hunt for 'quirks'",
-      "url": "https://phys.org/news/2026-11-lhc-collaboration-result-quirks.html",
-      "source": "Phys.org",
-      "date": "10 Nov 2026",
-      "abstract": "An international collaboration of physicists has presented its first results in its search for hypothetical particles that could help to explain the vast disparity between the strength of gravity and the three fundamental forces described by the Standard Model. Following three years of data collecti..."
-    },
-    {
-      "title": "World's most sensitive lab-based axion search presents its first results",
-      "url": "https://phys.org/news/2026-11-world-sensitive-lab-based-axion.html",
-      "source": "Phys.org",
-      "date": "10 Nov 2026",
-      "abstract": "Physicists at the ALPS II collaboration have reported the first results from the Any-Light-Particle-Search (ALPS) II experiment: the most sensitive instrument of its kind in the search for hypothetical \"axions.\" Headed by Axel Lindner at the DESY Research Centre in Germany, the collaboration found n..."
-    },
-    {
-      "title": "Quantum could solve AI energy drain, says tech founder",
-      "url": "https://phys.org/news/2026-11-quantum-ai-energy-tech-founder.html",
-      "source": "Phys.org",
-      "date": "10 Nov 2026",
-      "abstract": "Quantum computers could curb the vast energy demands of artificial intelligence data centers with their ability to run complex calculations, one of the tech's pioneers told AFP."
-    },
-    {
-      "title": "Light-pulse pairs reveal the femtosecond decay of an inner-shell hole in xenon atoms",
-      "url": "https://phys.org/news/2026-11-pulse-pairs-reveal-femtosecond-decay.html",
-      "source": "Phys.org",
-      "date": "10 Nov 2026",
-      "abstract": "Researchers at the UVSOR Synchrotron Facility (Institute for Molecular Science, Japan) and partner institutions have observed the decay of a xenon 4d core hole, an inner-shell vacancy, directly in the time domain. They used pairs of phase-coherent extreme ultraviolet pulses from a synchrotron to mak..."
-    },
-    {
-      "title": "PhD funding mechanisms should protect the right to disagree with supervisors",
-      "url": "https://www.nature.com/articles/d41586-026-03645-4",
+      "title": "Rattlesnakes have personalities too \u2014 to venomous effect",
+      "url": "https://www.nature.com/articles/d41586-026-03536-8",
       "source": "Nature Journal",
-      "date": "10 Nov 2026",
-      "abstract": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03645-4 PhD funding mechanisms should protect the right to disagree with supervisors"
+      "date": "11 Nov 2026",
+      "abstract": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03536-8 A snake\u2019s defensiveness might affect how much venom it produces in a laboratory test."
     },
     {
-      "title": "A practically perfect plesiosaur",
-      "url": "https://www.nature.com/articles/d41586-026-03278-7",
+      "title": "Iconic first image of black hole holds up to scrutiny",
+      "url": "https://www.nature.com/articles/d41586-026-03642-7",
       "source": "Nature Journal",
-      "date": "10 Nov 2026",
-      "abstract": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03278-7 A very well preserved ancient marine reptile and a Latin poem that describes an optical phenomenon, in this week\u2019s pick from the Nature archive."
+      "date": "11 Nov 2026",
+      "abstract": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03642-7 Picture produced by fresh analysis of the data that yielded the first-ever image of a black hole outputs the same, ring-like shape."
     },
     {
-      "title": "Chile\u2019s postdoc rules risk driving talent away",
-      "url": "https://www.nature.com/articles/d41586-026-03643-6",
+      "title": "Too dry for cacti: extreme droughts could push iconic species to extinction",
+      "url": "https://www.nature.com/articles/d41586-026-03671-2",
       "source": "Nature Journal",
-      "date": "10 Nov 2026",
-      "abstract": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03643-6 Chile\u2019s postdoc rules risk driving talent away"
+      "date": "11 Nov 2026",
+      "abstract": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03671-2 Analysis reveals these plants face severe habitat loss across the Americas \u2014 plus, researchers test a new way to diagnose obesity."
     },
     {
-      "title": "Students need AI-free spaces to learn core skills",
-      "url": "https://www.nature.com/articles/d41586-026-03644-5",
+      "title": "Getting a grasp on the global wildlife trade",
+      "url": "https://www.nature.com/articles/d41586-026-03591-1",
       "source": "Nature Journal",
-      "date": "10 Nov 2026",
-      "abstract": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03644-5 Students need AI-free spaces to learn core skills"
+      "date": "11 Nov 2026",
+      "abstract": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03591-1 A study reports that about 107,000 species are traded worldwide, legally or illegally \u2014 more than double a previous estimate."
     },
     {
-      "title": "Why your physics project needs an anthropologist",
-      "url": "https://www.nature.com/articles/d41586-026-03623-w",
+      "title": "Efficient catalyst-controlled C\u2013H arylation of arenes",
+      "url": "https://www.nature.com/articles/s41586-026-11391-w",
       "source": "Nature Journal",
-      "date": "10 Nov 2026",
-      "abstract": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03623-w Picking a site for an observatory should be about more than science. Humanities scholars have a crucial role in responsible siting."
+      "date": "11 Nov 2026",
+      "abstract": "Nature, Published online: 11 November 2026; doi:10.1038/s41586-026-11391-w Efficient catalyst-controlled C\u2013H arylation of arenes"
     },
     {
-      "title": "California votes to give record $8.4 billion to medical research",
-      "url": "https://www.nature.com/articles/d41586-026-03635-6",
+      "title": "A guide to Nature Index tables",
+      "url": "https://www.nature.com/articles/d41586-026-03441-0",
       "source": "Nature Journal",
-      "date": "10 Nov 2026",
-      "abstract": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03635-6 The cash infusion, earmarked for immunology studies, is the largest ever for science authorized by a US public vote \u2014 but it has drawn criticism."
+      "date": "11 Nov 2026",
+      "abstract": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03441-0 Information on the methodology used in the ranking for the 2026 Nature Spotlight: Energy."
+    },
+    {
+      "title": "Even giant anteaters in remote Brazil have microplastics in their blood",
+      "url": "https://www.nature.com/articles/d41586-026-03660-5",
+      "source": "Nature Journal",
+      "date": "11 Nov 2026",
+      "abstract": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03660-5 Mapping the movements of wildlife across the Amazon and other regions to their exposure to human activities can inform protection initiatives."
+    },
+    {
+      "title": "Microplastics change the colour of the sea near the Great Pacific Garbage Patch",
+      "url": "https://www.nature.com/articles/d41586-026-03637-4",
+      "source": "Nature Journal",
+      "date": "11 Nov 2026",
+      "abstract": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03637-4 The waters around the zone of floating debris appear greener and bluer on account of high levels of tiny bits of plastic."
+    },
+    {
+      "title": "Salty grains in Saturn\u2019s outermost ring formed from the slow freeze of plumes from the moon Enceladus",
+      "url": "https://www.nature.com/articles/d41586-026-03489-y",
+      "source": "Nature Journal",
+      "date": "11 Nov 2026",
+      "abstract": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03489-y One of Saturn\u2019s rings consists of a diverse population of icy and rocky grains, each with a distinct composition. How this came about might now have an explanation."
     }
   ]
 }
