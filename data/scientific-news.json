@@ -41,8 +41,36 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-11-12T08:39:23.095709+00:00",
+  "updated_at": "2026-11-13T08:28:25.378816+00:00",
   "items": [
+    {
+      "title": "Research advances quantum computing that harnesses speed of light",
+      "url": "https://phys.org/news/2026-11-advances-quantum-harnesses.html",
+      "source": "Phys.org",
+      "date": "13 Nov 2026",
+      "abstract": "Quantum computers have the potential to perform calculations more quickly than supercomputers, but they could be even faster and more energy-efficient if they were built with photons as their basic units, called qubits."
+    },
+    {
+      "title": "Vision and interferometry improve calibration of large monolithic mirrors",
+      "url": "https://phys.org/news/2026-11-vision-interferometry-calibration-large-monolithic.html",
+      "source": "Phys.org",
+      "date": "13 Nov 2026",
+      "abstract": "In a new study published in Measurement, researchers from the Changchun Institute of Optics, Fine Mechanics and Physics of the Chinese Academy of Sciences have developed a calibration method that combines machine vision with interferometry. This method separates a mirror's fixed internal offset from..."
+    },
+    {
+      "title": "Engineered atomic interactions help microwave sensor capture three times as much information",
+      "url": "https://phys.org/news/2026-11-atomic-interactions-microwave-sensor-capture.html",
+      "source": "Phys.org",
+      "date": "13 Nov 2026",
+      "abstract": "Researchers from the Faculty of Physics at the University of Warsaw (UW) and the Center for Optical Quantum Technologies at the University of Warsaw's Center for New Technologies (CeNT UW) have developed a method for ultrasensitive microwave sensing. Using cold, strongly interacting Rydberg atoms as..."
+    },
+    {
+      "title": "NASA\u2019s Hubble Offers Cosmic Sampler of Targets for Roman",
+      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/",
+      "source": "NASA News",
+      "date": "12 Nov 2026",
+      "abstract": "A gallery of gravitational lenses captured by NASA\u2019s Hubble Space Telescope showcases the diversity of this cosmic phenomenon and lays the groundwork for follow-up observations by the Nancy Grace Roman Space Telescope."
+    },
     {
       "title": "Curiosity Blog, Sols 5063-5069 Rocks and Chips",
       "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/",
@@ -51,81 +79,53 @@
       "abstract": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Nov. 6, 2026 This week Curiosity has been completing its drill campaign at the \u201cNazca\u201d drill hole. This is an area characterized by bedrock containing disk-shaped (or in a liberal interpretati..."
     },
     {
-      "title": "Adaptive structural fusion for dielectric constant prediction using physics-guided graph neural networks",
-      "url": "https://www.nature.com/articles/s41598-026-78263-1",
-      "source": "Nature Physics",
-      "date": "12 Nov 2026",
-      "abstract": "Abstract unavailable. Open the full article for details."
-    },
-    {
-      "title": "New algorithm improves phase readout for space-based gravitational wave detection",
-      "url": "https://phys.org/news/2026-11-algorithm-phase-readout-space-based.html",
+      "title": "Matter\u2013antimatter asymmetry still provides no evidence of new physics",
+      "url": "https://phys.org/news/2026-11-matterantimatter-asymmetry-evidence-physics.html",
       "source": "Phys.org",
-      "date": "11 Nov 2026",
-      "abstract": "In a study published in Optics Communications, a research group led by Yu Tao from the Changchun Institute of Optics, Fine Mechanics and Physics (CIOMP) of the Chinese Academy of Sciences proposed a new analytical phase readout algorithm for deep frequency modulation interferometry (DFMI)."
+      "date": "12 Nov 2026",
+      "abstract": "The universe's dominance by ordinary matter is compelling evidence that matter and antimatter are not perfect reflections of each other. However, known differences do not explain the scale of this imbalance, leaving open the possibility that unknown physics is responsible. A new analysis of meson de..."
     },
     {
-      "title": "Rattlesnakes have personalities too \u2014 to venomous effect",
-      "url": "https://www.nature.com/articles/d41586-026-03536-8",
-      "source": "Nature Journal",
-      "date": "11 Nov 2026",
-      "abstract": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03536-8 A snake\u2019s defensiveness might affect how much venom it produces in a laboratory test."
+      "title": "Imperfections reveal unexpected links between light and atomic vibrations in ultrathin boron nitride",
+      "url": "https://phys.org/news/2026-11-imperfections-reveal-unexpected-links-atomic.html",
+      "source": "Phys.org",
+      "date": "12 Nov 2026",
+      "abstract": "First, one person stands up, followed by their neighbors, one after another, until a wave sweeps through the stadium. Atoms within a material move in a similar way: rather than remaining completely still in their positions, they vibrate together around their respective positions. In physics, these c..."
     },
     {
-      "title": "Iconic first image of black hole holds up to scrutiny",
-      "url": "https://www.nature.com/articles/d41586-026-03642-7",
-      "source": "Nature Journal",
-      "date": "11 Nov 2026",
-      "abstract": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03642-7 Picture produced by fresh analysis of the data that yielded the first-ever image of a black hole outputs the same, ring-like shape."
+      "title": "A new twist on 'magic-angle' graphene: Tuning resistance with strain",
+      "url": "https://phys.org/news/2026-11-magic-angle-graphene-tuning-resistance.html",
+      "source": "Phys.org",
+      "date": "12 Nov 2026",
+      "abstract": "In materials science labs around the world, researchers regularly reproduce a peculiar experiment. Under a microscope, they use tiny robotic manipulators to lay two sheets of carbon, each a single atom thick, against one another. They then rotate the top sheet against the bottom. The two identical l..."
     },
     {
-      "title": "Too dry for cacti: extreme droughts could push iconic species to extinction",
-      "url": "https://www.nature.com/articles/d41586-026-03671-2",
+      "title": "Found: a protein that drives ageing without unleashing inflammation",
+      "url": "https://www.nature.com/articles/d41586-026-03638-3",
       "source": "Nature Journal",
-      "date": "11 Nov 2026",
-      "abstract": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03671-2 Analysis reveals these plants face severe habitat loss across the Americas \u2014 plus, researchers test a new way to diagnose obesity."
+      "date": "12 Nov 2026",
+      "abstract": "Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03638-3 Aged mice engineered to lack granzyme K have improved heart and liver function and less kidney damage."
     },
     {
-      "title": "Getting a grasp on the global wildlife trade",
-      "url": "https://www.nature.com/articles/d41586-026-03591-1",
+      "title": "This little brown mushroom is laced with a hallucinogen \u2014 and lethal toxins",
+      "url": "https://www.nature.com/articles/d41586-026-03639-2",
       "source": "Nature Journal",
-      "date": "11 Nov 2026",
-      "abstract": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03591-1 A study reports that about 107,000 species are traded worldwide, legally or illegally \u2014 more than double a previous estimate."
+      "date": "12 Nov 2026",
+      "abstract": "Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03639-2 A Florida fungus might combine the psychedelic compound psilocybin with deadly chemicals to defend itself against hungry animals."
     },
     {
-      "title": "Efficient catalyst-controlled C\u2013H arylation of arenes",
-      "url": "https://www.nature.com/articles/s41586-026-11391-w",
+      "title": "Who needs sex? Kelp reproduce asexually when no mate is nearby",
+      "url": "https://www.nature.com/articles/d41586-026-03665-0",
       "source": "Nature Journal",
-      "date": "11 Nov 2026",
-      "abstract": "Nature, Published online: 11 November 2026; doi:10.1038/s41586-026-11391-w Efficient catalyst-controlled C\u2013H arylation of arenes"
+      "date": "12 Nov 2026",
+      "abstract": "Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03665-0 Insights into the reproductive modes of brown algae could help in the fight to protect them in warming climate."
     },
     {
-      "title": "A guide to Nature Index tables",
-      "url": "https://www.nature.com/articles/d41586-026-03441-0",
+      "title": "Author Correction: SLAMF6 as a drug-targetable suppressor of T cell immunity against cancer",
+      "url": "https://www.nature.com/articles/s41586-026-11409-3",
       "source": "Nature Journal",
-      "date": "11 Nov 2026",
-      "abstract": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03441-0 Information on the methodology used in the ranking for the 2026 Nature Spotlight: Energy."
-    },
-    {
-      "title": "Even giant anteaters in remote Brazil have microplastics in their blood",
-      "url": "https://www.nature.com/articles/d41586-026-03660-5",
-      "source": "Nature Journal",
-      "date": "11 Nov 2026",
-      "abstract": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03660-5 Mapping the movements of wildlife across the Amazon and other regions to their exposure to human activities can inform protection initiatives."
-    },
-    {
-      "title": "Microplastics change the colour of the sea near the Great Pacific Garbage Patch",
-      "url": "https://www.nature.com/articles/d41586-026-03637-4",
-      "source": "Nature Journal",
-      "date": "11 Nov 2026",
-      "abstract": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03637-4 The waters around the zone of floating debris appear greener and bluer on account of high levels of tiny bits of plastic."
-    },
-    {
-      "title": "Salty grains in Saturn\u2019s outermost ring formed from the slow freeze of plumes from the moon Enceladus",
-      "url": "https://www.nature.com/articles/d41586-026-03489-y",
-      "source": "Nature Journal",
-      "date": "11 Nov 2026",
-      "abstract": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03489-y One of Saturn\u2019s rings consists of a diverse population of icy and rocky grains, each with a distinct composition. How this came about might now have an explanation."
+      "date": "12 Nov 2026",
+      "abstract": "Nature, Published online: 12 November 2026; doi:10.1038/s41586-026-11409-3 Author Correction: SLAMF6 as a drug-targetable suppressor of T cell immunity against cancer"
     }
   ]
 }
