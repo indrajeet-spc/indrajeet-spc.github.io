@@ -41,8 +41,43 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-11-13T08:28:25.378816+00:00",
+  "updated_at": "2026-11-14T07:49:42.620831+00:00",
   "items": [
+    {
+      "title": "Scientists capture electrons making seemingly impossible quantum jumps",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112025523.htm",
+      "source": "ScienceDaily",
+      "date": "14 Nov 2026",
+      "abstract": "Scientists have captured electrons making seemingly impossible jumps across forbidden energy gaps in graphene, with some transitions occurring at a remarkable 100% probability. The breakthrough offers an unprecedented look at quantum behavior and could help unlock a new generation of ultrafast, ligh..."
+    },
+    {
+      "title": "Unstable plasma heats itself with waves it generates, experiments reveal",
+      "url": "https://phys.org/news/2026-11-unstable-plasma-generates-reveal.html",
+      "source": "Phys.org",
+      "date": "13 Nov 2026",
+      "abstract": "Fusion power is expected to be a sustainable energy source that emits no carbon dioxide during electricity generation. To achieve this, research is underway worldwide to confine high-temperature plasma using magnetic fields. To initiate a fusion reaction, high-energy particles or waves must be injec..."
+    },
+    {
+      "title": "Self-learning AI separates particle jets from background noise in simulated heavy-ion collisions",
+      "url": "https://phys.org/news/2026-11-ai-particle-jets-background-noise.html",
+      "source": "Phys.org",
+      "date": "13 Nov 2026",
+      "abstract": "A team of physicists and computer scientists led by researchers at the U.S. Department of Energy's (DOE) Brookhaven National Laboratory developed a new artificial intelligence (AI) approach that learns on its own to separate important high-energy particle jet signals from the enormous background of..."
+    },
+    {
+      "title": "Optical system maps multiple infrared fields onto one small detector",
+      "url": "https://phys.org/news/2026-11-optical-multiple-infrared-fields-small.html",
+      "source": "Phys.org",
+      "date": "13 Nov 2026",
+      "abstract": "Researchers from the Changchun Institute of Optics, Fine Mechanics and Physics of the Chinese Academy of Sciences have developed an optical system that focuses light from several subfields onto a single small-format detector. By analyzing field-dependent spot shapes, the system identifies which subf..."
+    },
+    {
+      "title": "Light-activated molecules in porous crystals show potential for quantum chemical sensing",
+      "url": "https://phys.org/news/2026-11-molecules-porous-crystals-potential-quantum.html",
+      "source": "Phys.org",
+      "date": "13 Nov 2026",
+      "abstract": "An international research team led by Nobuhiro Yanai from the University of Tokyo and Michael R. Wasielewski from Northwestern University has created polarized radical pairs, molecules with unpaired electrons whose spins align, in metal\u2013organic frameworks (MOFs), porous materials consisting of metal..."
+    },
     {
       "title": "Research advances quantum computing that harnesses speed of light",
       "url": "https://phys.org/news/2026-11-advances-quantum-harnesses.html",
@@ -65,67 +100,32 @@
       "abstract": "Researchers from the Faculty of Physics at the University of Warsaw (UW) and the Center for Optical Quantum Technologies at the University of Warsaw's Center for New Technologies (CeNT UW) have developed a method for ultrasensitive microwave sensing. Using cold, strongly interacting Rydberg atoms as..."
     },
     {
-      "title": "NASA\u2019s Hubble Offers Cosmic Sampler of Targets for Roman",
-      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/",
-      "source": "NASA News",
-      "date": "12 Nov 2026",
-      "abstract": "A gallery of gravitational lenses captured by NASA\u2019s Hubble Space Telescope showcases the diversity of this cosmic phenomenon and lays the groundwork for follow-up observations by the Nancy Grace Roman Space Telescope."
+      "title": "AI supercharges laser physics with a stunning 250x speed boost",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261111005913.htm",
+      "source": "ScienceDaily",
+      "date": "13 Nov 2026",
+      "abstract": "Researchers at Stanford, UCLA, and SLAC have developed an AI system that simulates complex laser interactions thousands of times faster than conventional methods. The breakthrough allows scientists to predict how laser pulses behave inside special crystals in just milliseconds, without sacrificing m..."
     },
     {
-      "title": "Curiosity Blog, Sols 5063-5069 Rocks and Chips",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/",
-      "source": "NASA News",
-      "date": "12 Nov 2026",
-      "abstract": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Nov. 6, 2026 This week Curiosity has been completing its drill campaign at the \u201cNazca\u201d drill hole. This is an area characterized by bedrock containing disk-shaped (or in a liberal interpretati..."
-    },
-    {
-      "title": "Matter\u2013antimatter asymmetry still provides no evidence of new physics",
-      "url": "https://phys.org/news/2026-11-matterantimatter-asymmetry-evidence-physics.html",
-      "source": "Phys.org",
-      "date": "12 Nov 2026",
-      "abstract": "The universe's dominance by ordinary matter is compelling evidence that matter and antimatter are not perfect reflections of each other. However, known differences do not explain the scale of this imbalance, leaving open the possibility that unknown physics is responsible. A new analysis of meson de..."
-    },
-    {
-      "title": "Imperfections reveal unexpected links between light and atomic vibrations in ultrathin boron nitride",
-      "url": "https://phys.org/news/2026-11-imperfections-reveal-unexpected-links-atomic.html",
-      "source": "Phys.org",
-      "date": "12 Nov 2026",
-      "abstract": "First, one person stands up, followed by their neighbors, one after another, until a wave sweeps through the stadium. Atoms within a material move in a similar way: rather than remaining completely still in their positions, they vibrate together around their respective positions. In physics, these c..."
-    },
-    {
-      "title": "A new twist on 'magic-angle' graphene: Tuning resistance with strain",
-      "url": "https://phys.org/news/2026-11-magic-angle-graphene-tuning-resistance.html",
-      "source": "Phys.org",
-      "date": "12 Nov 2026",
-      "abstract": "In materials science labs around the world, researchers regularly reproduce a peculiar experiment. Under a microscope, they use tiny robotic manipulators to lay two sheets of carbon, each a single atom thick, against one another. They then rotate the top sheet against the bottom. The two identical l..."
-    },
-    {
-      "title": "Found: a protein that drives ageing without unleashing inflammation",
-      "url": "https://www.nature.com/articles/d41586-026-03638-3",
+      "title": "Number of international students arriving in US plunges \u2014 worrying scientists",
+      "url": "https://www.nature.com/articles/d41586-026-03668-x",
       "source": "Nature Journal",
-      "date": "12 Nov 2026",
-      "abstract": "Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03638-3 Aged mice engineered to lack granzyme K have improved heart and liver function and less kidney damage."
+      "date": "13 Nov 2026",
+      "abstract": "Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03668-x Declines in students from China and India are driving the trend, which researchers say could slow the progress of US science."
     },
     {
-      "title": "This little brown mushroom is laced with a hallucinogen \u2014 and lethal toxins",
-      "url": "https://www.nature.com/articles/d41586-026-03639-2",
+      "title": "Chinese graduate students are now choosing to stay closer to home",
+      "url": "https://www.nature.com/articles/d41586-026-03456-7",
       "source": "Nature Journal",
-      "date": "12 Nov 2026",
-      "abstract": "Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03639-2 A Florida fungus might combine the psychedelic compound psilocybin with deadly chemicals to defend itself against hungry animals."
+      "date": "13 Nov 2026",
+      "abstract": "Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03456-7 Malaysia, Hong Kong and Macau are the new hot destinations for students."
     },
     {
-      "title": "Who needs sex? Kelp reproduce asexually when no mate is nearby",
-      "url": "https://www.nature.com/articles/d41586-026-03665-0",
+      "title": "Accept all changes",
+      "url": "https://www.nature.com/articles/d41586-026-03516-y",
       "source": "Nature Journal",
-      "date": "12 Nov 2026",
-      "abstract": "Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03665-0 Insights into the reproductive modes of brown algae could help in the fight to protect them in warming climate."
-    },
-    {
-      "title": "Author Correction: SLAMF6 as a drug-targetable suppressor of T cell immunity against cancer",
-      "url": "https://www.nature.com/articles/s41586-026-11409-3",
-      "source": "Nature Journal",
-      "date": "12 Nov 2026",
-      "abstract": "Nature, Published online: 12 November 2026; doi:10.1038/s41586-026-11409-3 Author Correction: SLAMF6 as a drug-targetable suppressor of T cell immunity against cancer"
+      "date": "13 Nov 2026",
+      "abstract": "Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03516-y It\u2019s the end \u2014 or is it?"
     }
   ]
 }
