@@ -41,8 +41,29 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-11-15T08:09:18.931928+00:00",
+  "updated_at": "2026-11-16T08:17:01.520067+00:00",
   "items": [
+    {
+      "title": "Low-frequency noise reduction in laser-induced graphene devices by noble metal nanoparticles decoration",
+      "url": "https://www.nature.com/articles/s41598-026-80683-y",
+      "source": "Nature Physics",
+      "date": "15 Nov 2026",
+      "abstract": "Abstract unavailable. Open the full article for details."
+    },
+    {
+      "title": "Quantitative investigation of hybridized plasmonic resonances in graphene-coated nanocylinder chains for multiplexed dual-mode SERS/ SEIRA a...",
+      "url": "https://www.nature.com/articles/s41598-026-78845-z",
+      "source": "Nature Physics",
+      "date": "15 Nov 2026",
+      "abstract": "Abstract unavailable. Open the full article for details."
+    },
+    {
+      "title": "Multi-horizon wind speed prediction with physics-embedded state space neural operator learning",
+      "url": "https://www.nature.com/articles/s41598-026-80497-y",
+      "source": "Nature Physics",
+      "date": "15 Nov 2026",
+      "abstract": "Abstract unavailable. Open the full article for details."
+    },
     {
       "title": "Scientists capture electrons making seemingly impossible quantum jumps",
       "url": "https://www.sciencedaily.com/releases/2026/11/261112025523.htm",
@@ -105,27 +126,6 @@
       "source": "ScienceDaily",
       "date": "13 Nov 2026",
       "abstract": "Researchers at Stanford, UCLA, and SLAC have developed an AI system that simulates complex laser interactions thousands of times faster than conventional methods. The breakthrough allows scientists to predict how laser pulses behave inside special crystals in just milliseconds, without sacrificing m..."
-    },
-    {
-      "title": "Number of international students arriving in US plunges \u2014 worrying scientists",
-      "url": "https://www.nature.com/articles/d41586-026-03668-x",
-      "source": "Nature Journal",
-      "date": "13 Nov 2026",
-      "abstract": "Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03668-x Declines in students from China and India are driving the trend, which researchers say could slow the progress of US science."
-    },
-    {
-      "title": "Chinese graduate students are now choosing to stay closer to home",
-      "url": "https://www.nature.com/articles/d41586-026-03456-7",
-      "source": "Nature Journal",
-      "date": "13 Nov 2026",
-      "abstract": "Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03456-7 Malaysia, Hong Kong and Macau are the new hot destinations for students."
-    },
-    {
-      "title": "Accept all changes",
-      "url": "https://www.nature.com/articles/d41586-026-03516-y",
-      "source": "Nature Journal",
-      "date": "13 Nov 2026",
-      "abstract": "Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03516-y It\u2019s the end \u2014 or is it?"
     }
   ]
 }
