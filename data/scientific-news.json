@@ -41,91 +41,91 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-11-17T09:31:34.694943+00:00",
+  "updated_at": "2026-11-18T08:51:53.682919+00:00",
   "items": [
     {
-      "title": "Tiny switch harnesses four electrical states, moving beyond simple on-off control",
-      "url": "https://phys.org/news/2026-11-tiny-harnesses-electrical-states-simple.html",
+      "title": "Quantum-gas microscope resolves the 'color' of individual atoms in a single shot",
+      "url": "https://phys.org/news/2026-11-quantum-gas-microscope-individual-atoms.html",
       "source": "Phys.org",
-      "date": "16 Nov 2026",
-      "abstract": "From light switches to transistors, many kinds of switches have exactly two states: on or off, conducting or insulating, zero or one. Researchers at TU Wien are working with unusual materials that challenge some of the standard assumptions of materials physics. Using one of these materials, they hav..."
+      "date": "18 Nov 2026",
+      "abstract": "In 2024, researchers at the Ultracold Quantum Gases group at ICFO built a quantum-gas microscope capable of imaging individual atoms in strontium quantum gases for the first time, marking a key enabling step for quantum simulation. At that time, the researchers imaged strontium-84, a boson that has..."
     },
     {
-      "title": "Ultracold diamond microwave laser amplifies quantum signals 1,000-fold",
-      "url": "https://phys.org/news/2026-11-ultracold-diamond-microwave-laser-amplifies.html",
-      "source": "Phys.org",
-      "date": "16 Nov 2026",
-      "abstract": "Researchers from the Okinawa Institute of Science and Technology (OIST) have created a spin-based microwave amplifier that operates near absolute zero, boosting signals by more than 1,000-fold while adding noise close to the bare minimum required by the laws of physics. As a more robust alternative..."
+      "title": "New Album of Baby Star Sounds Shared by NASA\u2019s Chandra",
+      "url": "https://science.nasa.gov/missions/chandra/new-album-of-baby-star-sounds-shared-by-nasas-chandra/",
+      "source": "NASA News",
+      "date": "17 Nov 2026",
+      "abstract": "A new album from NASA\u2019s Chandra X-ray Observatory collects snapshots of baby stars across the galaxy and beyond and transforms that data into sound. Four new sonifications use data of stars that are actively forming, captured by Chandra and other NASA telescopes By studying places in the universe wh..."
     },
     {
-      "title": "Chiral electronics: Researchers discover a disruptive interlayer in a promising material system",
-      "url": "https://phys.org/news/2026-11-chiral-electronics-disruptive-interlayer-material.html",
-      "source": "Phys.org",
-      "date": "16 Nov 2026",
-      "abstract": "Antiferromagnets are regarded as important materials for next-generation electronics. It is difficult, however, to accurately measure some of their properties. A new study by a team of researchers from Martin Luther University Halle-Wittenberg (MLU) and the Max Planck Institute for Microstructure Ph..."
+      "title": "NICER Status Updates",
+      "url": "https://www.nasa.gov/missions/station/nicer-status-updates/",
+      "source": "NASA News",
+      "date": "17 Nov 2026",
+      "abstract": "November 17, 2026 NASA\u2019s NICER Telescope Ends Science Operations After studying the universe for six and a half years beyond its initial mission, NASA\u2019s NICER (Neutron star Interior Composition Explorer) telescope on the International Space Station has ended science operations. The mission and space..."
     },
     {
-      "title": "Model of 'alpha-beta decay' could solve a decades-old nuclear mystery",
-      "url": "https://phys.org/news/2026-11-alpha-beta-decay-decades-nuclear.html",
+      "title": "Quantum observers can 'agree to disagree,' but within limits, new theorem shows",
+      "url": "https://phys.org/news/2026-11-quantum-limits-theorem.html",
       "source": "Phys.org",
-      "date": "16 Nov 2026",
-      "abstract": "A pair of researchers has created a new model for radioactive decay, which allows alpha and beta decay to happen simultaneously in a single transition. Testing their model's predictions against a full chart of known isotopes, Wenqiang Zhang at the Chinese Academy of Sciences, together with Chong Qi..."
+      "date": "17 Nov 2026",
+      "abstract": "Two observers can start with the same description of a quantum system, follow the same probability rules and still disagree about the chance of the same outcome\u2014even while being certain of each other's assessments."
     },
     {
-      "title": "New mechanical modulation method enables tunable multi-pulse fiber lasers",
-      "url": "https://phys.org/news/2026-11-mechanical-modulation-method-enables-tunable.html",
+      "title": "Team extends a qubit's lifetime, correcting errors without measuring them",
+      "url": "https://phys.org/news/2026-11-team-qubit-lifetime-errors.html",
       "source": "Phys.org",
-      "date": "16 Nov 2026",
-      "abstract": "In a study published in Optical Fiber Technology, researchers from the Changchun Institute of Optics, Fine Mechanics and Physics of the Chinese Academy of Sciences have developed a new method to control multi-pulse generation in a 1972-nm mode-locked fiber laser. By applying external mechanical modu..."
+      "date": "17 Nov 2026",
+      "abstract": "Quantum technologies, devices that can process, store or collect information leveraging the laws of quantum mechanics, could potentially outperform their classical counterparts on some tasks. Yet these devices are highly sensitive to changes or disturbances in their surrounding environment, which ca..."
     },
     {
-      "title": "Hidden defects return a qubit's lost energy",
-      "url": "https://phys.org/news/2026-11-hidden-defects-qubit-lost-energy.html",
+      "title": "New theoretical framework free of ghostlike instabilities expands the possibilities of symmetry in particle physics",
+      "url": "https://phys.org/news/2026-11-theoretical-framework-free-ghostlike-instabilities.html",
       "source": "Phys.org",
-      "date": "16 Nov 2026",
-      "abstract": "Today, many leading quantum computers are built from superconducting circuits. However, the qubits in these circuits can easily lose energy to their surroundings, scrambling the fragile quantum information they hold."
+      "date": "17 Nov 2026",
+      "abstract": "Elementary particles and the forces governing their interactions are described by relativistic quantum field theory, in which symmetry serves as a fundamental guiding principle. For more than half a century, the possible symmetries of such theories were believed to be restricted by the Coleman\u2013Mandu..."
     },
     {
-      "title": "Quantum teleportation method uses weaker entanglement to transfer encoded information",
-      "url": "https://phys.org/news/2026-11-quantum-teleportation-method-weaker-entanglement.html",
-      "source": "Phys.org",
-      "date": "16 Nov 2026",
-      "abstract": "Over the past several decades, researchers have demonstrated quantum teleportation, the transfer of one quantum system's state to another, in a range of systems. However, many quantum computers encode logical qubits (units of quantum information) across groups of physical qubits, which makes telepor..."
-    },
-    {
-      "title": "The climate is in crisis \u2014 here\u2019s four things we can do",
-      "url": "https://www.nature.com/articles/d41586-026-03760-2",
+      "title": "Meet the \u2018celestial bodies of fathomless powerful darkness\u2019",
+      "url": "https://www.nature.com/articles/d41586-026-03750-4",
       "source": "Nature Journal",
-      "date": "16 Nov 2026",
-      "abstract": "Nature, Published online: 16 November 2026; doi:10.1038/d41586-026-03760-2 More needs to be done to combat climate change, but what? We discuss some big ideas to rein in emissions."
+      "date": "17 Nov 2026",
+      "abstract": "Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03750-4 Astronomers report a rare pair of extremely bright black holes that were gobbling gas less than one billion years after the Big Bang."
     },
     {
-      "title": "Architecture of a portal complex embedded in the poxvirus core",
-      "url": "https://www.nature.com/articles/s41586-026-11399-2",
+      "title": "The prospect of a \u2018super\u2019 El Ni\u00f1o demands better ocean monitoring",
+      "url": "https://www.nature.com/articles/d41586-026-03744-2",
       "source": "Nature Journal",
-      "date": "16 Nov 2026",
-      "abstract": "Nature, Published online: 16 November 2026; doi:10.1038/s41586-026-11399-2 Architecture of a portal complex embedded in the poxvirus core"
+      "date": "17 Nov 2026",
+      "abstract": "Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03744-2 The prospect of a \u2018super\u2019 El Ni\u00f1o demands better ocean monitoring"
     },
     {
-      "title": "As El Ni\u00f1o builds, studies of extreme marine heatwaves must start now",
-      "url": "https://www.nature.com/articles/d41586-026-03715-7",
+      "title": "Dinosaur\u2019s rest break leaves a lasting impression",
+      "url": "https://www.nature.com/articles/d41586-026-03749-x",
       "source": "Nature Journal",
-      "date": "16 Nov 2026",
-      "abstract": "Nature, Published online: 16 November 2026; doi:10.1038/d41586-026-03715-7 Researchers must track warming oceans and use the knowledge gained to inform strategies for sustaining fisheries and communities that depend on them."
+      "date": "17 Nov 2026",
+      "abstract": "Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03749-x A fossilized print records marks left by the feet and bum of a juvenile reptile that measured one metre at the hip."
     },
     {
-      "title": "US Supreme Court rebuffs White House effort to cut research grants",
-      "url": "https://www.nature.com/articles/d41586-026-03765-x",
+      "title": "AI wearables could exploit people\u2019s most vulnerable moments",
+      "url": "https://www.nature.com/articles/d41586-026-03742-4",
       "source": "Nature Journal",
-      "date": "16 Nov 2026",
-      "abstract": "Nature, Published online: 16 November 2026; doi:10.1038/d41586-026-03765-x The high court has declined for now to intervene in a key case, meaning that lower court rulings that restored several hundred terminated grants will stand."
+      "date": "17 Nov 2026",
+      "abstract": "Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03742-4 AI wearables could exploit people\u2019s most vulnerable moments"
     },
     {
-      "title": "Secrets of the vampires: genomes reveal how these bats live off blood alone",
-      "url": "https://www.nature.com/articles/d41586-026-03706-8",
+      "title": "The origins of scrotal asymmetry",
+      "url": "https://www.nature.com/articles/d41586-026-03279-6",
       "source": "Nature Journal",
-      "date": "16 Nov 2026",
-      "abstract": "Nature, Published online: 16 November 2026; doi:10.1038/d41586-026-03706-8 Expandable stomachs allow these flying mammals to gulp large amounts of blood, and fluid-handling genes help them to fly home after all that liquid."
+      "date": "17 Nov 2026",
+      "abstract": "Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03279-6 Why does the left testicle tend to hang lower than the right? And a small village with a surprisingly ambitious museum, in our weekly dip into Nature\u2019s archive."
+    },
+    {
+      "title": "Should we move from artificial intelligence to artificial life?",
+      "url": "https://www.nature.com/articles/d41586-026-03743-3",
+      "source": "Nature Journal",
+      "date": "17 Nov 2026",
+      "abstract": "Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03743-3 Should we move from artificial intelligence to artificial life?"
     }
   ]
 }
