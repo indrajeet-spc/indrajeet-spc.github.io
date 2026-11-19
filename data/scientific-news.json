@@ -41,8 +41,50 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-11-18T08:51:53.682919+00:00",
+  "updated_at": "2026-11-19T09:07:10.059286+00:00",
   "items": [
+    {
+      "title": "Exquisite X-rays and dynamic compression initiate a new era of physics experiments on plutonium",
+      "url": "https://phys.org/news/2026-11-exquisite-rays-dynamic-compression-era.html",
+      "source": "Phys.org",
+      "date": "19 Nov 2026",
+      "abstract": "Scientists at Lawrence Livermore National Laboratory (LLNL), Argonne National Laboratory (ANL) and Washington State University (WSU) have conducted the first dynamic compression experiments on plutonium at a national light source facility, the Dynamic Compression Sector (DCS)."
+    },
+    {
+      "title": "Sensitivity analysis and physics-aware deep learning for aluminum mirror coatings: when network architecture outweighs loss-function design",
+      "url": "https://www.nature.com/articles/s41598-026-80680-1",
+      "source": "Nature Physics",
+      "date": "19 Nov 2026",
+      "abstract": "Abstract unavailable. Open the full article for details."
+    },
+    {
+      "title": "Electron dynamics in graphene irradiated by a quantum wave packet versus a classical point charge",
+      "url": "https://www.nature.com/articles/s41524-026-02374-6",
+      "source": "Nature Physics",
+      "date": "19 Nov 2026",
+      "abstract": "Abstract unavailable. Open the full article for details."
+    },
+    {
+      "title": "NASA Data Clinches First-of-Its-Kind Stellar Merger",
+      "url": "https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/",
+      "source": "NASA News",
+      "date": "18 Nov 2026",
+      "abstract": "Researchers recently identified a first of its kind: A star slightly less massive than the Sun spiraled into and merged with a puffy supergiant star at the outskirts of our neighboring Andromeda galaxy. They nicknamed the newly single, potentially \u201crejuvenated\u201d star Bao. Their NASA-funded discovery..."
+    },
+    {
+      "title": "Physicists send an unblockable message using gravity",
+      "url": "https://phys.org/news/2026-11-physicists-unblockable-message-gravity.html",
+      "source": "Phys.org",
+      "date": "18 Nov 2026",
+      "abstract": "University of Queensland researchers have used gravity to transmit a message through a brick wall using an elevator and a sensitive gravimeter. The unusual experiment took place in UQ's Parnell Building, where the team of physicists sent the elevator back and forth between two levels, moving its 1.8..."
+    },
+    {
+      "title": "Quantum physics can verify a person's location, researchers show",
+      "url": "https://phys.org/news/2026-11-quantum-physics-person.html",
+      "source": "Phys.org",
+      "date": "18 Nov 2026",
+      "abstract": "Imagine a corporate treasurer directing her company's financial network to make a $50 million wire transfer. How can the network be certain the command is coming from a secure terminal in the company's headquarters, and not a hacker's laptop across the globe?"
+    },
     {
       "title": "Quantum-gas microscope resolves the 'color' of individual atoms in a single shot",
       "url": "https://phys.org/news/2026-11-quantum-gas-microscope-individual-atoms.html",
@@ -51,81 +93,39 @@
       "abstract": "In 2024, researchers at the Ultracold Quantum Gases group at ICFO built a quantum-gas microscope capable of imaging individual atoms in strontium quantum gases for the first time, marking a key enabling step for quantum simulation. At that time, the researchers imaged strontium-84, a boson that has..."
     },
     {
-      "title": "New Album of Baby Star Sounds Shared by NASA\u2019s Chandra",
-      "url": "https://science.nasa.gov/missions/chandra/new-album-of-baby-star-sounds-shared-by-nasas-chandra/",
-      "source": "NASA News",
-      "date": "17 Nov 2026",
-      "abstract": "A new album from NASA\u2019s Chandra X-ray Observatory collects snapshots of baby stars across the galaxy and beyond and transforms that data into sound. Four new sonifications use data of stars that are actively forming, captured by Chandra and other NASA telescopes By studying places in the universe wh..."
-    },
-    {
-      "title": "NICER Status Updates",
-      "url": "https://www.nasa.gov/missions/station/nicer-status-updates/",
-      "source": "NASA News",
-      "date": "17 Nov 2026",
-      "abstract": "November 17, 2026 NASA\u2019s NICER Telescope Ends Science Operations After studying the universe for six and a half years beyond its initial mission, NASA\u2019s NICER (Neutron star Interior Composition Explorer) telescope on the International Space Station has ended science operations. The mission and space..."
-    },
-    {
-      "title": "Quantum observers can 'agree to disagree,' but within limits, new theorem shows",
-      "url": "https://phys.org/news/2026-11-quantum-limits-theorem.html",
-      "source": "Phys.org",
-      "date": "17 Nov 2026",
-      "abstract": "Two observers can start with the same description of a quantum system, follow the same probability rules and still disagree about the chance of the same outcome\u2014even while being certain of each other's assessments."
-    },
-    {
-      "title": "Team extends a qubit's lifetime, correcting errors without measuring them",
-      "url": "https://phys.org/news/2026-11-team-qubit-lifetime-errors.html",
-      "source": "Phys.org",
-      "date": "17 Nov 2026",
-      "abstract": "Quantum technologies, devices that can process, store or collect information leveraging the laws of quantum mechanics, could potentially outperform their classical counterparts on some tasks. Yet these devices are highly sensitive to changes or disturbances in their surrounding environment, which ca..."
-    },
-    {
-      "title": "New theoretical framework free of ghostlike instabilities expands the possibilities of symmetry in particle physics",
-      "url": "https://phys.org/news/2026-11-theoretical-framework-free-ghostlike-instabilities.html",
-      "source": "Phys.org",
-      "date": "17 Nov 2026",
-      "abstract": "Elementary particles and the forces governing their interactions are described by relativistic quantum field theory, in which symmetry serves as a fundamental guiding principle. For more than half a century, the possible symmetries of such theories were believed to be restricted by the Coleman\u2013Mandu..."
-    },
-    {
-      "title": "Meet the \u2018celestial bodies of fathomless powerful darkness\u2019",
-      "url": "https://www.nature.com/articles/d41586-026-03750-4",
+      "title": "Conference networking made simple, in three short videos",
+      "url": "https://www.nature.com/articles/d41586-026-03678-9",
       "source": "Nature Journal",
-      "date": "17 Nov 2026",
-      "abstract": "Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03750-4 Astronomers report a rare pair of extremely bright black holes that were gobbling gas less than one billion years after the Big Bang."
+      "date": "18 Nov 2026",
+      "abstract": "Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03678-9 Working the room is a skill you can practise and prepare for. Here\u2019s how."
     },
     {
-      "title": "The prospect of a \u2018super\u2019 El Ni\u00f1o demands better ocean monitoring",
-      "url": "https://www.nature.com/articles/d41586-026-03744-2",
+      "title": "First observation of a giant star swallowing its neighbour",
+      "url": "https://www.nature.com/articles/d41586-026-03784-8",
       "source": "Nature Journal",
-      "date": "17 Nov 2026",
-      "abstract": "Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03744-2 The prospect of a \u2018super\u2019 El Ni\u00f1o demands better ocean monitoring"
+      "date": "18 Nov 2026",
+      "abstract": "Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03784-8 Finding provides new insights into what happens within stellar mergers \u2014 plus, using quantum physics to securely pinpoint someone\u2019s location."
     },
     {
-      "title": "Dinosaur\u2019s rest break leaves a lasting impression",
-      "url": "https://www.nature.com/articles/d41586-026-03749-x",
+      "title": "How to make AI data centres more sustainable",
+      "url": "https://www.nature.com/articles/d41586-026-03708-6",
       "source": "Nature Journal",
-      "date": "17 Nov 2026",
-      "abstract": "Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03749-x A fossilized print records marks left by the feet and bum of a juvenile reptile that measured one metre at the hip."
+      "date": "18 Nov 2026",
+      "abstract": "Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03708-6 Tech companies and governments face opposition over data centres\u2019 expansion, in part because of their huge power requirements. They must not be powered with fossil fuels."
     },
     {
-      "title": "AI wearables could exploit people\u2019s most vulnerable moments",
-      "url": "https://www.nature.com/articles/d41586-026-03742-4",
+      "title": "Microbiome home tests are taking off. Can they be trusted?",
+      "url": "https://www.nature.com/articles/d41586-026-03710-y",
       "source": "Nature Journal",
-      "date": "17 Nov 2026",
-      "abstract": "Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03742-4 AI wearables could exploit people\u2019s most vulnerable moments"
+      "date": "18 Nov 2026",
+      "abstract": "Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03710-y Our reporter mailed off her poo to find out what two companies say about her microbiome. Here\u2019s what she found."
     },
     {
-      "title": "The origins of scrotal asymmetry",
-      "url": "https://www.nature.com/articles/d41586-026-03279-6",
+      "title": "Tropical land-use intensification reshapes biodiversity in expected and unexpected ways",
+      "url": "https://www.nature.com/articles/d41586-026-03602-1",
       "source": "Nature Journal",
-      "date": "17 Nov 2026",
-      "abstract": "Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03279-6 Why does the left testicle tend to hang lower than the right? And a small village with a surprisingly ambitious museum, in our weekly dip into Nature\u2019s archive."
-    },
-    {
-      "title": "Should we move from artificial intelligence to artificial life?",
-      "url": "https://www.nature.com/articles/d41586-026-03743-3",
-      "source": "Nature Journal",
-      "date": "17 Nov 2026",
-      "abstract": "Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03743-3 Should we move from artificial intelligence to artificial life?"
+      "date": "18 Nov 2026",
+      "abstract": "Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03602-1 Global agricultural demand has increased over the past few decades, driving land-use intensification in some of the world\u2019s most biodiverse regions. An assessment of some 40,000 species, from soil microorganisms to vertebrate..."
     }
   ]
 }
