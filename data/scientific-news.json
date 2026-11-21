@@ -41,8 +41,43 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-11-20T08:52:19.151674+00:00",
+  "updated_at": "2026-11-21T08:34:05.010358+00:00",
   "items": [
+    {
+      "title": "Quantum software matches classical benchmark for a molecular interaction",
+      "url": "https://phys.org/news/2026-11-quantum-software-classical-benchmark-molecular.html",
+      "source": "Phys.org",
+      "date": "21 Nov 2026",
+      "abstract": "Predicting how molecules interact is central to drug discovery: it offers important information about how a new drug might work in the human body, the side effects it can cause and more. Computationally modeling these interactions can reduce the need for lengthy and expensive lab work, but some inte..."
+    },
+    {
+      "title": "X-ray technique advances temperature measurements under extreme pressure",
+      "url": "https://phys.org/news/2026-11-ray-technique-advances-temperature-extreme.html",
+      "source": "Phys.org",
+      "date": "20 Nov 2026",
+      "abstract": "Scientists at Lawrence Livermore National Laboratory (LLNL) have advanced the ability to measure temperatures in materials subjected to extreme pressures at the National Ignition Facility (NIF), providing new insights into how materials behave under conditions relevant to national security and high-..."
+    },
+    {
+      "title": "Theory explains how fusion plasmas enter a state of improved energy confinement, solving a 40-year puzzle",
+      "url": "https://phys.org/news/2026-11-theory-fusion-plasmas-state-energy.html",
+      "source": "Phys.org",
+      "date": "20 Nov 2026",
+      "abstract": "Nuclear fusion promises a source of energy by combining light atomic nuclei, the same process that powers the sun. To achieve fusion on Earth, scientists must heat a gas to extreme temperatures, creating a charged state of matter called plasma. Keeping this plasma hot and stable long enough for fusi..."
+    },
+    {
+      "title": "Excitons mimic light in atom-thin material, confirming decade-old quantum prediction",
+      "url": "https://phys.org/news/2026-11-excitons-mimic-atom-thin-material.html",
+      "source": "Phys.org",
+      "date": "20 Nov 2026",
+      "abstract": "Combining their skills in theory and experiment, Yale researchers have observed for the first time a type of energy-carrying composite particle move in a highly unexpected way. It's a finding that could lead to advances in quantum technologies, solar energy, LEDs and other optoelectronic technologie..."
+    },
+    {
+      "title": "How AI is affecting science careers",
+      "url": "https://www.nature.com/articles/d41586-026-03680-1",
+      "source": "Nature Journal",
+      "date": "20 Nov 2026",
+      "abstract": "Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03680-1 Join a free webinar to discuss how the technology is changing researchers' roles, their skills and job security."
+    },
     {
       "title": "Lifting weights reduces muscle loss from obesity drugs",
       "url": "https://www.nature.com/articles/d41586-026-03751-3",
@@ -51,81 +86,46 @@
       "abstract": "Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03751-3 Resistance exercise could help middle-aged and older individuals to maintain muscle mass and strength during weight-loss treatment."
     },
     {
-      "title": "A physics-encoded transformer for fast three-component borehole transient electromagnetic forward modeling",
-      "url": "https://www.nature.com/articles/s41598-026-81236-z",
-      "source": "Nature Physics",
+      "title": "Briefing Chat: Voyager 1 is now one \u2018light day\u2019 from Earth \u2014 setting a cosmic record",
+      "url": "https://www.nature.com/articles/d41586-026-03806-5",
+      "source": "Nature Journal",
       "date": "20 Nov 2026",
-      "abstract": "Abstract unavailable. Open the full article for details."
+      "abstract": "Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03806-5 Nature staff discuss the probe\u2019s epic journey \u2014 plus, how vampire bats survive on a blood-only diet."
     },
     {
-      "title": "NASA\u2019s Voyager 1 Makes History Reaching One Light-Day From Earth",
-      "url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/",
-      "source": "NASA News",
-      "date": "19 Nov 2026",
-      "abstract": "NASA\u2019s Voyager 1 probe, humanity\u2019s farthest-flying spacecraft, has reached one light-day from Earth, after more than 49 years of constant travel. A light-day is the distance light travels in 24 hours, equaling about 16.1 billion miles (25.9 billion kilometers). The spacecraft achieved the milestone..."
-    },
-    {
-      "title": "Exquisite X-rays and dynamic compression initiate a new era of physics experiments on plutonium",
-      "url": "https://phys.org/news/2026-11-exquisite-rays-dynamic-compression-era.html",
-      "source": "Phys.org",
-      "date": "19 Nov 2026",
-      "abstract": "Scientists at Lawrence Livermore National Laboratory (LLNL), Argonne National Laboratory (ANL) and Washington State University (WSU) have conducted the first dynamic compression experiments on plutonium at a national light source facility, the Dynamic Compression Sector (DCS)."
-    },
-    {
-      "title": "Retraction Note: Detection of anisotropic cosmic structures on a gigaparsec scale",
-      "url": "https://www.nature.com/articles/s41586-026-11388-5",
+      "title": "Fraud helps little fire ants to survive and conquer",
+      "url": "https://www.nature.com/articles/d41586-026-03776-8",
       "source": "Nature Journal",
-      "date": "19 Nov 2026",
-      "abstract": "Nature, Published online: 19 November 2026; doi:10.1038/s41586-026-11388-5 Retraction Note: Detection of anisotropic cosmic structures on a gigaparsec scale"
+      "date": "20 Nov 2026",
+      "abstract": "Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03776-8 Invasive ants in China overcome larger rivals with a crafty stratagem and vigorous attack."
     },
     {
-      "title": "Calcium catalysed nucleophilic fluorination",
-      "url": "https://www.nature.com/articles/s41586-026-11445-z",
+      "title": "\u2018I had felt overconfident\u2019: senior scientists reveal mistakes that aided discovery",
+      "url": "https://www.nature.com/articles/d41586-026-03590-2",
       "source": "Nature Journal",
-      "date": "19 Nov 2026",
-      "abstract": "Nature, Published online: 19 November 2026; doi:10.1038/s41586-026-11445-z Calcium catalysed nucleophilic fluorination"
+      "date": "20 Nov 2026",
+      "abstract": "Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03590-2 Five experienced researchers, including a Nobel prizewinner, revisit the dead ends, bloopers and moments of stubborn certainty that shaped their science."
     },
     {
-      "title": "More tropical cyclones hit peak fury at the worst possible time",
-      "url": "https://www.nature.com/articles/d41586-026-03748-y",
+      "title": "\u2018Incredibly frustrating\u2019: prestigious fellowship applications close in just 21 hours",
+      "url": "https://www.nature.com/articles/d41586-026-03805-6",
       "source": "Nature Journal",
-      "date": "19 Nov 2026",
-      "abstract": "Nature, Published online: 19 November 2026; doi:10.1038/d41586-026-03748-y Climate change is creating conditions that pump up the intensity of hurricanes and typhoons just as the storms reach the coast."
+      "date": "20 Nov 2026",
+      "abstract": "Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03805-6 The Humboldt Foundation says that applications for its fellowships have increased markedly in the past two years, but they did not anticipate the influx this month."
     },
     {
-      "title": "People entering old age now have better memory than their parents did",
-      "url": "https://www.nature.com/articles/d41586-026-03783-9",
+      "title": "Net zero emissions won\u2019t reverse climate change \u2014 some nations look to \u2018net negative\u2019",
+      "url": "https://www.nature.com/articles/d41586-026-03789-3",
       "source": "Nature Journal",
-      "date": "19 Nov 2026",
-      "abstract": "Nature, Published online: 19 November 2026; doi:10.1038/d41586-026-03783-9 Older people today maintain memory function for longer than previous generations did, according to a study of 219,000 adults."
+      "date": "20 Nov 2026",
+      "abstract": "Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03789-3 Countries are starting to grapple with the reality that bringing temperatures down after they breach the 1.5 \u00baC target would require removingmassive amounts of carbon dioxide from the air."
     },
     {
-      "title": "University students are biggest spreaders of COVID",
-      "url": "https://www.nature.com/articles/d41586-026-03746-0",
+      "title": "Mathematician says he and AI solved Riemann hypothesis \u2014 the field\u2019s biggest outstanding challenge",
+      "url": "https://www.nature.com/articles/d41586-026-03812-7",
       "source": "Nature Journal",
-      "date": "19 Nov 2026",
-      "abstract": "Nature, Published online: 19 November 2026; doi:10.1038/d41586-026-03746-0 Undergraduates were the first group to spread genetic variants of SARS-CoV-2 during the pandemic, mega-analysis finds."
-    },
-    {
-      "title": "Sore throat? The brain has surprising control over how ill you feel",
-      "url": "https://www.nature.com/articles/d41586-026-03774-w",
-      "source": "Nature Journal",
-      "date": "19 Nov 2026",
-      "abstract": "Nature, Published online: 19 November 2026; doi:10.1038/d41586-026-03774-w The brain might decode pathogens, store memories of previous illnesses and prepare the body for future threats."
-    },
-    {
-      "title": "AI is ditching hallucinated references \u2014 and other bad habits",
-      "url": "https://www.nature.com/articles/d41586-026-03753-1",
-      "source": "Nature Journal",
-      "date": "19 Nov 2026",
-      "abstract": "Nature, Published online: 19 November 2026; doi:10.1038/d41586-026-03753-1 An analysis finds that many undesirable LLM behaviours dissipate after about 16 months."
-    },
-    {
-      "title": "What do various cancers have in common?",
-      "url": "https://www.nature.com/articles/d41586-026-03379-3",
-      "source": "Nature Journal",
-      "date": "19 Nov 2026",
-      "abstract": "Nature, Published online: 19 November 2026; doi:10.1038/d41586-026-03379-3 An analysis of 42 cancer types reveals shared patterns of gene activity in the tumour microenvironment, which might point to treatments that work across a range of cancers."
+      "date": "20 Nov 2026",
+      "abstract": "Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03812-7 Scholars say that the claim to have derived a proof for a landmark problem in mathematics will need rigorous checking."
     }
   ]
 }
