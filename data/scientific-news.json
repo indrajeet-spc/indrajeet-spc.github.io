@@ -41,7 +41,7 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-11-21T08:34:05.010358+00:00",
+  "updated_at": "2026-11-22T08:29:48.661722+00:00",
   "items": [
     {
       "title": "Quantum software matches classical benchmark for a molecular interaction",
@@ -49,6 +49,13 @@
       "source": "Phys.org",
       "date": "21 Nov 2026",
       "abstract": "Predicting how molecules interact is central to drug discovery: it offers important information about how a new drug might work in the human body, the side effects it can cause and more. Computationally modeling these interactions can reduce the need for lengthy and expensive lab work, but some inte..."
+    },
+    {
+      "title": "BepiColombo finally reaches Mercury after eight-year odyssey",
+      "url": "https://www.nature.com/articles/d41586-026-03803-8",
+      "source": "Nature Journal",
+      "date": "21 Nov 2026",
+      "abstract": "Nature, Published online: 21 November 2026; doi:10.1038/d41586-026-03803-8 European and Japanese probes will trace different paths around the planet to study its surface and its surroundings."
     },
     {
       "title": "X-ray technique advances temperature measurements under extreme pressure",
@@ -119,13 +126,6 @@
       "source": "Nature Journal",
       "date": "20 Nov 2026",
       "abstract": "Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03789-3 Countries are starting to grapple with the reality that bringing temperatures down after they breach the 1.5 \u00baC target would require removingmassive amounts of carbon dioxide from the air."
-    },
-    {
-      "title": "Mathematician says he and AI solved Riemann hypothesis \u2014 the field\u2019s biggest outstanding challenge",
-      "url": "https://www.nature.com/articles/d41586-026-03812-7",
-      "source": "Nature Journal",
-      "date": "20 Nov 2026",
-      "abstract": "Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03812-7 Scholars say that the claim to have derived a proof for a landmark problem in mathematics will need rigorous checking."
     }
   ]
 }
