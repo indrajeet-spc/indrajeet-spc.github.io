@@ -41,8 +41,15 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-11-22T08:29:48.661722+00:00",
+  "updated_at": "2026-11-23T09:28:19.604501+00:00",
   "items": [
+    {
+      "title": "Physics-informed symbolic discovery of a compact Helmholtz equation of state for Ar, Kr, and Xe in gas and supercritical regimes",
+      "url": "https://www.nature.com/articles/s41598-026-81033-8",
+      "source": "Nature Physics",
+      "date": "23 Nov 2026",
+      "abstract": "Abstract unavailable. Open the full article for details."
+    },
     {
       "title": "Quantum software matches classical benchmark for a molecular interaction",
       "url": "https://phys.org/news/2026-11-quantum-software-classical-benchmark-molecular.html",
@@ -119,13 +126,6 @@
       "source": "Nature Journal",
       "date": "20 Nov 2026",
       "abstract": "Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03805-6 The Humboldt Foundation says that applications for its fellowships have increased markedly in the past two years, but they did not anticipate the influx this month."
-    },
-    {
-      "title": "Net zero emissions won\u2019t reverse climate change \u2014 some nations look to \u2018net negative\u2019",
-      "url": "https://www.nature.com/articles/d41586-026-03789-3",
-      "source": "Nature Journal",
-      "date": "20 Nov 2026",
-      "abstract": "Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03789-3 Countries are starting to grapple with the reality that bringing temperatures down after they breach the 1.5 \u00baC target would require removingmassive amounts of carbon dioxide from the air."
     }
   ]
 }
