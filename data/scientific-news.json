@@ -41,91 +41,91 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-11-23T09:28:19.604501+00:00",
+  "updated_at": "2026-11-24T11:22:55.151869+00:00",
   "items": [
     {
-      "title": "Physics-informed symbolic discovery of a compact Helmholtz equation of state for Ar, Kr, and Xe in gas and supercritical regimes",
-      "url": "https://www.nature.com/articles/s41598-026-81033-8",
+      "title": "Local measurements reveal global quantum properties in a constant number of experimental runs",
+      "url": "https://phys.org/news/2026-11-local-reveal-global-quantum-properties.html",
+      "source": "Phys.org",
+      "date": "24 Nov 2026",
+      "abstract": "A quantum device with more qubits is harder to verify. Describing a general quantum state takes an exponential number of parameters, and reconstructing it in full\u2014a procedure known as state tomography\u2014becomes impractical as the system grows. Yet most experiments do not need the full description. The..."
+    },
+    {
+      "title": "Rich quantum phase diagram revealed in semimetallic rhombohedral graphene",
+      "url": "https://www.nature.com/articles/s41567-026-03456-4",
       "source": "Nature Physics",
-      "date": "23 Nov 2026",
+      "date": "24 Nov 2026",
       "abstract": "Abstract unavailable. Open the full article for details."
     },
     {
-      "title": "Quantum software matches classical benchmark for a molecular interaction",
-      "url": "https://phys.org/news/2026-11-quantum-software-classical-benchmark-molecular.html",
+      "title": "Morphological variations in dolphin dorsal fins as biomimetic vortex generators: thermo-hydraulic enhancement and flow-physics interpretatio...",
+      "url": "https://www.nature.com/articles/s41598-026-82000-z",
+      "source": "Nature Physics",
+      "date": "24 Nov 2026",
+      "abstract": "Abstract unavailable. Open the full article for details."
+    },
+    {
+      "title": "NASA\u2019s Webb Shows How Supernova Dust Chronicles Star Evolution",
+      "url": "https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/",
+      "source": "NASA News",
+      "date": "23 Nov 2026",
+      "abstract": "NASA\u2019s James Webb Space Telescope has painted a vibrant tapestry of the legendary supernova remnant Cassiopeia A (Cas A). Remnants like these are the clouds of gas and dust that remain following the explosion of a massive star and will eventually seed a new generation of stars and planets. This high..."
+    },
+    {
+      "title": "Physics-guided AI reconstructs fluid flow from sparse, noisy data",
+      "url": "https://phys.org/news/2026-11-physics-ai-reconstructs-fluid-sparse.html",
       "source": "Phys.org",
-      "date": "21 Nov 2026",
-      "abstract": "Predicting how molecules interact is central to drug discovery: it offers important information about how a new drug might work in the human body, the side effects it can cause and more. Computationally modeling these interactions can reduce the need for lengthy and expensive lab work, but some inte..."
+      "date": "23 Nov 2026",
+      "abstract": "Medical imaging technologies have transformed how scientists and physicians visualize blood flowing through the human heart, but even the most advanced imaging techniques cannot capture every detail of fluid motion. Researchers at the University of California, Irvine, have developed a computational..."
     },
     {
-      "title": "BepiColombo finally reaches Mercury after eight-year odyssey",
-      "url": "https://www.nature.com/articles/d41586-026-03803-8",
-      "source": "Nature Journal",
-      "date": "21 Nov 2026",
-      "abstract": "Nature, Published online: 21 November 2026; doi:10.1038/d41586-026-03803-8 European and Japanese probes will trace different paths around the planet to study its surface and its surroundings."
-    },
-    {
-      "title": "X-ray technique advances temperature measurements under extreme pressure",
-      "url": "https://phys.org/news/2026-11-ray-technique-advances-temperature-extreme.html",
+      "title": "Overlooked symmetry group offers new geometric blueprint for the Standard Model and topologically protected vacuums",
+      "url": "https://phys.org/news/2026-11-overlooked-symmetry-group-geometric-blueprint.html",
       "source": "Phys.org",
-      "date": "20 Nov 2026",
-      "abstract": "Scientists at Lawrence Livermore National Laboratory (LLNL) have advanced the ability to measure temperatures in materials subjected to extreme pressures at the National Ignition Facility (NIF), providing new insights into how materials behave under conditions relevant to national security and high-..."
+      "date": "23 Nov 2026",
+      "abstract": "For more than half a century, physicists searching for a grand unified theory have followed one unspoken rule: go bigger. If you want to weave nature's fundamental forces into a single mathematical framework, the classic recipe says you need a giant \"simple\" symmetry group\u2014structures like SU(5) or S..."
     },
     {
-      "title": "Theory explains how fusion plasmas enter a state of improved energy confinement, solving a 40-year puzzle",
-      "url": "https://phys.org/news/2026-11-theory-fusion-plasmas-state-energy.html",
-      "source": "Phys.org",
-      "date": "20 Nov 2026",
-      "abstract": "Nuclear fusion promises a source of energy by combining light atomic nuclei, the same process that powers the sun. To achieve fusion on Earth, scientists must heat a gas to extreme temperatures, creating a charged state of matter called plasma. Keeping this plasma hot and stable long enough for fusi..."
-    },
-    {
-      "title": "Excitons mimic light in atom-thin material, confirming decade-old quantum prediction",
-      "url": "https://phys.org/news/2026-11-excitons-mimic-atom-thin-material.html",
-      "source": "Phys.org",
-      "date": "20 Nov 2026",
-      "abstract": "Combining their skills in theory and experiment, Yale researchers have observed for the first time a type of energy-carrying composite particle move in a highly unexpected way. It's a finding that could lead to advances in quantum technologies, solar energy, LEDs and other optoelectronic technologie..."
-    },
-    {
-      "title": "How AI is affecting science careers",
-      "url": "https://www.nature.com/articles/d41586-026-03680-1",
+      "title": "Hexa-substituted benzene synthesis with non-classical carbocations",
+      "url": "https://www.nature.com/articles/s41586-026-11449-9",
       "source": "Nature Journal",
-      "date": "20 Nov 2026",
-      "abstract": "Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03680-1 Join a free webinar to discuss how the technology is changing researchers' roles, their skills and job security."
+      "date": "23 Nov 2026",
+      "abstract": "Nature, Published online: 23 November 2026; doi:10.1038/s41586-026-11449-9 Hexa-substituted benzene synthesis with non-classical carbocations"
     },
     {
-      "title": "Lifting weights reduces muscle loss from obesity drugs",
-      "url": "https://www.nature.com/articles/d41586-026-03751-3",
+      "title": "Continuous N-to-C Peptide Synthesis",
+      "url": "https://www.nature.com/articles/s41586-026-11448-w",
       "source": "Nature Journal",
-      "date": "20 Nov 2026",
-      "abstract": "Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03751-3 Resistance exercise could help middle-aged and older individuals to maintain muscle mass and strength during weight-loss treatment."
+      "date": "23 Nov 2026",
+      "abstract": "Nature, Published online: 23 November 2026; doi:10.1038/s41586-026-11448-w Continuous N-to-C Peptide Synthesis"
     },
     {
-      "title": "Briefing Chat: Voyager 1 is now one \u2018light day\u2019 from Earth \u2014 setting a cosmic record",
-      "url": "https://www.nature.com/articles/d41586-026-03806-5",
+      "title": "Architecture of the poxvirus early-transcription machinery and portal complex",
+      "url": "https://www.nature.com/articles/s41586-026-11458-8",
       "source": "Nature Journal",
-      "date": "20 Nov 2026",
-      "abstract": "Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03806-5 Nature staff discuss the probe\u2019s epic journey \u2014 plus, how vampire bats survive on a blood-only diet."
+      "date": "23 Nov 2026",
+      "abstract": "Nature, Published online: 23 November 2026; doi:10.1038/s41586-026-11458-8 Architecture of the poxvirus early-transcription machinery and portal complex"
     },
     {
-      "title": "Fraud helps little fire ants to survive and conquer",
-      "url": "https://www.nature.com/articles/d41586-026-03776-8",
+      "title": "Build for the future climate \u2014 or waste trillions of dollars",
+      "url": "https://www.nature.com/articles/d41586-026-03722-8",
       "source": "Nature Journal",
-      "date": "20 Nov 2026",
-      "abstract": "Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03776-8 Invasive ants in China overcome larger rivals with a crafty stratagem and vigorous attack."
+      "date": "23 Nov 2026",
+      "abstract": "Nature, Published online: 23 November 2026; doi:10.1038/d41586-026-03722-8 Development planning needs a permanent system that connects climate projections to the decisions that shape what infrastructure gets built."
     },
     {
-      "title": "\u2018I had felt overconfident\u2019: senior scientists reveal mistakes that aided discovery",
-      "url": "https://www.nature.com/articles/d41586-026-03590-2",
+      "title": "\u2018Mozart of maths\u2019 Terence Tao is your guide to what underpins reality",
+      "url": "https://www.nature.com/articles/d41586-026-03720-w",
       "source": "Nature Journal",
-      "date": "20 Nov 2026",
-      "abstract": "Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03590-2 Five experienced researchers, including a Nobel prizewinner, revisit the dead ends, bloopers and moments of stubborn certainty that shaped their science."
+      "date": "23 Nov 2026",
+      "abstract": "Nature, Published online: 23 November 2026; doi:10.1038/d41586-026-03720-w A Fields Medallist reveals how curiosity about numbers can lead to solutions in the real world."
     },
     {
-      "title": "\u2018Incredibly frustrating\u2019: prestigious fellowship applications close in just 21 hours",
-      "url": "https://www.nature.com/articles/d41586-026-03805-6",
+      "title": "Chemistry giant George Whitesides dies: one of the most influential researchers of his generation",
+      "url": "https://www.nature.com/articles/d41586-026-03808-3",
       "source": "Nature Journal",
-      "date": "20 Nov 2026",
-      "abstract": "Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03805-6 The Humboldt Foundation says that applications for its fellowships have increased markedly in the past two years, but they did not anticipate the influx this month."
+      "date": "23 Nov 2026",
+      "abstract": "Nature, Published online: 23 November 2026; doi:10.1038/d41586-026-03808-3 Beloved intellectual mentored hundreds of scientists and switched fields many times to solve global challenges."
     }
   ]
 }
