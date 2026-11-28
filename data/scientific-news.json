@@ -41,14 +41,77 @@
       "url": "https://theconversation.com/global/topics/science-and-technology-53.rss"
     }
   ],
-  "updated_at": "2026-11-27T09:55:37.279898+00:00",
+  "updated_at": "2026-11-28T09:09:26.642677+00:00",
   "items": [
+    {
+      "title": "New research establishes fundamental complexity limit for quantum circuit optimization",
+      "url": "https://phys.org/news/2026-11-fundamental-complexity-limit-quantum-circuit.html",
+      "source": "Phys.org",
+      "date": "27 Nov 2026",
+      "abstract": "Quantum circuit optimization is an important research area, as the computational resources required to execute quantum algorithms remain a major challenge. In particular, two-qubit operations are generally associated with higher error rates than single-qubit gates on current quantum hardware, making..."
+    },
+    {
+      "title": "ATLAS finds hints of the hidden structure of the vacuum",
+      "url": "https://phys.org/news/2026-11-atlas-hints-hidden-vacuum.html",
+      "source": "Phys.org",
+      "date": "27 Nov 2026",
+      "abstract": "Researchers at the University of Bonn, together with colleagues from Oxford and Prague, played a leading role in analyzing particle collisions at CERN's Large Hadron Collider. The ATLAS Collaboration observed more proton collisions with the particle pattern it was looking for than expected. This cou..."
+    },
+    {
+      "title": "The haunting loveliness of boglands: Books in brief",
+      "url": "https://www.nature.com/articles/d41586-026-03885-4",
+      "source": "Nature Journal",
+      "date": "27 Nov 2026",
+      "abstract": "Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03885-4 Andrew Robinson reviews five of the best science picks."
+    },
     {
       "title": "Brain area\u2019s mysterious role in speech decoded at last",
       "url": "https://www.nature.com/articles/d41586-026-03800-x",
       "source": "Nature Journal",
       "date": "27 Nov 2026",
       "abstract": "Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03800-x Wernicke\u2019s area is known for processing spoken words, but brain recordings reveal that it also makes a crucial contribution to a related cognitive task."
+    },
+    {
+      "title": "Life-saving cancer drug pumped out by a plant",
+      "url": "https://www.nature.com/articles/d41586-026-03801-w",
+      "source": "Nature Journal",
+      "date": "27 Nov 2026",
+      "abstract": "Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03801-w In a proof-of-concept study, scientists have coaxed a tobacco-related plant to synthesize the chemotherapy drug paclitaxel."
+    },
+    {
+      "title": "Audio long read: The world\u2019s most precious brain samples \u2014 and what they teach us about being human",
+      "url": "https://www.nature.com/articles/d41586-026-03900-8",
+      "source": "Nature Journal",
+      "date": "27 Nov 2026",
+      "abstract": "Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03900-8 Rare neurons taken from living humans are helping researchers test how brain cells behave in their natural environment."
+    },
+    {
+      "title": "Author Correction: Artificial intelligence-enabled clinical phenotyping of human brown fat",
+      "url": "https://www.nature.com/articles/s41586-026-11411-9",
+      "source": "Nature Journal",
+      "date": "27 Nov 2026",
+      "abstract": "Nature, Published online: 27 November 2026; doi:10.1038/s41586-026-11411-9 Author Correction: Artificial intelligence-enabled clinical phenotyping of human brown fat"
+    },
+    {
+      "title": "Want your research cited in patents? Publishing open access increases your chances",
+      "url": "https://www.nature.com/articles/d41586-026-03754-0",
+      "source": "Nature Journal",
+      "date": "27 Nov 2026",
+      "abstract": "Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03754-0 Studies are more likely to be cited in patents if they are freely available \u2014 legitimately or otherwise \u2014 researchers have found."
+    },
+    {
+      "title": "Postcards from your graves",
+      "url": "https://www.nature.com/articles/d41586-026-03523-z",
+      "source": "Nature Journal",
+      "date": "27 Nov 2026",
+      "abstract": "Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03523-z A disastrous outcome."
+    },
+    {
+      "title": "Why the incoming US Congress should ban the development of self-improving AI",
+      "url": "https://www.nature.com/articles/d41586-026-03849-8",
+      "source": "Nature Journal",
+      "date": "27 Nov 2026",
+      "abstract": "Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03849-8 Voters are demanding greater control over this new technology. Political leaders must respond by keeping humans in charge of AI development."
     },
     {
       "title": "Editorial Expression of Concern: Dual control of nuclear EIN3 by bifurcate MAPK cascades in C 2 H 4 signalling",
@@ -63,69 +126,6 @@
       "source": "Nature Journal",
       "date": "26 Nov 2026",
       "abstract": "Nature, Published online: 26 November 2026; doi:10.1038/d41586-026-03874-7 A system tested in mice mimics a protein that declines with age and could help to improve fertility treatments in future."
-    },
-    {
-      "title": "Navigating grief in academia: ways to find balance",
-      "url": "https://www.nature.com/articles/d41586-026-02752-6",
-      "source": "Nature Journal",
-      "date": "26 Nov 2026",
-      "abstract": "Nature, Published online: 26 November 2026; doi:10.1038/d41586-026-02752-6 Pamela Yeh found it hard to manage grief and the demands of her work. Here are some steps that helped her to ease the burden."
-    },
-    {
-      "title": "Has AI just cracked Internet encryption? Rumoured \u2018bombshell\u2019 stuns scientists",
-      "url": "https://www.nature.com/articles/d41586-026-03875-6",
-      "source": "Nature Journal",
-      "date": "26 Nov 2026",
-      "abstract": "Nature, Published online: 26 November 2026; doi:10.1038/d41586-026-03875-6 AI-generated algorithms could be about to break public-key cryptography, the technology central to commerce, banking and privacy."
-    },
-    {
-      "title": "Orangutans face bleak future after Indonesia\u2019s devastating wildfires",
-      "url": "https://www.nature.com/articles/d41586-026-03828-z",
-      "source": "Nature Journal",
-      "date": "26 Nov 2026",
-      "abstract": "Nature, Published online: 26 November 2026; doi:10.1038/d41586-026-03828-z The super El Ni\u00f1o intensified Indonesian fires, which ravaged the habitat of the critically endangered Bornean orangutan."
-    },
-    {
-      "title": "CV-SPINN: complex-valued spin physics-informed neural network for quantum simulation",
-      "url": "https://www.nature.com/articles/s41598-026-81957-1",
-      "source": "Nature Physics",
-      "date": "26 Nov 2026",
-      "abstract": "Abstract unavailable. Open the full article for details."
-    },
-    {
-      "title": "Physics-guided surrogate modeling of injection-driven transport in LLZO solid electrolytes: contact-dependent injection and space-charge eff...",
-      "url": "https://www.nature.com/articles/s41598-026-82406-9",
-      "source": "Nature Physics",
-      "date": "26 Nov 2026",
-      "abstract": "Abstract unavailable. Open the full article for details."
-    },
-    {
-      "title": "NASA\u2019s Hubble Views Ocean of Stars in Groundwork for Roman",
-      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/",
-      "source": "NASA News",
-      "date": "25 Nov 2026",
-      "abstract": "These Hubble observations are part of a survey that will help researchers better interpret upcoming Nancy Grace Roman Space Telescope observations as they seek to characterize the stars and search for exoplanets in this busy region of our galaxy."
-    },
-    {
-      "title": "Quantum leap: Computing's next frontier takes shape",
-      "url": "https://phys.org/news/2026-11-quantum-frontier.html",
-      "source": "Phys.org",
-      "date": "25 Nov 2026",
-      "abstract": "After several dashed predictions, quantum computing is accelerating rapidly with actual use cases and scientific breakthroughs now expected within years, not decades."
-    },
-    {
-      "title": "Most precise measurement of coherent elastic neutrino\u2013nucleus scattering to date tightens limits on new forces",
-      "url": "https://phys.org/news/2026-11-precise-coherent-elastic-neutrinonucleus-date.html",
-      "source": "Phys.org",
-      "date": "25 Nov 2026",
-      "abstract": "Neutrinos are tiny elementary particles with little mass and no electric charge. While most neutrinos pass through matter without interacting, a neutrino can occasionally scatter off an atomic nucleus, transferring a little energy to it and causing it to move."
-    },
-    {
-      "title": "Physicists trap antimatter in a breakthrough that could explain why the universe exists",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261124055849.htm",
-      "source": "ScienceDaily",
-      "date": "25 Nov 2026",
-      "abstract": "Positrons are the antimatter counterpart of an electron. Physicists trapped a positron and cooled it to temperatures near absolute zero. Positron is suspended in a wall-free trap, safely separated from ordinary matter. Team will conduct most precise comparison yet between matter and antimatter. Any..."
     }
   ]
 }
